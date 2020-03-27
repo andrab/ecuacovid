@@ -26,7 +26,7 @@ end
 describe "Casos Descartados" do
   context "COE" do
     context "Todas las fechas" do
-      let(:fechas_totales) { 4 }
+      let(:fechas_totales) { 5 }
 
       it "Contiene todas las provincias por día" do
         veces = fechas_totales
@@ -42,7 +42,8 @@ describe "Casos Descartados" do
         ["25/03/2020", {casos: 1387 }],
         ["24/03/2020", {casos: 1225 }],
         ["23/03/2020", {casos: 1091 }],
-        ["22/03/2020", {casos:  872 }]
+        ["22/03/2020", {casos:  872 }],
+        ["21/03/2020", {casos:  649 }]
       ].each do |(fecha, spec)|
         casos_totales, _ = spec.values_at(:casos)
 
