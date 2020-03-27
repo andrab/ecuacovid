@@ -34,64 +34,70 @@ class Confirmaciones
   end
 end
 
-describe "Casos Confirmados" do
-  context "COE" do
-    context "Todas las fechas" do
-      let(:fechas_totales) { 6 }
+def criterios
+   #──INFORME SNGRE──┬───FECHA────┬────────────────────────────ACEPTACION─────────────────────────────#
+  [[  :Numero_xxx    ,"25/03/2020", {casos: 1211, cantones_ingresados: 77, cantones_sin_ingresar: 144}],
+   [  :Numero_xxx    ,"24/03/2020", {casos: 1082, cantones_ingresados: 68, cantones_sin_ingresar: 153}],
+   [  :Numero_xxx    ,"23/03/2020", {casos:  981, cantones_ingresados: 58, cantones_sin_ingresar: 163}],
+   [  :Numero_xxx    ,"22/03/2020", {casos:  789, cantones_ingresados: 51, cantones_sin_ingresar: 170}],
+   [  :Numero_xxx    ,"21/03/2020", {casos:  532, cantones_ingresados: 43, cantones_sin_ingresar: 178}],
+   [  :Numero_xxx    ,"20/03/2020", {casos:  426, cantones_ingresados: 37, cantones_sin_ingresar: 184}],
+   [  :Numero_013    ,"19/03/2020", {casos:  260, cantones_ingresados: 26, cantones_sin_ingresar: 195}],
+   [  :Numero_011    ,"18/03/2020", {casos:  168, cantones_ingresados: 16, cantones_sin_ingresar: 205}],
+   [  :Numero_009    ,"17/03/2020", {casos:  111, cantones_ingresados: 15, cantones_sin_ingresar: 206}],
+   [  :Numero_007    ,"16/03/2020", {casos:   58, cantones_ingresados: 12, cantones_sin_ingresar: 209}],
+   [  :Numero_005    ,"15/03/2020", {casos:   37, cantones_ingresados: 11, cantones_sin_ingresar: 210}],
+   [  :Numero_003    ,"14/03/2020", {casos:   28, cantones_ingresados: 10, cantones_sin_ingresar: 211}],
+   [  :Numero_002    ,"13/03/2020", {casos:   23, cantones_ingresados:  8, cantones_sin_ingresar: 213}]]
+end
 
-      it "Contiene todas las provincias por día" do
-        veces = fechas_totales
+describe "Casos Positivos" do
+  context "Todas las fechas" do
+    let(:fechas_totales) { criterios.count }
+
+    it "Contiene todas las provincias por día" do
+      veces = fechas_totales
   
-        Confirmaciones.todas_las_provincias do |total|
-          expect(total).to be(24 * veces), "Se esperaban #{24 * veces} provincias registradas, devolvió: #{total}"
-        end
-      end
-  
-      it "Contiene todos los cantones por día" do
-        veces = fechas_totales
-          
-        Confirmaciones.todos_los_cantones do |total|
-          expect(total).to be(221 * veces), "Se esperaban #{221 * veces} cantones registrados, devolvió: #{total}"
-        end
+      Confirmaciones.todas_las_provincias do |total|
+        expect(total).to be(24 * veces), "Se esperaban #{24 * veces} provincias registradas, devolvió: #{total}"
       end
     end
   
-    context "Por fecha" do
-      [ #────FECHA─────┬─────────────────────VERIFICACIONES──────────────────────────────#
-        ["25/03/2020", {casos: 1211, cantones_ingresados: 77, cantones_sin_ingresar: 144}],
-        ["24/03/2020", {casos: 1082, cantones_ingresados: 68, cantones_sin_ingresar: 153}],
-        ["23/03/2020", {casos:  981, cantones_ingresados: 58, cantones_sin_ingresar: 163}],
-        ["22/03/2020", {casos:  789, cantones_ingresados: 51, cantones_sin_ingresar: 170}],
-        ["21/03/2020", {casos:  532, cantones_ingresados: 43, cantones_sin_ingresar: 178}],
-        ["20/03/2020", {casos:  426, cantones_ingresados: 37, cantones_sin_ingresar: 184}]
-      ].each do |(fecha, spec)|
-        casos_totales, ingresados_totales, sin_ingresar_totales = spec.values_at(
-            :casos,
-            :cantones_ingresados,
-            :cantones_sin_ingresar
-        )
+    it "Contiene todos los cantones por día" do
+      veces = fechas_totales
+          
+      Confirmaciones.todos_los_cantones do |total|
+        expect(total).to be(221 * veces), "Se esperaban #{221 * veces} cantones registrados, devolvió: #{total}"
+      end
+    end
+  end
+  
+  context "Por fecha" do
+    criterios.each do |(de_informe, fecha, spec)|
+      casos_totales, ingresados_totales, sin_ingresar_totales = spec.values_at(:casos, :cantones_ingresados, :cantones_sin_ingresar)
 
+      context "Del informe #{de_informe.to_s}" do
         datos = Confirmaciones.para(fecha)
           
-        it "Casos en #{fecha}" do
+        it "Verificando casos.." do
           datos.casos do |total|
             expect(total).to be(casos_totales), "Se esperaban #{casos_totales} confirmados, devolvió: #{total}" 
           end
         end
 
-        it "Cantones con información en #{fecha}" do
+        it "Verificando cantones con información.." do
           datos.cantones_ingresados do |total|
             expect(total).to be(ingresados_totales), "Se esperaba #{ingresados_totales}, devolvió: #{total}"
           end
         end 
 
-        it "Cantones sin información en #{fecha}" do
+        it "Verificando cantones sin información.." do
           datos.cantones_sin_ingresar do |total|
             expect(total).to be(sin_ingresar_totales), "Se esperaba #{sin_ingresar_totales}, devolvió: #{total}"
           end
         end
 
-        it "Están todos los cantones de Ecuador en #{fecha}" do
+        it "Verificando que todos los cantones existen.." do
           expect(ingresados_totales + sin_ingresar_totales).to be(221)
         end
       end
