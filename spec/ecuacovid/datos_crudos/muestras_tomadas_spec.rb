@@ -26,7 +26,7 @@ end
 describe "Muestras Tomadas" do
   context "COE" do
     context "Todas las fechas" do
-      let(:fechas_totales) { 3 }
+      let(:fechas_totales) { 4 }
 
       it "Contiene todas las provincias por día" do
         veces = fechas_totales
@@ -41,7 +41,8 @@ describe "Muestras Tomadas" do
       [ #────FECHA─────┬─VERIFICACION─#
         ["25/03/2020", {casos: 4290 }],
         ["24/03/2020", {casos: 3618 }],
-        ["23/03/2020", {casos: 2780 }]
+        ["23/03/2020", {casos: 2780 }],
+        ["22/03/2020", {casos: 2360 }]
       ].each do |(fecha, spec)|
         casos_totales, _ = spec.values_at(:casos)
   

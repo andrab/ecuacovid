@@ -1,28 +1,52 @@
 provincia,valor,total,created_at
-Azuay,0,120,23/03/2020
+Azuay,0,60,22/03/2020
+Bolívar,0,3,22/03/2020
+Cañar,0,8,22/03/2020
+Carchi,0,1,22/03/2020
+Chimborazo,0,11,22/03/2020
+Cotopaxi,0,3,22/03/2020
+"El Oro",0,4,22/03/2020
+Esmeraldas,0,1,22/03/2020
+Galápagos,0,0,22/03/2020
+Guayas,0,422,22/03/2020
+Imbabura,0,11,22/03/2020
+Loja,0,4,22/03/2020
+"Los Ríos",0,53,22/03/2020
+Manabí,0,9,22/03/2020
+"Morona Santiago",0,14,22/03/2020
+Napo,0,3,22/03/2020
+Orellana,0,0,22/03/2020
+Pastaza,0,4,22/03/2020
+Pichincha,0,220,22/03/2020
+"Santa Elena",0,1,22/03/2020
+"Sto. Domingo Tsáchilas",0,11,22/03/2020
+Sucumbios,0,14,22/03/2020
+Tungurahua,0,10,22/03/2020
+"Zamora Chinchipe",0,5,22/03/2020
+Azuay,60,120,23/03/2020
 Bolívar,0,3,23/03/2020
-Cañar,0,17,23/03/2020
+Cañar,9,17,23/03/2020
 Carchi,0,1,23/03/2020
-Chimborazo,0,12,23/03/2020
-Cotopaxi,0,5,23/03/2020
-"El Oro",0,8,23/03/2020
-Esmeraldas,0,6,23/03/2020
+Chimborazo,1,12,23/03/2020
+Cotopaxi,2,5,23/03/2020
+"El Oro",4,8,23/03/2020
+Esmeraldas,5,6,23/03/2020
 Galápagos,0,0,23/03/2020
-Guayas,0,480,23/03/2020
-Imbabura,0,13,23/03/2020
-Loja,0,8,23/03/2020
-"Los Ríos",0,66,23/03/2020
-Manabí,0,19,23/03/2020
-"Morona Santiago",0,18,23/03/2020
+Guayas,58,480,23/03/2020
+Imbabura,2,13,23/03/2020
+Loja,4,8,23/03/2020
+"Los Ríos",13,66,23/03/2020
+Manabí,10,19,23/03/2020
+"Morona Santiago",4,18,23/03/2020
 Napo,0,3,23/03/2020
 Orellana,0,0,23/03/2020
-Pastaza,0,6,23/03/2020
-Pichincha,0,262,23/03/2020
-"Santa Elena",0,2,23/03/2020
+Pastaza,2,6,23/03/2020
+Pichincha,40,262,23/03/2020
+"Santa Elena",1,2,23/03/2020
 "Sto. Domingo Tsáchilas",0,11,23/03/2020
 Sucumbios,0,14,23/03/2020
 Tungurahua,0,10,23/03/2020
-"Zamora Chinchipe",0,7,23/03/2020
+"Zamora Chinchipe",2,7,23/03/2020
 Azuay,16,136,24/03/2020
 Bolívar,0,3,24/03/2020
 Cañar,2,19,24/03/2020
