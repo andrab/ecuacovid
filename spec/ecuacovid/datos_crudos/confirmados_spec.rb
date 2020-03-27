@@ -37,7 +37,7 @@ end
 describe "Casos Confirmados" do
   context "COE" do
     context "Todas las fechas" do
-      let(:fechas_totales) { 5 }
+      let(:fechas_totales) { 6 }
 
       it "Contiene todas las provincias por día" do
         veces = fechas_totales
@@ -62,7 +62,8 @@ describe "Casos Confirmados" do
         ["24/03/2020", {casos: 1082, cantones_ingresados: 68, cantones_sin_ingresar: 153}],
         ["23/03/2020", {casos:  981, cantones_ingresados: 58, cantones_sin_ingresar: 163}],
         ["22/03/2020", {casos:  789, cantones_ingresados: 51, cantones_sin_ingresar: 170}],
-        ["21/03/2020", {casos:  532, cantones_ingresados: 43, cantones_sin_ingresar: 178}]
+        ["21/03/2020", {casos:  532, cantones_ingresados: 43, cantones_sin_ingresar: 178}],
+        ["20/03/2020", {casos:  426, cantones_ingresados: 37, cantones_sin_ingresar: 184}]
       ].each do |(fecha, spec)|
         casos_totales, ingresados_totales, sin_ingresar_totales = spec.values_at(
             :casos,
