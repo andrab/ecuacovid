@@ -4,6 +4,9 @@
 | 14/03/2020 | Guayas    | Babahoyo   |
 | 18/03/2020 | Guayas    | -          | 
 | 19/03/2020 | Manabí    | -          |
+| 20/03/2020 | Guayas    | Guayaquil  |
+| 20/03/2020 | -         | -          |
+| 20/03/2020 | -         | -          |
 
 # Referencias
 
@@ -19,3 +22,7 @@
 ## Marzo 19, 2020
 * Info Riesgos Ecuador Número 013 (_[ver](../fuentes/SNGRE_013.pdf)_).
 * _"Coronavirus: 4 fallecidos, 260 casos positivos y 3 pacientes recuperados en Ecuador"_ ([leer más](https://www.expreso.ec/actualidad/coronavirus-4-fallecidos-260-casos-positivos-3-pacientes-recuperados-ecuador-7293.html))
+
+## Marzo 20, 2020
+* Info Riesgos Ecuador Número 014 (_[ver](../fuentes/SNGRE_014.pdf)_) y 015 [_[ver](../fuentes/SNGRE_015.pdf)_).
+* _"10:00 Informe N° 14 Coronavirus en Ecuador: 367 personas contagiadas, hay un quinto fallecido"_ ([leer más](https://www.eluniverso.com/noticias/2020/03/20/nota/7789119/coronavirus-ecuador-367-personas-contagiadas-hasta-hoy))

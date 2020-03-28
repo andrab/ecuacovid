@@ -4,6 +4,48 @@ class Criterios
       self.send(tema)
     end
 
+    class Condicion
+      class << self
+        def teniendo(sujeto)
+          Teniendo.new(sujeto)
+        end
+      end
+    end
+
+    class Teniendo
+      def initialize(cantidad)
+        @cantidad = cantidad
+      end
+
+      def y_tiene(total)
+        @tendra = total
+        self
+      end
+      
+      def de(provincia)
+        {
+          de_las_provincias_teniendo: Hash[provincia, @tendra],
+             teniendo_sin_clasificar: @sin
+        }
+      end
+    end
+
+    def sin_provincia(total_casos_sin_origen)
+      Condicion.teniendo(total_casos_sin_origen)
+    end
+
+    class ::Integer
+      def muertes
+        {:muertes => self}
+      end
+    end
+
+    class ::Hash
+      def y(condiciones)
+        self.merge!(condiciones)
+      end
+    end
+
     def positivas
       #"──INFORME SNGRE──┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────┬"
       [[  :SNGRE_xxx     ,"25/03/2020", {casos: 1211, cantones_ingresados: 77, cantones_sin_ingresar: 144}],
@@ -23,13 +65,14 @@ class Criterios
 
     def muertes
       #"──────────────────┬──FECHA───┬────────────────────────ACEPTACION───────────────────────────────────┬"
-      [[                  "19/03/2020", {muertes: 4,         de_las_provincias_teniendo: {"Manabí" => 1}}],
-       [                  "18/03/2020", {muertes: 3,         de_las_provincias_teniendo: {"Guayas" => 3}}],
-       [                  "17/03/2020", {muertes: 2                                                     }],
-       [                  "16/03/2020", {muertes: 2                                                     }],
-       [                  "15/03/2020", {muertes: 2                                                     }],
-       [                  "14/03/2020", {muertes: 2                                                     }],
-       [                  "13/03/2020", {muertes: 2,         de_las_provincias_teniendo: {"Guayas" => 2}}]]
+      [[                  "20/03/2020",             7.muertes.y(sin_provincia(2).y_tiene(4).de("Guayas"))],  
+       [                  "19/03/2020", {muertes:   4,       de_las_provincias_teniendo: {"Manabí" => 1}}],
+       [                  "18/03/2020", {muertes:   3,       de_las_provincias_teniendo: {"Guayas" => 3}}],
+       [                  "17/03/2020", {muertes:                                                      2}],
+       [                  "16/03/2020", {muertes:                                                      2}],
+       [                  "15/03/2020", {muertes:                                                      2}],
+       [                  "14/03/2020", {muertes:                                                      2}],
+       [                  "13/03/2020", {muertes:   2,       de_las_provincias_teniendo: {"Guayas" => 2}}]]
     end
   end
 end
