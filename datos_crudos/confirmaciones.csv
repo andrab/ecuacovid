@@ -1,2874 +1,2874 @@
-provincia,canton,valor,total,created_at
-Azuay,Cuenca,0,0,13/03/2020
-Azuay,"Santa Isabel",0,0,13/03/2020
-Azuay,"Sevilla de Oro",0,0,13/03/2020
-Azuay,Paute,0,0,13/03/2020
-Azuay,Guachapala,0,0,13/03/2020
-Azuay,"El Pan",0,0,13/03/2020
-Azuay,Gualaceo,0,0,13/03/2020
-Azuay,Chordeleg,0,0,13/03/2020
-Azuay,Sígsig,0,0,13/03/2020
-Azuay,Pucará,0,0,13/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,13/03/2020
-Azuay,"San Fernando",0,0,13/03/2020
-Azuay,Girón,0,0,13/03/2020
-Azuay,Nabón,0,0,13/03/2020
-Azuay,Oña,0,0,13/03/2020
-Bolívar,Guaranda,0,0,13/03/2020
-Bolívar,Chillanes,0,0,13/03/2020
-Bolívar,Chimbo,0,0,13/03/2020
-Bolívar,"Las Naves",0,0,13/03/2020
-Bolívar,Echeandía,0,0,13/03/2020
-Bolívar,Caluma,0,0,13/03/2020
-Bolívar,"San Miguel",0,0,13/03/2020
-Cañar,Azogues,0,0,13/03/2020
-Cañar,Cañar,0,0,13/03/2020
-Cañar,"El Tambo",0,0,13/03/2020
-Cañar,"La Troncal",0,0,13/03/2020
-Cañar,Suscal,0,0,13/03/2020
-Cañar,Déleg,0,0,13/03/2020
-Cañar,Biblían,0,0,13/03/2020
-Carchi,Tulcán,0,0,13/03/2020
-Carchi,Mira,0,0,13/03/2020
-Carchi,Espejo,0,0,13/03/2020
-Carchi,Montúfar,0,0,13/03/2020
-Carchi,"San Pedro de Huaca",0,0,13/03/2020
-Carchi,Bolivar,0,0,13/03/2020
-Chimborazo,Colta,0,0,13/03/2020
-Chimborazo,Riobamba,0,0,13/03/2020
-Chimborazo,Cumandá,0,0,13/03/2020
-Chimborazo,Guano,0,0,13/03/2020
-Chimborazo,Penipe,0,0,13/03/2020
-Chimborazo,Chambo,0,0,13/03/2020
-Chimborazo,Pallatanga,0,0,13/03/2020
-Chimborazo,Guamote,0,0,13/03/2020
-Chimborazo,Alausí,0,0,13/03/2020
-Chimborazo,Chunchi,0,0,13/03/2020
-Cotopaxi,"La Maná",0,0,13/03/2020
-Cotopaxi,Latacunga,0,0,13/03/2020
-Cotopaxi,Sigchos,0,0,13/03/2020
-Cotopaxi,Saquisilí,0,0,13/03/2020
-Cotopaxi,Pujilí,0,0,13/03/2020
-Cotopaxi,Pangua,0,0,13/03/2020
-Cotopaxi,Salcedo,0,0,13/03/2020
-"El Oro",Machala,0,0,13/03/2020
-"El Oro","Santa Rosa",0,0,13/03/2020
-"El Oro",Huaquillas,0,0,13/03/2020
-"El Oro",Arenillas,0,0,13/03/2020
-"El Oro",Atahualpa,0,0,13/03/2020
-"El Oro","El Guabo",0,0,13/03/2020
-"El Oro",Pasaje,0,0,13/03/2020
-"El Oro",Chilla,0,0,13/03/2020
-"El Oro",Zaruma,0,0,13/03/2020
-"El Oro","Las Lajas",0,0,13/03/2020
-"El Oro",Marcabelí,0,0,13/03/2020
-"El Oro",Balsas,0,0,13/03/2020
-"El Oro",Piñas,0,0,13/03/2020
-"El Oro",Portovelo,0,0,13/03/2020
-Esmeraldas,Esmeraldas,0,0,13/03/2020
-Esmeraldas,"San Lorenzo",0,0,13/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,13/03/2020
-Esmeraldas,Rioverde,0,0,13/03/2020
-Esmeraldas,Muisne,0,0,13/03/2020
-Esmeraldas,Atacames,0,0,13/03/2020
-Esmeraldas,Quinindé,0,0,13/03/2020
-Galápagos,"San Cristóbal",0,0,13/03/2020
-Galápagos,Isabela,0,0,13/03/2020
-Galápagos,"Santa Cruz",0,0,13/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,13/03/2020
-Guayas,Daule,1,1,13/03/2020
-Guayas,Durán,2,2,13/03/2020
-Guayas,Empalme,0,0,13/03/2020
-Guayas,Guayaquil,2,2,13/03/2020
-Guayas,Milagro,0,0,13/03/2020
-Guayas,Samborondón,2,2,13/03/2020
-Guayas,Naranjal,0,0,13/03/2020
-Guayas,"Pedro Carbo",0,0,13/03/2020
-Guayas,Salitre,0,0,13/03/2020
-Guayas,"Santa Lucía",0,0,13/03/2020
-Guayas,Balzar,0,0,13/03/2020
-Guayas,Playas,0,0,13/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,13/03/2020
-Guayas,Colimes,0,0,13/03/2020
-Guayas,"El Triunfo",0,0,13/03/2020
-Guayas,Palestina,0,0,13/03/2020
-Guayas,"Isidro Ayora",0,0,13/03/2020
-Guayas,"Lomas de Sargentillo",0,0,13/03/2020
-Guayas,Nobol,0,0,13/03/2020
-Guayas,Yaguachi,0,0,13/03/2020
-Guayas,"Simón Bolivar",0,0,13/03/2020
-Guayas,"Naranjito",0,0,13/03/2020
-Guayas,"General Antonio Elizalde",0,0,13/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,13/03/2020
-Imbabura,Ibarra,0,0,13/03/2020
-Imbabura,Otavalo,0,0,13/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,13/03/2020
-Imbabura,Cotacachi,0,0,13/03/2020
-Imbabura,"Antonio Ante",0,0,13/03/2020
-Imbabura,Pimampiro,0,0,13/03/2020
-Loja,Calvas,0,0,13/03/2020
-Loja,Loja,0,0,13/03/2020
-Loja,Macará,0,0,13/03/2020
-Loja,Catamayo,0,0,13/03/2020
-Loja,Saraguro,0,0,13/03/2020
-Loja,Chaguarpamba,0,0,13/03/2020
-Loja,Olmedo,0,0,13/03/2020
-Loja,Paltas,0,0,13/03/2020
-Loja,Puyango,0,0,13/03/2020
-Loja,Pindal,0,0,13/03/2020
-Loja,Celica,0,0,13/03/2020
-Loja,Zapotillo,0,0,13/03/2020
-Loja,Sozoranga,0,0,13/03/2020
-Loja,Gonzanamá,0,0,13/03/2020
-Loja,Quilanga,0,0,13/03/2020
-Loja,Espíndola,0,0,13/03/2020
-"Los Ríos",Babahoyo,10,10,13/03/2020
-"Los Ríos",Urdaneta,1,1,13/03/2020
-"Los Ríos","Buena Fe",0,0,13/03/2020
-"Los Ríos",Ventanas,0,0,13/03/2020
-"Los Ríos",Mocache,0,0,13/03/2020
-"Los Ríos",Quevedo,0,0,13/03/2020
-"Los Ríos",Montalvo,0,0,13/03/2020
-"Los Ríos",Vinces,0,0,13/03/2020
-"Los Ríos",Valencia,0,0,13/03/2020
-"Los Ríos",Quinsaloma,0,0,13/03/2020
-"Los Ríos",Palenque,0,0,13/03/2020
-"Los Ríos",Baba,0,0,13/03/2020
-"Los Ríos",Puebloviejo,0,0,13/03/2020
-Manabí,Jipijapa,0,0,13/03/2020
-Manabí,Manta,0,0,13/03/2020
-Manabí,Montecristi,0,0,13/03/2020
-Manabí,Portoviejo,0,0,13/03/2020
-Manabí,Sucre,0,0,13/03/2020
-Manabí,Bolívar,0,0,13/03/2020
-Manabí,"Santa Ana",0,0,13/03/2020
-Manabí,Pedernales,0,0,13/03/2020
-Manabí,Chone,0,0,13/03/2020
-Manabí,"Flavio Alfaro",0,0,13/03/2020
-Manabí,"El Carmen",0,0,13/03/2020
-Manabí,Jama,0,0,13/03/2020
-Manabí,"San Vicente",0,0,13/03/2020
-Manabí,Tosagua,0,0,13/03/2020
-Manabí,Rocafuerte,0,0,13/03/2020
-Manabí,Junín,0,0,13/03/2020
-Manabí,Pichincha,0,0,13/03/2020
-Manabí,Jaramijó,0,0,13/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,13/03/2020
-Manabí,Olmedo,0,0,13/03/2020
-Manabí,"Puerto López",0,0,13/03/2020
-Manabí,Paján,0,0,13/03/2020
-Napo,"El Chaco",0,0,13/03/2020
-Napo,Quijos,0,0,13/03/2020
-Napo,Archidona,0,0,13/03/2020
-Napo,Tena,0,0,13/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,13/03/2020
-Orellana,Loreto,0,0,13/03/2020
-Orellana,Orellana,0,0,13/03/2020
-Orellana,"La Joya de los Sachas",0,0,13/03/2020
-Orellana,Aguarico,0,0,13/03/2020
-"Morona Santiago",Gualaquiza,0,0,13/03/2020
-"Morona Santiago",Morona,0,0,13/03/2020
-"Morona Santiago",Sucúa,0,0,13/03/2020
-"Morona Santiago",Palora,0,0,13/03/2020
-"Morona Santiago",Taisha,0,0,13/03/2020
-"Morona Santiago","Pablo Sexto",0,0,13/03/2020
-"Morona Santiago",Huamboya,0,0,13/03/2020
-"Morona Santiago",Santiago,0,0,13/03/2020
-"Morona Santiago",Logroño,0,0,13/03/2020
-"Morona Santiago",Tiwintza,0,0,13/03/2020
-"Morona Santiago","Limón Indanza",0,0,13/03/2020
-"Morona Santiago","San Juan Bosco",0,0,13/03/2020
-Pastaza,Pastaza,0,0,13/03/2020
-Pastaza,Mera,0,0,13/03/2020
-Pastaza,"Santa Clara",0,0,13/03/2020
-Pastaza,Arajuno,0,0,13/03/2020
-Pichincha,Quito,4,4,13/03/2020
-Pichincha,Rumiñahui,0,0,13/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,13/03/2020
-Pichincha,"Puerto Quito",0,0,13/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,13/03/2020
-Pichincha,"Pedro Moncayo",0,0,13/03/2020
-Pichincha,Cayambe,0,0,13/03/2020
-Pichincha,Mejía,0,0,13/03/2020
-"Santa Elena","Santa Elena",0,0,13/03/2020
-"Santa Elena","La Libertad",0,0,13/03/2020
-"Santa Elena",Salinas,0,0,13/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,0,13/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,13/03/2020
-Sucumbíos,Cuyabeno,0,0,13/03/2020
-Sucumbíos,"Lago Agrio",1,1,13/03/2020
-Sucumbíos,Sucumbíos,0,0,13/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,13/03/2020
-Sucumbíos,Cascales,0,0,13/03/2020
-Sucumbíos,Putumayo,0,0,13/03/2020
-Sucumbíos,Shushufindi,0,0,13/03/2020
-Tungurahua,Ambato,0,0,13/03/2020
-Tungurahua,Píllaro,0,0,13/03/2020
-Tungurahua,Patate,0,0,13/03/2020
-Tungurahua,Baños,0,0,13/03/2020
-Tungurahua,Pelileo,0,0,13/03/2020
-Tungurahua,Cevallos,0,0,13/03/2020
-Tungurahua,Tisaleo,0,0,13/03/2020
-Tungurahua,Mocha,0,0,13/03/2020
-Tungurahua,Quero,0,0,13/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,13/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,13/03/2020
-"Zamora Chinchipe","El Pangui",0,0,13/03/2020
-"Zamora Chinchipe",Zamora,0,0,13/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,13/03/2020
-"Zamora Chinchipe",Paquisha,0,0,13/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,13/03/2020
-"Zamora Chinchipe",Palanda,0,0,13/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,13/03/2020
-Azuay,Cuenca,1,1,14/03/2020
-Azuay,"Santa Isabel",0,0,14/03/2020
-Azuay,"Sevilla de Oro",0,0,14/03/2020
-Azuay,Paute,0,0,14/03/2020
-Azuay,Guachapala,0,0,14/03/2020
-Azuay,"El Pan",0,0,14/03/2020
-Azuay,Gualaceo,0,0,14/03/2020
-Azuay,Chordeleg,0,0,14/03/2020
-Azuay,Sígsig,0,0,14/03/2020
-Azuay,Pucará,0,0,14/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,14/03/2020
-Azuay,"San Fernando",0,0,14/03/2020
-Azuay,Girón,0,0,14/03/2020
-Azuay,Nabón,0,0,14/03/2020
-Azuay,Oña,0,0,14/03/2020
-Bolívar,Guaranda,0,0,14/03/2020
-Bolívar,Chillanes,0,0,14/03/2020
-Bolívar,Chimbo,0,0,14/03/2020
-Bolívar,"Las Naves",0,0,14/03/2020
-Bolívar,Echeandía,0,0,14/03/2020
-Bolívar,Caluma,0,0,14/03/2020
-Bolívar,"San Miguel",0,0,14/03/2020
-Cañar,Azogues,0,0,14/03/2020
-Cañar,Cañar,0,0,14/03/2020
-Cañar,"El Tambo",0,0,14/03/2020
-Cañar,"La Troncal",0,0,14/03/2020
-Cañar,Suscal,0,0,14/03/2020
-Cañar,Déleg,0,0,14/03/2020
-Cañar,Biblían,0,0,14/03/2020
-Carchi,Tulcán,0,0,14/03/2020
-Carchi,Mira,0,0,14/03/2020
-Carchi,Espejo,0,0,14/03/2020
-Carchi,Montúfar,0,0,14/03/2020
-Carchi,"San Pedro de Huaca",0,0,14/03/2020
-Carchi,Bolivar,0,0,14/03/2020
-Chimborazo,Colta,0,0,14/03/2020
-Chimborazo,Riobamba,0,0,14/03/2020
-Chimborazo,Cumandá,0,0,14/03/2020
-Chimborazo,Guano,0,0,14/03/2020
-Chimborazo,Penipe,0,0,14/03/2020
-Chimborazo,Chambo,0,0,14/03/2020
-Chimborazo,Pallatanga,0,0,14/03/2020
-Chimborazo,Guamote,0,0,14/03/2020
-Chimborazo,Alausí,0,0,14/03/2020
-Chimborazo,Chunchi,0,0,14/03/2020
-Cotopaxi,"La Maná",0,0,14/03/2020
-Cotopaxi,Latacunga,0,0,14/03/2020
-Cotopaxi,Sigchos,0,0,14/03/2020
-Cotopaxi,Saquisilí,0,0,14/03/2020
-Cotopaxi,Pujilí,0,0,14/03/2020
-Cotopaxi,Pangua,0,0,14/03/2020
-Cotopaxi,Salcedo,0,0,14/03/2020
-"El Oro",Machala,0,0,14/03/2020
-"El Oro","Santa Rosa",0,0,14/03/2020
-"El Oro",Huaquillas,0,0,14/03/2020
-"El Oro",Arenillas,0,0,14/03/2020
-"El Oro",Atahualpa,0,0,14/03/2020
-"El Oro","El Guabo",0,0,14/03/2020
-"El Oro",Pasaje,0,0,14/03/2020
-"El Oro",Chilla,0,0,14/03/2020
-"El Oro",Zaruma,0,0,14/03/2020
-"El Oro","Las Lajas",0,0,14/03/2020
-"El Oro",Marcabelí,0,0,14/03/2020
-"El Oro",Balsas,0,0,14/03/2020
-"El Oro",Piñas,0,0,14/03/2020
-"El Oro",Portovelo,0,0,14/03/2020
-Esmeraldas,Esmeraldas,0,0,14/03/2020
-Esmeraldas,"San Lorenzo",0,0,14/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,14/03/2020
-Esmeraldas,Rioverde,0,0,14/03/2020
-Esmeraldas,Muisne,0,0,14/03/2020
-Esmeraldas,Atacames,0,0,14/03/2020
-Esmeraldas,Quinindé,0,0,14/03/2020
-Galápagos,"San Cristóbal",0,0,14/03/2020
-Galápagos,Isabela,0,0,14/03/2020
-Galápagos,"Santa Cruz",0,0,14/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,14/03/2020
-Guayas,Daule,0,1,14/03/2020
-Guayas,Durán,0,2,14/03/2020
-Guayas,Empalme,0,0,14/03/2020
-Guayas,Guayaquil,2,4,14/03/2020
-Guayas,Milagro,0,1,14/03/2020
-Guayas,Samborondón,1,3,14/03/2020
-Guayas,Naranjal,0,0,14/03/2020
-Guayas,"Pedro Carbo",0,0,14/03/2020
-Guayas,Salitre,0,0,14/03/2020
-Guayas,"Santa Lucía",0,0,14/03/2020
-Guayas,Balzar,0,0,14/03/2020
-Guayas,Playas,0,0,14/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,14/03/2020
-Guayas,Colimes,0,0,14/03/2020
-Guayas,"El Triunfo",0,0,14/03/2020
-Guayas,Palestina,0,0,14/03/2020
-Guayas,"Isidro Ayora",0,0,14/03/2020
-Guayas,"Lomas de Sargentillo",0,0,14/03/2020
-Guayas,Nobol,0,0,14/03/2020
-Guayas,Yaguachi,0,0,14/03/2020
-Guayas,"Simón Bolivar",0,0,14/03/2020
-Guayas,"Naranjito",0,0,14/03/2020
-Guayas,"General Antonio Elizalde",0,0,14/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,14/03/2020
-Imbabura,Ibarra,0,0,14/03/2020
-Imbabura,Otavalo,0,0,14/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,14/03/2020
-Imbabura,Cotacachi,0,0,14/03/2020
-Imbabura,"Antonio Ante",0,0,14/03/2020
-Imbabura,Pimampiro,0,0,14/03/2020
-Loja,Calvas,0,0,14/03/2020
-Loja,Loja,0,0,14/03/2020
-Loja,Macará,0,0,14/03/2020
-Loja,Catamayo,0,0,14/03/2020
-Loja,Saraguro,0,0,14/03/2020
-Loja,Chaguarpamba,0,0,14/03/2020
-Loja,Olmedo,0,0,14/03/2020
-Loja,Paltas,0,0,14/03/2020
-Loja,Puyango,0,0,14/03/2020
-Loja,Pindal,0,0,14/03/2020
-Loja,Celica,0,0,14/03/2020
-Loja,Zapotillo,0,0,14/03/2020
-Loja,Sozoranga,0,0,14/03/2020
-Loja,Gonzanamá,0,0,14/03/2020
-Loja,Quilanga,0,0,14/03/2020
-Loja,Espíndola,0,0,14/03/2020
-"Los Ríos",Babahoyo,0,10,14/03/2020
-"Los Ríos",Urdaneta,0,1,14/03/2020
-"Los Ríos","Buena Fe",0,0,14/03/2020
-"Los Ríos",Ventanas,0,0,14/03/2020
-"Los Ríos",Mocache,0,0,14/03/2020
-"Los Ríos",Quevedo,0,0,14/03/2020
-"Los Ríos",Montalvo,0,0,14/03/2020
-"Los Ríos",Vinces,0,0,14/03/2020
-"Los Ríos",Valencia,0,0,14/03/2020
-"Los Ríos",Quinsaloma,0,0,14/03/2020
-"Los Ríos",Palenque,0,0,14/03/2020
-"Los Ríos",Baba,0,0,14/03/2020
-"Los Ríos",Puebloviejo,0,0,14/03/2020
-Manabí,Jipijapa,0,0,14/03/2020
-Manabí,Manta,0,0,14/03/2020
-Manabí,Montecristi,0,0,14/03/2020
-Manabí,Portoviejo,0,0,14/03/2020
-Manabí,Sucre,0,0,14/03/2020
-Manabí,Bolívar,0,0,14/03/2020
-Manabí,"Santa Ana",0,0,14/03/2020
-Manabí,Pedernales,0,0,14/03/2020
-Manabí,Chone,0,0,14/03/2020
-Manabí,"Flavio Alfaro",0,0,14/03/2020
-Manabí,"El Carmen",0,0,14/03/2020
-Manabí,Jama,0,0,14/03/2020
-Manabí,"San Vicente",0,0,14/03/2020
-Manabí,Tosagua,0,0,14/03/2020
-Manabí,Rocafuerte,0,0,14/03/2020
-Manabí,Junín,0,0,14/03/2020
-Manabí,Pichincha,0,0,14/03/2020
-Manabí,Jaramijó,0,0,14/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,14/03/2020
-Manabí,Olmedo,0,0,14/03/2020
-Manabí,"Puerto López",0,0,14/03/2020
-Manabí,Paján,0,0,14/03/2020
-Napo,"El Chaco",0,0,14/03/2020
-Napo,Quijos,0,0,14/03/2020
-Napo,Archidona,0,0,14/03/2020
-Napo,Tena,0,0,14/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,14/03/2020
-Orellana,Loreto,0,0,14/03/2020
-Orellana,Orellana,0,0,14/03/2020
-Orellana,"La Joya de los Sachas",0,0,14/03/2020
-Orellana,Aguarico,0,0,14/03/2020
-"Morona Santiago",Gualaquiza,0,0,14/03/2020
-"Morona Santiago",Morona,0,0,14/03/2020
-"Morona Santiago",Sucúa,0,0,14/03/2020
-"Morona Santiago",Palora,0,0,14/03/2020
-"Morona Santiago",Taisha,0,0,14/03/2020
-"Morona Santiago","Pablo Sexto",0,0,14/03/2020
-"Morona Santiago",Huamboya,0,0,14/03/2020
-"Morona Santiago",Santiago,0,0,14/03/2020
-"Morona Santiago",Logroño,0,0,14/03/2020
-"Morona Santiago",Tiwintza,0,0,14/03/2020
-"Morona Santiago","Limón Indanza",0,0,14/03/2020
-"Morona Santiago","San Juan Bosco",0,0,14/03/2020
-Pastaza,Pastaza,0,0,14/03/2020
-Pastaza,Mera,0,0,14/03/2020
-Pastaza,"Santa Clara",0,0,14/03/2020
-Pastaza,Arajuno,0,0,14/03/2020
-Pichincha,Quito,0,4,14/03/2020
-Pichincha,Rumiñahui,0,0,14/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,14/03/2020
-Pichincha,"Puerto Quito",0,0,14/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,14/03/2020
-Pichincha,"Pedro Moncayo",0,0,14/03/2020
-Pichincha,Cayambe,0,0,14/03/2020
-Pichincha,Mejía,0,0,14/03/2020
-"Santa Elena","Santa Elena",0,0,14/03/2020
-"Santa Elena","La Libertad",0,0,14/03/2020
-"Santa Elena",Salinas,0,0,14/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,0,14/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,14/03/2020
-Sucumbíos,Cuyabeno,0,0,14/03/2020
-Sucumbíos,"Lago Agrio",0,1,14/03/2020
-Sucumbíos,Sucumbíos,0,0,14/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,14/03/2020
-Sucumbíos,Cascales,0,0,14/03/2020
-Sucumbíos,Putumayo,0,0,14/03/2020
-Sucumbíos,Shushufindi,0,0,14/03/2020
-Tungurahua,Ambato,0,0,14/03/2020
-Tungurahua,Píllaro,0,0,14/03/2020
-Tungurahua,Patate,0,0,14/03/2020
-Tungurahua,Baños,0,0,14/03/2020
-Tungurahua,Pelileo,0,0,14/03/2020
-Tungurahua,Cevallos,0,0,14/03/2020
-Tungurahua,Tisaleo,0,0,14/03/2020
-Tungurahua,Mocha,0,0,14/03/2020
-Tungurahua,Quero,0,0,14/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,14/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,14/03/2020
-"Zamora Chinchipe","El Pangui",0,0,14/03/2020
-"Zamora Chinchipe",Zamora,0,0,14/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,14/03/2020
-"Zamora Chinchipe",Paquisha,0,0,14/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,14/03/2020
-"Zamora Chinchipe",Palanda,0,0,14/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,14/03/2020
-Azuay,Cuenca,0,1,15/03/2020
-Azuay,"Santa Isabel",0,0,15/03/2020
-Azuay,"Sevilla de Oro",0,0,15/03/2020
-Azuay,Paute,0,0,15/03/2020
-Azuay,Guachapala,0,0,15/03/2020
-Azuay,"El Pan",0,0,15/03/2020
-Azuay,Gualaceo,0,0,15/03/2020
-Azuay,Chordeleg,0,0,15/03/2020
-Azuay,Sígsig,0,0,15/03/2020
-Azuay,Pucará,0,0,15/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,15/03/2020
-Azuay,"San Fernando",0,0,15/03/2020
-Azuay,Girón,0,0,15/03/2020
-Azuay,Nabón,0,0,15/03/2020
-Azuay,Oña,0,0,15/03/2020
-Bolívar,Guaranda,0,0,15/03/2020
-Bolívar,Chillanes,0,0,15/03/2020
-Bolívar,Chimbo,0,0,15/03/2020
-Bolívar,"Las Naves",0,0,15/03/2020
-Bolívar,Echeandía,0,0,15/03/2020
-Bolívar,Caluma,0,0,15/03/2020
-Bolívar,"San Miguel",0,0,15/03/2020
-Cañar,Azogues,0,0,15/03/2020
-Cañar,Cañar,0,0,15/03/2020
-Cañar,"El Tambo",0,0,15/03/2020
-Cañar,"La Troncal",0,0,15/03/2020
-Cañar,Suscal,0,0,15/03/2020
-Cañar,Déleg,0,0,15/03/2020
-Cañar,Biblían,0,0,15/03/2020
-Carchi,Tulcán,0,0,15/03/2020
-Carchi,Mira,0,0,15/03/2020
-Carchi,Espejo,0,0,15/03/2020
-Carchi,Montúfar,0,0,15/03/2020
-Carchi,"San Pedro de Huaca",0,0,15/03/2020
-Carchi,Bolivar,0,0,15/03/2020
-Chimborazo,Colta,0,0,15/03/2020
-Chimborazo,Riobamba,0,0,15/03/2020
-Chimborazo,Cumandá,0,0,15/03/2020
-Chimborazo,Guano,0,0,15/03/2020
-Chimborazo,Penipe,0,0,15/03/2020
-Chimborazo,Chambo,0,0,15/03/2020
-Chimborazo,Pallatanga,0,0,15/03/2020
-Chimborazo,Guamote,0,0,15/03/2020
-Chimborazo,Alausí,0,0,15/03/2020
-Chimborazo,Chunchi,0,0,15/03/2020
-Cotopaxi,"La Maná",0,0,15/03/2020
-Cotopaxi,Latacunga,0,0,15/03/2020
-Cotopaxi,Sigchos,0,0,15/03/2020
-Cotopaxi,Saquisilí,0,0,15/03/2020
-Cotopaxi,Pujilí,0,0,15/03/2020
-Cotopaxi,Pangua,0,0,15/03/2020
-Cotopaxi,Salcedo,0,0,15/03/2020
-"El Oro",Machala,0,0,15/03/2020
-"El Oro","Santa Rosa",0,0,15/03/2020
-"El Oro",Huaquillas,0,0,15/03/2020
-"El Oro",Arenillas,0,0,15/03/2020
-"El Oro",Atahualpa,0,0,15/03/2020
-"El Oro","El Guabo",0,0,15/03/2020
-"El Oro",Pasaje,0,0,15/03/2020
-"El Oro",Chilla,0,0,15/03/2020
-"El Oro",Zaruma,0,0,15/03/2020
-"El Oro","Las Lajas",0,0,15/03/2020
-"El Oro",Marcabelí,0,0,15/03/2020
-"El Oro",Balsas,0,0,15/03/2020
-"El Oro",Piñas,0,0,15/03/2020
-"El Oro",Portovelo,0,0,15/03/2020
-Esmeraldas,Esmeraldas,0,0,15/03/2020
-Esmeraldas,"San Lorenzo",0,0,15/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,15/03/2020
-Esmeraldas,Rioverde,0,0,15/03/2020
-Esmeraldas,Muisne,0,0,15/03/2020
-Esmeraldas,Atacames,0,0,15/03/2020
-Esmeraldas,Quinindé,0,0,15/03/2020
-Galápagos,"San Cristóbal",0,0,15/03/2020
-Galápagos,Isabela,0,0,15/03/2020
-Galápagos,"Santa Cruz",0,0,15/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,15/03/2020
-Guayas,Daule,0,1,15/03/2020
-Guayas,Durán,2,4,15/03/2020
-Guayas,Empalme,1,1,15/03/2020
-Guayas,Guayaquil,4,9,15/03/2020
-Guayas,Milagro,0,1,15/03/2020
-Guayas,Samborondón,0,3,15/03/2020
-Guayas,Naranjal,0,0,15/03/2020
-Guayas,"Pedro Carbo",0,0,15/03/2020
-Guayas,Salitre,0,0,15/03/2020
-Guayas,"Santa Lucía",0,0,15/03/2020
-Guayas,Balzar,0,0,15/03/2020
-Guayas,Playas,0,0,15/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,15/03/2020
-Guayas,Colimes,0,0,15/03/2020
-Guayas,"El Triunfo",0,0,15/03/2020
-Guayas,Palestina,0,0,15/03/2020
-Guayas,"Isidro Ayora",0,0,15/03/2020
-Guayas,"Lomas de Sargentillo",0,0,15/03/2020
-Guayas,Nobol,0,0,15/03/2020
-Guayas,Yaguachi,0,0,15/03/2020
-Guayas,"Simón Bolivar",0,0,15/03/2020
-Guayas,"Naranjito",0,0,15/03/2020
-Guayas,"General Antonio Elizalde",0,0,15/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,15/03/2020
-Imbabura,Ibarra,0,0,15/03/2020
-Imbabura,Otavalo,0,0,15/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,15/03/2020
-Imbabura,Cotacachi,0,0,15/03/2020
-Imbabura,"Antonio Ante",0,0,15/03/2020
-Imbabura,Pimampiro,0,0,15/03/2020
-Loja,Calvas,0,0,15/03/2020
-Loja,Loja,0,0,15/03/2020
-Loja,Macará,0,0,15/03/2020
-Loja,Catamayo,0,0,15/03/2020
-Loja,Saraguro,0,0,15/03/2020
-Loja,Chaguarpamba,0,0,15/03/2020
-Loja,Olmedo,0,0,15/03/2020
-Loja,Paltas,0,0,15/03/2020
-Loja,Puyango,0,0,15/03/2020
-Loja,Pindal,0,0,15/03/2020
-Loja,Celica,0,0,15/03/2020
-Loja,Zapotillo,0,0,15/03/2020
-Loja,Sozoranga,0,0,15/03/2020
-Loja,Gonzanamá,0,0,15/03/2020
-Loja,Quilanga,0,0,15/03/2020
-Loja,Espíndola,0,0,15/03/2020
-"Los Ríos",Babahoyo,0,9,15/03/2020
-"Los Ríos",Urdaneta,0,1,15/03/2020
-"Los Ríos","Buena Fe",0,0,15/03/2020
-"Los Ríos",Ventanas,0,0,15/03/2020
-"Los Ríos",Mocache,0,0,15/03/2020
-"Los Ríos",Quevedo,0,0,15/03/2020
-"Los Ríos",Montalvo,0,0,15/03/2020
-"Los Ríos",Vinces,0,0,15/03/2020
-"Los Ríos",Valencia,0,0,15/03/2020
-"Los Ríos",Quinsaloma,0,0,15/03/2020
-"Los Ríos",Palenque,0,0,15/03/2020
-"Los Ríos",Baba,0,0,15/03/2020
-"Los Ríos",Puebloviejo,0,0,15/03/2020
-Manabí,Jipijapa,0,0,15/03/2020
-Manabí,Manta,0,0,15/03/2020
-Manabí,Montecristi,0,0,15/03/2020
-Manabí,Portoviejo,0,0,15/03/2020
-Manabí,Sucre,0,0,15/03/2020
-Manabí,Bolívar,0,0,15/03/2020
-Manabí,"Santa Ana",0,0,15/03/2020
-Manabí,Pedernales,0,0,15/03/2020
-Manabí,Chone,0,0,15/03/2020
-Manabí,"Flavio Alfaro",0,0,15/03/2020
-Manabí,"El Carmen",0,0,15/03/2020
-Manabí,Jama,0,0,15/03/2020
-Manabí,"San Vicente",0,0,15/03/2020
-Manabí,Tosagua,0,0,15/03/2020
-Manabí,Rocafuerte,0,0,15/03/2020
-Manabí,Junín,0,0,15/03/2020
-Manabí,Pichincha,0,0,15/03/2020
-Manabí,Jaramijó,0,0,15/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,15/03/2020
-Manabí,Olmedo,0,0,15/03/2020
-Manabí,"Puerto López",0,0,15/03/2020
-Manabí,Paján,0,0,15/03/2020
-Napo,"El Chaco",0,0,15/03/2020
-Napo,Quijos,0,0,15/03/2020
-Napo,Archidona,0,0,15/03/2020
-Napo,Tena,0,0,15/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,15/03/2020
-Orellana,Loreto,0,0,15/03/2020
-Orellana,Orellana,0,0,15/03/2020
-Orellana,"La Joya de los Sachas",0,0,15/03/2020
-Orellana,Aguarico,0,0,15/03/2020
-"Morona Santiago",Gualaquiza,0,0,15/03/2020
-"Morona Santiago",Morona,0,0,15/03/2020
-"Morona Santiago",Sucúa,0,0,15/03/2020
-"Morona Santiago",Palora,0,0,15/03/2020
-"Morona Santiago",Taisha,0,0,15/03/2020
-"Morona Santiago","Pablo Sexto",0,0,15/03/2020
-"Morona Santiago",Huamboya,0,0,15/03/2020
-"Morona Santiago",Santiago,0,0,15/03/2020
-"Morona Santiago",Logroño,0,0,15/03/2020
-"Morona Santiago",Tiwintza,0,0,15/03/2020
-"Morona Santiago","Limón Indanza",0,0,15/03/2020
-"Morona Santiago","San Juan Bosco",0,0,15/03/2020
-Pastaza,Pastaza,0,0,15/03/2020
-Pastaza,Mera,0,0,15/03/2020
-Pastaza,"Santa Clara",0,0,15/03/2020
-Pastaza,Arajuno,0,0,15/03/2020
-Pichincha,Quito,2,6,15/03/2020
-Pichincha,Rumiñahui,0,0,15/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,15/03/2020
-Pichincha,"Puerto Quito",0,0,15/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,15/03/2020
-Pichincha,"Pedro Moncayo",0,0,15/03/2020
-Pichincha,Cayambe,0,0,15/03/2020
-Pichincha,Mejía,0,0,15/03/2020
-"Santa Elena","Santa Elena",0,0,15/03/2020
-"Santa Elena","La Libertad",0,0,15/03/2020
-"Santa Elena",Salinas,0,0,15/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,0,15/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,15/03/2020
-Sucumbíos,Cuyabeno,0,0,15/03/2020
-Sucumbíos,"Lago Agrio",0,1,15/03/2020
-Sucumbíos,Sucumbíos,0,0,15/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,15/03/2020
-Sucumbíos,Cascales,0,0,15/03/2020
-Sucumbíos,Putumayo,0,0,15/03/2020
-Sucumbíos,Shushufindi,0,0,15/03/2020
-Tungurahua,Ambato,0,0,15/03/2020
-Tungurahua,Píllaro,0,0,15/03/2020
-Tungurahua,Patate,0,0,15/03/2020
-Tungurahua,Baños,0,0,15/03/2020
-Tungurahua,Pelileo,0,0,15/03/2020
-Tungurahua,Cevallos,0,0,15/03/2020
-Tungurahua,Tisaleo,0,0,15/03/2020
-Tungurahua,Mocha,0,0,15/03/2020
-Tungurahua,Quero,0,0,15/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,15/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,15/03/2020
-"Zamora Chinchipe","El Pangui",0,0,15/03/2020
-"Zamora Chinchipe",Zamora,0,0,15/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,15/03/2020
-"Zamora Chinchipe",Paquisha,0,0,15/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,15/03/2020
-"Zamora Chinchipe",Palanda,0,0,15/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,15/03/2020
-Azuay,Cuenca,0,1,16/03/2020
-Azuay,"Santa Isabel",0,0,16/03/2020
-Azuay,"Sevilla de Oro",0,0,16/03/2020
-Azuay,Paute,0,0,16/03/2020
-Azuay,Guachapala,0,0,16/03/2020
-Azuay,"El Pan",0,0,16/03/2020
-Azuay,Gualaceo,0,0,16/03/2020
-Azuay,Chordeleg,0,0,16/03/2020
-Azuay,Sígsig,0,0,16/03/2020
-Azuay,Pucará,0,0,16/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,16/03/2020
-Azuay,"San Fernando",0,0,16/03/2020
-Azuay,Girón,0,0,16/03/2020
-Azuay,Nabón,0,0,16/03/2020
-Azuay,Oña,0,0,16/03/2020
-Bolívar,Guaranda,0,0,16/03/2020
-Bolívar,Chillanes,0,0,16/03/2020
-Bolívar,Chimbo,0,0,16/03/2020
-Bolívar,"Las Naves",0,0,16/03/2020
-Bolívar,Echeandía,0,0,16/03/2020
-Bolívar,Caluma,0,0,16/03/2020
-Bolívar,"San Miguel",0,0,16/03/2020
-Cañar,Azogues,0,0,16/03/2020
-Cañar,Cañar,0,0,16/03/2020
-Cañar,"El Tambo",0,0,16/03/2020
-Cañar,"La Troncal",0,0,16/03/2020
-Cañar,Suscal,0,0,16/03/2020
-Cañar,Déleg,0,0,16/03/2020
-Cañar,Biblían,0,0,16/03/2020
-Carchi,Tulcán,0,0,16/03/2020
-Carchi,Mira,0,0,16/03/2020
-Carchi,Espejo,0,0,16/03/2020
-Carchi,Montúfar,0,0,16/03/2020
-Carchi,"San Pedro de Huaca",0,0,16/03/2020
-Carchi,Bolivar,0,0,16/03/2020
-Chimborazo,Colta,0,0,16/03/2020
-Chimborazo,Riobamba,0,0,16/03/2020
-Chimborazo,Cumandá,0,0,16/03/2020
-Chimborazo,Guano,0,0,16/03/2020
-Chimborazo,Penipe,0,0,16/03/2020
-Chimborazo,Chambo,0,0,16/03/2020
-Chimborazo,Pallatanga,0,0,16/03/2020
-Chimborazo,Guamote,0,0,16/03/2020
-Chimborazo,Alausí,0,0,16/03/2020
-Chimborazo,Chunchi,0,0,16/03/2020
-Cotopaxi,"La Maná",0,0,16/03/2020
-Cotopaxi,Latacunga,0,0,16/03/2020
-Cotopaxi,Sigchos,0,0,16/03/2020
-Cotopaxi,Saquisilí,0,0,16/03/2020
-Cotopaxi,Pujilí,0,0,16/03/2020
-Cotopaxi,Pangua,0,0,16/03/2020
-Cotopaxi,Salcedo,0,0,16/03/2020
-"El Oro",Machala,0,0,16/03/2020
-"El Oro","Santa Rosa",0,0,16/03/2020
-"El Oro",Huaquillas,0,0,16/03/2020
-"El Oro",Arenillas,0,0,16/03/2020
-"El Oro",Atahualpa,0,0,16/03/2020
-"El Oro","El Guabo",0,0,16/03/2020
-"El Oro",Pasaje,0,0,16/03/2020
-"El Oro",Chilla,0,0,16/03/2020
-"El Oro",Zaruma,0,0,16/03/2020
-"El Oro","Las Lajas",0,0,16/03/2020
-"El Oro",Marcabelí,0,0,16/03/2020
-"El Oro",Balsas,0,0,16/03/2020
-"El Oro",Piñas,0,0,16/03/2020
-"El Oro",Portovelo,0,0,16/03/2020
-Esmeraldas,Esmeraldas,0,0,16/03/2020
-Esmeraldas,"San Lorenzo",0,0,16/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,16/03/2020
-Esmeraldas,Rioverde,0,0,16/03/2020
-Esmeraldas,Muisne,0,0,16/03/2020
-Esmeraldas,Atacames,0,0,16/03/2020
-Esmeraldas,Quinindé,0,0,16/03/2020
-Galápagos,"San Cristóbal",0,0,16/03/2020
-Galápagos,Isabela,0,0,16/03/2020
-Galápagos,"Santa Cruz",0,0,16/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,16/03/2020
-Guayas,Daule,0,1,16/03/2020
-Guayas,Durán,0,4,16/03/2020
-Guayas,Empalme,0,1,16/03/2020
-Guayas,Guayaquil,19,28,16/03/2020
-Guayas,Milagro,0,1,16/03/2020
-Guayas,Samborondón,0,2,16/03/2020
-Guayas,Naranjal,0,0,16/03/2020
-Guayas,"Pedro Carbo",0,0,16/03/2020
-Guayas,Salitre,0,0,16/03/2020
-Guayas,"Santa Lucía",0,0,16/03/2020
-Guayas,Balzar,0,0,16/03/2020
-Guayas,Playas,0,0,16/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,16/03/2020
-Guayas,Colimes,0,0,16/03/2020
-Guayas,"El Triunfo",0,0,16/03/2020
-Guayas,Palestina,0,0,16/03/2020
-Guayas,"Isidro Ayora",0,0,16/03/2020
-Guayas,"Lomas de Sargentillo",0,0,16/03/2020
-Guayas,Nobol,0,0,16/03/2020
-Guayas,Yaguachi,0,0,16/03/2020
-Guayas,"Simón Bolivar",0,0,16/03/2020
-Guayas,"Naranjito",0,0,16/03/2020
-Guayas,"General Antonio Elizalde",0,0,16/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,16/03/2020
-Imbabura,Ibarra,0,0,16/03/2020
-Imbabura,Otavalo,0,0,16/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,16/03/2020
-Imbabura,Cotacachi,0,0,16/03/2020
-Imbabura,"Antonio Ante",0,0,16/03/2020
-Imbabura,Pimampiro,0,0,16/03/2020
-Loja,Calvas,0,0,16/03/2020
-Loja,Loja,0,0,16/03/2020
-Loja,Macará,0,0,16/03/2020
-Loja,Catamayo,0,0,16/03/2020
-Loja,Saraguro,0,0,16/03/2020
-Loja,Chaguarpamba,0,0,16/03/2020
-Loja,Olmedo,0,0,16/03/2020
-Loja,Paltas,0,0,16/03/2020
-Loja,Puyango,0,0,16/03/2020
-Loja,Pindal,0,0,16/03/2020
-Loja,Celica,0,0,16/03/2020
-Loja,Zapotillo,0,0,16/03/2020
-Loja,Sozoranga,0,0,16/03/2020
-Loja,Gonzanamá,0,0,16/03/2020
-Loja,Quilanga,0,0,16/03/2020
-Loja,Espíndola,0,0,16/03/2020
-"Los Ríos",Babahoyo,0,9,16/03/2020
-"Los Ríos",Urdaneta,0,1,16/03/2020
-"Los Ríos","Buena Fe",0,0,16/03/2020
-"Los Ríos",Ventanas,0,0,16/03/2020
-"Los Ríos",Mocache,0,0,16/03/2020
-"Los Ríos",Quevedo,0,0,16/03/2020
-"Los Ríos",Montalvo,0,0,16/03/2020
-"Los Ríos",Vinces,0,0,16/03/2020
-"Los Ríos",Valencia,0,0,16/03/2020
-"Los Ríos",Quinsaloma,0,0,16/03/2020
-"Los Ríos",Palenque,0,0,16/03/2020
-"Los Ríos",Baba,0,0,16/03/2020
-"Los Ríos",Puebloviejo,0,0,16/03/2020
-Manabí,Jipijapa,0,0,16/03/2020
-Manabí,Manta,1,1,16/03/2020
-Manabí,Montecristi,0,0,16/03/2020
-Manabí,Portoviejo,0,0,16/03/2020
-Manabí,Sucre,0,0,16/03/2020
-Manabí,Bolívar,0,0,16/03/2020
-Manabí,"Santa Ana",0,0,16/03/2020
-Manabí,Pedernales,0,0,16/03/2020
-Manabí,Chone,0,0,16/03/2020
-Manabí,"Flavio Alfaro",0,0,16/03/2020
-Manabí,"El Carmen",0,0,16/03/2020
-Manabí,Jama,0,0,16/03/2020
-Manabí,"San Vicente",0,0,16/03/2020
-Manabí,Tosagua,0,0,16/03/2020
-Manabí,Rocafuerte,0,0,16/03/2020
-Manabí,Junín,0,0,16/03/2020
-Manabí,Pichincha,0,0,16/03/2020
-Manabí,Jaramijó,0,0,16/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,16/03/2020
-Manabí,Olmedo,0,0,16/03/2020
-Manabí,"Puerto López",0,0,16/03/2020
-Manabí,Paján,0,0,16/03/2020
-Napo,"El Chaco",0,0,16/03/2020
-Napo,Quijos,0,0,16/03/2020
-Napo,Archidona,0,0,16/03/2020
-Napo,Tena,0,0,16/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,16/03/2020
-Orellana,Loreto,0,0,16/03/2020
-Orellana,Orellana,0,0,16/03/2020
-Orellana,"La Joya de los Sachas",0,0,16/03/2020
-Orellana,Aguarico,0,0,16/03/2020
-"Morona Santiago",Gualaquiza,0,0,16/03/2020
-"Morona Santiago",Morona,0,0,16/03/2020
-"Morona Santiago",Sucúa,0,0,16/03/2020
-"Morona Santiago",Palora,0,0,16/03/2020
-"Morona Santiago",Taisha,0,0,16/03/2020
-"Morona Santiago","Pablo Sexto",0,0,16/03/2020
-"Morona Santiago",Huamboya,0,0,16/03/2020
-"Morona Santiago",Santiago,0,0,16/03/2020
-"Morona Santiago",Logroño,0,0,16/03/2020
-"Morona Santiago",Tiwintza,0,0,16/03/2020
-"Morona Santiago","Limón Indanza",0,0,16/03/2020
-"Morona Santiago","San Juan Bosco",0,0,16/03/2020
-Pastaza,Pastaza,0,0,16/03/2020
-Pastaza,Mera,0,0,16/03/2020
-Pastaza,"Santa Clara",0,0,16/03/2020
-Pastaza,Arajuno,0,0,16/03/2020
-Pichincha,Quito,2,8,16/03/2020
-Pichincha,Rumiñahui,0,0,16/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,16/03/2020
-Pichincha,"Puerto Quito",0,0,16/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,16/03/2020
-Pichincha,"Pedro Moncayo",0,0,16/03/2020
-Pichincha,Cayambe,0,0,16/03/2020
-Pichincha,Mejía,0,0,16/03/2020
-"Santa Elena","Santa Elena",0,0,16/03/2020
-"Santa Elena","La Libertad",0,0,16/03/2020
-"Santa Elena",Salinas,0,0,16/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,0,16/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,16/03/2020
-Sucumbíos,Cuyabeno,0,0,16/03/2020
-Sucumbíos,"Lago Agrio",0,1,16/03/2020
-Sucumbíos,Sucumbíos,0,0,16/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,16/03/2020
-Sucumbíos,Cascales,0,0,16/03/2020
-Sucumbíos,Putumayo,0,0,16/03/2020
-Sucumbíos,Shushufindi,0,0,16/03/2020
-Tungurahua,Ambato,0,0,16/03/2020
-Tungurahua,Píllaro,0,0,16/03/2020
-Tungurahua,Patate,0,0,16/03/2020
-Tungurahua,Baños,0,0,16/03/2020
-Tungurahua,Pelileo,0,0,16/03/2020
-Tungurahua,Cevallos,0,0,16/03/2020
-Tungurahua,Tisaleo,0,0,16/03/2020
-Tungurahua,Mocha,0,0,16/03/2020
-Tungurahua,Quero,0,0,16/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,16/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,16/03/2020
-"Zamora Chinchipe","El Pangui",0,0,16/03/2020
-"Zamora Chinchipe",Zamora,0,0,16/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,16/03/2020
-"Zamora Chinchipe",Paquisha,0,0,16/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,16/03/2020
-"Zamora Chinchipe",Palanda,0,0,16/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,16/03/2020
-Azuay,Cuenca,4,5,17/03/2020
-Azuay,"Santa Isabel",0,0,17/03/2020
-Azuay,"Sevilla de Oro",0,0,17/03/2020
-Azuay,Paute,0,0,17/03/2020
-Azuay,Guachapala,0,0,17/03/2020
-Azuay,"El Pan",0,0,17/03/2020
-Azuay,Gualaceo,0,0,17/03/2020
-Azuay,Chordeleg,0,0,17/03/2020
-Azuay,Sígsig,0,0,17/03/2020
-Azuay,Pucará,0,0,17/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,17/03/2020
-Azuay,"San Fernando",0,0,17/03/2020
-Azuay,Girón,0,0,17/03/2020
-Azuay,Nabón,0,0,17/03/2020
-Azuay,Oña,0,0,17/03/2020
-Bolívar,Guaranda,0,0,17/03/2020
-Bolívar,Chillanes,0,0,17/03/2020
-Bolívar,Chimbo,0,0,17/03/2020
-Bolívar,"Las Naves",0,0,17/03/2020
-Bolívar,Echeandía,0,0,17/03/2020
-Bolívar,Caluma,0,0,17/03/2020
-Bolívar,"San Miguel",0,0,17/03/2020
-Cañar,Azogues,0,0,17/03/2020
-Cañar,Cañar,0,0,17/03/2020
-Cañar,"El Tambo",0,0,17/03/2020
-Cañar,"La Troncal",0,0,17/03/2020
-Cañar,Suscal,0,0,17/03/2020
-Cañar,Déleg,0,0,17/03/2020
-Cañar,Biblían,0,0,17/03/2020
-Carchi,Tulcán,0,0,17/03/2020
-Carchi,Mira,0,0,17/03/2020
-Carchi,Espejo,0,0,17/03/2020
-Carchi,Montúfar,0,0,17/03/2020
-Carchi,"San Pedro de Huaca",0,0,17/03/2020
-Carchi,Bolivar,0,0,17/03/2020
-Chimborazo,Colta,0,0,17/03/2020
-Chimborazo,Riobamba,0,0,17/03/2020
-Chimborazo,Cumandá,0,0,17/03/2020
-Chimborazo,Guano,0,0,17/03/2020
-Chimborazo,Penipe,0,0,17/03/2020
-Chimborazo,Chambo,0,0,17/03/2020
-Chimborazo,Pallatanga,0,0,17/03/2020
-Chimborazo,Guamote,0,0,17/03/2020
-Chimborazo,Alausí,0,0,17/03/2020
-Chimborazo,Chunchi,0,0,17/03/2020
-Cotopaxi,"La Maná",0,0,17/03/2020
-Cotopaxi,Latacunga,0,0,17/03/2020
-Cotopaxi,Sigchos,0,0,17/03/2020
-Cotopaxi,Saquisilí,0,0,17/03/2020
-Cotopaxi,Pujilí,0,0,17/03/2020
-Cotopaxi,Pangua,0,0,17/03/2020
-Cotopaxi,Salcedo,0,0,17/03/2020
-"El Oro",Machala,1,1,17/03/2020
-"El Oro","Santa Rosa",0,0,17/03/2020
-"El Oro",Huaquillas,0,0,17/03/2020
-"El Oro",Arenillas,0,0,17/03/2020
-"El Oro",Atahualpa,0,0,17/03/2020
-"El Oro","El Guabo",0,0,17/03/2020
-"El Oro",Pasaje,0,0,17/03/2020
-"El Oro",Chilla,0,0,17/03/2020
-"El Oro",Zaruma,0,0,17/03/2020
-"El Oro","Las Lajas",0,0,17/03/2020
-"El Oro",Marcabelí,0,0,17/03/2020
-"El Oro",Balsas,0,0,17/03/2020
-"El Oro",Piñas,0,0,17/03/2020
-"El Oro",Portovelo,0,0,17/03/2020
-Esmeraldas,Esmeraldas,0,0,17/03/2020
-Esmeraldas,"San Lorenzo",0,0,17/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,17/03/2020
-Esmeraldas,Rioverde,0,0,17/03/2020
-Esmeraldas,Muisne,0,0,17/03/2020
-Esmeraldas,Atacames,0,0,17/03/2020
-Esmeraldas,Quinindé,0,0,17/03/2020
-Galápagos,"San Cristóbal",0,0,17/03/2020
-Galápagos,Isabela,0,0,17/03/2020
-Galápagos,"Santa Cruz",0,0,17/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,17/03/2020
-Guayas,Daule,3,4,17/03/2020
-Guayas,Durán,0,4,17/03/2020
-Guayas,Empalme,0,1,17/03/2020
-Guayas,Guayaquil,33,61,17/03/2020
-Guayas,Milagro,0,1,17/03/2020
-Guayas,Samborondón,8,10,17/03/2020
-Guayas,Naranjal,0,0,17/03/2020
-Guayas,"Pedro Carbo",0,0,17/03/2020
-Guayas,Salitre,0,0,17/03/2020
-Guayas,"Santa Lucía",0,0,17/03/2020
-Guayas,Balzar,0,0,17/03/2020
-Guayas,Playas,0,0,17/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,17/03/2020
-Guayas,Colimes,0,0,17/03/2020
-Guayas,"El Triunfo",0,0,17/03/2020
-Guayas,Palestina,0,0,17/03/2020
-Guayas,"Isidro Ayora",0,0,17/03/2020
-Guayas,"Lomas de Sargentillo",0,0,17/03/2020
-Guayas,Nobol,0,0,17/03/2020
-Guayas,Yaguachi,0,0,17/03/2020
-Guayas,"Simón Bolivar",0,0,17/03/2020
-Guayas,"Naranjito",0,0,17/03/2020
-Guayas,"General Antonio Elizalde",0,0,17/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,17/03/2020
-Imbabura,Ibarra,0,0,17/03/2020
-Imbabura,Otavalo,0,0,17/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,17/03/2020
-Imbabura,Cotacachi,0,0,17/03/2020
-Imbabura,"Antonio Ante",0,0,17/03/2020
-Imbabura,Pimampiro,0,0,17/03/2020
-Loja,Calvas,0,0,17/03/2020
-Loja,Loja,0,0,17/03/2020
-Loja,Macará,0,0,17/03/2020
-Loja,Catamayo,0,0,17/03/2020
-Loja,Saraguro,0,0,17/03/2020
-Loja,Chaguarpamba,0,0,17/03/2020
-Loja,Olmedo,0,0,17/03/2020
-Loja,Paltas,0,0,17/03/2020
-Loja,Puyango,0,0,17/03/2020
-Loja,Pindal,0,0,17/03/2020
-Loja,Celica,0,0,17/03/2020
-Loja,Zapotillo,0,0,17/03/2020
-Loja,Sozoranga,0,0,17/03/2020
-Loja,Gonzanamá,0,0,17/03/2020
-Loja,Quilanga,0,0,17/03/2020
-Loja,Espíndola,0,0,17/03/2020
-"Los Ríos",Babahoyo,0,9,17/03/2020
-"Los Ríos",Urdaneta,0,1,17/03/2020
-"Los Ríos","Buena Fe",0,0,17/03/2020
-"Los Ríos",Ventanas,0,0,17/03/2020
-"Los Ríos",Mocache,0,0,17/03/2020
-"Los Ríos",Quevedo,0,0,17/03/2020
-"Los Ríos",Montalvo,0,0,17/03/2020
-"Los Ríos",Vinces,0,0,17/03/2020
-"Los Ríos",Valencia,0,0,17/03/2020
-"Los Ríos",Quinsaloma,0,0,17/03/2020
-"Los Ríos",Palenque,0,0,17/03/2020
-"Los Ríos",Baba,0,0,17/03/2020
-"Los Ríos",Puebloviejo,0,0,17/03/2020
-Manabí,Jipijapa,0,0,17/03/2020
-Manabí,Manta,0,1,17/03/2020
-Manabí,Montecristi,0,0,17/03/2020
-Manabí,Portoviejo,0,0,17/03/2020
-Manabí,Sucre,0,0,17/03/2020
-Manabí,Bolívar,0,0,17/03/2020
-Manabí,"Santa Ana",0,0,17/03/2020
-Manabí,Pedernales,0,0,17/03/2020
-Manabí,Chone,0,0,17/03/2020
-Manabí,"Flavio Alfaro",0,0,17/03/2020
-Manabí,"El Carmen",0,0,17/03/2020
-Manabí,Jama,0,0,17/03/2020
-Manabí,"San Vicente",0,0,17/03/2020
-Manabí,Tosagua,0,0,17/03/2020
-Manabí,Rocafuerte,0,0,17/03/2020
-Manabí,Junín,0,0,17/03/2020
-Manabí,Pichincha,0,0,17/03/2020
-Manabí,Jaramijó,0,0,17/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,17/03/2020
-Manabí,Olmedo,0,0,17/03/2020
-Manabí,"Puerto López",0,0,17/03/2020
-Manabí,Paján,0,0,17/03/2020
-Napo,"El Chaco",0,0,17/03/2020
-Napo,Quijos,0,0,17/03/2020
-Napo,Archidona,0,0,17/03/2020
-Napo,Tena,0,0,17/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,17/03/2020
-Orellana,Loreto,0,0,17/03/2020
-Orellana,Orellana,0,0,17/03/2020
-Orellana,"La Joya de los Sachas",0,0,17/03/2020
-Orellana,Aguarico,0,0,17/03/2020
-"Morona Santiago",Gualaquiza,1,1,17/03/2020
-"Morona Santiago",Morona,0,0,17/03/2020
-"Morona Santiago",Sucúa,0,0,17/03/2020
-"Morona Santiago",Palora,0,0,17/03/2020
-"Morona Santiago",Taisha,0,0,17/03/2020
-"Morona Santiago","Pablo Sexto",0,0,17/03/2020
-"Morona Santiago",Huamboya,0,0,17/03/2020
-"Morona Santiago",Santiago,0,0,17/03/2020
-"Morona Santiago",Logroño,0,0,17/03/2020
-"Morona Santiago",Tiwintza,0,0,17/03/2020
-"Morona Santiago","Limón Indanza",0,0,17/03/2020
-"Morona Santiago","San Juan Bosco",0,0,17/03/2020
-Pastaza,Pastaza,0,0,17/03/2020
-Pastaza,Mera,0,0,17/03/2020
-Pastaza,"Santa Clara",0,0,17/03/2020
-Pastaza,Arajuno,0,0,17/03/2020
-Pichincha,Quito,0,8,17/03/2020
-Pichincha,Rumiñahui,0,0,17/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,17/03/2020
-Pichincha,"Puerto Quito",0,0,17/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,17/03/2020
-Pichincha,"Pedro Moncayo",0,0,17/03/2020
-Pichincha,Cayambe,0,0,17/03/2020
-Pichincha,Mejía,0,0,17/03/2020
-"Santa Elena","Santa Elena",3,3,17/03/2020
-"Santa Elena","La Libertad",0,0,17/03/2020
-"Santa Elena",Salinas,0,0,17/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,0,17/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,17/03/2020
-Sucumbíos,Cuyabeno,0,0,17/03/2020
-Sucumbíos,"Lago Agrio",0,1,17/03/2020
-Sucumbíos,Sucumbíos,0,0,17/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,17/03/2020
-Sucumbíos,Cascales,0,0,17/03/2020
-Sucumbíos,Putumayo,0,0,17/03/2020
-Sucumbíos,Shushufindi,0,0,17/03/2020
-Tungurahua,Ambato,0,0,17/03/2020
-Tungurahua,Píllaro,0,0,17/03/2020
-Tungurahua,Patate,0,0,17/03/2020
-Tungurahua,Baños,0,0,17/03/2020
-Tungurahua,Pelileo,0,0,17/03/2020
-Tungurahua,Cevallos,0,0,17/03/2020
-Tungurahua,Tisaleo,0,0,17/03/2020
-Tungurahua,Mocha,0,0,17/03/2020
-Tungurahua,Quero,0,0,17/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,17/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,17/03/2020
-"Zamora Chinchipe","El Pangui",0,0,17/03/2020
-"Zamora Chinchipe",Zamora,0,0,17/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,17/03/2020
-"Zamora Chinchipe",Paquisha,0,0,17/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,17/03/2020
-"Zamora Chinchipe",Palanda,0,0,17/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,17/03/2020
-Azuay,Cuenca,0,5,18/03/2020
-Azuay,"Santa Isabel",0,0,18/03/2020
-Azuay,"Sevilla de Oro",0,0,18/03/2020
-Azuay,Paute,0,0,18/03/2020
-Azuay,Guachapala,0,0,18/03/2020
-Azuay,"El Pan",0,0,18/03/2020
-Azuay,Gualaceo,0,0,18/03/2020
-Azuay,Chordeleg,0,0,18/03/2020
-Azuay,Sígsig,0,0,18/03/2020
-Azuay,Pucará,0,0,18/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,18/03/2020
-Azuay,"San Fernando",0,0,18/03/2020
-Azuay,Girón,0,0,18/03/2020
-Azuay,Nabón,0,0,18/03/2020
-Azuay,Oña,0,0,18/03/2020
-Bolívar,Guaranda,2,2,18/03/2020
-Bolívar,Chillanes,0,0,18/03/2020
-Bolívar,Chimbo,0,0,18/03/2020
-Bolívar,"Las Naves",0,0,18/03/2020
-Bolívar,Echeandía,0,0,18/03/2020
-Bolívar,Caluma,0,0,18/03/2020
-Bolívar,"San Miguel",0,0,18/03/2020
-Cañar,Azogues,0,0,18/03/2020
-Cañar,Cañar,0,0,18/03/2020
-Cañar,"El Tambo",0,0,18/03/2020
-Cañar,"La Troncal",0,0,18/03/2020
-Cañar,Suscal,0,0,18/03/2020
-Cañar,Déleg,0,0,18/03/2020
-Cañar,Biblían,0,0,18/03/2020
-Carchi,Tulcán,0,0,18/03/2020
-Carchi,Mira,0,0,18/03/2020
-Carchi,Espejo,0,0,18/03/2020
-Carchi,Montúfar,0,0,18/03/2020
-Carchi,"San Pedro de Huaca",0,0,18/03/2020
-Carchi,Bolivar,0,0,18/03/2020
-Chimborazo,Colta,0,0,18/03/2020
-Chimborazo,Riobamba,0,0,18/03/2020
-Chimborazo,Cumandá,0,0,18/03/2020
-Chimborazo,Guano,0,0,18/03/2020
-Chimborazo,Penipe,0,0,18/03/2020
-Chimborazo,Chambo,0,0,18/03/2020
-Chimborazo,Pallatanga,0,0,18/03/2020
-Chimborazo,Guamote,0,0,18/03/2020
-Chimborazo,Alausí,0,0,18/03/2020
-Chimborazo,Chunchi,0,0,18/03/2020
-Cotopaxi,"La Maná",0,0,18/03/2020
-Cotopaxi,Latacunga,0,0,18/03/2020
-Cotopaxi,Sigchos,0,0,18/03/2020
-Cotopaxi,Saquisilí,0,0,18/03/2020
-Cotopaxi,Pujilí,0,0,18/03/2020
-Cotopaxi,Pangua,0,0,18/03/2020
-Cotopaxi,Salcedo,0,0,18/03/2020
-"El Oro",Machala,0,1,18/03/2020
-"El Oro","Santa Rosa",0,0,18/03/2020
-"El Oro",Huaquillas,0,0,18/03/2020
-"El Oro",Arenillas,0,0,18/03/2020
-"El Oro",Atahualpa,0,0,18/03/2020
-"El Oro","El Guabo",0,0,18/03/2020
-"El Oro",Pasaje,0,0,18/03/2020
-"El Oro",Chilla,0,0,18/03/2020
-"El Oro",Zaruma,0,0,18/03/2020
-"El Oro","Las Lajas",0,0,18/03/2020
-"El Oro",Marcabelí,0,0,18/03/2020
-"El Oro",Balsas,0,0,18/03/2020
-"El Oro",Piñas,0,0,18/03/2020
-"El Oro",Portovelo,0,0,18/03/2020
-Esmeraldas,Esmeraldas,0,0,18/03/2020
-Esmeraldas,"San Lorenzo",0,0,18/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,18/03/2020
-Esmeraldas,Rioverde,0,0,18/03/2020
-Esmeraldas,Muisne,0,0,18/03/2020
-Esmeraldas,Atacames,0,0,18/03/2020
-Esmeraldas,Quinindé,0,0,18/03/2020
-Galápagos,"San Cristóbal",0,0,18/03/2020
-Galápagos,Isabela,0,0,18/03/2020
-Galápagos,"Santa Cruz",0,0,18/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,18/03/2020
-Guayas,Daule,3,7,18/03/2020
-Guayas,Durán,5,9,18/03/2020
-Guayas,Empalme,1,2,18/03/2020
-Guayas,Guayaquil,27,88,18/03/2020
-Guayas,Milagro,0,1,18/03/2020
-Guayas,Samborondón,11,21,18/03/2020
-Guayas,Naranjal,0,0,18/03/2020
-Guayas,"Pedro Carbo",0,0,18/03/2020
-Guayas,Salitre,0,0,18/03/2020
-Guayas,"Santa Lucía",0,0,18/03/2020
-Guayas,Balzar,0,0,18/03/2020
-Guayas,Playas,0,0,18/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,18/03/2020
-Guayas,Colimes,0,0,18/03/2020
-Guayas,"El Triunfo",0,0,18/03/2020
-Guayas,Palestina,0,0,18/03/2020
-Guayas,"Isidro Ayora",0,0,18/03/2020
-Guayas,"Lomas de Sargentillo",0,0,18/03/2020
-Guayas,Nobol,0,0,18/03/2020
-Guayas,Yaguachi,0,0,18/03/2020
-Guayas,"Simón Bolivar",0,0,18/03/2020
-Guayas,"Naranjito",0,0,18/03/2020
-Guayas,"General Antonio Elizalde",0,0,18/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,18/03/2020
-Imbabura,Ibarra,0,0,18/03/2020
-Imbabura,Otavalo,0,0,18/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,18/03/2020
-Imbabura,Cotacachi,0,0,18/03/2020
-Imbabura,"Antonio Ante",0,0,18/03/2020
-Imbabura,Pimampiro,0,0,18/03/2020
-Loja,Calvas,0,0,18/03/2020
-Loja,Loja,0,0,18/03/2020
-Loja,Macará,0,0,18/03/2020
-Loja,Catamayo,0,0,18/03/2020
-Loja,Saraguro,0,0,18/03/2020
-Loja,Chaguarpamba,0,0,18/03/2020
-Loja,Olmedo,0,0,18/03/2020
-Loja,Paltas,0,0,18/03/2020
-Loja,Puyango,0,0,18/03/2020
-Loja,Pindal,0,0,18/03/2020
-Loja,Celica,0,0,18/03/2020
-Loja,Zapotillo,0,0,18/03/2020
-Loja,Sozoranga,0,0,18/03/2020
-Loja,Gonzanamá,0,0,18/03/2020
-Loja,Quilanga,0,0,18/03/2020
-Loja,Espíndola,0,0,18/03/2020
-"Los Ríos",Babahoyo,9,9,18/03/2020
-"Los Ríos",Urdaneta,1,1,18/03/2020
-"Los Ríos","Buena Fe",0,0,18/03/2020
-"Los Ríos",Ventanas,0,0,18/03/2020
-"Los Ríos",Mocache,0,0,18/03/2020
-"Los Ríos",Quevedo,0,0,18/03/2020
-"Los Ríos",Montalvo,0,0,18/03/2020
-"Los Ríos",Vinces,0,0,18/03/2020
-"Los Ríos",Valencia,0,0,18/03/2020
-"Los Ríos",Quinsaloma,0,0,18/03/2020
-"Los Ríos",Palenque,0,0,18/03/2020
-"Los Ríos",Baba,0,0,18/03/2020
-"Los Ríos",Puebloviejo,0,0,18/03/2020
-Manabí,Jipijapa,1,1,18/03/2020
-Manabí,Manta,6,7,18/03/2020
-Manabí,Montecristi,0,0,18/03/2020
-Manabí,Portoviejo,0,0,18/03/2020
-Manabí,Sucre,0,0,18/03/2020
-Manabí,Bolívar,0,0,18/03/2020
-Manabí,"Santa Ana",0,0,18/03/2020
-Manabí,Pedernales,0,0,18/03/2020
-Manabí,Chone,0,0,18/03/2020
-Manabí,"Flavio Alfaro",0,0,18/03/2020
-Manabí,"El Carmen",0,0,18/03/2020
-Manabí,Jama,0,0,18/03/2020
-Manabí,"San Vicente",0,0,18/03/2020
-Manabí,Tosagua,0,0,18/03/2020
-Manabí,Rocafuerte,0,0,18/03/2020
-Manabí,Junín,0,0,18/03/2020
-Manabí,Pichincha,0,0,18/03/2020
-Manabí,Jaramijó,0,0,18/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,18/03/2020
-Manabí,Olmedo,0,0,18/03/2020
-Manabí,"Puerto López",0,0,18/03/2020
-Manabí,Paján,0,0,18/03/2020
-Napo,"El Chaco",0,0,18/03/2020
-Napo,Quijos,0,0,18/03/2020
-Napo,Archidona,0,0,18/03/2020
-Napo,Tena,0,0,18/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,18/03/2020
-Orellana,Loreto,0,0,18/03/2020
-Orellana,Orellana,0,0,18/03/2020
-Orellana,"La Joya de los Sachas",0,0,18/03/2020
-Orellana,Aguarico,0,0,18/03/2020
-"Morona Santiago",Gualaquiza,0,1,18/03/2020
-"Morona Santiago",Morona,0,0,18/03/2020
-"Morona Santiago",Sucúa,0,0,18/03/2020
-"Morona Santiago",Palora,0,0,18/03/2020
-"Morona Santiago",Taisha,0,0,18/03/2020
-"Morona Santiago","Pablo Sexto",0,0,18/03/2020
-"Morona Santiago",Huamboya,0,0,18/03/2020
-"Morona Santiago",Santiago,0,0,18/03/2020
-"Morona Santiago",Logroño,0,0,18/03/2020
-"Morona Santiago",Tiwintza,0,0,18/03/2020
-"Morona Santiago","Limón Indanza",0,0,18/03/2020
-"Morona Santiago","San Juan Bosco",0,0,18/03/2020
-Pastaza,Pastaza,0,0,18/03/2020
-Pastaza,Mera,0,0,18/03/2020
-Pastaza,"Santa Clara",0,0,18/03/2020
-Pastaza,Arajuno,0,0,18/03/2020
-Pichincha,Quito,4,12,18/03/2020
-Pichincha,Rumiñahui,0,0,18/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,18/03/2020
-Pichincha,"Puerto Quito",0,0,18/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,18/03/2020
-Pichincha,"Pedro Moncayo",0,0,18/03/2020
-Pichincha,Cayambe,0,0,18/03/2020
-Pichincha,Mejía,0,0,18/03/2020
-"Santa Elena","Santa Elena",0,0,18/03/2020
-"Santa Elena","La Libertad",0,0,18/03/2020
-"Santa Elena",Salinas,0,0,18/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,0,18/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,18/03/2020
-Sucumbíos,Cuyabeno,0,0,18/03/2020
-Sucumbíos,"Lago Agrio",0,1,18/03/2020
-Sucumbíos,Sucumbíos,0,0,18/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,18/03/2020
-Sucumbíos,Cascales,0,0,18/03/2020
-Sucumbíos,Putumayo,0,0,18/03/2020
-Sucumbíos,Shushufindi,0,0,18/03/2020
-Tungurahua,Ambato,0,0,18/03/2020
-Tungurahua,Píllaro,0,0,18/03/2020
-Tungurahua,Patate,0,0,18/03/2020
-Tungurahua,Baños,0,0,18/03/2020
-Tungurahua,Pelileo,0,0,18/03/2020
-Tungurahua,Cevallos,0,0,18/03/2020
-Tungurahua,Tisaleo,0,0,18/03/2020
-Tungurahua,Mocha,0,0,18/03/2020
-Tungurahua,Quero,0,0,18/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,18/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,18/03/2020
-"Zamora Chinchipe","El Pangui",0,0,18/03/2020
-"Zamora Chinchipe",Zamora,0,0,18/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,18/03/2020
-"Zamora Chinchipe",Paquisha,0,0,18/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,18/03/2020
-"Zamora Chinchipe",Palanda,0,0,18/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,18/03/2020
-Azuay,Cuenca,9,14,19/03/2020
-Azuay,"Santa Isabel",0,0,19/03/2020
-Azuay,"Sevilla de Oro",0,0,19/03/2020
-Azuay,Paute,0,0,19/03/2020
-Azuay,Guachapala,0,0,19/03/2020
-Azuay,"El Pan",0,0,19/03/2020
-Azuay,Gualaceo,0,0,19/03/2020
-Azuay,Chordeleg,0,0,19/03/2020
-Azuay,Sígsig,0,0,19/03/2020
-Azuay,Pucará,0,0,19/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,19/03/2020
-Azuay,"San Fernando",0,0,19/03/2020
-Azuay,Girón,0,0,19/03/2020
-Azuay,Nabón,0,0,19/03/2020
-Azuay,Oña,0,0,19/03/2020
-Bolívar,Guaranda,0,2,19/03/2020
-Bolívar,Chillanes,0,0,19/03/2020
-Bolívar,Chimbo,0,0,19/03/2020
-Bolívar,"Las Naves",0,0,19/03/2020
-Bolívar,Echeandía,0,0,19/03/2020
-Bolívar,Caluma,0,0,19/03/2020
-Bolívar,"San Miguel",0,0,19/03/2020
-Cañar,Azogues,3,3,19/03/2020
-Cañar,Cañar,0,0,19/03/2020
-Cañar,"El Tambo",0,0,19/03/2020
-Cañar,"La Troncal",0,0,19/03/2020
-Cañar,Suscal,0,0,19/03/2020
-Cañar,Déleg,0,0,19/03/2020
-Cañar,Biblían,0,0,19/03/2020
-Carchi,Tulcán,0,0,19/03/2020
-Carchi,Mira,0,0,19/03/2020
-Carchi,Espejo,0,0,19/03/2020
-Carchi,Montúfar,0,0,19/03/2020
-Carchi,"San Pedro de Huaca",0,0,19/03/2020
-Carchi,Bolivar,0,0,19/03/2020
-Chimborazo,Colta,2,2,19/03/2020
-Chimborazo,Riobamba,0,0,19/03/2020
-Chimborazo,Cumandá,0,0,19/03/2020
-Chimborazo,Guano,0,0,19/03/2020
-Chimborazo,Penipe,0,0,19/03/2020
-Chimborazo,Chambo,0,0,19/03/2020
-Chimborazo,Pallatanga,0,0,19/03/2020
-Chimborazo,Guamote,0,0,19/03/2020
-Chimborazo,Alausí,0,0,19/03/2020
-Chimborazo,Chunchi,0,0,19/03/2020
-Cotopaxi,"La Maná",0,0,19/03/2020
-Cotopaxi,Latacunga,0,0,19/03/2020
-Cotopaxi,Sigchos,0,0,19/03/2020
-Cotopaxi,Saquisilí,0,0,19/03/2020
-Cotopaxi,Pujilí,0,0,19/03/2020
-Cotopaxi,Pangua,0,0,19/03/2020
-Cotopaxi,Salcedo,0,0,19/03/2020
-"El Oro",Machala,0,1,19/03/2020
-"El Oro","Santa Rosa",0,0,19/03/2020
-"El Oro",Huaquillas,0,0,19/03/2020
-"El Oro",Arenillas,0,0,19/03/2020
-"El Oro",Atahualpa,0,0,19/03/2020
-"El Oro","El Guabo",0,0,19/03/2020
-"El Oro",Pasaje,0,0,19/03/2020
-"El Oro",Chilla,0,0,19/03/2020
-"El Oro",Zaruma,0,0,19/03/2020
-"El Oro","Las Lajas",0,0,19/03/2020
-"El Oro",Marcabelí,0,0,19/03/2020
-"El Oro",Balsas,0,0,19/03/2020
-"El Oro",Piñas,0,0,19/03/2020
-"El Oro",Portovelo,0,0,19/03/2020
-Esmeraldas,Esmeraldas,0,0,19/03/2020
-Esmeraldas,"San Lorenzo",0,0,19/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,19/03/2020
-Esmeraldas,Rioverde,0,0,19/03/2020
-Esmeraldas,Muisne,0,0,19/03/2020
-Esmeraldas,Atacames,0,0,19/03/2020
-Esmeraldas,Quinindé,0,0,19/03/2020
-Galápagos,"San Cristóbal",0,0,19/03/2020
-Galápagos,Isabela,0,0,19/03/2020
-Galápagos,"Santa Cruz",0,0,19/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,0,19/03/2020
-Guayas,Daule,14,21,19/03/2020
-Guayas,Durán,0,8,19/03/2020
-Guayas,Empalme,1,3,19/03/2020
-Guayas,Guayaquil,26,114,19/03/2020
-Guayas,Milagro,4,5,19/03/2020
-Guayas,Samborondón,15,36,19/03/2020
-Guayas,Naranjal,0,0,19/03/2020
-Guayas,"Pedro Carbo",0,0,19/03/2020
-Guayas,Salitre,0,0,19/03/2020
-Guayas,"Santa Lucía",0,0,19/03/2020
-Guayas,Balzar,0,0,19/03/2020
-Guayas,Playas,0,0,19/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,19/03/2020
-Guayas,Colimes,0,0,19/03/2020
-Guayas,"El Triunfo",0,0,19/03/2020
-Guayas,Palestina,0,0,19/03/2020
-Guayas,"Isidro Ayora",0,0,19/03/2020
-Guayas,"Lomas de Sargentillo",0,0,19/03/2020
-Guayas,Nobol,0,0,19/03/2020
-Guayas,Yaguachi,0,0,19/03/2020
-Guayas,"Simón Bolivar",0,0,19/03/2020
-Guayas,"Naranjito",0,0,19/03/2020
-Guayas,"General Antonio Elizalde",0,0,19/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,19/03/2020
-Imbabura,Ibarra,1,1,19/03/2020
-Imbabura,Otavalo,0,0,19/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,19/03/2020
-Imbabura,Cotacachi,0,0,19/03/2020
-Imbabura,"Antonio Ante",0,0,19/03/2020
-Imbabura,Pimampiro,0,0,19/03/2020
-Loja,Calvas,1,1,19/03/2020
-Loja,Loja,2,2,19/03/2020
-Loja,Macará,1,1,19/03/2020
-Loja,Catamayo,0,0,19/03/2020
-Loja,Saraguro,0,0,19/03/2020
-Loja,Chaguarpamba,0,0,19/03/2020
-Loja,Olmedo,0,0,19/03/2020
-Loja,Paltas,0,0,19/03/2020
-Loja,Puyango,0,0,19/03/2020
-Loja,Pindal,0,0,19/03/2020
-Loja,Celica,0,0,19/03/2020
-Loja,Zapotillo,0,0,19/03/2020
-Loja,Sozoranga,0,0,19/03/2020
-Loja,Gonzanamá,0,0,19/03/2020
-Loja,Quilanga,0,0,19/03/2020
-Loja,Espíndola,0,0,19/03/2020
-"Los Ríos",Babahoyo,6,15,19/03/2020
-"Los Ríos",Urdaneta,0,1,19/03/2020
-"Los Ríos","Buena Fe",0,0,19/03/2020
-"Los Ríos",Ventanas,0,0,19/03/2020
-"Los Ríos",Mocache,0,0,19/03/2020
-"Los Ríos",Quevedo,0,0,19/03/2020
-"Los Ríos",Montalvo,0,0,19/03/2020
-"Los Ríos",Vinces,0,0,19/03/2020
-"Los Ríos",Valencia,0,0,19/03/2020
-"Los Ríos",Quinsaloma,0,0,19/03/2020
-"Los Ríos",Palenque,0,0,19/03/2020
-"Los Ríos",Baba,0,0,19/03/2020
-"Los Ríos",Puebloviejo,0,0,19/03/2020
-Manabí,Jipijapa,0,0,19/03/2020
-Manabí,Manta,0,7,19/03/2020
-Manabí,Montecristi,1,1,19/03/2020
-Manabí,Portoviejo,0,0,19/03/2020
-Manabí,Sucre,0,0,19/03/2020
-Manabí,Bolívar,0,0,19/03/2020
-Manabí,"Santa Ana",0,0,19/03/2020
-Manabí,Pedernales,0,0,19/03/2020
-Manabí,Chone,0,0,19/03/2020
-Manabí,"Flavio Alfaro",0,0,19/03/2020
-Manabí,"El Carmen",0,0,19/03/2020
-Manabí,Jama,0,0,19/03/2020
-Manabí,"San Vicente",0,0,19/03/2020
-Manabí,Tosagua,0,0,19/03/2020
-Manabí,Rocafuerte,0,0,19/03/2020
-Manabí,Junín,0,0,19/03/2020
-Manabí,Pichincha,0,0,19/03/2020
-Manabí,Jaramijó,0,0,19/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,19/03/2020
-Manabí,Olmedo,0,0,19/03/2020
-Manabí,"Puerto López",0,0,19/03/2020
-Manabí,Paján,0,0,19/03/2020
-Napo,"El Chaco",0,0,19/03/2020
-Napo,Quijos,0,0,19/03/2020
-Napo,Archidona,0,0,19/03/2020
-Napo,Tena,0,0,19/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,19/03/2020
-Orellana,Loreto,0,0,19/03/2020
-Orellana,Orellana,0,0,19/03/2020
-Orellana,"La Joya de los Sachas",0,0,19/03/2020
-Orellana,Aguarico,0,0,19/03/2020
-"Morona Santiago",Gualaquiza,0,1,19/03/2020
-"Morona Santiago",Morona,1,1,19/03/2020
-"Morona Santiago",Sucúa,1,1,19/03/2020
-"Morona Santiago",Palora,0,0,19/03/2020
-"Morona Santiago",Taisha,0,0,19/03/2020
-"Morona Santiago","Pablo Sexto",0,0,19/03/2020
-"Morona Santiago",Huamboya,0,0,19/03/2020
-"Morona Santiago",Santiago,0,0,19/03/2020
-"Morona Santiago",Logroño,0,0,19/03/2020
-"Morona Santiago",Tiwintza,0,0,19/03/2020
-"Morona Santiago","Limón Indanza",0,0,19/03/2020
-"Morona Santiago","San Juan Bosco",0,0,19/03/2020
-Pastaza,Pastaza,0,0,19/03/2020
-Pastaza,Mera,0,0,19/03/2020
-Pastaza,"Santa Clara",0,0,19/03/2020
-Pastaza,Arajuno,0,0,19/03/2020
-Pichincha,Quito,4,16,19/03/2020
-Pichincha,Rumiñahui,0,0,19/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,19/03/2020
-Pichincha,"Puerto Quito",0,0,19/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,19/03/2020
-Pichincha,"Pedro Moncayo",0,0,19/03/2020
-Pichincha,Cayambe,0,0,19/03/2020
-Pichincha,Mejía,0,0,19/03/2020
-"Santa Elena","Santa Elena",0,0,19/03/2020
-"Santa Elena","La Libertad",0,0,19/03/2020
-"Santa Elena",Salinas,0,0,19/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",1,1,19/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,19/03/2020
-Sucumbíos,Cuyabeno,1,1,19/03/2020
-Sucumbíos,"Lago Agrio",0,1,19/03/2020
-Sucumbíos,Sucumbíos,0,0,19/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,19/03/2020
-Sucumbíos,Cascales,0,0,19/03/2020
-Sucumbíos,Putumayo,0,0,19/03/2020
-Sucumbíos,Shushufindi,0,0,19/03/2020
-Tungurahua,Ambato,0,0,19/03/2020
-Tungurahua,Píllaro,0,0,19/03/2020
-Tungurahua,Patate,0,0,19/03/2020
-Tungurahua,Baños,0,0,19/03/2020
-Tungurahua,Pelileo,0,0,19/03/2020
-Tungurahua,Cevallos,0,0,19/03/2020
-Tungurahua,Tisaleo,0,0,19/03/2020
-Tungurahua,Mocha,0,0,19/03/2020
-Tungurahua,Quero,0,0,19/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,19/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,19/03/2020
-"Zamora Chinchipe","El Pangui",0,0,19/03/2020
-"Zamora Chinchipe",Zamora,0,0,19/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,19/03/2020
-"Zamora Chinchipe",Paquisha,0,0,19/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,19/03/2020
-"Zamora Chinchipe",Palanda,0,0,19/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,19/03/2020
-Azuay,Cuenca,4,18,20/03/2020
-Azuay,"Santa Isabel",0,0,20/03/2020
-Azuay,"Sevilla de Oro",0,0,20/03/2020
-Azuay,Paute,0,0,20/03/2020
-Azuay,Guachapala,0,0,20/03/2020
-Azuay,"El Pan",0,0,20/03/2020
-Azuay,Gualaceo,0,0,20/03/2020
-Azuay,Chordeleg,0,0,20/03/2020
-Azuay,Sígsig,0,0,20/03/2020
-Azuay,Pucará,0,0,20/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,20/03/2020
-Azuay,"San Fernando",0,0,20/03/2020
-Azuay,Girón,0,0,20/03/2020
-Azuay,Nabón,0,0,20/03/2020
-Azuay,Oña,0,0,20/03/2020
-Bolívar,Guaranda,2,4,20/03/2020
-Bolívar,Chillanes,0,0,20/03/2020
-Bolívar,Chimbo,0,0,20/03/2020
-Bolívar,"Las Naves",0,0,20/03/2020
-Bolívar,Echeandía,0,0,20/03/2020
-Bolívar,Caluma,0,0,20/03/2020
-Bolívar,"San Miguel",0,0,20/03/2020
-Cañar,Azogues,0,3,20/03/2020
-Cañar,Cañar,0,0,20/03/2020
-Cañar,"El Tambo",0,0,20/03/2020
-Cañar,"La Troncal",0,0,20/03/2020
-Cañar,Suscal,0,0,20/03/2020
-Cañar,Déleg,0,0,20/03/2020
-Cañar,Biblían,0,0,20/03/2020
-Carchi,Tulcán,0,0,20/03/2020
-Carchi,Mira,0,0,20/03/2020
-Carchi,Espejo,0,0,20/03/2020
-Carchi,Montúfar,0,0,20/03/2020
-Carchi,"San Pedro de Huaca",0,0,20/03/2020
-Carchi,Bolivar,0,0,20/03/2020
-Chimborazo,Colta,0,2,20/03/2020
-Chimborazo,Riobamba,1,1,20/03/2020
-Chimborazo,Cumandá,0,0,20/03/2020
-Chimborazo,Guano,0,0,20/03/2020
-Chimborazo,Penipe,0,0,20/03/2020
-Chimborazo,Chambo,0,0,20/03/2020
-Chimborazo,Pallatanga,0,0,20/03/2020
-Chimborazo,Guamote,0,0,20/03/2020
-Chimborazo,Alausí,0,0,20/03/2020
-Chimborazo,Chunchi,0,0,20/03/2020
-Cotopaxi,"La Maná",0,0,20/03/2020
-Cotopaxi,Latacunga,0,0,20/03/2020
-Cotopaxi,Sigchos,0,0,20/03/2020
-Cotopaxi,Saquisilí,0,0,20/03/2020
-Cotopaxi,Pujilí,0,0,20/03/2020
-Cotopaxi,Pangua,0,0,20/03/2020
-Cotopaxi,Salcedo,0,0,20/03/2020
-"El Oro",Machala,0,1,20/03/2020
-"El Oro","Santa Rosa",1,1,20/03/2020
-"El Oro",Huaquillas,0,0,20/03/2020
-"El Oro",Arenillas,0,0,20/03/2020
-"El Oro",Atahualpa,0,0,20/03/2020
-"El Oro","El Guabo",0,0,20/03/2020
-"El Oro",Pasaje,0,0,20/03/2020
-"El Oro",Chilla,0,0,20/03/2020
-"El Oro",Zaruma,0,0,20/03/2020
-"El Oro","Las Lajas",0,0,20/03/2020
-"El Oro",Marcabelí,0,0,20/03/2020
-"El Oro",Balsas,0,0,20/03/2020
-"El Oro",Piñas,0,0,20/03/2020
-"El Oro",Portovelo,0,0,20/03/2020
-Esmeraldas,Esmeraldas,0,0,20/03/2020
-Esmeraldas,"San Lorenzo",0,0,20/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,20/03/2020
-Esmeraldas,Rioverde,0,0,20/03/2020
-Esmeraldas,Muisne,0,0,20/03/2020
-Esmeraldas,Atacames,0,0,20/03/2020
-Esmeraldas,Quinindé,0,0,20/03/2020
-Galápagos,"San Cristóbal",0,0,20/03/2020
-Galápagos,Isabela,0,0,20/03/2020
-Galápagos,"Santa Cruz",0,0,20/03/2020
-Guayas,"Alfredo Baquerizo Moreno",1,1,20/03/2020
-Guayas,Daule,10,31,20/03/2020
-Guayas,Durán,8,16,20/03/2020
-Guayas,Empalme,0,3,20/03/2020
-Guayas,Guayaquil,91,205,20/03/2020
-Guayas,Milagro,1,6,20/03/2020
-Guayas,Naranjal,1,1,20/03/2020
-Guayas,"Pedro Carbo",2,2,20/03/2020
-Guayas,Salitre,0,0,20/03/2020
-Guayas,Samborondón,16,52,20/03/2020
-Guayas,"Santa Lucía",1,1,20/03/2020
-Guayas,Balzar,0,0,20/03/2020
-Guayas,Playas,0,0,20/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,20/03/2020
-Guayas,Colimes,0,0,20/03/2020
-Guayas,"El Triunfo",0,0,20/03/2020
-Guayas,Palestina,0,0,20/03/2020
-Guayas,"Isidro Ayora",0,0,20/03/2020
-Guayas,"Lomas de Sargentillo",0,0,20/03/2020
-Guayas,Nobol,0,0,20/03/2020
-Guayas,Yaguachi,0,0,20/03/2020
-Guayas,"Simón Bolivar",0,0,20/03/2020
-Guayas,"Naranjito",0,0,20/03/2020
-Guayas,"General Antonio Elizalde",0,0,20/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,20/03/2020
-Imbabura,Ibarra,1,2,20/03/2020
-Imbabura,Otavalo,0,0,20/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,20/03/2020
-Imbabura,Cotacachi,0,0,20/03/2020
-Imbabura,"Antonio Ante",0,0,20/03/2020
-Imbabura,Pimampiro,0,0,20/03/2020
-Loja,Calvas,1,2,20/03/2020
-Loja,Loja,0,2,20/03/2020
-Loja,Macará,0,1,20/03/2020
-Loja,Catamayo,0,0,20/03/2020
-Loja,Saraguro,0,0,20/03/2020
-Loja,Chaguarpamba,0,0,20/03/2020
-Loja,Olmedo,0,0,20/03/2020
-Loja,Paltas,0,0,20/03/2020
-Loja,Puyango,0,0,20/03/2020
-Loja,Pindal,0,0,20/03/2020
-Loja,Celica,0,0,20/03/2020
-Loja,Zapotillo,0,0,20/03/2020
-Loja,Sozoranga,0,0,20/03/2020
-Loja,Gonzanamá,0,0,20/03/2020
-Loja,Quilanga,0,0,20/03/2020
-Loja,Espíndola,0,0,20/03/2020
-"Los Ríos",Babahoyo,1,16,20/03/2020
-"Los Ríos","Buena Fe",1,1,20/03/2020
-"Los Ríos",Urdaneta,0,1,20/03/2020
-"Los Ríos",Ventanas,1,1,20/03/2020
-"Los Ríos",Mocache,0,0,20/03/2020
-"Los Ríos",Quevedo,0,0,20/03/2020
-"Los Ríos",Montalvo,0,0,20/03/2020
-"Los Ríos",Vinces,0,0,20/03/2020
-"Los Ríos",Valencia,0,0,20/03/2020
-"Los Ríos",Quinsaloma,0,0,20/03/2020
-"Los Ríos",Palenque,0,0,20/03/2020
-"Los Ríos",Baba,0,0,20/03/2020
-"Los Ríos",Puebloviejo,0,0,20/03/2020
-Manabí,Jipijapa,1,1,20/03/2020
-Manabí,Manta,0,6,20/03/2020
-Manabí,Montecristi,0,1,20/03/2020
-Manabí,Portoviejo,1,1,20/03/2020
-Manabí,Sucre,0,0,20/03/2020
-Manabí,Bolívar,0,0,20/03/2020
-Manabí,"Santa Ana",0,0,20/03/2020
-Manabí,Pedernales,0,0,20/03/2020
-Manabí,Chone,0,0,20/03/2020
-Manabí,"Flavio Alfaro",0,0,20/03/2020
-Manabí,"El Carmen",0,0,20/03/2020
-Manabí,Jama,0,0,20/03/2020
-Manabí,"San Vicente",0,0,20/03/2020
-Manabí,Tosagua,0,0,20/03/2020
-Manabí,Rocafuerte,0,0,20/03/2020
-Manabí,Junín,0,0,20/03/2020
-Manabí,Pichincha,0,0,20/03/2020
-Manabí,Jaramijó,0,0,20/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,20/03/2020
-Manabí,Olmedo,0,0,20/03/2020
-Manabí,"Puerto López",0,0,20/03/2020
-Manabí,Paján,0,0,20/03/2020
-Napo,"El Chaco",0,0,20/03/2020
-Napo,Quijos,0,0,20/03/2020
-Napo,Archidona,0,0,20/03/2020
-Napo,Tena,0,0,20/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,20/03/2020
-Orellana,Loreto,0,0,20/03/2020
-Orellana,Orellana,0,0,20/03/2020
-Orellana,"La Joya de los Sachas",0,0,20/03/2020
-Orellana,Aguarico,0,0,20/03/2020
-"Morona Santiago",Gualaquiza,0,1,20/03/2020
-"Morona Santiago",Morona,0,1,20/03/2020
-"Morona Santiago",Sucúa,0,1,20/03/2020
-"Morona Santiago",Palora,0,0,20/03/2020
-"Morona Santiago",Taisha,0,0,20/03/2020
-"Morona Santiago","Pablo Sexto",0,0,20/03/2020
-"Morona Santiago",Huamboya,0,0,20/03/2020
-"Morona Santiago",Santiago,0,0,20/03/2020
-"Morona Santiago",Logroño,0,0,20/03/2020
-"Morona Santiago",Tiwintza,0,0,20/03/2020
-"Morona Santiago","Limón Indanza",0,0,20/03/2020
-"Morona Santiago","San Juan Bosco",0,0,20/03/2020
-Pastaza,Pastaza,0,0,20/03/2020
-Pastaza,Mera,0,0,20/03/2020
-Pastaza,"Santa Clara",0,0,20/03/2020
-Pastaza,Arajuno,0,0,20/03/2020
-Pichincha,Quito,19,35,20/03/2020
-Pichincha,Rumiñahui,0,0,20/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,20/03/2020
-Pichincha,"Puerto Quito",0,0,20/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,20/03/2020
-Pichincha,"Pedro Moncayo",0,0,20/03/2020
-Pichincha,Cayambe,0,0,20/03/2020
-Pichincha,Mejía,0,0,20/03/2020
-"Santa Elena","Santa Elena",1,1,20/03/2020
-"Santa Elena","La Libertad",0,0,20/03/2020
-"Santa Elena",Salinas,0,0,20/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,1,20/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,20/03/2020
-Sucumbíos,Cuyabeno,0,1,20/03/2020
-Sucumbíos,"Lago Agrio",1,2,20/03/2020
-Sucumbíos,Sucumbíos,0,0,20/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,20/03/2020
-Sucumbíos,Cascales,0,0,20/03/2020
-Sucumbíos,Putumayo,0,0,20/03/2020
-Sucumbíos,Shushufindi,0,0,20/03/2020
-Tungurahua,Ambato,0,0,20/03/2020
-Tungurahua,Píllaro,0,0,20/03/2020
-Tungurahua,Patate,0,0,20/03/2020
-Tungurahua,Baños,0,0,20/03/2020
-Tungurahua,Pelileo,0,0,20/03/2020
-Tungurahua,Cevallos,0,0,20/03/2020
-Tungurahua,Tisaleo,0,0,20/03/2020
-Tungurahua,Mocha,0,0,20/03/2020
-Tungurahua,Quero,0,0,20/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,20/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,20/03/2020
-"Zamora Chinchipe","El Pangui",0,0,20/03/2020
-"Zamora Chinchipe",Zamora,0,0,20/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,20/03/2020
-"Zamora Chinchipe",Paquisha,0,0,20/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,20/03/2020
-"Zamora Chinchipe",Palanda,0,0,20/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,20/03/2020
-Azuay,Cuenca,0,18,21/03/2020
-Azuay,"Santa Isabel",1,1,21/03/2020
-Azuay,"Sevilla de Oro",0,0,21/03/2020
-Azuay,Paute,0,0,21/03/2020
-Azuay,Guachapala,0,0,21/03/2020
-Azuay,"El Pan",0,0,21/03/2020
-Azuay,Gualaceo,0,0,21/03/2020
-Azuay,Chordeleg,0,0,21/03/2020
-Azuay,Sígsig,0,0,21/03/2020
-Azuay,Pucará,0,0,21/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,21/03/2020
-Azuay,"San Fernando",0,0,21/03/2020
-Azuay,Girón,0,0,21/03/2020
-Azuay,Nabón,0,0,21/03/2020
-Azuay,Oña,0,0,21/03/2020
-Bolívar,Chillanes,1,1,21/03/2020
-Bolívar,Guaranda,0,4,21/03/2020
-Bolívar,Chimbo,0,0,21/03/2020
-Bolívar,"Las Naves",0,0,21/03/2020
-Bolívar,Echeandía,0,0,21/03/2020
-Bolívar,Caluma,0,0,21/03/2020
-Bolívar,"San Miguel",0,0,21/03/2020
-Cañar,Azogues,0,3,21/03/2020
-Cañar,Cañar,0,0,21/03/2020
-Cañar,"El Tambo",0,0,21/03/2020
-Cañar,"La Troncal",0,0,21/03/2020
-Cañar,Suscal,0,0,21/03/2020
-Cañar,Déleg,0,0,21/03/2020
-Cañar,Biblían,0,0,21/03/2020
-Carchi,Tulcán,0,0,21/03/2020
-Carchi,Mira,0,0,21/03/2020
-Carchi,Espejo,0,0,21/03/2020
-Carchi,Montúfar,0,0,21/03/2020
-Carchi,"San Pedro de Huaca",0,0,21/03/2020
-Carchi,Bolivar,0,0,21/03/2020
-Chimborazo,Colta,0,2,21/03/2020
-Chimborazo,Riobamba,1,2,21/03/2020
-Chimborazo,Cumandá,0,0,21/03/2020
-Chimborazo,Guano,0,0,21/03/2020
-Chimborazo,Penipe,0,0,21/03/2020
-Chimborazo,Chambo,0,0,21/03/2020
-Chimborazo,Pallatanga,0,0,21/03/2020
-Chimborazo,Guamote,0,0,21/03/2020
-Chimborazo,Alausí,0,0,21/03/2020
-Chimborazo,Chunchi,0,0,21/03/2020
-Cotopaxi,"La Maná",0,0,21/03/2020
-Cotopaxi,Latacunga,0,0,21/03/2020
-Cotopaxi,Sigchos,0,0,21/03/2020
-Cotopaxi,Saquisilí,0,0,21/03/2020
-Cotopaxi,Pujilí,0,0,21/03/2020
-Cotopaxi,Pangua,0,0,21/03/2020
-Cotopaxi,Salcedo,0,0,21/03/2020
-"El Oro",Machala,0,1,21/03/2020
-"El Oro","Santa Rosa",0,1,21/03/2020
-"El Oro",Huaquillas,0,0,21/03/2020
-"El Oro",Arenillas,0,0,21/03/2020
-"El Oro",Atahualpa,0,0,21/03/2020
-"El Oro","El Guabo",0,0,21/03/2020
-"El Oro",Pasaje,0,0,21/03/2020
-"El Oro",Chilla,0,0,21/03/2020
-"El Oro",Zaruma,0,0,21/03/2020
-"El Oro","Las Lajas",0,0,21/03/2020
-"El Oro",Marcabelí,0,0,21/03/2020
-"El Oro",Balsas,0,0,21/03/2020
-"El Oro",Piñas,0,0,21/03/2020
-"El Oro",Portovelo,0,0,21/03/2020
-Esmeraldas,Esmeraldas,2,2,21/03/2020
-Esmeraldas,"San Lorenzo",0,0,21/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,21/03/2020
-Esmeraldas,Rioverde,0,0,21/03/2020
-Esmeraldas,Muisne,0,0,21/03/2020
-Esmeraldas,Atacames,0,0,21/03/2020
-Esmeraldas,Quinindé,0,0,21/03/2020
-Galápagos,"San Cristóbal",0,0,21/03/2020
-Galápagos,Isabela,0,0,21/03/2020
-Galápagos,"Santa Cruz",0,0,21/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,1,21/03/2020
-Guayas,Daule,3,34,21/03/2020
-Guayas,Durán,2,18,21/03/2020
-Guayas,Empalme,0,3,21/03/2020
-Guayas,Guayaquil,46,251,21/03/2020
-Guayas,Milagro,6,12,21/03/2020
-Guayas,Naranjal,0,1,21/03/2020
-Guayas,"Pedro Carbo",0,2,21/03/2020
-Guayas,Salitre,1,1,21/03/2020
-Guayas,Samborondón,21,73,21/03/2020
-Guayas,"Santa Lucía",0,1,21/03/2020
-Guayas,Balzar,0,0,21/03/2020
-Guayas,Playas,0,0,21/03/2020
-Guayas,"San Jacinto De Yaguachi",0,0,21/03/2020
-Guayas,Colimes,0,0,21/03/2020
-Guayas,"El Triunfo",0,0,21/03/2020
-Guayas,Palestina,0,0,21/03/2020
-Guayas,"Isidro Ayora",0,0,21/03/2020
-Guayas,"Lomas de Sargentillo",0,0,21/03/2020
-Guayas,Nobol,0,0,21/03/2020
-Guayas,Yaguachi,0,0,21/03/2020
-Guayas,"Simón Bolivar",0,0,21/03/2020
-Guayas,"Naranjito",0,0,21/03/2020
-Guayas,"General Antonio Elizalde",0,0,21/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,21/03/2020
-Imbabura,Ibarra,1,3,21/03/2020
-Imbabura,Otavalo,0,0,21/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,21/03/2020
-Imbabura,Cotacachi,0,0,21/03/2020
-Imbabura,"Antonio Ante",0,0,21/03/2020
-Imbabura,Pimampiro,0,0,21/03/2020
-Loja,Calvas,0,2,21/03/2020
-Loja,Loja,0,2,21/03/2020
-Loja,Macará,0,1,21/03/2020
-Loja,Catamayo,0,0,21/03/2020
-Loja,Saraguro,0,0,21/03/2020
-Loja,Chaguarpamba,0,0,21/03/2020
-Loja,Olmedo,0,0,21/03/2020
-Loja,Paltas,0,0,21/03/2020
-Loja,Puyango,0,0,21/03/2020
-Loja,Pindal,0,0,21/03/2020
-Loja,Celica,0,0,21/03/2020
-Loja,Zapotillo,0,0,21/03/2020
-Loja,Sozoranga,0,0,21/03/2020
-Loja,Gonzanamá,0,0,21/03/2020
-Loja,Quilanga,0,0,21/03/2020
-Loja,Espíndola,0,0,21/03/2020
-"Los Ríos",Babahoyo,1,17,21/03/2020
-"Los Ríos","Buena Fe",0,1,21/03/2020
-"Los Ríos",Mocache,0,1,21/03/2020
-"Los Ríos",Quevedo,1,1,21/03/2020
-"Los Ríos",Urdaneta,0,1,21/03/2020
-"Los Ríos",Ventanas,0,1,21/03/2020
-"Los Ríos",Montalvo,0,0,21/03/2020
-"Los Ríos",Vinces,0,0,21/03/2020
-"Los Ríos",Valencia,0,0,21/03/2020
-"Los Ríos",Quinsaloma,0,0,21/03/2020
-"Los Ríos",Palenque,0,0,21/03/2020
-"Los Ríos",Baba,0,0,21/03/2020
-"Los Ríos",Puebloviejo,0,0,21/03/2020
-Manabí,Jipijapa,0,1,21/03/2020
-Manabí,Manta,0,6,21/03/2020
-Manabí,Montecristi,0,1,21/03/2020
-Manabí,Portoviejo,0,1,21/03/2020
-Manabí,Sucre,0,0,21/03/2020
-Manabí,Bolívar,0,0,21/03/2020
-Manabí,"Santa Ana",0,0,21/03/2020
-Manabí,Pedernales,0,0,21/03/2020
-Manabí,Chone,0,0,21/03/2020
-Manabí,"Flavio Alfaro",0,0,21/03/2020
-Manabí,"El Carmen",0,0,21/03/2020
-Manabí,Jama,0,0,21/03/2020
-Manabí,"San Vicente",0,0,21/03/2020
-Manabí,Tosagua,0,0,21/03/2020
-Manabí,Rocafuerte,0,0,21/03/2020
-Manabí,Junín,0,0,21/03/2020
-Manabí,Pichincha,0,0,21/03/2020
-Manabí,Jaramijó,0,0,21/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,21/03/2020
-Manabí,Olmedo,0,0,21/03/2020
-Manabí,"Puerto López",0,0,21/03/2020
-Manabí,Paján,0,0,21/03/2020
-Napo,"El Chaco",0,0,21/03/2020
-Napo,Quijos,0,0,21/03/2020
-Napo,Archidona,0,0,21/03/2020
-Napo,Tena,0,0,21/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,21/03/2020
-Orellana,Loreto,0,0,21/03/2020
-Orellana,Orellana,0,0,21/03/2020
-Orellana,"La Joya de los Sachas",0,0,21/03/2020
-Orellana,Aguarico,0,0,21/03/2020
-"Morona Santiago",Gualaquiza,0,1,21/03/2020
-"Morona Santiago",Morona,0,1,21/03/2020
-"Morona Santiago",Sucúa,0,1,21/03/2020
-"Morona Santiago",Palora,0,0,21/03/2020
-"Morona Santiago",Taisha,0,0,21/03/2020
-"Morona Santiago","Pablo Sexto",0,0,21/03/2020
-"Morona Santiago",Huamboya,0,0,21/03/2020
-"Morona Santiago",Santiago,0,0,21/03/2020
-"Morona Santiago",Logroño,0,0,21/03/2020
-"Morona Santiago",Tiwintza,0,0,21/03/2020
-"Morona Santiago","Limón Indanza",0,0,21/03/2020
-"Morona Santiago","San Juan Bosco",0,0,21/03/2020
-Pastaza,Pastaza,0,0,21/03/2020
-Pastaza,Mera,0,0,21/03/2020
-Pastaza,"Santa Clara",0,0,21/03/2020
-Pastaza,Arajuno,0,0,21/03/2020
-Pichincha,Quito,15,50,21/03/2020
-Pichincha,Rumiñahui,0,0,21/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,21/03/2020
-Pichincha,"Puerto Quito",0,0,21/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,21/03/2020
-Pichincha,"Pedro Moncayo",0,0,21/03/2020
-Pichincha,Cayambe,0,0,21/03/2020
-Pichincha,Mejía,0,0,21/03/2020
-"Santa Elena","Santa Elena",0,1,21/03/2020
-"Santa Elena","La Libertad",0,0,21/03/2020
-"Santa Elena",Salinas,0,0,21/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",3,4,21/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,21/03/2020
-Sucumbíos,Cuyabeno,0,1,21/03/2020
-Sucumbíos,"Lago Agrio",0,2,21/03/2020
-Sucumbíos,Sucumbíos,0,0,21/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,21/03/2020
-Sucumbíos,Cascales,0,0,21/03/2020
-Sucumbíos,Putumayo,0,0,21/03/2020
-Sucumbíos,Shushufindi,0,0,21/03/2020
-Tungurahua,Ambato,0,0,21/03/2020
-Tungurahua,Píllaro,0,0,21/03/2020
-Tungurahua,Patate,0,0,21/03/2020
-Tungurahua,Baños,0,0,21/03/2020
-Tungurahua,Pelileo,0,0,21/03/2020
-Tungurahua,Cevallos,0,0,21/03/2020
-Tungurahua,Tisaleo,0,0,21/03/2020
-Tungurahua,Mocha,0,0,21/03/2020
-Tungurahua,Quero,0,0,21/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,21/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,21/03/2020
-"Zamora Chinchipe","El Pangui",0,0,21/03/2020
-"Zamora Chinchipe",Zamora,0,0,21/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,21/03/2020
-"Zamora Chinchipe",Paquisha,0,0,21/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,21/03/2020
-"Zamora Chinchipe",Palanda,0,0,21/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,21/03/2020
-Azuay,Cuenca,0,18,22/03/2020
-Azuay,"Santa Isabel",0,1,22/03/2020
-Azuay,"Sevilla de Oro",0,0,22/03/2020
-Azuay,Paute,0,0,22/03/2020
-Azuay,Guachapala,0,0,22/03/2020
-Azuay,"El Pan",0,0,22/03/2020
-Azuay,Gualaceo,0,0,22/03/2020
-Azuay,Chordeleg,0,0,22/03/2020
-Azuay,Sígsig,0,0,22/03/2020
-Azuay,Pucará,0,0,22/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,22/03/2020
-Azuay,"San Fernando",0,0,22/03/2020
-Azuay,Girón,0,0,22/03/2020
-Azuay,Nabón,0,0,22/03/2020
-Azuay,Oña,0,0,22/03/2020
-Bolívar,Chillanes,0,1,22/03/2020
-Bolívar,Chimbo,1,1,22/03/2020
-Bolívar,Guaranda,2,6,22/03/2020
-Bolívar,"Las Naves",0,0,22/03/2020
-Bolívar,Echeandía,0,0,22/03/2020
-Bolívar,Caluma,0,0,22/03/2020
-Bolívar,"San Miguel",0,0,22/03/2020
-Cañar,Azogues,1,4,22/03/2020
-Cañar,Cañar,0,0,22/03/2020
-Cañar,"El Tambo",0,0,22/03/2020
-Cañar,"La Troncal",0,0,22/03/2020
-Cañar,Suscal,0,0,22/03/2020
-Cañar,Déleg,0,0,22/03/2020
-Cañar,Biblían,0,0,22/03/2020
-Carchi,Tulcán,0,0,22/03/2020
-Carchi,Mira,0,0,22/03/2020
-Carchi,Espejo,0,0,22/03/2020
-Carchi,Montúfar,0,0,22/03/2020
-Carchi,"San Pedro de Huaca",0,0,22/03/2020
-Carchi,Bolivar,0,0,22/03/2020
-Chimborazo,Colta,4,6,22/03/2020
-Chimborazo,Riobamba,0,2,22/03/2020
-Chimborazo,Cumandá,1,1,22/03/2020
-Chimborazo,Guano,0,0,22/03/2020
-Chimborazo,Penipe,0,0,22/03/2020
-Chimborazo,Chambo,0,0,22/03/2020
-Chimborazo,Pallatanga,0,0,22/03/2020
-Chimborazo,Guamote,0,0,22/03/2020
-Chimborazo,Alausí,0,0,22/03/2020
-Chimborazo,Chunchi,0,0,22/03/2020
-Cotopaxi,"La Maná",0,0,22/03/2020
-Cotopaxi,Latacunga,0,0,22/03/2020
-Cotopaxi,Sigchos,0,0,22/03/2020
-Cotopaxi,Saquisilí,0,0,22/03/2020
-Cotopaxi,Pujilí,0,0,22/03/2020
-Cotopaxi,Pangua,0,0,22/03/2020
-Cotopaxi,Salcedo,0,0,22/03/2020
-"El Oro",Machala,0,1,22/03/2020
-"El Oro","Santa Rosa",2,3,22/03/2020
-"El Oro",Huaquillas,2,2,22/03/2020
-"El Oro",Arenillas,0,0,22/03/2020
-"El Oro",Atahualpa,0,0,22/03/2020
-"El Oro","El Guabo",0,0,22/03/2020
-"El Oro",Pasaje,0,0,22/03/2020
-"El Oro",Chilla,0,0,22/03/2020
-"El Oro",Zaruma,0,0,22/03/2020
-"El Oro","Las Lajas",0,0,22/03/2020
-"El Oro",Marcabelí,0,0,22/03/2020
-"El Oro",Balsas,0,0,22/03/2020
-"El Oro",Piñas,0,0,22/03/2020
-"El Oro",Portovelo,0,0,22/03/2020
-Esmeraldas,Esmeraldas,0,2,22/03/2020
-Esmeraldas,"San Lorenzo",0,0,22/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,22/03/2020
-Esmeraldas,Rioverde,0,0,22/03/2020
-Esmeraldas,Muisne,0,0,22/03/2020
-Esmeraldas,Atacames,0,0,22/03/2020
-Esmeraldas,Quinindé,0,0,22/03/2020
-Galápagos,"San Cristóbal",0,0,22/03/2020
-Galápagos,Isabela,0,0,22/03/2020
-Galápagos,"Santa Cruz",0,0,22/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,1,22/03/2020
-Guayas,Balzar,1,1,22/03/2020
-Guayas,Daule,10,44,22/03/2020
-Guayas,Durán,0,28,22/03/2020
-Guayas,Empalme,1,4,22/03/2020
-Guayas,Guayaquil,157,408,22/03/2020
-Guayas,Milagro,9,21,22/03/2020
-Guayas,Naranjal,0,1,22/03/2020
-Guayas,"Pedro Carbo",0,2,22/03/2020
-Guayas,Salitre,2,3,22/03/2020
-Guayas,Samborondón,16,89,22/03/2020
-Guayas,"Santa Lucía",2,3,22/03/2020
-Guayas,Playas,1,1,22/03/2020
-Guayas,"San Jacinto De Yaguachi",1,1,22/03/2020
-Guayas,Colimes,0,0,22/03/2020
-Guayas,"El Triunfo",0,0,22/03/2020
-Guayas,Palestina,0,0,22/03/2020
-Guayas,"Isidro Ayora",0,0,22/03/2020
-Guayas,"Lomas de Sargentillo",0,0,22/03/2020
-Guayas,Nobol,0,0,22/03/2020
-Guayas,Yaguachi,0,0,22/03/2020
-Guayas,"Simón Bolivar",0,0,22/03/2020
-Guayas,"Naranjito",0,0,22/03/2020
-Guayas,"General Antonio Elizalde",0,0,22/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,22/03/2020
-Imbabura,Ibarra,1,4,22/03/2020
-Imbabura,Otavalo,0,0,22/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,22/03/2020
-Imbabura,Cotacachi,0,0,22/03/2020
-Imbabura,"Antonio Ante",0,0,22/03/2020
-Imbabura,Pimampiro,0,0,22/03/2020
-Loja,Calvas,0,2,22/03/2020
-Loja,Loja,0,2,22/03/2020
-Loja,Macará,0,1,22/03/2020
-Loja,Catamayo,0,0,22/03/2020
-Loja,Saraguro,0,0,22/03/2020
-Loja,Chaguarpamba,0,0,22/03/2020
-Loja,Olmedo,0,0,22/03/2020
-Loja,Paltas,0,0,22/03/2020
-Loja,Puyango,0,0,22/03/2020
-Loja,Pindal,0,0,22/03/2020
-Loja,Celica,0,0,22/03/2020
-Loja,Zapotillo,0,0,22/03/2020
-Loja,Sozoranga,0,0,22/03/2020
-Loja,Gonzanamá,0,0,22/03/2020
-Loja,Quilanga,0,0,22/03/2020
-Loja,Espíndola,0,0,22/03/2020
-"Los Ríos",Babahoyo,0,17,22/03/2020
-"Los Ríos","Buena Fe",0,1,22/03/2020
-"Los Ríos",Mocache,0,1,22/03/2020
-"Los Ríos",Quevedo,2,3,22/03/2020
-"Los Ríos",Urdaneta,0,1,22/03/2020
-"Los Ríos",Ventanas,1,2,22/03/2020
-"Los Ríos",Montalvo,0,0,22/03/2020
-"Los Ríos",Vinces,0,0,22/03/2020
-"Los Ríos",Valencia,0,0,22/03/2020
-"Los Ríos",Quinsaloma,0,0,22/03/2020
-"Los Ríos",Palenque,0,0,22/03/2020
-"Los Ríos",Baba,0,0,22/03/2020
-"Los Ríos",Puebloviejo,0,0,22/03/2020
-Manabí,Jipijapa,0,1,22/03/2020
-Manabí,Manta,12,18,22/03/2020
-Manabí,Montecristi,0,1,22/03/2020
-Manabí,Portoviejo,3,4,22/03/2020
-Manabí,Sucre,1,1,22/03/2020
-Manabí,Bolívar,0,0,22/03/2020
-Manabí,"Santa Ana",0,0,22/03/2020
-Manabí,Pedernales,0,0,22/03/2020
-Manabí,Chone,0,0,22/03/2020
-Manabí,"Flavio Alfaro",0,0,22/03/2020
-Manabí,"El Carmen",0,0,22/03/2020
-Manabí,Jama,0,0,22/03/2020
-Manabí,"San Vicente",0,0,22/03/2020
-Manabí,Tosagua,0,0,22/03/2020
-Manabí,Rocafuerte,0,0,22/03/2020
-Manabí,Junín,0,0,22/03/2020
-Manabí,Pichincha,0,0,22/03/2020
-Manabí,Jaramijó,0,0,22/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,22/03/2020
-Manabí,Olmedo,0,0,22/03/2020
-Manabí,"Puerto López",0,0,22/03/2020
-Manabí,Paján,0,0,22/03/2020
-Napo,"El Chaco",0,0,22/03/2020
-Napo,Quijos,0,0,22/03/2020
-Napo,Archidona,0,0,22/03/2020
-Napo,Tena,0,0,22/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,22/03/2020
-Orellana,Loreto,0,0,22/03/2020
-Orellana,Orellana,0,0,22/03/2020
-Orellana,"La Joya de los Sachas",0,0,22/03/2020
-Orellana,Aguarico,0,0,22/03/2020
-"Morona Santiago",Gualaquiza,0,1,22/03/2020
-"Morona Santiago",Morona,0,1,22/03/2020
-"Morona Santiago",Sucúa,0,1,22/03/2020
-"Morona Santiago",Palora,0,0,22/03/2020
-"Morona Santiago",Taisha,0,0,22/03/2020
-"Morona Santiago","Pablo Sexto",0,0,22/03/2020
-"Morona Santiago",Huamboya,0,0,22/03/2020
-"Morona Santiago",Santiago,0,0,22/03/2020
-"Morona Santiago",Logroño,0,0,22/03/2020
-"Morona Santiago",Tiwintza,0,0,22/03/2020
-"Morona Santiago","Limón Indanza",0,0,22/03/2020
-"Morona Santiago","San Juan Bosco",0,0,22/03/2020
-Pastaza,Pastaza,0,0,22/03/2020
-Pastaza,Mera,0,0,22/03/2020
-Pastaza,"Santa Clara",0,0,22/03/2020
-Pastaza,Arajuno,0,0,22/03/2020
-Pichincha,Quito,9,59,22/03/2020
-Pichincha,Rumiñahui,1,1,22/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,22/03/2020
-Pichincha,"Puerto Quito",0,0,22/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,22/03/2020
-Pichincha,"Pedro Moncayo",0,0,22/03/2020
-Pichincha,Cayambe,0,0,22/03/2020
-Pichincha,Mejía,0,0,22/03/2020
-"Santa Elena","Santa Elena",1,2,22/03/2020
-"Santa Elena","La Libertad",0,0,22/03/2020
-"Santa Elena",Salinas,0,0,22/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,4,22/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,22/03/2020
-Sucumbíos,Cuyabeno,0,1,22/03/2020
-Sucumbíos,"Lago Agrio",3,5,22/03/2020
-Sucumbíos,Sucumbíos,0,0,22/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,22/03/2020
-Sucumbíos,Cascales,0,0,22/03/2020
-Sucumbíos,Putumayo,0,0,22/03/2020
-Sucumbíos,Shushufindi,0,0,22/03/2020
-Tungurahua,Ambato,0,0,22/03/2020
-Tungurahua,Píllaro,0,0,22/03/2020
-Tungurahua,Patate,0,0,22/03/2020
-Tungurahua,Baños,0,0,22/03/2020
-Tungurahua,Pelileo,0,0,22/03/2020
-Tungurahua,Cevallos,0,0,22/03/2020
-Tungurahua,Tisaleo,0,0,22/03/2020
-Tungurahua,Mocha,0,0,22/03/2020
-Tungurahua,Quero,0,0,22/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,22/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,22/03/2020
-"Zamora Chinchipe","El Pangui",0,0,22/03/2020
-"Zamora Chinchipe",Zamora,0,0,22/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,22/03/2020
-"Zamora Chinchipe",Paquisha,0,0,22/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,22/03/2020
-"Zamora Chinchipe",Palanda,0,0,22/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,22/03/2020
-Azuay,Cuenca,4,22,23/03/2020
-Azuay,"Santa Isabel",0,1,23/03/2020
-Azuay,"Sevilla de Oro",0,0,23/03/2020
-Azuay,Paute,0,0,23/03/2020
-Azuay,Guachapala,0,0,23/03/2020
-Azuay,"El Pan",0,0,23/03/2020
-Azuay,Gualaceo,0,0,23/03/2020
-Azuay,Chordeleg,0,0,23/03/2020
-Azuay,Sígsig,0,0,23/03/2020
-Azuay,Pucará,0,0,23/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,23/03/2020
-Azuay,"San Fernando",0,0,23/03/2020
-Azuay,Girón,0,0,23/03/2020
-Azuay,Nabón,0,0,23/03/2020
-Azuay,Oña,0,0,23/03/2020
-Bolívar,Chillanes,0,1,23/03/2020
-Bolívar,Chimbo,0,1,23/03/2020
-Bolívar,Guaranda,1,7,23/03/2020
-Bolívar,"Las Naves",0,0,23/03/2020
-Bolívar,Echeandía,0,0,23/03/2020
-Bolívar,Caluma,0,0,23/03/2020
-Bolívar,"San Miguel",0,0,23/03/2020
-Cañar,Azogues,0,4,23/03/2020
-Cañar,Cañar,1,1,23/03/2020
-Cañar,"El Tambo",0,0,23/03/2020
-Cañar,"La Troncal",0,0,23/03/2020
-Cañar,Suscal,0,0,23/03/2020
-Cañar,Déleg,0,0,23/03/2020
-Cañar,Biblían,0,0,23/03/2020
-Carchi,Tulcán,0,0,23/03/2020
-Carchi,Mira,0,0,23/03/2020
-Carchi,Espejo,0,0,23/03/2020
-Carchi,Montúfar,0,0,23/03/2020
-Carchi,"San Pedro de Huaca",0,0,23/03/2020
-Carchi,Bolivar,0,0,23/03/2020
-Chimborazo,Colta,0,6,23/03/2020
-Chimborazo,Riobamba,0,2,23/03/2020
-Chimborazo,Cumandá,0,1,23/03/2020
-Chimborazo,Guano,0,0,23/03/2020
-Chimborazo,Penipe,0,0,23/03/2020
-Chimborazo,Chambo,0,0,23/03/2020
-Chimborazo,Pallatanga,0,0,23/03/2020
-Chimborazo,Guamote,0,0,23/03/2020
-Chimborazo,Alausí,0,0,23/03/2020
-Chimborazo,Chunchi,0,0,23/03/2020
-Cotopaxi,"La Maná",1,1,23/03/2020
-Cotopaxi,Latacunga,0,0,23/03/2020
-Cotopaxi,Sigchos,0,0,23/03/2020
-Cotopaxi,Saquisilí,0,0,23/03/2020
-Cotopaxi,Pujilí,0,0,23/03/2020
-Cotopaxi,Pangua,0,0,23/03/2020
-Cotopaxi,Salcedo,0,0,23/03/2020
-"El Oro",Arenillas,1,1,23/03/2020
-"El Oro",Huaquillas,0,2,23/03/2020
-"El Oro",Machala,1,2,23/03/2020
-"El Oro","Santa Rosa",1,4,23/03/2020
-"El Oro",Atahualpa,0,0,23/03/2020
-"El Oro","El Guabo",0,0,23/03/2020
-"El Oro",Pasaje,0,0,23/03/2020
-"El Oro",Chilla,0,0,23/03/2020
-"El Oro",Zaruma,0,0,23/03/2020
-"El Oro","Las Lajas",0,0,23/03/2020
-"El Oro",Marcabelí,0,0,23/03/2020
-"El Oro",Balsas,0,0,23/03/2020
-"El Oro",Piñas,0,0,23/03/2020
-"El Oro",Portovelo,0,0,23/03/2020
-Esmeraldas,Esmeraldas,1,3,23/03/2020
-Esmeraldas,"San Lorenzo",0,0,23/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,23/03/2020
-Esmeraldas,Rioverde,0,0,23/03/2020
-Esmeraldas,Muisne,0,0,23/03/2020
-Esmeraldas,Atacames,0,0,23/03/2020
-Esmeraldas,Quinindé,0,0,23/03/2020
-Galápagos,"San Cristóbal",0,0,23/03/2020
-Galápagos,Isabela,0,0,23/03/2020
-Galápagos,"Santa Cruz",0,0,23/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,1,23/03/2020
-Guayas,Balzar,0,1,23/03/2020
-Guayas,Colimes,0,1,23/03/2020
-Guayas,Daule,15,59,23/03/2020
-Guayas,Durán,9,37,23/03/2020
-Guayas,Empalme,1,5,23/03/2020
-Guayas,Guayaquil,118,526,23/03/2020
-Guayas,Milagro,12,33,23/03/2020
-Guayas,Naranjal,0,1,23/03/2020
-Guayas,"Pedro Carbo",1,3,23/03/2020
-Guayas,Salitre,0,3,23/03/2020
-Guayas,Samborondón,2,91,23/03/2020
-Guayas,"Santa Lucía",1,4,23/03/2020
-Guayas,Playas,0,1,23/03/2020
-Guayas,"San Jacinto De Yaguachi",2,3,23/03/2020
-Guayas,"El Triunfo",0,0,23/03/2020
-Guayas,Palestina,0,0,23/03/2020
-Guayas,"Isidro Ayora",0,0,23/03/2020
-Guayas,"Lomas de Sargentillo",0,0,23/03/2020
-Guayas,Nobol,0,0,23/03/2020
-Guayas,Yaguachi,0,0,23/03/2020
-Guayas,"Simón Bolivar",0,0,23/03/2020
-Guayas,"Naranjito",0,0,23/03/2020
-Guayas,"General Antonio Elizalde",0,0,23/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,23/03/2020
-Imbabura,Ibarra,0,4,23/03/2020
-Imbabura,Otavalo,0,0,23/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,23/03/2020
-Imbabura,Cotacachi,0,0,23/03/2020
-Imbabura,"Antonio Ante",0,0,23/03/2020
-Imbabura,Pimampiro,0,0,23/03/2020
-Loja,Calvas,0,2,23/03/2020
-Loja,Loja,0,2,23/03/2020
-Loja,Macará,0,1,23/03/2020
-Loja,Catamayo,0,0,23/03/2020
-Loja,Saraguro,0,0,23/03/2020
-Loja,Chaguarpamba,0,0,23/03/2020
-Loja,Olmedo,0,0,23/03/2020
-Loja,Paltas,0,0,23/03/2020
-Loja,Puyango,0,0,23/03/2020
-Loja,Pindal,0,0,23/03/2020
-Loja,Celica,0,0,23/03/2020
-Loja,Zapotillo,0,0,23/03/2020
-Loja,Sozoranga,0,0,23/03/2020
-Loja,Gonzanamá,0,0,23/03/2020
-Loja,Quilanga,0,0,23/03/2020
-Loja,Espíndola,0,0,23/03/2020
-"Los Ríos",Babahoyo,3,20,23/03/2020
-"Los Ríos","Buena Fe",0,1,23/03/2020
-"Los Ríos",Mocache,0,1,23/03/2020
-"Los Ríos",Quevedo,0,3,23/03/2020
-"Los Ríos",Urdaneta,0,1,23/03/2020
-"Los Ríos",Ventanas,0,2,23/03/2020
-"Los Ríos",Montalvo,0,0,23/03/2020
-"Los Ríos",Vinces,0,0,23/03/2020
-"Los Ríos",Valencia,0,0,23/03/2020
-"Los Ríos",Quinsaloma,0,0,23/03/2020
-"Los Ríos",Palenque,0,0,23/03/2020
-"Los Ríos",Baba,0,0,23/03/2020
-"Los Ríos",Puebloviejo,0,0,23/03/2020
-Manabí,Jipijapa,0,1,23/03/2020
-Manabí,Manta,2,20,23/03/2020
-Manabí,Montecristi,0,1,23/03/2020
-Manabí,Portoviejo,0,4,23/03/2020
-Manabí,Sucre,0,1,23/03/2020
-Manabí,Bolívar,0,0,23/03/2020
-Manabí,"Santa Ana",0,0,23/03/2020
-Manabí,Pedernales,0,0,23/03/2020
-Manabí,Chone,0,0,23/03/2020
-Manabí,"Flavio Alfaro",0,0,23/03/2020
-Manabí,"El Carmen",0,0,23/03/2020
-Manabí,Jama,0,0,23/03/2020
-Manabí,"San Vicente",0,0,23/03/2020
-Manabí,Tosagua,0,0,23/03/2020
-Manabí,Rocafuerte,0,0,23/03/2020
-Manabí,Junín,0,0,23/03/2020
-Manabí,Pichincha,0,0,23/03/2020
-Manabí,Jaramijó,0,0,23/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,23/03/2020
-Manabí,Olmedo,0,0,23/03/2020
-Manabí,"Puerto López",0,0,23/03/2020
-Manabí,Paján,0,0,23/03/2020
-Napo,"El Chaco",0,0,23/03/2020
-Napo,Quijos,0,0,23/03/2020
-Napo,Archidona,0,0,23/03/2020
-Napo,Tena,0,0,23/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,23/03/2020
-Orellana,Loreto,0,0,23/03/2020
-Orellana,Orellana,0,0,23/03/2020
-Orellana,"La Joya de los Sachas",0,0,23/03/2020
-Orellana,Aguarico,0,0,23/03/2020
-"Morona Santiago",Gualaquiza,0,1,23/03/2020
-"Morona Santiago",Morona,0,1,23/03/2020
-"Morona Santiago",Sucúa,1,2,23/03/2020
-"Morona Santiago",Palora,2,2,23/03/2020
-"Morona Santiago",Taisha,0,0,23/03/2020
-"Morona Santiago","Pablo Sexto",0,0,23/03/2020
-"Morona Santiago",Huamboya,0,0,23/03/2020
-"Morona Santiago",Santiago,0,0,23/03/2020
-"Morona Santiago",Logroño,0,0,23/03/2020
-"Morona Santiago",Tiwintza,0,0,23/03/2020
-"Morona Santiago","Limón Indanza",0,0,23/03/2020
-"Morona Santiago","San Juan Bosco",0,0,23/03/2020
-Pastaza,Pastaza,0,0,23/03/2020
-Pastaza,Mera,0,0,23/03/2020
-Pastaza,"Santa Clara",0,0,23/03/2020
-Pastaza,Arajuno,0,0,23/03/2020
-Pichincha,Quito,4,63,23/03/2020
-Pichincha,Rumiñahui,1,2,23/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,23/03/2020
-Pichincha,"Puerto Quito",0,0,23/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,23/03/2020
-Pichincha,"Pedro Moncayo",0,0,23/03/2020
-Pichincha,Cayambe,0,0,23/03/2020
-Pichincha,Mejía,0,0,23/03/2020
-"Santa Elena","Santa Elena",0,2,23/03/2020
-"Santa Elena","La Libertad",2,2,23/03/2020
-"Santa Elena",Salinas,0,0,23/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",3,7,23/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,23/03/2020
-Sucumbíos,Cuyabeno,0,1,23/03/2020
-Sucumbíos,"Lago Agrio",0,5,23/03/2020
-Sucumbíos,Sucumbíos,0,0,23/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,23/03/2020
-Sucumbíos,Cascales,0,0,23/03/2020
-Sucumbíos,Putumayo,0,0,23/03/2020
-Sucumbíos,Shushufindi,0,0,23/03/2020
-Tungurahua,Ambato,1,1,23/03/2020
-Tungurahua,Píllaro,0,0,23/03/2020
-Tungurahua,Patate,0,0,23/03/2020
-Tungurahua,Baños,0,0,23/03/2020
-Tungurahua,Pelileo,0,0,23/03/2020
-Tungurahua,Cevallos,0,0,23/03/2020
-Tungurahua,Tisaleo,0,0,23/03/2020
-Tungurahua,Mocha,0,0,23/03/2020
-Tungurahua,Quero,0,0,23/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,23/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,23/03/2020
-"Zamora Chinchipe","El Pangui",0,0,23/03/2020
-"Zamora Chinchipe",Zamora,0,0,23/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,23/03/2020
-"Zamora Chinchipe",Paquisha,0,0,23/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,23/03/2020
-"Zamora Chinchipe",Palanda,0,0,23/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,23/03/2020
-Azuay,Cuenca,4,26,24/03/2020
-Azuay,"Santa Isabel",1,2,24/03/2020
-Azuay,"Sevilla de Oro",0,0,24/03/2020
-Azuay,Paute,0,0,24/03/2020
-Azuay,Guachapala,0,0,24/03/2020
-Azuay,"El Pan",0,0,24/03/2020
-Azuay,Gualaceo,0,0,24/03/2020
-Azuay,Chordeleg,0,0,24/03/2020
-Azuay,Sígsig,0,0,24/03/2020
-Azuay,Pucará,0,0,24/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,24/03/2020
-Azuay,"San Fernando",0,0,24/03/2020
-Azuay,Girón,0,0,24/03/2020
-Azuay,Nabón,0,0,24/03/2020
-Azuay,Oña,0,0,24/03/2020
-Bolívar,Chillanes,0,1,24/03/2020
-Bolívar,Chimbo,0,1,24/03/2020
-Bolívar,Guaranda,0,7,24/03/2020
-Bolívar,"Las Naves",0,0,24/03/2020
-Bolívar,Echeandía,0,0,24/03/2020
-Bolívar,Caluma,0,0,24/03/2020
-Bolívar,"San Miguel",0,0,24/03/2020
-Cañar,Azogues,0,4,24/03/2020
-Cañar,Cañar,0,1,24/03/2020
-Cañar,"El Tambo",2,2,24/03/2020
-Cañar,"La Troncal",0,0,24/03/2020
-Cañar,Suscal,0,0,24/03/2020
-Cañar,Déleg,0,0,24/03/2020
-Cañar,Biblían,0,0,24/03/2020
-Carchi,Tulcán,0,0,24/03/2020
-Carchi,Mira,0,0,24/03/2020
-Carchi,Espejo,0,0,24/03/2020
-Carchi,Montúfar,0,0,24/03/2020
-Carchi,"San Pedro de Huaca",0,0,24/03/2020
-Carchi,Bolivar,0,0,24/03/2020
-Chimborazo,Colta,0,6,24/03/2020
-Chimborazo,Riobamba,2,4,24/03/2020
-Chimborazo,Cumandá,0,1,24/03/2020
-Chimborazo,Guano,0,0,24/03/2020
-Chimborazo,Penipe,0,0,24/03/2020
-Chimborazo,Chambo,0,0,24/03/2020
-Chimborazo,Pallatanga,0,0,24/03/2020
-Chimborazo,Guamote,0,0,24/03/2020
-Chimborazo,Alausí,0,0,24/03/2020
-Chimborazo,Chunchi,0,0,24/03/2020
-Cotopaxi,"La Maná",0,1,24/03/2020
-Cotopaxi,Latacunga,0,0,24/03/2020
-Cotopaxi,Sigchos,0,0,24/03/2020
-Cotopaxi,Saquisilí,0,0,24/03/2020
-Cotopaxi,Pujilí,0,0,24/03/2020
-Cotopaxi,Pangua,0,0,24/03/2020
-Cotopaxi,Salcedo,0,0,24/03/2020
-"El Oro",Arenillas,0,1,24/03/2020
-"El Oro",Huaquillas,0,2,24/03/2020
-"El Oro",Machala,3,5,24/03/2020
-"El Oro","Santa Rosa",1,5,24/03/2020
-"El Oro",Atahualpa,1,1,24/03/2020
-"El Oro","El Guabo",0,0,24/03/2020
-"El Oro",Pasaje,0,0,24/03/2020
-"El Oro",Chilla,0,0,24/03/2020
-"El Oro",Zaruma,0,0,24/03/2020
-"El Oro","Las Lajas",0,0,24/03/2020
-"El Oro",Marcabelí,0,0,24/03/2020
-"El Oro",Balsas,0,0,24/03/2020
-"El Oro",Piñas,0,0,24/03/2020
-"El Oro",Portovelo,0,0,24/03/2020
-Esmeraldas,Esmeraldas,0,3,24/03/2020
-Esmeraldas,"San Lorenzo",0,0,24/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,24/03/2020
-Esmeraldas,Rioverde,0,0,24/03/2020
-Esmeraldas,Muisne,0,0,24/03/2020
-Esmeraldas,Atacames,0,0,24/03/2020
-Esmeraldas,Quinindé,0,0,24/03/2020
-Galápagos,"San Cristóbal",2,2,24/03/2020
-Galápagos,Isabela,1,1,24/03/2020
-Galápagos,"Santa Cruz",1,1,24/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,1,24/03/2020
-Guayas,Balzar,0,1,24/03/2020
-Guayas,Colimes,0,1,24/03/2020
-Guayas,Daule,5,64,24/03/2020
-Guayas,Durán,3,40,24/03/2020
-Guayas,Empalme,0,5,24/03/2020
-Guayas,Guayaquil,38,564,24/03/2020
-Guayas,Milagro,2,35,24/03/2020
-Guayas,Naranjal,0,1,24/03/2020
-Guayas,"Pedro Carbo",0,3,24/03/2020
-Guayas,Salitre,0,3,24/03/2020
-Guayas,Samborondón,8,99,24/03/2020
-Guayas,"Santa Lucía",0,4,24/03/2020
-Guayas,Playas,0,1,24/03/2020
-Guayas,"San Jacinto De Yaguachi",1,4,24/03/2020
-Guayas,"El Triunfo",0,0,24/03/2020
-Guayas,Palestina,0,0,24/03/2020
-Guayas,"Isidro Ayora",0,0,24/03/2020
-Guayas,"Lomas de Sargentillo",0,0,24/03/2020
-Guayas,Nobol,0,0,24/03/2020
-Guayas,Yaguachi,0,0,24/03/2020
-Guayas,"Simón Bolivar",0,0,24/03/2020
-Guayas,"Naranjito",0,0,24/03/2020
-Guayas,"General Antonio Elizalde",0,0,24/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,24/03/2020
-Imbabura,Ibarra,0,4,24/03/2020
-Imbabura,Otavalo,0,0,24/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,24/03/2020
-Imbabura,Cotacachi,0,0,24/03/2020
-Imbabura,"Antonio Ante",0,0,24/03/2020
-Imbabura,Pimampiro,0,0,24/03/2020
-Loja,Calvas,0,2,24/03/2020
-Loja,Loja,1,3,24/03/2020
-Loja,Macará,0,1,24/03/2020
-Loja,Catamayo,1,1,24/03/2020
-Loja,Saraguro,0,0,24/03/2020
-Loja,Chaguarpamba,0,0,24/03/2020
-Loja,Olmedo,0,0,24/03/2020
-Loja,Paltas,0,0,24/03/2020
-Loja,Puyango,0,0,24/03/2020
-Loja,Pindal,0,0,24/03/2020
-Loja,Celica,0,0,24/03/2020
-Loja,Zapotillo,0,0,24/03/2020
-Loja,Sozoranga,0,0,24/03/2020
-Loja,Gonzanamá,0,0,24/03/2020
-Loja,Quilanga,0,0,24/03/2020
-Loja,Espíndola,0,0,24/03/2020
-"Los Ríos",Babahoyo,2,22,24/03/2020
-"Los Ríos","Buena Fe",0,1,24/03/2020
-"Los Ríos",Mocache,0,1,24/03/2020
-"Los Ríos",Montalvo,1,1,24/03/2020
-"Los Ríos",Quevedo,1,4,24/03/2020
-"Los Ríos",Urdaneta,0,1,24/03/2020
-"Los Ríos",Ventanas,3,5,24/03/2020
-"Los Ríos",Vinces,2,2,24/03/2020
-"Los Ríos",Valencia,0,0,24/03/2020
-"Los Ríos",Quinsaloma,0,0,24/03/2020
-"Los Ríos",Palenque,0,0,24/03/2020
-"Los Ríos",Baba,0,0,24/03/2020
-"Los Ríos",Puebloviejo,0,0,24/03/2020
-Manabí,Bolívar,1,1,24/03/2020
-Manabí,Jipijapa,0,1,24/03/2020
-Manabí,Manta,1,21,24/03/2020
-Manabí,Montecristi,0,1,24/03/2020
-Manabí,Portoviejo,2,6,24/03/2020
-Manabí,"Santa Ana",1,1,24/03/2020
-Manabí,Sucre,1,1,24/03/2020
-Manabí,Pedernales,0,0,24/03/2020
-Manabí,Chone,0,0,24/03/2020
-Manabí,"Flavio Alfaro",0,0,24/03/2020
-Manabí,"El Carmen",0,0,24/03/2020
-Manabí,Jama,0,0,24/03/2020
-Manabí,"San Vicente",0,0,24/03/2020
-Manabí,Tosagua,0,0,24/03/2020
-Manabí,Rocafuerte,0,0,24/03/2020
-Manabí,Junín,0,0,24/03/2020
-Manabí,Pichincha,0,0,24/03/2020
-Manabí,Jaramijó,0,0,24/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,24/03/2020
-Manabí,Olmedo,0,0,24/03/2020
-Manabí,"Puerto López",0,0,24/03/2020
-Manabí,Paján,0,0,24/03/2020
-Napo,"El Chaco",0,0,24/03/2020
-Napo,Quijos,0,0,24/03/2020
-Napo,Archidona,0,0,24/03/2020
-Napo,Tena,0,0,24/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,24/03/2020
-Orellana,Loreto,0,0,24/03/2020
-Orellana,Orellana,0,0,24/03/2020
-Orellana,"La Joya de los Sachas",0,0,24/03/2020
-Orellana,Aguarico,0,0,24/03/2020
-"Morona Santiago",Gualaquiza,0,1,24/03/2020
-"Morona Santiago",Morona,0,1,24/03/2020
-"Morona Santiago",Sucúa,0,2,24/03/2020
-"Morona Santiago",Palora,0,2,24/03/2020
-"Morona Santiago",Taisha,0,0,24/03/2020
-"Morona Santiago","Pablo Sexto",0,0,24/03/2020
-"Morona Santiago",Huamboya,0,0,24/03/2020
-"Morona Santiago",Santiago,0,0,24/03/2020
-"Morona Santiago",Logroño,0,0,24/03/2020
-"Morona Santiago",Tiwintza,0,0,24/03/2020
-"Morona Santiago","Limón Indanza",0,0,24/03/2020
-"Morona Santiago","San Juan Bosco",0,0,24/03/2020
-Pastaza,Pastaza,0,0,24/03/2020
-Pastaza,Mera,0,0,24/03/2020
-Pastaza,"Santa Clara",0,0,24/03/2020
-Pastaza,Arajuno,0,0,24/03/2020
-Pichincha,Quito,7,70,24/03/2020
-Pichincha,Rumiñahui,0,2,24/03/2020
-Pichincha,"Pedro Vicente Maldonado",0,0,24/03/2020
-Pichincha,"Puerto Quito",0,0,24/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,24/03/2020
-Pichincha,"Pedro Moncayo",0,0,24/03/2020
-Pichincha,Cayambe,0,0,24/03/2020
-Pichincha,Mejía,0,0,24/03/2020
-"Santa Elena","Santa Elena",1,3,24/03/2020
-"Santa Elena","La Libertad",1,3,24/03/2020
-"Santa Elena",Salinas,0,0,24/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,7,24/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,24/03/2020
-Sucumbíos,Cuyabeno,0,1,24/03/2020
-Sucumbíos,"Lago Agrio",0,5,24/03/2020
-Sucumbíos,Sucumbíos,0,0,24/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,24/03/2020
-Sucumbíos,Cascales,0,0,24/03/2020
-Sucumbíos,Putumayo,0,0,24/03/2020
-Sucumbíos,Shushufindi,0,0,24/03/2020
-Tungurahua,Ambato,1,2,24/03/2020
-Tungurahua,Píllaro,0,0,24/03/2020
-Tungurahua,Patate,0,0,24/03/2020
-Tungurahua,Baños,0,0,24/03/2020
-Tungurahua,Pelileo,0,0,24/03/2020
-Tungurahua,Cevallos,0,0,24/03/2020
-Tungurahua,Tisaleo,0,0,24/03/2020
-Tungurahua,Mocha,0,0,24/03/2020
-Tungurahua,Quero,0,0,24/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,24/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,24/03/2020
-"Zamora Chinchipe","El Pangui",0,0,24/03/2020
-"Zamora Chinchipe",Zamora,0,0,24/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,24/03/2020
-"Zamora Chinchipe",Paquisha,0,0,24/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,24/03/2020
-"Zamora Chinchipe",Palanda,0,0,24/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,24/03/2020
-Azuay,Cuenca,3,29,25/03/2020
-Azuay,"Santa Isabel",0,2,25/03/2020
-Azuay,"Sevilla de Oro",0,0,25/03/2020
-Azuay,Paute,0,0,25/03/2020
-Azuay,Guachapala,0,0,25/03/2020
-Azuay,"El Pan",0,0,25/03/2020
-Azuay,Gualaceo,0,0,25/03/2020
-Azuay,Chordeleg,0,0,25/03/2020
-Azuay,Sígsig,0,0,25/03/2020
-Azuay,Pucará,0,0,25/03/2020
-Azuay,"Camilo Ponce Enríquez",0,0,25/03/2020
-Azuay,"San Fernando",0,0,25/03/2020
-Azuay,Girón,0,0,25/03/2020
-Azuay,Nabón,0,0,25/03/2020
-Azuay,Oña,0,0,25/03/2020
-Bolívar,Chillanes,1,2,25/03/2020
-Bolívar,Chimbo,0,1,25/03/2020
-Bolívar,Guaranda,1,8,25/03/2020
-Bolívar,"Las Naves",0,0,25/03/2020
-Bolívar,Echeandía,0,0,25/03/2020
-Bolívar,Caluma,0,0,25/03/2020
-Bolívar,"San Miguel",0,0,25/03/2020
-Cañar,Azogues,3,7,25/03/2020
-Cañar,Cañar,0,1,25/03/2020
-Cañar,"La Troncal",2,2,25/03/2020
-Cañar,"El Tambo",0,2,25/03/2020
-Cañar,Suscal,0,0,25/03/2020
-Cañar,Déleg,0,0,25/03/2020
-Cañar,Biblían,0,0,25/03/2020
-Carchi,Tulcán,1,1,25/03/2020
-Carchi,Mira,1,1,25/03/2020
-Carchi,Espejo,0,0,25/03/2020
-Carchi,Montúfar,0,0,25/03/2020
-Carchi,"San Pedro de Huaca",0,0,25/03/2020
-Carchi,Bolivar,0,0,25/03/2020
-Chimborazo,Colta,0,6,25/03/2020
-Chimborazo,Riobamba,0,4,25/03/2020
-Chimborazo,Cumandá,0,1,25/03/2020
-Chimborazo,Guano,0,0,25/03/2020
-Chimborazo,Penipe,0,0,25/03/2020
-Chimborazo,Chambo,0,0,25/03/2020
-Chimborazo,Pallatanga,0,0,25/03/2020
-Chimborazo,Guamote,0,0,25/03/2020
-Chimborazo,Alausí,0,0,25/03/2020
-Chimborazo,Chunchi,0,0,25/03/2020
-Cotopaxi,"La Maná",0,1,25/03/2020
-Cotopaxi,Latacunga,1,1,25/03/2020
-Cotopaxi,Sigchos,0,0,25/03/2020
-Cotopaxi,Saquisilí,0,0,25/03/2020
-Cotopaxi,Pujilí,0,0,25/03/2020
-Cotopaxi,Pangua,0,0,25/03/2020
-Cotopaxi,Salcedo,0,0,25/03/2020
-"El Oro",Arenillas,0,1,25/03/2020
-"El Oro",Huaquillas,0,2,25/03/2020
-"El Oro",Machala,0,5,25/03/2020
-"El Oro","Santa Rosa",3,8,25/03/2020
-"El Oro",Atahualpa,0,1,25/03/2020
-"El Oro","El Guabo",0,0,25/03/2020
-"El Oro",Pasaje,0,0,25/03/2020
-"El Oro",Chilla,0,0,25/03/2020
-"El Oro",Zaruma,0,0,25/03/2020
-"El Oro","Las Lajas",0,0,25/03/2020
-"El Oro",Marcabelí,0,0,25/03/2020
-"El Oro",Balsas,0,0,25/03/2020
-"El Oro",Piñas,0,0,25/03/2020
-"El Oro",Portovelo,0,0,25/03/2020
-Esmeraldas,Esmeraldas,1,4,25/03/2020
-Esmeraldas,"San Lorenzo",0,0,25/03/2020
-Esmeraldas,"Eloy Alfaro",0,0,25/03/2020
-Esmeraldas,Rioverde,0,0,25/03/2020
-Esmeraldas,Muisne,0,0,25/03/2020
-Esmeraldas,Atacames,0,0,25/03/2020
-Esmeraldas,Quinindé,0,0,25/03/2020
-Galápagos,"San Cristóbal",0,2,25/03/2020
-Galápagos,Isabela,0,1,25/03/2020
-Galápagos,"Santa Cruz",0,1,25/03/2020
-Guayas,"Alfredo Baquerizo Moreno",0,1,25/03/2020
-Guayas,Balzar,0,1,25/03/2020
-Guayas,Colimes,0,1,25/03/2020
-Guayas,Daule,3,67,25/03/2020
-Guayas,Durán,2,42,25/03/2020
-Guayas,Empalme,0,5,25/03/2020
-Guayas,Guayaquil,47,611,25/03/2020
-Guayas,Milagro,1,36,25/03/2020
-Guayas,Naranjal,0,1,25/03/2020
-Guayas,"Pedro Carbo",0,3,25/03/2020
-Guayas,Salitre,0,3,25/03/2020
-Guayas,Samborondón,5,104,25/03/2020
-Guayas,"Santa Lucía",0,4,25/03/2020
-Guayas,Playas,0,1,25/03/2020
-Guayas,"San Jacinto De Yaguachi",0,4,25/03/2020
-Guayas,"El Triunfo",1,1,25/03/2020
-Guayas,Palestina,0,0,25/03/2020
-Guayas,"Isidro Ayora",0,0,25/03/2020
-Guayas,"Lomas de Sargentillo",0,0,25/03/2020
-Guayas,Nobol,0,0,25/03/2020
-Guayas,Yaguachi,0,0,25/03/2020
-Guayas,"Simón Bolivar",0,0,25/03/2020
-Guayas,"Naranjito",0,0,25/03/2020
-Guayas,"General Antonio Elizalde",0,0,25/03/2020
-Guayas,"Coronel Marcelino Maridueña",0,0,25/03/2020
-Imbabura,Ibarra,3,7,25/03/2020
-Imbabura,Otavalo,1,1,25/03/2020
-Imbabura,"San Miguel de Urcuquí",0,0,25/03/2020
-Imbabura,Cotacachi,0,0,25/03/2020
-Imbabura,"Antonio Ante",0,0,25/03/2020
-Imbabura,Pimampiro,0,0,25/03/2020
-Loja,Calvas,0,2,25/03/2020
-Loja,Loja,1,4,25/03/2020
-Loja,Macará,0,1,25/03/2020
-Loja,Catamayo,0,1,25/03/2020
-Loja,Saraguro,0,0,25/03/2020
-Loja,Chaguarpamba,0,0,25/03/2020
-Loja,Olmedo,0,0,25/03/2020
-Loja,Paltas,0,0,25/03/2020
-Loja,Puyango,0,0,25/03/2020
-Loja,Pindal,0,0,25/03/2020
-Loja,Celica,0,0,25/03/2020
-Loja,Zapotillo,0,0,25/03/2020
-Loja,Sozoranga,0,0,25/03/2020
-Loja,Gonzanamá,0,0,25/03/2020
-Loja,Quilanga,0,0,25/03/2020
-Loja,Espíndola,0,0,25/03/2020
-"Los Ríos",Babahoyo,2,24,25/03/2020
-"Los Ríos","Buena Fe",0,1,25/03/2020
-"Los Ríos",Mocache,0,1,25/03/2020
-"Los Ríos",Montalvo,0,1,25/03/2020
-"Los Ríos",Quevedo,1,5,25/03/2020
-"Los Ríos",Urdaneta,0,1,25/03/2020
-"Los Ríos",Ventanas,0,5,25/03/2020
-"Los Ríos",Vinces,0,2,25/03/2020
-"Los Ríos",Valencia,0,0,25/03/2020
-"Los Ríos",Quinsaloma,0,0,25/03/2020
-"Los Ríos",Palenque,0,0,25/03/2020
-"Los Ríos",Baba,0,0,25/03/2020
-"Los Ríos",Puebloviejo,0,0,25/03/2020
-Manabí,Bolívar,0,1,25/03/2020
-Manabí,Jipijapa,0,1,25/03/2020
-Manabí,Manta,0,21,25/03/2020
-Manabí,Montecristi,0,1,25/03/2020
-Manabí,Portoviejo,6,12,25/03/2020
-Manabí,"Santa Ana",0,1,25/03/2020
-Manabí,Sucre,0,1,25/03/2020
-Manabí,Pedernales,0,0,25/03/2020
-Manabí,Chone,0,0,25/03/2020
-Manabí,"Flavio Alfaro",0,0,25/03/2020
-Manabí,"El Carmen",0,0,25/03/2020
-Manabí,Jama,0,0,25/03/2020
-Manabí,"San Vicente",0,0,25/03/2020
-Manabí,Tosagua,0,0,25/03/2020
-Manabí,Rocafuerte,0,0,25/03/2020
-Manabí,Junín,0,0,25/03/2020
-Manabí,Pichincha,0,0,25/03/2020
-Manabí,Jaramijó,0,0,25/03/2020
-Manabí,"Veinticuatro de Mayo",0,0,25/03/2020
-Manabí,Olmedo,0,0,25/03/2020
-Manabí,"Puerto López",0,0,25/03/2020
-Manabí,Paján,0,0,25/03/2020
-Napo,"El Chaco",0,0,25/03/2020
-Napo,Quijos,0,0,25/03/2020
-Napo,Archidona,0,0,25/03/2020
-Napo,Tena,0,0,25/03/2020
-Napo,"Carlos Julio Arosemena Tola",0,0,25/03/2020
-Orellana,Loreto,0,0,25/03/2020
-Orellana,Orellana,0,0,25/03/2020
-Orellana,"La Joya de los Sachas",0,0,25/03/2020
-Orellana,Aguarico,0,0,25/03/2020
-"Morona Santiago",Gualaquiza,0,1,25/03/2020
-"Morona Santiago",Morona,0,1,25/03/2020
-"Morona Santiago",Sucúa,0,2,25/03/2020
-"Morona Santiago",Palora,0,2,25/03/2020
-"Morona Santiago",Taisha,1,1,25/03/2020
-"Morona Santiago","Pablo Sexto",0,0,25/03/2020
-"Morona Santiago",Huamboya,0,0,25/03/2020
-"Morona Santiago",Santiago,0,0,25/03/2020
-"Morona Santiago",Logroño,0,0,25/03/2020
-"Morona Santiago",Tiwintza,0,0,25/03/2020
-"Morona Santiago","Limón Indanza",0,0,25/03/2020
-"Morona Santiago","San Juan Bosco",0,0,25/03/2020
-Pastaza,Pastaza,1,1,25/03/2020
-Pastaza,Mera,0,0,25/03/2020
-Pastaza,"Santa Clara",0,0,25/03/2020
-Pastaza,Arajuno,0,0,25/03/2020
-Pichincha,"Pedro Vicente Maldonado",1,1,25/03/2020
-Pichincha,Quito,31,101,25/03/2020
-Pichincha,Rumiñahui,4,6,25/03/2020
-Pichincha,"Puerto Quito",0,0,25/03/2020
-Pichincha,"San Miguel de Los Bancos",0,0,25/03/2020
-Pichincha,"Pedro Moncayo",0,0,25/03/2020
-Pichincha,Cayambe,0,0,25/03/2020
-Pichincha,Mejía,0,0,25/03/2020
-"Santa Elena","Santa Elena",0,3,25/03/2020
-"Santa Elena","La Libertad",0,3,25/03/2020
-"Santa Elena",Salinas,0,0,25/03/2020
-"Sto. Domingo Tsáchilas","Santo Domingo",0,7,25/03/2020
-"Sto. Domingo Tsáchilas","La Concordia",0,0,25/03/2020
-Sucumbíos,Cuyabeno,0,1,25/03/2020
-Sucumbíos,"Lago Agrio",0,5,25/03/2020
-Sucumbíos,Sucumbíos,0,0,25/03/2020
-Sucumbíos,"Gonzalo Pizarro",0,0,25/03/2020
-Sucumbíos,Cascales,0,0,25/03/2020
-Sucumbíos,Putumayo,0,0,25/03/2020
-Sucumbíos,Shushufindi,0,0,25/03/2020
-Tungurahua,Ambato,1,3,25/03/2020
-Tungurahua,Píllaro,0,0,25/03/2020
-Tungurahua,Patate,0,0,25/03/2020
-Tungurahua,Baños,0,0,25/03/2020
-Tungurahua,Pelileo,0,0,25/03/2020
-Tungurahua,Cevallos,0,0,25/03/2020
-Tungurahua,Tisaleo,0,0,25/03/2020
-Tungurahua,Mocha,0,0,25/03/2020
-Tungurahua,Quero,0,0,25/03/2020
-"Zamora Chinchipe",Yacuambi,0,0,25/03/2020
-"Zamora Chinchipe",Yantzaza,0,0,25/03/2020
-"Zamora Chinchipe","El Pangui",0,0,25/03/2020
-"Zamora Chinchipe",Zamora,0,0,25/03/2020
-"Zamora Chinchipe","Centinela del Cóndor",0,0,25/03/2020
-"Zamora Chinchipe",Paquisha,0,0,25/03/2020
-"Zamora Chinchipe",Nangaritza,0,0,25/03/2020
-"Zamora Chinchipe",Palanda,0,0,25/03/2020
-"Zamora Chinchipe",Chinchipe,0,0,25/03/2020
+provincia,canton,total,created_at
+Azuay,Cuenca,0,13/03/2020
+Azuay,Santa Isabel,0,13/03/2020
+Azuay,Sevilla de Oro,0,13/03/2020
+Azuay,Paute,0,13/03/2020
+Azuay,Guachapala,0,13/03/2020
+Azuay,El Pan,0,13/03/2020
+Azuay,Gualaceo,0,13/03/2020
+Azuay,Chordeleg,0,13/03/2020
+Azuay,Sígsig,0,13/03/2020
+Azuay,Pucará,0,13/03/2020
+Azuay,Camilo Ponce Enríquez,0,13/03/2020
+Azuay,San Fernando,0,13/03/2020
+Azuay,Girón,0,13/03/2020
+Azuay,Nabón,0,13/03/2020
+Azuay,Oña,0,13/03/2020
+Bolívar,Guaranda,0,13/03/2020
+Bolívar,Chillanes,0,13/03/2020
+Bolívar,Chimbo,0,13/03/2020
+Bolívar,Las Naves,0,13/03/2020
+Bolívar,Echeandía,0,13/03/2020
+Bolívar,Caluma,0,13/03/2020
+Bolívar,San Miguel,0,13/03/2020
+Cañar,Azogues,0,13/03/2020
+Cañar,Cañar,0,13/03/2020
+Cañar,El Tambo,0,13/03/2020
+Cañar,La Troncal,0,13/03/2020
+Cañar,Suscal,0,13/03/2020
+Cañar,Déleg,0,13/03/2020
+Cañar,Biblían,0,13/03/2020
+Carchi,Tulcán,0,13/03/2020
+Carchi,Mira,0,13/03/2020
+Carchi,Espejo,0,13/03/2020
+Carchi,Montúfar,0,13/03/2020
+Carchi,San Pedro de Huaca,0,13/03/2020
+Carchi,Bolivar,0,13/03/2020
+Chimborazo,Colta,0,13/03/2020
+Chimborazo,Riobamba,0,13/03/2020
+Chimborazo,Cumandá,0,13/03/2020
+Chimborazo,Guano,0,13/03/2020
+Chimborazo,Penipe,0,13/03/2020
+Chimborazo,Chambo,0,13/03/2020
+Chimborazo,Pallatanga,0,13/03/2020
+Chimborazo,Guamote,0,13/03/2020
+Chimborazo,Alausí,0,13/03/2020
+Chimborazo,Chunchi,0,13/03/2020
+Cotopaxi,La Maná,0,13/03/2020
+Cotopaxi,Latacunga,0,13/03/2020
+Cotopaxi,Sigchos,0,13/03/2020
+Cotopaxi,Saquisilí,0,13/03/2020
+Cotopaxi,Pujilí,0,13/03/2020
+Cotopaxi,Pangua,0,13/03/2020
+Cotopaxi,Salcedo,0,13/03/2020
+El Oro,Machala,0,13/03/2020
+El Oro,Santa Rosa,0,13/03/2020
+El Oro,Huaquillas,0,13/03/2020
+El Oro,Arenillas,0,13/03/2020
+El Oro,Atahualpa,0,13/03/2020
+El Oro,El Guabo,0,13/03/2020
+El Oro,Pasaje,0,13/03/2020
+El Oro,Chilla,0,13/03/2020
+El Oro,Zaruma,0,13/03/2020
+El Oro,Las Lajas,0,13/03/2020
+El Oro,Marcabelí,0,13/03/2020
+El Oro,Balsas,0,13/03/2020
+El Oro,Piñas,0,13/03/2020
+El Oro,Portovelo,0,13/03/2020
+Esmeraldas,Esmeraldas,0,13/03/2020
+Esmeraldas,San Lorenzo,0,13/03/2020
+Esmeraldas,Eloy Alfaro,0,13/03/2020
+Esmeraldas,Rioverde,0,13/03/2020
+Esmeraldas,Muisne,0,13/03/2020
+Esmeraldas,Atacames,0,13/03/2020
+Esmeraldas,Quinindé,0,13/03/2020
+Galápagos,San Cristóbal,0,13/03/2020
+Galápagos,Isabela,0,13/03/2020
+Galápagos,Santa Cruz,0,13/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,13/03/2020
+Guayas,Daule,1,13/03/2020
+Guayas,Durán,2,13/03/2020
+Guayas,Empalme,0,13/03/2020
+Guayas,Guayaquil,2,13/03/2020
+Guayas,Milagro,0,13/03/2020
+Guayas,Samborondón,2,13/03/2020
+Guayas,Naranjal,0,13/03/2020
+Guayas,Pedro Carbo,0,13/03/2020
+Guayas,Salitre,0,13/03/2020
+Guayas,Santa Lucía,0,13/03/2020
+Guayas,Balzar,0,13/03/2020
+Guayas,Playas,0,13/03/2020
+Guayas,San Jacinto De Yaguachi,0,13/03/2020
+Guayas,Colimes,0,13/03/2020
+Guayas,El Triunfo,0,13/03/2020
+Guayas,Palestina,0,13/03/2020
+Guayas,Isidro Ayora,0,13/03/2020
+Guayas,Lomas de Sargentillo,0,13/03/2020
+Guayas,Nobol,0,13/03/2020
+Guayas,Yaguachi,0,13/03/2020
+Guayas,Simón Bolivar,0,13/03/2020
+Guayas,Naranjito,0,13/03/2020
+Guayas,General Antonio Elizalde,0,13/03/2020
+Guayas,Coronel Marcelino Maridueña,0,13/03/2020
+Imbabura,Ibarra,0,13/03/2020
+Imbabura,Otavalo,0,13/03/2020
+Imbabura,San Miguel de Urcuquí,0,13/03/2020
+Imbabura,Cotacachi,0,13/03/2020
+Imbabura,Antonio Ante,0,13/03/2020
+Imbabura,Pimampiro,0,13/03/2020
+Loja,Calvas,0,13/03/2020
+Loja,Loja,0,13/03/2020
+Loja,Macará,0,13/03/2020
+Loja,Catamayo,0,13/03/2020
+Loja,Saraguro,0,13/03/2020
+Loja,Chaguarpamba,0,13/03/2020
+Loja,Olmedo,0,13/03/2020
+Loja,Paltas,0,13/03/2020
+Loja,Puyango,0,13/03/2020
+Loja,Pindal,0,13/03/2020
+Loja,Celica,0,13/03/2020
+Loja,Zapotillo,0,13/03/2020
+Loja,Sozoranga,0,13/03/2020
+Loja,Gonzanamá,0,13/03/2020
+Loja,Quilanga,0,13/03/2020
+Loja,Espíndola,0,13/03/2020
+Los Ríos,Babahoyo,10,13/03/2020
+Los Ríos,Urdaneta,1,13/03/2020
+Los Ríos,Buena Fe,0,13/03/2020
+Los Ríos,Ventanas,0,13/03/2020
+Los Ríos,Mocache,0,13/03/2020
+Los Ríos,Quevedo,0,13/03/2020
+Los Ríos,Montalvo,0,13/03/2020
+Los Ríos,Vinces,0,13/03/2020
+Los Ríos,Valencia,0,13/03/2020
+Los Ríos,Quinsaloma,0,13/03/2020
+Los Ríos,Palenque,0,13/03/2020
+Los Ríos,Baba,0,13/03/2020
+Los Ríos,Puebloviejo,0,13/03/2020
+Manabí,Jipijapa,0,13/03/2020
+Manabí,Manta,0,13/03/2020
+Manabí,Montecristi,0,13/03/2020
+Manabí,Portoviejo,0,13/03/2020
+Manabí,Sucre,0,13/03/2020
+Manabí,Bolívar,0,13/03/2020
+Manabí,Santa Ana,0,13/03/2020
+Manabí,Pedernales,0,13/03/2020
+Manabí,Chone,0,13/03/2020
+Manabí,Flavio Alfaro,0,13/03/2020
+Manabí,El Carmen,0,13/03/2020
+Manabí,Jama,0,13/03/2020
+Manabí,San Vicente,0,13/03/2020
+Manabí,Tosagua,0,13/03/2020
+Manabí,Rocafuerte,0,13/03/2020
+Manabí,Junín,0,13/03/2020
+Manabí,Pichincha,0,13/03/2020
+Manabí,Jaramijó,0,13/03/2020
+Manabí,Veinticuatro de Mayo,0,13/03/2020
+Manabí,Olmedo,0,13/03/2020
+Manabí,Puerto López,0,13/03/2020
+Manabí,Paján,0,13/03/2020
+Napo,El Chaco,0,13/03/2020
+Napo,Quijos,0,13/03/2020
+Napo,Archidona,0,13/03/2020
+Napo,Tena,0,13/03/2020
+Napo,Carlos Julio Arosemena Tola,0,13/03/2020
+Orellana,Loreto,0,13/03/2020
+Orellana,Orellana,0,13/03/2020
+Orellana,La Joya de los Sachas,0,13/03/2020
+Orellana,Aguarico,0,13/03/2020
+Morona Santiago,Gualaquiza,0,13/03/2020
+Morona Santiago,Morona,0,13/03/2020
+Morona Santiago,Sucúa,0,13/03/2020
+Morona Santiago,Palora,0,13/03/2020
+Morona Santiago,Taisha,0,13/03/2020
+Morona Santiago,Pablo Sexto,0,13/03/2020
+Morona Santiago,Huamboya,0,13/03/2020
+Morona Santiago,Santiago,0,13/03/2020
+Morona Santiago,Logroño,0,13/03/2020
+Morona Santiago,Tiwintza,0,13/03/2020
+Morona Santiago,Limón Indanza,0,13/03/2020
+Morona Santiago,San Juan Bosco,0,13/03/2020
+Pastaza,Pastaza,0,13/03/2020
+Pastaza,Mera,0,13/03/2020
+Pastaza,Santa Clara,0,13/03/2020
+Pastaza,Arajuno,0,13/03/2020
+Pichincha,Quito,4,13/03/2020
+Pichincha,Rumiñahui,0,13/03/2020
+Pichincha,Pedro Vicente Maldonado,0,13/03/2020
+Pichincha,Puerto Quito,0,13/03/2020
+Pichincha,San Miguel de Los Bancos,0,13/03/2020
+Pichincha,Pedro Moncayo,0,13/03/2020
+Pichincha,Cayambe,0,13/03/2020
+Pichincha,Mejía,0,13/03/2020
+Santa Elena,Santa Elena,0,13/03/2020
+Santa Elena,La Libertad,0,13/03/2020
+Santa Elena,Salinas,0,13/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,0,13/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,13/03/2020
+Sucumbíos,Cuyabeno,0,13/03/2020
+Sucumbíos,Lago Agrio,1,13/03/2020
+Sucumbíos,Sucumbíos,0,13/03/2020
+Sucumbíos,Gonzalo Pizarro,0,13/03/2020
+Sucumbíos,Cascales,0,13/03/2020
+Sucumbíos,Putumayo,0,13/03/2020
+Sucumbíos,Shushufindi,0,13/03/2020
+Tungurahua,Ambato,0,13/03/2020
+Tungurahua,Píllaro,0,13/03/2020
+Tungurahua,Patate,0,13/03/2020
+Tungurahua,Baños,0,13/03/2020
+Tungurahua,Pelileo,0,13/03/2020
+Tungurahua,Cevallos,0,13/03/2020
+Tungurahua,Tisaleo,0,13/03/2020
+Tungurahua,Mocha,0,13/03/2020
+Tungurahua,Quero,0,13/03/2020
+Zamora Chinchipe,Yacuambi,0,13/03/2020
+Zamora Chinchipe,Yantzaza,0,13/03/2020
+Zamora Chinchipe,El Pangui,0,13/03/2020
+Zamora Chinchipe,Zamora,0,13/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,13/03/2020
+Zamora Chinchipe,Paquisha,0,13/03/2020
+Zamora Chinchipe,Nangaritza,0,13/03/2020
+Zamora Chinchipe,Palanda,0,13/03/2020
+Zamora Chinchipe,Chinchipe,0,13/03/2020
+Azuay,Cuenca,1,14/03/2020
+Azuay,Santa Isabel,0,14/03/2020
+Azuay,Sevilla de Oro,0,14/03/2020
+Azuay,Paute,0,14/03/2020
+Azuay,Guachapala,0,14/03/2020
+Azuay,El Pan,0,14/03/2020
+Azuay,Gualaceo,0,14/03/2020
+Azuay,Chordeleg,0,14/03/2020
+Azuay,Sígsig,0,14/03/2020
+Azuay,Pucará,0,14/03/2020
+Azuay,Camilo Ponce Enríquez,0,14/03/2020
+Azuay,San Fernando,0,14/03/2020
+Azuay,Girón,0,14/03/2020
+Azuay,Nabón,0,14/03/2020
+Azuay,Oña,0,14/03/2020
+Bolívar,Guaranda,0,14/03/2020
+Bolívar,Chillanes,0,14/03/2020
+Bolívar,Chimbo,0,14/03/2020
+Bolívar,Las Naves,0,14/03/2020
+Bolívar,Echeandía,0,14/03/2020
+Bolívar,Caluma,0,14/03/2020
+Bolívar,San Miguel,0,14/03/2020
+Cañar,Azogues,0,14/03/2020
+Cañar,Cañar,0,14/03/2020
+Cañar,El Tambo,0,14/03/2020
+Cañar,La Troncal,0,14/03/2020
+Cañar,Suscal,0,14/03/2020
+Cañar,Déleg,0,14/03/2020
+Cañar,Biblían,0,14/03/2020
+Carchi,Tulcán,0,14/03/2020
+Carchi,Mira,0,14/03/2020
+Carchi,Espejo,0,14/03/2020
+Carchi,Montúfar,0,14/03/2020
+Carchi,San Pedro de Huaca,0,14/03/2020
+Carchi,Bolivar,0,14/03/2020
+Chimborazo,Colta,0,14/03/2020
+Chimborazo,Riobamba,0,14/03/2020
+Chimborazo,Cumandá,0,14/03/2020
+Chimborazo,Guano,0,14/03/2020
+Chimborazo,Penipe,0,14/03/2020
+Chimborazo,Chambo,0,14/03/2020
+Chimborazo,Pallatanga,0,14/03/2020
+Chimborazo,Guamote,0,14/03/2020
+Chimborazo,Alausí,0,14/03/2020
+Chimborazo,Chunchi,0,14/03/2020
+Cotopaxi,La Maná,0,14/03/2020
+Cotopaxi,Latacunga,0,14/03/2020
+Cotopaxi,Sigchos,0,14/03/2020
+Cotopaxi,Saquisilí,0,14/03/2020
+Cotopaxi,Pujilí,0,14/03/2020
+Cotopaxi,Pangua,0,14/03/2020
+Cotopaxi,Salcedo,0,14/03/2020
+El Oro,Machala,0,14/03/2020
+El Oro,Santa Rosa,0,14/03/2020
+El Oro,Huaquillas,0,14/03/2020
+El Oro,Arenillas,0,14/03/2020
+El Oro,Atahualpa,0,14/03/2020
+El Oro,El Guabo,0,14/03/2020
+El Oro,Pasaje,0,14/03/2020
+El Oro,Chilla,0,14/03/2020
+El Oro,Zaruma,0,14/03/2020
+El Oro,Las Lajas,0,14/03/2020
+El Oro,Marcabelí,0,14/03/2020
+El Oro,Balsas,0,14/03/2020
+El Oro,Piñas,0,14/03/2020
+El Oro,Portovelo,0,14/03/2020
+Esmeraldas,Esmeraldas,0,14/03/2020
+Esmeraldas,San Lorenzo,0,14/03/2020
+Esmeraldas,Eloy Alfaro,0,14/03/2020
+Esmeraldas,Rioverde,0,14/03/2020
+Esmeraldas,Muisne,0,14/03/2020
+Esmeraldas,Atacames,0,14/03/2020
+Esmeraldas,Quinindé,0,14/03/2020
+Galápagos,San Cristóbal,0,14/03/2020
+Galápagos,Isabela,0,14/03/2020
+Galápagos,Santa Cruz,0,14/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,14/03/2020
+Guayas,Daule,1,14/03/2020
+Guayas,Durán,2,14/03/2020
+Guayas,Empalme,0,14/03/2020
+Guayas,Guayaquil,4,14/03/2020
+Guayas,Milagro,1,14/03/2020
+Guayas,Samborondón,3,14/03/2020
+Guayas,Naranjal,0,14/03/2020
+Guayas,Pedro Carbo,0,14/03/2020
+Guayas,Salitre,0,14/03/2020
+Guayas,Santa Lucía,0,14/03/2020
+Guayas,Balzar,0,14/03/2020
+Guayas,Playas,0,14/03/2020
+Guayas,San Jacinto De Yaguachi,0,14/03/2020
+Guayas,Colimes,0,14/03/2020
+Guayas,El Triunfo,0,14/03/2020
+Guayas,Palestina,0,14/03/2020
+Guayas,Isidro Ayora,0,14/03/2020
+Guayas,Lomas de Sargentillo,0,14/03/2020
+Guayas,Nobol,0,14/03/2020
+Guayas,Yaguachi,0,14/03/2020
+Guayas,Simón Bolivar,0,14/03/2020
+Guayas,Naranjito,0,14/03/2020
+Guayas,General Antonio Elizalde,0,14/03/2020
+Guayas,Coronel Marcelino Maridueña,0,14/03/2020
+Imbabura,Ibarra,0,14/03/2020
+Imbabura,Otavalo,0,14/03/2020
+Imbabura,San Miguel de Urcuquí,0,14/03/2020
+Imbabura,Cotacachi,0,14/03/2020
+Imbabura,Antonio Ante,0,14/03/2020
+Imbabura,Pimampiro,0,14/03/2020
+Loja,Calvas,0,14/03/2020
+Loja,Loja,0,14/03/2020
+Loja,Macará,0,14/03/2020
+Loja,Catamayo,0,14/03/2020
+Loja,Saraguro,0,14/03/2020
+Loja,Chaguarpamba,0,14/03/2020
+Loja,Olmedo,0,14/03/2020
+Loja,Paltas,0,14/03/2020
+Loja,Puyango,0,14/03/2020
+Loja,Pindal,0,14/03/2020
+Loja,Celica,0,14/03/2020
+Loja,Zapotillo,0,14/03/2020
+Loja,Sozoranga,0,14/03/2020
+Loja,Gonzanamá,0,14/03/2020
+Loja,Quilanga,0,14/03/2020
+Loja,Espíndola,0,14/03/2020
+Los Ríos,Babahoyo,10,14/03/2020
+Los Ríos,Urdaneta,1,14/03/2020
+Los Ríos,Buena Fe,0,14/03/2020
+Los Ríos,Ventanas,0,14/03/2020
+Los Ríos,Mocache,0,14/03/2020
+Los Ríos,Quevedo,0,14/03/2020
+Los Ríos,Montalvo,0,14/03/2020
+Los Ríos,Vinces,0,14/03/2020
+Los Ríos,Valencia,0,14/03/2020
+Los Ríos,Quinsaloma,0,14/03/2020
+Los Ríos,Palenque,0,14/03/2020
+Los Ríos,Baba,0,14/03/2020
+Los Ríos,Puebloviejo,0,14/03/2020
+Manabí,Jipijapa,0,14/03/2020
+Manabí,Manta,0,14/03/2020
+Manabí,Montecristi,0,14/03/2020
+Manabí,Portoviejo,0,14/03/2020
+Manabí,Sucre,0,14/03/2020
+Manabí,Bolívar,0,14/03/2020
+Manabí,Santa Ana,0,14/03/2020
+Manabí,Pedernales,0,14/03/2020
+Manabí,Chone,0,14/03/2020
+Manabí,Flavio Alfaro,0,14/03/2020
+Manabí,El Carmen,0,14/03/2020
+Manabí,Jama,0,14/03/2020
+Manabí,San Vicente,0,14/03/2020
+Manabí,Tosagua,0,14/03/2020
+Manabí,Rocafuerte,0,14/03/2020
+Manabí,Junín,0,14/03/2020
+Manabí,Pichincha,0,14/03/2020
+Manabí,Jaramijó,0,14/03/2020
+Manabí,Veinticuatro de Mayo,0,14/03/2020
+Manabí,Olmedo,0,14/03/2020
+Manabí,Puerto López,0,14/03/2020
+Manabí,Paján,0,14/03/2020
+Napo,El Chaco,0,14/03/2020
+Napo,Quijos,0,14/03/2020
+Napo,Archidona,0,14/03/2020
+Napo,Tena,0,14/03/2020
+Napo,Carlos Julio Arosemena Tola,0,14/03/2020
+Orellana,Loreto,0,14/03/2020
+Orellana,Orellana,0,14/03/2020
+Orellana,La Joya de los Sachas,0,14/03/2020
+Orellana,Aguarico,0,14/03/2020
+Morona Santiago,Gualaquiza,0,14/03/2020
+Morona Santiago,Morona,0,14/03/2020
+Morona Santiago,Sucúa,0,14/03/2020
+Morona Santiago,Palora,0,14/03/2020
+Morona Santiago,Taisha,0,14/03/2020
+Morona Santiago,Pablo Sexto,0,14/03/2020
+Morona Santiago,Huamboya,0,14/03/2020
+Morona Santiago,Santiago,0,14/03/2020
+Morona Santiago,Logroño,0,14/03/2020
+Morona Santiago,Tiwintza,0,14/03/2020
+Morona Santiago,Limón Indanza,0,14/03/2020
+Morona Santiago,San Juan Bosco,0,14/03/2020
+Pastaza,Pastaza,0,14/03/2020
+Pastaza,Mera,0,14/03/2020
+Pastaza,Santa Clara,0,14/03/2020
+Pastaza,Arajuno,0,14/03/2020
+Pichincha,Quito,4,14/03/2020
+Pichincha,Rumiñahui,0,14/03/2020
+Pichincha,Pedro Vicente Maldonado,0,14/03/2020
+Pichincha,Puerto Quito,0,14/03/2020
+Pichincha,San Miguel de Los Bancos,0,14/03/2020
+Pichincha,Pedro Moncayo,0,14/03/2020
+Pichincha,Cayambe,0,14/03/2020
+Pichincha,Mejía,0,14/03/2020
+Santa Elena,Santa Elena,0,14/03/2020
+Santa Elena,La Libertad,0,14/03/2020
+Santa Elena,Salinas,0,14/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,0,14/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,14/03/2020
+Sucumbíos,Cuyabeno,0,14/03/2020
+Sucumbíos,Lago Agrio,1,14/03/2020
+Sucumbíos,Sucumbíos,0,14/03/2020
+Sucumbíos,Gonzalo Pizarro,0,14/03/2020
+Sucumbíos,Cascales,0,14/03/2020
+Sucumbíos,Putumayo,0,14/03/2020
+Sucumbíos,Shushufindi,0,14/03/2020
+Tungurahua,Ambato,0,14/03/2020
+Tungurahua,Píllaro,0,14/03/2020
+Tungurahua,Patate,0,14/03/2020
+Tungurahua,Baños,0,14/03/2020
+Tungurahua,Pelileo,0,14/03/2020
+Tungurahua,Cevallos,0,14/03/2020
+Tungurahua,Tisaleo,0,14/03/2020
+Tungurahua,Mocha,0,14/03/2020
+Tungurahua,Quero,0,14/03/2020
+Zamora Chinchipe,Yacuambi,0,14/03/2020
+Zamora Chinchipe,Yantzaza,0,14/03/2020
+Zamora Chinchipe,El Pangui,0,14/03/2020
+Zamora Chinchipe,Zamora,0,14/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,14/03/2020
+Zamora Chinchipe,Paquisha,0,14/03/2020
+Zamora Chinchipe,Nangaritza,0,14/03/2020
+Zamora Chinchipe,Palanda,0,14/03/2020
+Zamora Chinchipe,Chinchipe,0,14/03/2020
+Azuay,Cuenca,1,15/03/2020
+Azuay,Santa Isabel,0,15/03/2020
+Azuay,Sevilla de Oro,0,15/03/2020
+Azuay,Paute,0,15/03/2020
+Azuay,Guachapala,0,15/03/2020
+Azuay,El Pan,0,15/03/2020
+Azuay,Gualaceo,0,15/03/2020
+Azuay,Chordeleg,0,15/03/2020
+Azuay,Sígsig,0,15/03/2020
+Azuay,Pucará,0,15/03/2020
+Azuay,Camilo Ponce Enríquez,0,15/03/2020
+Azuay,San Fernando,0,15/03/2020
+Azuay,Girón,0,15/03/2020
+Azuay,Nabón,0,15/03/2020
+Azuay,Oña,0,15/03/2020
+Bolívar,Guaranda,0,15/03/2020
+Bolívar,Chillanes,0,15/03/2020
+Bolívar,Chimbo,0,15/03/2020
+Bolívar,Las Naves,0,15/03/2020
+Bolívar,Echeandía,0,15/03/2020
+Bolívar,Caluma,0,15/03/2020
+Bolívar,San Miguel,0,15/03/2020
+Cañar,Azogues,0,15/03/2020
+Cañar,Cañar,0,15/03/2020
+Cañar,El Tambo,0,15/03/2020
+Cañar,La Troncal,0,15/03/2020
+Cañar,Suscal,0,15/03/2020
+Cañar,Déleg,0,15/03/2020
+Cañar,Biblían,0,15/03/2020
+Carchi,Tulcán,0,15/03/2020
+Carchi,Mira,0,15/03/2020
+Carchi,Espejo,0,15/03/2020
+Carchi,Montúfar,0,15/03/2020
+Carchi,San Pedro de Huaca,0,15/03/2020
+Carchi,Bolivar,0,15/03/2020
+Chimborazo,Colta,0,15/03/2020
+Chimborazo,Riobamba,0,15/03/2020
+Chimborazo,Cumandá,0,15/03/2020
+Chimborazo,Guano,0,15/03/2020
+Chimborazo,Penipe,0,15/03/2020
+Chimborazo,Chambo,0,15/03/2020
+Chimborazo,Pallatanga,0,15/03/2020
+Chimborazo,Guamote,0,15/03/2020
+Chimborazo,Alausí,0,15/03/2020
+Chimborazo,Chunchi,0,15/03/2020
+Cotopaxi,La Maná,0,15/03/2020
+Cotopaxi,Latacunga,0,15/03/2020
+Cotopaxi,Sigchos,0,15/03/2020
+Cotopaxi,Saquisilí,0,15/03/2020
+Cotopaxi,Pujilí,0,15/03/2020
+Cotopaxi,Pangua,0,15/03/2020
+Cotopaxi,Salcedo,0,15/03/2020
+El Oro,Machala,0,15/03/2020
+El Oro,Santa Rosa,0,15/03/2020
+El Oro,Huaquillas,0,15/03/2020
+El Oro,Arenillas,0,15/03/2020
+El Oro,Atahualpa,0,15/03/2020
+El Oro,El Guabo,0,15/03/2020
+El Oro,Pasaje,0,15/03/2020
+El Oro,Chilla,0,15/03/2020
+El Oro,Zaruma,0,15/03/2020
+El Oro,Las Lajas,0,15/03/2020
+El Oro,Marcabelí,0,15/03/2020
+El Oro,Balsas,0,15/03/2020
+El Oro,Piñas,0,15/03/2020
+El Oro,Portovelo,0,15/03/2020
+Esmeraldas,Esmeraldas,0,15/03/2020
+Esmeraldas,San Lorenzo,0,15/03/2020
+Esmeraldas,Eloy Alfaro,0,15/03/2020
+Esmeraldas,Rioverde,0,15/03/2020
+Esmeraldas,Muisne,0,15/03/2020
+Esmeraldas,Atacames,0,15/03/2020
+Esmeraldas,Quinindé,0,15/03/2020
+Galápagos,San Cristóbal,0,15/03/2020
+Galápagos,Isabela,0,15/03/2020
+Galápagos,Santa Cruz,0,15/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,15/03/2020
+Guayas,Daule,1,15/03/2020
+Guayas,Durán,4,15/03/2020
+Guayas,Empalme,1,15/03/2020
+Guayas,Guayaquil,9,15/03/2020
+Guayas,Milagro,1,15/03/2020
+Guayas,Samborondón,3,15/03/2020
+Guayas,Naranjal,0,15/03/2020
+Guayas,Pedro Carbo,0,15/03/2020
+Guayas,Salitre,0,15/03/2020
+Guayas,Santa Lucía,0,15/03/2020
+Guayas,Balzar,0,15/03/2020
+Guayas,Playas,0,15/03/2020
+Guayas,San Jacinto De Yaguachi,0,15/03/2020
+Guayas,Colimes,0,15/03/2020
+Guayas,El Triunfo,0,15/03/2020
+Guayas,Palestina,0,15/03/2020
+Guayas,Isidro Ayora,0,15/03/2020
+Guayas,Lomas de Sargentillo,0,15/03/2020
+Guayas,Nobol,0,15/03/2020
+Guayas,Yaguachi,0,15/03/2020
+Guayas,Simón Bolivar,0,15/03/2020
+Guayas,Naranjito,0,15/03/2020
+Guayas,General Antonio Elizalde,0,15/03/2020
+Guayas,Coronel Marcelino Maridueña,0,15/03/2020
+Imbabura,Ibarra,0,15/03/2020
+Imbabura,Otavalo,0,15/03/2020
+Imbabura,San Miguel de Urcuquí,0,15/03/2020
+Imbabura,Cotacachi,0,15/03/2020
+Imbabura,Antonio Ante,0,15/03/2020
+Imbabura,Pimampiro,0,15/03/2020
+Loja,Calvas,0,15/03/2020
+Loja,Loja,0,15/03/2020
+Loja,Macará,0,15/03/2020
+Loja,Catamayo,0,15/03/2020
+Loja,Saraguro,0,15/03/2020
+Loja,Chaguarpamba,0,15/03/2020
+Loja,Olmedo,0,15/03/2020
+Loja,Paltas,0,15/03/2020
+Loja,Puyango,0,15/03/2020
+Loja,Pindal,0,15/03/2020
+Loja,Celica,0,15/03/2020
+Loja,Zapotillo,0,15/03/2020
+Loja,Sozoranga,0,15/03/2020
+Loja,Gonzanamá,0,15/03/2020
+Loja,Quilanga,0,15/03/2020
+Loja,Espíndola,0,15/03/2020
+Los Ríos,Babahoyo,9,15/03/2020
+Los Ríos,Urdaneta,1,15/03/2020
+Los Ríos,Buena Fe,0,15/03/2020
+Los Ríos,Ventanas,0,15/03/2020
+Los Ríos,Mocache,0,15/03/2020
+Los Ríos,Quevedo,0,15/03/2020
+Los Ríos,Montalvo,0,15/03/2020
+Los Ríos,Vinces,0,15/03/2020
+Los Ríos,Valencia,0,15/03/2020
+Los Ríos,Quinsaloma,0,15/03/2020
+Los Ríos,Palenque,0,15/03/2020
+Los Ríos,Baba,0,15/03/2020
+Los Ríos,Puebloviejo,0,15/03/2020
+Manabí,Jipijapa,0,15/03/2020
+Manabí,Manta,0,15/03/2020
+Manabí,Montecristi,0,15/03/2020
+Manabí,Portoviejo,0,15/03/2020
+Manabí,Sucre,0,15/03/2020
+Manabí,Bolívar,0,15/03/2020
+Manabí,Santa Ana,0,15/03/2020
+Manabí,Pedernales,0,15/03/2020
+Manabí,Chone,0,15/03/2020
+Manabí,Flavio Alfaro,0,15/03/2020
+Manabí,El Carmen,0,15/03/2020
+Manabí,Jama,0,15/03/2020
+Manabí,San Vicente,0,15/03/2020
+Manabí,Tosagua,0,15/03/2020
+Manabí,Rocafuerte,0,15/03/2020
+Manabí,Junín,0,15/03/2020
+Manabí,Pichincha,0,15/03/2020
+Manabí,Jaramijó,0,15/03/2020
+Manabí,Veinticuatro de Mayo,0,15/03/2020
+Manabí,Olmedo,0,15/03/2020
+Manabí,Puerto López,0,15/03/2020
+Manabí,Paján,0,15/03/2020
+Napo,El Chaco,0,15/03/2020
+Napo,Quijos,0,15/03/2020
+Napo,Archidona,0,15/03/2020
+Napo,Tena,0,15/03/2020
+Napo,Carlos Julio Arosemena Tola,0,15/03/2020
+Orellana,Loreto,0,15/03/2020
+Orellana,Orellana,0,15/03/2020
+Orellana,La Joya de los Sachas,0,15/03/2020
+Orellana,Aguarico,0,15/03/2020
+Morona Santiago,Gualaquiza,0,15/03/2020
+Morona Santiago,Morona,0,15/03/2020
+Morona Santiago,Sucúa,0,15/03/2020
+Morona Santiago,Palora,0,15/03/2020
+Morona Santiago,Taisha,0,15/03/2020
+Morona Santiago,Pablo Sexto,0,15/03/2020
+Morona Santiago,Huamboya,0,15/03/2020
+Morona Santiago,Santiago,0,15/03/2020
+Morona Santiago,Logroño,0,15/03/2020
+Morona Santiago,Tiwintza,0,15/03/2020
+Morona Santiago,Limón Indanza,0,15/03/2020
+Morona Santiago,San Juan Bosco,0,15/03/2020
+Pastaza,Pastaza,0,15/03/2020
+Pastaza,Mera,0,15/03/2020
+Pastaza,Santa Clara,0,15/03/2020
+Pastaza,Arajuno,0,15/03/2020
+Pichincha,Quito,6,15/03/2020
+Pichincha,Rumiñahui,0,15/03/2020
+Pichincha,Pedro Vicente Maldonado,0,15/03/2020
+Pichincha,Puerto Quito,0,15/03/2020
+Pichincha,San Miguel de Los Bancos,0,15/03/2020
+Pichincha,Pedro Moncayo,0,15/03/2020
+Pichincha,Cayambe,0,15/03/2020
+Pichincha,Mejía,0,15/03/2020
+Santa Elena,Santa Elena,0,15/03/2020
+Santa Elena,La Libertad,0,15/03/2020
+Santa Elena,Salinas,0,15/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,0,15/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,15/03/2020
+Sucumbíos,Cuyabeno,0,15/03/2020
+Sucumbíos,Lago Agrio,1,15/03/2020
+Sucumbíos,Sucumbíos,0,15/03/2020
+Sucumbíos,Gonzalo Pizarro,0,15/03/2020
+Sucumbíos,Cascales,0,15/03/2020
+Sucumbíos,Putumayo,0,15/03/2020
+Sucumbíos,Shushufindi,0,15/03/2020
+Tungurahua,Ambato,0,15/03/2020
+Tungurahua,Píllaro,0,15/03/2020
+Tungurahua,Patate,0,15/03/2020
+Tungurahua,Baños,0,15/03/2020
+Tungurahua,Pelileo,0,15/03/2020
+Tungurahua,Cevallos,0,15/03/2020
+Tungurahua,Tisaleo,0,15/03/2020
+Tungurahua,Mocha,0,15/03/2020
+Tungurahua,Quero,0,15/03/2020
+Zamora Chinchipe,Yacuambi,0,15/03/2020
+Zamora Chinchipe,Yantzaza,0,15/03/2020
+Zamora Chinchipe,El Pangui,0,15/03/2020
+Zamora Chinchipe,Zamora,0,15/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,15/03/2020
+Zamora Chinchipe,Paquisha,0,15/03/2020
+Zamora Chinchipe,Nangaritza,0,15/03/2020
+Zamora Chinchipe,Palanda,0,15/03/2020
+Zamora Chinchipe,Chinchipe,0,15/03/2020
+Azuay,Cuenca,1,16/03/2020
+Azuay,Santa Isabel,0,16/03/2020
+Azuay,Sevilla de Oro,0,16/03/2020
+Azuay,Paute,0,16/03/2020
+Azuay,Guachapala,0,16/03/2020
+Azuay,El Pan,0,16/03/2020
+Azuay,Gualaceo,0,16/03/2020
+Azuay,Chordeleg,0,16/03/2020
+Azuay,Sígsig,0,16/03/2020
+Azuay,Pucará,0,16/03/2020
+Azuay,Camilo Ponce Enríquez,0,16/03/2020
+Azuay,San Fernando,0,16/03/2020
+Azuay,Girón,0,16/03/2020
+Azuay,Nabón,0,16/03/2020
+Azuay,Oña,0,16/03/2020
+Bolívar,Guaranda,0,16/03/2020
+Bolívar,Chillanes,0,16/03/2020
+Bolívar,Chimbo,0,16/03/2020
+Bolívar,Las Naves,0,16/03/2020
+Bolívar,Echeandía,0,16/03/2020
+Bolívar,Caluma,0,16/03/2020
+Bolívar,San Miguel,0,16/03/2020
+Cañar,Azogues,0,16/03/2020
+Cañar,Cañar,0,16/03/2020
+Cañar,El Tambo,0,16/03/2020
+Cañar,La Troncal,0,16/03/2020
+Cañar,Suscal,0,16/03/2020
+Cañar,Déleg,0,16/03/2020
+Cañar,Biblían,0,16/03/2020
+Carchi,Tulcán,0,16/03/2020
+Carchi,Mira,0,16/03/2020
+Carchi,Espejo,0,16/03/2020
+Carchi,Montúfar,0,16/03/2020
+Carchi,San Pedro de Huaca,0,16/03/2020
+Carchi,Bolivar,0,16/03/2020
+Chimborazo,Colta,0,16/03/2020
+Chimborazo,Riobamba,0,16/03/2020
+Chimborazo,Cumandá,0,16/03/2020
+Chimborazo,Guano,0,16/03/2020
+Chimborazo,Penipe,0,16/03/2020
+Chimborazo,Chambo,0,16/03/2020
+Chimborazo,Pallatanga,0,16/03/2020
+Chimborazo,Guamote,0,16/03/2020
+Chimborazo,Alausí,0,16/03/2020
+Chimborazo,Chunchi,0,16/03/2020
+Cotopaxi,La Maná,0,16/03/2020
+Cotopaxi,Latacunga,0,16/03/2020
+Cotopaxi,Sigchos,0,16/03/2020
+Cotopaxi,Saquisilí,0,16/03/2020
+Cotopaxi,Pujilí,0,16/03/2020
+Cotopaxi,Pangua,0,16/03/2020
+Cotopaxi,Salcedo,0,16/03/2020
+El Oro,Machala,0,16/03/2020
+El Oro,Santa Rosa,0,16/03/2020
+El Oro,Huaquillas,0,16/03/2020
+El Oro,Arenillas,0,16/03/2020
+El Oro,Atahualpa,0,16/03/2020
+El Oro,El Guabo,0,16/03/2020
+El Oro,Pasaje,0,16/03/2020
+El Oro,Chilla,0,16/03/2020
+El Oro,Zaruma,0,16/03/2020
+El Oro,Las Lajas,0,16/03/2020
+El Oro,Marcabelí,0,16/03/2020
+El Oro,Balsas,0,16/03/2020
+El Oro,Piñas,0,16/03/2020
+El Oro,Portovelo,0,16/03/2020
+Esmeraldas,Esmeraldas,0,16/03/2020
+Esmeraldas,San Lorenzo,0,16/03/2020
+Esmeraldas,Eloy Alfaro,0,16/03/2020
+Esmeraldas,Rioverde,0,16/03/2020
+Esmeraldas,Muisne,0,16/03/2020
+Esmeraldas,Atacames,0,16/03/2020
+Esmeraldas,Quinindé,0,16/03/2020
+Galápagos,San Cristóbal,0,16/03/2020
+Galápagos,Isabela,0,16/03/2020
+Galápagos,Santa Cruz,0,16/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,16/03/2020
+Guayas,Daule,1,16/03/2020
+Guayas,Durán,4,16/03/2020
+Guayas,Empalme,1,16/03/2020
+Guayas,Guayaquil,28,16/03/2020
+Guayas,Milagro,1,16/03/2020
+Guayas,Samborondón,2,16/03/2020
+Guayas,Naranjal,0,16/03/2020
+Guayas,Pedro Carbo,0,16/03/2020
+Guayas,Salitre,0,16/03/2020
+Guayas,Santa Lucía,0,16/03/2020
+Guayas,Balzar,0,16/03/2020
+Guayas,Playas,0,16/03/2020
+Guayas,San Jacinto De Yaguachi,0,16/03/2020
+Guayas,Colimes,0,16/03/2020
+Guayas,El Triunfo,0,16/03/2020
+Guayas,Palestina,0,16/03/2020
+Guayas,Isidro Ayora,0,16/03/2020
+Guayas,Lomas de Sargentillo,0,16/03/2020
+Guayas,Nobol,0,16/03/2020
+Guayas,Yaguachi,0,16/03/2020
+Guayas,Simón Bolivar,0,16/03/2020
+Guayas,Naranjito,0,16/03/2020
+Guayas,General Antonio Elizalde,0,16/03/2020
+Guayas,Coronel Marcelino Maridueña,0,16/03/2020
+Imbabura,Ibarra,0,16/03/2020
+Imbabura,Otavalo,0,16/03/2020
+Imbabura,San Miguel de Urcuquí,0,16/03/2020
+Imbabura,Cotacachi,0,16/03/2020
+Imbabura,Antonio Ante,0,16/03/2020
+Imbabura,Pimampiro,0,16/03/2020
+Loja,Calvas,0,16/03/2020
+Loja,Loja,0,16/03/2020
+Loja,Macará,0,16/03/2020
+Loja,Catamayo,0,16/03/2020
+Loja,Saraguro,0,16/03/2020
+Loja,Chaguarpamba,0,16/03/2020
+Loja,Olmedo,0,16/03/2020
+Loja,Paltas,0,16/03/2020
+Loja,Puyango,0,16/03/2020
+Loja,Pindal,0,16/03/2020
+Loja,Celica,0,16/03/2020
+Loja,Zapotillo,0,16/03/2020
+Loja,Sozoranga,0,16/03/2020
+Loja,Gonzanamá,0,16/03/2020
+Loja,Quilanga,0,16/03/2020
+Loja,Espíndola,0,16/03/2020
+Los Ríos,Babahoyo,9,16/03/2020
+Los Ríos,Urdaneta,1,16/03/2020
+Los Ríos,Buena Fe,0,16/03/2020
+Los Ríos,Ventanas,0,16/03/2020
+Los Ríos,Mocache,0,16/03/2020
+Los Ríos,Quevedo,0,16/03/2020
+Los Ríos,Montalvo,0,16/03/2020
+Los Ríos,Vinces,0,16/03/2020
+Los Ríos,Valencia,0,16/03/2020
+Los Ríos,Quinsaloma,0,16/03/2020
+Los Ríos,Palenque,0,16/03/2020
+Los Ríos,Baba,0,16/03/2020
+Los Ríos,Puebloviejo,0,16/03/2020
+Manabí,Jipijapa,0,16/03/2020
+Manabí,Manta,1,16/03/2020
+Manabí,Montecristi,0,16/03/2020
+Manabí,Portoviejo,0,16/03/2020
+Manabí,Sucre,0,16/03/2020
+Manabí,Bolívar,0,16/03/2020
+Manabí,Santa Ana,0,16/03/2020
+Manabí,Pedernales,0,16/03/2020
+Manabí,Chone,0,16/03/2020
+Manabí,Flavio Alfaro,0,16/03/2020
+Manabí,El Carmen,0,16/03/2020
+Manabí,Jama,0,16/03/2020
+Manabí,San Vicente,0,16/03/2020
+Manabí,Tosagua,0,16/03/2020
+Manabí,Rocafuerte,0,16/03/2020
+Manabí,Junín,0,16/03/2020
+Manabí,Pichincha,0,16/03/2020
+Manabí,Jaramijó,0,16/03/2020
+Manabí,Veinticuatro de Mayo,0,16/03/2020
+Manabí,Olmedo,0,16/03/2020
+Manabí,Puerto López,0,16/03/2020
+Manabí,Paján,0,16/03/2020
+Napo,El Chaco,0,16/03/2020
+Napo,Quijos,0,16/03/2020
+Napo,Archidona,0,16/03/2020
+Napo,Tena,0,16/03/2020
+Napo,Carlos Julio Arosemena Tola,0,16/03/2020
+Orellana,Loreto,0,16/03/2020
+Orellana,Orellana,0,16/03/2020
+Orellana,La Joya de los Sachas,0,16/03/2020
+Orellana,Aguarico,0,16/03/2020
+Morona Santiago,Gualaquiza,0,16/03/2020
+Morona Santiago,Morona,0,16/03/2020
+Morona Santiago,Sucúa,0,16/03/2020
+Morona Santiago,Palora,0,16/03/2020
+Morona Santiago,Taisha,0,16/03/2020
+Morona Santiago,Pablo Sexto,0,16/03/2020
+Morona Santiago,Huamboya,0,16/03/2020
+Morona Santiago,Santiago,0,16/03/2020
+Morona Santiago,Logroño,0,16/03/2020
+Morona Santiago,Tiwintza,0,16/03/2020
+Morona Santiago,Limón Indanza,0,16/03/2020
+Morona Santiago,San Juan Bosco,0,16/03/2020
+Pastaza,Pastaza,0,16/03/2020
+Pastaza,Mera,0,16/03/2020
+Pastaza,Santa Clara,0,16/03/2020
+Pastaza,Arajuno,0,16/03/2020
+Pichincha,Quito,8,16/03/2020
+Pichincha,Rumiñahui,0,16/03/2020
+Pichincha,Pedro Vicente Maldonado,0,16/03/2020
+Pichincha,Puerto Quito,0,16/03/2020
+Pichincha,San Miguel de Los Bancos,0,16/03/2020
+Pichincha,Pedro Moncayo,0,16/03/2020
+Pichincha,Cayambe,0,16/03/2020
+Pichincha,Mejía,0,16/03/2020
+Santa Elena,Santa Elena,0,16/03/2020
+Santa Elena,La Libertad,0,16/03/2020
+Santa Elena,Salinas,0,16/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,0,16/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,16/03/2020
+Sucumbíos,Cuyabeno,0,16/03/2020
+Sucumbíos,Lago Agrio,1,16/03/2020
+Sucumbíos,Sucumbíos,0,16/03/2020
+Sucumbíos,Gonzalo Pizarro,0,16/03/2020
+Sucumbíos,Cascales,0,16/03/2020
+Sucumbíos,Putumayo,0,16/03/2020
+Sucumbíos,Shushufindi,0,16/03/2020
+Tungurahua,Ambato,0,16/03/2020
+Tungurahua,Píllaro,0,16/03/2020
+Tungurahua,Patate,0,16/03/2020
+Tungurahua,Baños,0,16/03/2020
+Tungurahua,Pelileo,0,16/03/2020
+Tungurahua,Cevallos,0,16/03/2020
+Tungurahua,Tisaleo,0,16/03/2020
+Tungurahua,Mocha,0,16/03/2020
+Tungurahua,Quero,0,16/03/2020
+Zamora Chinchipe,Yacuambi,0,16/03/2020
+Zamora Chinchipe,Yantzaza,0,16/03/2020
+Zamora Chinchipe,El Pangui,0,16/03/2020
+Zamora Chinchipe,Zamora,0,16/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,16/03/2020
+Zamora Chinchipe,Paquisha,0,16/03/2020
+Zamora Chinchipe,Nangaritza,0,16/03/2020
+Zamora Chinchipe,Palanda,0,16/03/2020
+Zamora Chinchipe,Chinchipe,0,16/03/2020
+Azuay,Cuenca,5,17/03/2020
+Azuay,Santa Isabel,0,17/03/2020
+Azuay,Sevilla de Oro,0,17/03/2020
+Azuay,Paute,0,17/03/2020
+Azuay,Guachapala,0,17/03/2020
+Azuay,El Pan,0,17/03/2020
+Azuay,Gualaceo,0,17/03/2020
+Azuay,Chordeleg,0,17/03/2020
+Azuay,Sígsig,0,17/03/2020
+Azuay,Pucará,0,17/03/2020
+Azuay,Camilo Ponce Enríquez,0,17/03/2020
+Azuay,San Fernando,0,17/03/2020
+Azuay,Girón,0,17/03/2020
+Azuay,Nabón,0,17/03/2020
+Azuay,Oña,0,17/03/2020
+Bolívar,Guaranda,0,17/03/2020
+Bolívar,Chillanes,0,17/03/2020
+Bolívar,Chimbo,0,17/03/2020
+Bolívar,Las Naves,0,17/03/2020
+Bolívar,Echeandía,0,17/03/2020
+Bolívar,Caluma,0,17/03/2020
+Bolívar,San Miguel,0,17/03/2020
+Cañar,Azogues,0,17/03/2020
+Cañar,Cañar,0,17/03/2020
+Cañar,El Tambo,0,17/03/2020
+Cañar,La Troncal,0,17/03/2020
+Cañar,Suscal,0,17/03/2020
+Cañar,Déleg,0,17/03/2020
+Cañar,Biblían,0,17/03/2020
+Carchi,Tulcán,0,17/03/2020
+Carchi,Mira,0,17/03/2020
+Carchi,Espejo,0,17/03/2020
+Carchi,Montúfar,0,17/03/2020
+Carchi,San Pedro de Huaca,0,17/03/2020
+Carchi,Bolivar,0,17/03/2020
+Chimborazo,Colta,0,17/03/2020
+Chimborazo,Riobamba,0,17/03/2020
+Chimborazo,Cumandá,0,17/03/2020
+Chimborazo,Guano,0,17/03/2020
+Chimborazo,Penipe,0,17/03/2020
+Chimborazo,Chambo,0,17/03/2020
+Chimborazo,Pallatanga,0,17/03/2020
+Chimborazo,Guamote,0,17/03/2020
+Chimborazo,Alausí,0,17/03/2020
+Chimborazo,Chunchi,0,17/03/2020
+Cotopaxi,La Maná,0,17/03/2020
+Cotopaxi,Latacunga,0,17/03/2020
+Cotopaxi,Sigchos,0,17/03/2020
+Cotopaxi,Saquisilí,0,17/03/2020
+Cotopaxi,Pujilí,0,17/03/2020
+Cotopaxi,Pangua,0,17/03/2020
+Cotopaxi,Salcedo,0,17/03/2020
+El Oro,Machala,1,17/03/2020
+El Oro,Santa Rosa,0,17/03/2020
+El Oro,Huaquillas,0,17/03/2020
+El Oro,Arenillas,0,17/03/2020
+El Oro,Atahualpa,0,17/03/2020
+El Oro,El Guabo,0,17/03/2020
+El Oro,Pasaje,0,17/03/2020
+El Oro,Chilla,0,17/03/2020
+El Oro,Zaruma,0,17/03/2020
+El Oro,Las Lajas,0,17/03/2020
+El Oro,Marcabelí,0,17/03/2020
+El Oro,Balsas,0,17/03/2020
+El Oro,Piñas,0,17/03/2020
+El Oro,Portovelo,0,17/03/2020
+Esmeraldas,Esmeraldas,0,17/03/2020
+Esmeraldas,San Lorenzo,0,17/03/2020
+Esmeraldas,Eloy Alfaro,0,17/03/2020
+Esmeraldas,Rioverde,0,17/03/2020
+Esmeraldas,Muisne,0,17/03/2020
+Esmeraldas,Atacames,0,17/03/2020
+Esmeraldas,Quinindé,0,17/03/2020
+Galápagos,San Cristóbal,0,17/03/2020
+Galápagos,Isabela,0,17/03/2020
+Galápagos,Santa Cruz,0,17/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,17/03/2020
+Guayas,Daule,4,17/03/2020
+Guayas,Durán,4,17/03/2020
+Guayas,Empalme,1,17/03/2020
+Guayas,Guayaquil,61,17/03/2020
+Guayas,Milagro,1,17/03/2020
+Guayas,Samborondón,10,17/03/2020
+Guayas,Naranjal,0,17/03/2020
+Guayas,Pedro Carbo,0,17/03/2020
+Guayas,Salitre,0,17/03/2020
+Guayas,Santa Lucía,0,17/03/2020
+Guayas,Balzar,0,17/03/2020
+Guayas,Playas,0,17/03/2020
+Guayas,San Jacinto De Yaguachi,0,17/03/2020
+Guayas,Colimes,0,17/03/2020
+Guayas,El Triunfo,0,17/03/2020
+Guayas,Palestina,0,17/03/2020
+Guayas,Isidro Ayora,0,17/03/2020
+Guayas,Lomas de Sargentillo,0,17/03/2020
+Guayas,Nobol,0,17/03/2020
+Guayas,Yaguachi,0,17/03/2020
+Guayas,Simón Bolivar,0,17/03/2020
+Guayas,Naranjito,0,17/03/2020
+Guayas,General Antonio Elizalde,0,17/03/2020
+Guayas,Coronel Marcelino Maridueña,0,17/03/2020
+Imbabura,Ibarra,0,17/03/2020
+Imbabura,Otavalo,0,17/03/2020
+Imbabura,San Miguel de Urcuquí,0,17/03/2020
+Imbabura,Cotacachi,0,17/03/2020
+Imbabura,Antonio Ante,0,17/03/2020
+Imbabura,Pimampiro,0,17/03/2020
+Loja,Calvas,0,17/03/2020
+Loja,Loja,0,17/03/2020
+Loja,Macará,0,17/03/2020
+Loja,Catamayo,0,17/03/2020
+Loja,Saraguro,0,17/03/2020
+Loja,Chaguarpamba,0,17/03/2020
+Loja,Olmedo,0,17/03/2020
+Loja,Paltas,0,17/03/2020
+Loja,Puyango,0,17/03/2020
+Loja,Pindal,0,17/03/2020
+Loja,Celica,0,17/03/2020
+Loja,Zapotillo,0,17/03/2020
+Loja,Sozoranga,0,17/03/2020
+Loja,Gonzanamá,0,17/03/2020
+Loja,Quilanga,0,17/03/2020
+Loja,Espíndola,0,17/03/2020
+Los Ríos,Babahoyo,9,17/03/2020
+Los Ríos,Urdaneta,1,17/03/2020
+Los Ríos,Buena Fe,0,17/03/2020
+Los Ríos,Ventanas,0,17/03/2020
+Los Ríos,Mocache,0,17/03/2020
+Los Ríos,Quevedo,0,17/03/2020
+Los Ríos,Montalvo,0,17/03/2020
+Los Ríos,Vinces,0,17/03/2020
+Los Ríos,Valencia,0,17/03/2020
+Los Ríos,Quinsaloma,0,17/03/2020
+Los Ríos,Palenque,0,17/03/2020
+Los Ríos,Baba,0,17/03/2020
+Los Ríos,Puebloviejo,0,17/03/2020
+Manabí,Jipijapa,0,17/03/2020
+Manabí,Manta,1,17/03/2020
+Manabí,Montecristi,0,17/03/2020
+Manabí,Portoviejo,0,17/03/2020
+Manabí,Sucre,0,17/03/2020
+Manabí,Bolívar,0,17/03/2020
+Manabí,Santa Ana,0,17/03/2020
+Manabí,Pedernales,0,17/03/2020
+Manabí,Chone,0,17/03/2020
+Manabí,Flavio Alfaro,0,17/03/2020
+Manabí,El Carmen,0,17/03/2020
+Manabí,Jama,0,17/03/2020
+Manabí,San Vicente,0,17/03/2020
+Manabí,Tosagua,0,17/03/2020
+Manabí,Rocafuerte,0,17/03/2020
+Manabí,Junín,0,17/03/2020
+Manabí,Pichincha,0,17/03/2020
+Manabí,Jaramijó,0,17/03/2020
+Manabí,Veinticuatro de Mayo,0,17/03/2020
+Manabí,Olmedo,0,17/03/2020
+Manabí,Puerto López,0,17/03/2020
+Manabí,Paján,0,17/03/2020
+Napo,El Chaco,0,17/03/2020
+Napo,Quijos,0,17/03/2020
+Napo,Archidona,0,17/03/2020
+Napo,Tena,0,17/03/2020
+Napo,Carlos Julio Arosemena Tola,0,17/03/2020
+Orellana,Loreto,0,17/03/2020
+Orellana,Orellana,0,17/03/2020
+Orellana,La Joya de los Sachas,0,17/03/2020
+Orellana,Aguarico,0,17/03/2020
+Morona Santiago,Gualaquiza,1,17/03/2020
+Morona Santiago,Morona,0,17/03/2020
+Morona Santiago,Sucúa,0,17/03/2020
+Morona Santiago,Palora,0,17/03/2020
+Morona Santiago,Taisha,0,17/03/2020
+Morona Santiago,Pablo Sexto,0,17/03/2020
+Morona Santiago,Huamboya,0,17/03/2020
+Morona Santiago,Santiago,0,17/03/2020
+Morona Santiago,Logroño,0,17/03/2020
+Morona Santiago,Tiwintza,0,17/03/2020
+Morona Santiago,Limón Indanza,0,17/03/2020
+Morona Santiago,San Juan Bosco,0,17/03/2020
+Pastaza,Pastaza,0,17/03/2020
+Pastaza,Mera,0,17/03/2020
+Pastaza,Santa Clara,0,17/03/2020
+Pastaza,Arajuno,0,17/03/2020
+Pichincha,Quito,8,17/03/2020
+Pichincha,Rumiñahui,0,17/03/2020
+Pichincha,Pedro Vicente Maldonado,0,17/03/2020
+Pichincha,Puerto Quito,0,17/03/2020
+Pichincha,San Miguel de Los Bancos,0,17/03/2020
+Pichincha,Pedro Moncayo,0,17/03/2020
+Pichincha,Cayambe,0,17/03/2020
+Pichincha,Mejía,0,17/03/2020
+Santa Elena,Santa Elena,3,17/03/2020
+Santa Elena,La Libertad,0,17/03/2020
+Santa Elena,Salinas,0,17/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,0,17/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,17/03/2020
+Sucumbíos,Cuyabeno,0,17/03/2020
+Sucumbíos,Lago Agrio,1,17/03/2020
+Sucumbíos,Sucumbíos,0,17/03/2020
+Sucumbíos,Gonzalo Pizarro,0,17/03/2020
+Sucumbíos,Cascales,0,17/03/2020
+Sucumbíos,Putumayo,0,17/03/2020
+Sucumbíos,Shushufindi,0,17/03/2020
+Tungurahua,Ambato,0,17/03/2020
+Tungurahua,Píllaro,0,17/03/2020
+Tungurahua,Patate,0,17/03/2020
+Tungurahua,Baños,0,17/03/2020
+Tungurahua,Pelileo,0,17/03/2020
+Tungurahua,Cevallos,0,17/03/2020
+Tungurahua,Tisaleo,0,17/03/2020
+Tungurahua,Mocha,0,17/03/2020
+Tungurahua,Quero,0,17/03/2020
+Zamora Chinchipe,Yacuambi,0,17/03/2020
+Zamora Chinchipe,Yantzaza,0,17/03/2020
+Zamora Chinchipe,El Pangui,0,17/03/2020
+Zamora Chinchipe,Zamora,0,17/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,17/03/2020
+Zamora Chinchipe,Paquisha,0,17/03/2020
+Zamora Chinchipe,Nangaritza,0,17/03/2020
+Zamora Chinchipe,Palanda,0,17/03/2020
+Zamora Chinchipe,Chinchipe,0,17/03/2020
+Azuay,Cuenca,5,18/03/2020
+Azuay,Santa Isabel,0,18/03/2020
+Azuay,Sevilla de Oro,0,18/03/2020
+Azuay,Paute,0,18/03/2020
+Azuay,Guachapala,0,18/03/2020
+Azuay,El Pan,0,18/03/2020
+Azuay,Gualaceo,0,18/03/2020
+Azuay,Chordeleg,0,18/03/2020
+Azuay,Sígsig,0,18/03/2020
+Azuay,Pucará,0,18/03/2020
+Azuay,Camilo Ponce Enríquez,0,18/03/2020
+Azuay,San Fernando,0,18/03/2020
+Azuay,Girón,0,18/03/2020
+Azuay,Nabón,0,18/03/2020
+Azuay,Oña,0,18/03/2020
+Bolívar,Guaranda,2,18/03/2020
+Bolívar,Chillanes,0,18/03/2020
+Bolívar,Chimbo,0,18/03/2020
+Bolívar,Las Naves,0,18/03/2020
+Bolívar,Echeandía,0,18/03/2020
+Bolívar,Caluma,0,18/03/2020
+Bolívar,San Miguel,0,18/03/2020
+Cañar,Azogues,0,18/03/2020
+Cañar,Cañar,0,18/03/2020
+Cañar,El Tambo,0,18/03/2020
+Cañar,La Troncal,0,18/03/2020
+Cañar,Suscal,0,18/03/2020
+Cañar,Déleg,0,18/03/2020
+Cañar,Biblían,0,18/03/2020
+Carchi,Tulcán,0,18/03/2020
+Carchi,Mira,0,18/03/2020
+Carchi,Espejo,0,18/03/2020
+Carchi,Montúfar,0,18/03/2020
+Carchi,San Pedro de Huaca,0,18/03/2020
+Carchi,Bolivar,0,18/03/2020
+Chimborazo,Colta,0,18/03/2020
+Chimborazo,Riobamba,0,18/03/2020
+Chimborazo,Cumandá,0,18/03/2020
+Chimborazo,Guano,0,18/03/2020
+Chimborazo,Penipe,0,18/03/2020
+Chimborazo,Chambo,0,18/03/2020
+Chimborazo,Pallatanga,0,18/03/2020
+Chimborazo,Guamote,0,18/03/2020
+Chimborazo,Alausí,0,18/03/2020
+Chimborazo,Chunchi,0,18/03/2020
+Cotopaxi,La Maná,0,18/03/2020
+Cotopaxi,Latacunga,0,18/03/2020
+Cotopaxi,Sigchos,0,18/03/2020
+Cotopaxi,Saquisilí,0,18/03/2020
+Cotopaxi,Pujilí,0,18/03/2020
+Cotopaxi,Pangua,0,18/03/2020
+Cotopaxi,Salcedo,0,18/03/2020
+El Oro,Machala,1,18/03/2020
+El Oro,Santa Rosa,0,18/03/2020
+El Oro,Huaquillas,0,18/03/2020
+El Oro,Arenillas,0,18/03/2020
+El Oro,Atahualpa,0,18/03/2020
+El Oro,El Guabo,0,18/03/2020
+El Oro,Pasaje,0,18/03/2020
+El Oro,Chilla,0,18/03/2020
+El Oro,Zaruma,0,18/03/2020
+El Oro,Las Lajas,0,18/03/2020
+El Oro,Marcabelí,0,18/03/2020
+El Oro,Balsas,0,18/03/2020
+El Oro,Piñas,0,18/03/2020
+El Oro,Portovelo,0,18/03/2020
+Esmeraldas,Esmeraldas,0,18/03/2020
+Esmeraldas,San Lorenzo,0,18/03/2020
+Esmeraldas,Eloy Alfaro,0,18/03/2020
+Esmeraldas,Rioverde,0,18/03/2020
+Esmeraldas,Muisne,0,18/03/2020
+Esmeraldas,Atacames,0,18/03/2020
+Esmeraldas,Quinindé,0,18/03/2020
+Galápagos,San Cristóbal,0,18/03/2020
+Galápagos,Isabela,0,18/03/2020
+Galápagos,Santa Cruz,0,18/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,18/03/2020
+Guayas,Daule,7,18/03/2020
+Guayas,Durán,9,18/03/2020
+Guayas,Empalme,2,18/03/2020
+Guayas,Guayaquil,88,18/03/2020
+Guayas,Milagro,1,18/03/2020
+Guayas,Samborondón,21,18/03/2020
+Guayas,Naranjal,0,18/03/2020
+Guayas,Pedro Carbo,0,18/03/2020
+Guayas,Salitre,0,18/03/2020
+Guayas,Santa Lucía,0,18/03/2020
+Guayas,Balzar,0,18/03/2020
+Guayas,Playas,0,18/03/2020
+Guayas,San Jacinto De Yaguachi,0,18/03/2020
+Guayas,Colimes,0,18/03/2020
+Guayas,El Triunfo,0,18/03/2020
+Guayas,Palestina,0,18/03/2020
+Guayas,Isidro Ayora,0,18/03/2020
+Guayas,Lomas de Sargentillo,0,18/03/2020
+Guayas,Nobol,0,18/03/2020
+Guayas,Yaguachi,0,18/03/2020
+Guayas,Simón Bolivar,0,18/03/2020
+Guayas,Naranjito,0,18/03/2020
+Guayas,General Antonio Elizalde,0,18/03/2020
+Guayas,Coronel Marcelino Maridueña,0,18/03/2020
+Imbabura,Ibarra,0,18/03/2020
+Imbabura,Otavalo,0,18/03/2020
+Imbabura,San Miguel de Urcuquí,0,18/03/2020
+Imbabura,Cotacachi,0,18/03/2020
+Imbabura,Antonio Ante,0,18/03/2020
+Imbabura,Pimampiro,0,18/03/2020
+Loja,Calvas,0,18/03/2020
+Loja,Loja,0,18/03/2020
+Loja,Macará,0,18/03/2020
+Loja,Catamayo,0,18/03/2020
+Loja,Saraguro,0,18/03/2020
+Loja,Chaguarpamba,0,18/03/2020
+Loja,Olmedo,0,18/03/2020
+Loja,Paltas,0,18/03/2020
+Loja,Puyango,0,18/03/2020
+Loja,Pindal,0,18/03/2020
+Loja,Celica,0,18/03/2020
+Loja,Zapotillo,0,18/03/2020
+Loja,Sozoranga,0,18/03/2020
+Loja,Gonzanamá,0,18/03/2020
+Loja,Quilanga,0,18/03/2020
+Loja,Espíndola,0,18/03/2020
+Los Ríos,Babahoyo,9,18/03/2020
+Los Ríos,Urdaneta,1,18/03/2020
+Los Ríos,Buena Fe,0,18/03/2020
+Los Ríos,Ventanas,0,18/03/2020
+Los Ríos,Mocache,0,18/03/2020
+Los Ríos,Quevedo,0,18/03/2020
+Los Ríos,Montalvo,0,18/03/2020
+Los Ríos,Vinces,0,18/03/2020
+Los Ríos,Valencia,0,18/03/2020
+Los Ríos,Quinsaloma,0,18/03/2020
+Los Ríos,Palenque,0,18/03/2020
+Los Ríos,Baba,0,18/03/2020
+Los Ríos,Puebloviejo,0,18/03/2020
+Manabí,Jipijapa,1,18/03/2020
+Manabí,Manta,7,18/03/2020
+Manabí,Montecristi,0,18/03/2020
+Manabí,Portoviejo,0,18/03/2020
+Manabí,Sucre,0,18/03/2020
+Manabí,Bolívar,0,18/03/2020
+Manabí,Santa Ana,0,18/03/2020
+Manabí,Pedernales,0,18/03/2020
+Manabí,Chone,0,18/03/2020
+Manabí,Flavio Alfaro,0,18/03/2020
+Manabí,El Carmen,0,18/03/2020
+Manabí,Jama,0,18/03/2020
+Manabí,San Vicente,0,18/03/2020
+Manabí,Tosagua,0,18/03/2020
+Manabí,Rocafuerte,0,18/03/2020
+Manabí,Junín,0,18/03/2020
+Manabí,Pichincha,0,18/03/2020
+Manabí,Jaramijó,0,18/03/2020
+Manabí,Veinticuatro de Mayo,0,18/03/2020
+Manabí,Olmedo,0,18/03/2020
+Manabí,Puerto López,0,18/03/2020
+Manabí,Paján,0,18/03/2020
+Napo,El Chaco,0,18/03/2020
+Napo,Quijos,0,18/03/2020
+Napo,Archidona,0,18/03/2020
+Napo,Tena,0,18/03/2020
+Napo,Carlos Julio Arosemena Tola,0,18/03/2020
+Orellana,Loreto,0,18/03/2020
+Orellana,Orellana,0,18/03/2020
+Orellana,La Joya de los Sachas,0,18/03/2020
+Orellana,Aguarico,0,18/03/2020
+Morona Santiago,Gualaquiza,1,18/03/2020
+Morona Santiago,Morona,0,18/03/2020
+Morona Santiago,Sucúa,0,18/03/2020
+Morona Santiago,Palora,0,18/03/2020
+Morona Santiago,Taisha,0,18/03/2020
+Morona Santiago,Pablo Sexto,0,18/03/2020
+Morona Santiago,Huamboya,0,18/03/2020
+Morona Santiago,Santiago,0,18/03/2020
+Morona Santiago,Logroño,0,18/03/2020
+Morona Santiago,Tiwintza,0,18/03/2020
+Morona Santiago,Limón Indanza,0,18/03/2020
+Morona Santiago,San Juan Bosco,0,18/03/2020
+Pastaza,Pastaza,0,18/03/2020
+Pastaza,Mera,0,18/03/2020
+Pastaza,Santa Clara,0,18/03/2020
+Pastaza,Arajuno,0,18/03/2020
+Pichincha,Quito,12,18/03/2020
+Pichincha,Rumiñahui,0,18/03/2020
+Pichincha,Pedro Vicente Maldonado,0,18/03/2020
+Pichincha,Puerto Quito,0,18/03/2020
+Pichincha,San Miguel de Los Bancos,0,18/03/2020
+Pichincha,Pedro Moncayo,0,18/03/2020
+Pichincha,Cayambe,0,18/03/2020
+Pichincha,Mejía,0,18/03/2020
+Santa Elena,Santa Elena,0,18/03/2020
+Santa Elena,La Libertad,0,18/03/2020
+Santa Elena,Salinas,0,18/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,0,18/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,18/03/2020
+Sucumbíos,Cuyabeno,0,18/03/2020
+Sucumbíos,Lago Agrio,1,18/03/2020
+Sucumbíos,Sucumbíos,0,18/03/2020
+Sucumbíos,Gonzalo Pizarro,0,18/03/2020
+Sucumbíos,Cascales,0,18/03/2020
+Sucumbíos,Putumayo,0,18/03/2020
+Sucumbíos,Shushufindi,0,18/03/2020
+Tungurahua,Ambato,0,18/03/2020
+Tungurahua,Píllaro,0,18/03/2020
+Tungurahua,Patate,0,18/03/2020
+Tungurahua,Baños,0,18/03/2020
+Tungurahua,Pelileo,0,18/03/2020
+Tungurahua,Cevallos,0,18/03/2020
+Tungurahua,Tisaleo,0,18/03/2020
+Tungurahua,Mocha,0,18/03/2020
+Tungurahua,Quero,0,18/03/2020
+Zamora Chinchipe,Yacuambi,0,18/03/2020
+Zamora Chinchipe,Yantzaza,0,18/03/2020
+Zamora Chinchipe,El Pangui,0,18/03/2020
+Zamora Chinchipe,Zamora,0,18/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,18/03/2020
+Zamora Chinchipe,Paquisha,0,18/03/2020
+Zamora Chinchipe,Nangaritza,0,18/03/2020
+Zamora Chinchipe,Palanda,0,18/03/2020
+Zamora Chinchipe,Chinchipe,0,18/03/2020
+Azuay,Cuenca,14,19/03/2020
+Azuay,Santa Isabel,0,19/03/2020
+Azuay,Sevilla de Oro,0,19/03/2020
+Azuay,Paute,0,19/03/2020
+Azuay,Guachapala,0,19/03/2020
+Azuay,El Pan,0,19/03/2020
+Azuay,Gualaceo,0,19/03/2020
+Azuay,Chordeleg,0,19/03/2020
+Azuay,Sígsig,0,19/03/2020
+Azuay,Pucará,0,19/03/2020
+Azuay,Camilo Ponce Enríquez,0,19/03/2020
+Azuay,San Fernando,0,19/03/2020
+Azuay,Girón,0,19/03/2020
+Azuay,Nabón,0,19/03/2020
+Azuay,Oña,0,19/03/2020
+Bolívar,Guaranda,2,19/03/2020
+Bolívar,Chillanes,0,19/03/2020
+Bolívar,Chimbo,0,19/03/2020
+Bolívar,Las Naves,0,19/03/2020
+Bolívar,Echeandía,0,19/03/2020
+Bolívar,Caluma,0,19/03/2020
+Bolívar,San Miguel,0,19/03/2020
+Cañar,Azogues,3,19/03/2020
+Cañar,Cañar,0,19/03/2020
+Cañar,El Tambo,0,19/03/2020
+Cañar,La Troncal,0,19/03/2020
+Cañar,Suscal,0,19/03/2020
+Cañar,Déleg,0,19/03/2020
+Cañar,Biblían,0,19/03/2020
+Carchi,Tulcán,0,19/03/2020
+Carchi,Mira,0,19/03/2020
+Carchi,Espejo,0,19/03/2020
+Carchi,Montúfar,0,19/03/2020
+Carchi,San Pedro de Huaca,0,19/03/2020
+Carchi,Bolivar,0,19/03/2020
+Chimborazo,Colta,2,19/03/2020
+Chimborazo,Riobamba,0,19/03/2020
+Chimborazo,Cumandá,0,19/03/2020
+Chimborazo,Guano,0,19/03/2020
+Chimborazo,Penipe,0,19/03/2020
+Chimborazo,Chambo,0,19/03/2020
+Chimborazo,Pallatanga,0,19/03/2020
+Chimborazo,Guamote,0,19/03/2020
+Chimborazo,Alausí,0,19/03/2020
+Chimborazo,Chunchi,0,19/03/2020
+Cotopaxi,La Maná,0,19/03/2020
+Cotopaxi,Latacunga,0,19/03/2020
+Cotopaxi,Sigchos,0,19/03/2020
+Cotopaxi,Saquisilí,0,19/03/2020
+Cotopaxi,Pujilí,0,19/03/2020
+Cotopaxi,Pangua,0,19/03/2020
+Cotopaxi,Salcedo,0,19/03/2020
+El Oro,Machala,1,19/03/2020
+El Oro,Santa Rosa,0,19/03/2020
+El Oro,Huaquillas,0,19/03/2020
+El Oro,Arenillas,0,19/03/2020
+El Oro,Atahualpa,0,19/03/2020
+El Oro,El Guabo,0,19/03/2020
+El Oro,Pasaje,0,19/03/2020
+El Oro,Chilla,0,19/03/2020
+El Oro,Zaruma,0,19/03/2020
+El Oro,Las Lajas,0,19/03/2020
+El Oro,Marcabelí,0,19/03/2020
+El Oro,Balsas,0,19/03/2020
+El Oro,Piñas,0,19/03/2020
+El Oro,Portovelo,0,19/03/2020
+Esmeraldas,Esmeraldas,0,19/03/2020
+Esmeraldas,San Lorenzo,0,19/03/2020
+Esmeraldas,Eloy Alfaro,0,19/03/2020
+Esmeraldas,Rioverde,0,19/03/2020
+Esmeraldas,Muisne,0,19/03/2020
+Esmeraldas,Atacames,0,19/03/2020
+Esmeraldas,Quinindé,0,19/03/2020
+Galápagos,San Cristóbal,0,19/03/2020
+Galápagos,Isabela,0,19/03/2020
+Galápagos,Santa Cruz,0,19/03/2020
+Guayas,Alfredo Baquerizo Moreno,0,19/03/2020
+Guayas,Daule,21,19/03/2020
+Guayas,Durán,8,19/03/2020
+Guayas,Empalme,3,19/03/2020
+Guayas,Guayaquil,114,19/03/2020
+Guayas,Milagro,5,19/03/2020
+Guayas,Samborondón,36,19/03/2020
+Guayas,Naranjal,0,19/03/2020
+Guayas,Pedro Carbo,0,19/03/2020
+Guayas,Salitre,0,19/03/2020
+Guayas,Santa Lucía,0,19/03/2020
+Guayas,Balzar,0,19/03/2020
+Guayas,Playas,0,19/03/2020
+Guayas,San Jacinto De Yaguachi,0,19/03/2020
+Guayas,Colimes,0,19/03/2020
+Guayas,El Triunfo,0,19/03/2020
+Guayas,Palestina,0,19/03/2020
+Guayas,Isidro Ayora,0,19/03/2020
+Guayas,Lomas de Sargentillo,0,19/03/2020
+Guayas,Nobol,0,19/03/2020
+Guayas,Yaguachi,0,19/03/2020
+Guayas,Simón Bolivar,0,19/03/2020
+Guayas,Naranjito,0,19/03/2020
+Guayas,General Antonio Elizalde,0,19/03/2020
+Guayas,Coronel Marcelino Maridueña,0,19/03/2020
+Imbabura,Ibarra,1,19/03/2020
+Imbabura,Otavalo,0,19/03/2020
+Imbabura,San Miguel de Urcuquí,0,19/03/2020
+Imbabura,Cotacachi,0,19/03/2020
+Imbabura,Antonio Ante,0,19/03/2020
+Imbabura,Pimampiro,0,19/03/2020
+Loja,Calvas,1,19/03/2020
+Loja,Loja,2,19/03/2020
+Loja,Macará,1,19/03/2020
+Loja,Catamayo,0,19/03/2020
+Loja,Saraguro,0,19/03/2020
+Loja,Chaguarpamba,0,19/03/2020
+Loja,Olmedo,0,19/03/2020
+Loja,Paltas,0,19/03/2020
+Loja,Puyango,0,19/03/2020
+Loja,Pindal,0,19/03/2020
+Loja,Celica,0,19/03/2020
+Loja,Zapotillo,0,19/03/2020
+Loja,Sozoranga,0,19/03/2020
+Loja,Gonzanamá,0,19/03/2020
+Loja,Quilanga,0,19/03/2020
+Loja,Espíndola,0,19/03/2020
+Los Ríos,Babahoyo,15,19/03/2020
+Los Ríos,Urdaneta,1,19/03/2020
+Los Ríos,Buena Fe,0,19/03/2020
+Los Ríos,Ventanas,0,19/03/2020
+Los Ríos,Mocache,0,19/03/2020
+Los Ríos,Quevedo,0,19/03/2020
+Los Ríos,Montalvo,0,19/03/2020
+Los Ríos,Vinces,0,19/03/2020
+Los Ríos,Valencia,0,19/03/2020
+Los Ríos,Quinsaloma,0,19/03/2020
+Los Ríos,Palenque,0,19/03/2020
+Los Ríos,Baba,0,19/03/2020
+Los Ríos,Puebloviejo,0,19/03/2020
+Manabí,Jipijapa,0,19/03/2020
+Manabí,Manta,7,19/03/2020
+Manabí,Montecristi,1,19/03/2020
+Manabí,Portoviejo,0,19/03/2020
+Manabí,Sucre,0,19/03/2020
+Manabí,Bolívar,0,19/03/2020
+Manabí,Santa Ana,0,19/03/2020
+Manabí,Pedernales,0,19/03/2020
+Manabí,Chone,0,19/03/2020
+Manabí,Flavio Alfaro,0,19/03/2020
+Manabí,El Carmen,0,19/03/2020
+Manabí,Jama,0,19/03/2020
+Manabí,San Vicente,0,19/03/2020
+Manabí,Tosagua,0,19/03/2020
+Manabí,Rocafuerte,0,19/03/2020
+Manabí,Junín,0,19/03/2020
+Manabí,Pichincha,0,19/03/2020
+Manabí,Jaramijó,0,19/03/2020
+Manabí,Veinticuatro de Mayo,0,19/03/2020
+Manabí,Olmedo,0,19/03/2020
+Manabí,Puerto López,0,19/03/2020
+Manabí,Paján,0,19/03/2020
+Napo,El Chaco,0,19/03/2020
+Napo,Quijos,0,19/03/2020
+Napo,Archidona,0,19/03/2020
+Napo,Tena,0,19/03/2020
+Napo,Carlos Julio Arosemena Tola,0,19/03/2020
+Orellana,Loreto,0,19/03/2020
+Orellana,Orellana,0,19/03/2020
+Orellana,La Joya de los Sachas,0,19/03/2020
+Orellana,Aguarico,0,19/03/2020
+Morona Santiago,Gualaquiza,1,19/03/2020
+Morona Santiago,Morona,1,19/03/2020
+Morona Santiago,Sucúa,1,19/03/2020
+Morona Santiago,Palora,0,19/03/2020
+Morona Santiago,Taisha,0,19/03/2020
+Morona Santiago,Pablo Sexto,0,19/03/2020
+Morona Santiago,Huamboya,0,19/03/2020
+Morona Santiago,Santiago,0,19/03/2020
+Morona Santiago,Logroño,0,19/03/2020
+Morona Santiago,Tiwintza,0,19/03/2020
+Morona Santiago,Limón Indanza,0,19/03/2020
+Morona Santiago,San Juan Bosco,0,19/03/2020
+Pastaza,Pastaza,0,19/03/2020
+Pastaza,Mera,0,19/03/2020
+Pastaza,Santa Clara,0,19/03/2020
+Pastaza,Arajuno,0,19/03/2020
+Pichincha,Quito,16,19/03/2020
+Pichincha,Rumiñahui,0,19/03/2020
+Pichincha,Pedro Vicente Maldonado,0,19/03/2020
+Pichincha,Puerto Quito,0,19/03/2020
+Pichincha,San Miguel de Los Bancos,0,19/03/2020
+Pichincha,Pedro Moncayo,0,19/03/2020
+Pichincha,Cayambe,0,19/03/2020
+Pichincha,Mejía,0,19/03/2020
+Santa Elena,Santa Elena,0,19/03/2020
+Santa Elena,La Libertad,0,19/03/2020
+Santa Elena,Salinas,0,19/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,1,19/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,19/03/2020
+Sucumbíos,Cuyabeno,1,19/03/2020
+Sucumbíos,Lago Agrio,1,19/03/2020
+Sucumbíos,Sucumbíos,0,19/03/2020
+Sucumbíos,Gonzalo Pizarro,0,19/03/2020
+Sucumbíos,Cascales,0,19/03/2020
+Sucumbíos,Putumayo,0,19/03/2020
+Sucumbíos,Shushufindi,0,19/03/2020
+Tungurahua,Ambato,0,19/03/2020
+Tungurahua,Píllaro,0,19/03/2020
+Tungurahua,Patate,0,19/03/2020
+Tungurahua,Baños,0,19/03/2020
+Tungurahua,Pelileo,0,19/03/2020
+Tungurahua,Cevallos,0,19/03/2020
+Tungurahua,Tisaleo,0,19/03/2020
+Tungurahua,Mocha,0,19/03/2020
+Tungurahua,Quero,0,19/03/2020
+Zamora Chinchipe,Yacuambi,0,19/03/2020
+Zamora Chinchipe,Yantzaza,0,19/03/2020
+Zamora Chinchipe,El Pangui,0,19/03/2020
+Zamora Chinchipe,Zamora,0,19/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,19/03/2020
+Zamora Chinchipe,Paquisha,0,19/03/2020
+Zamora Chinchipe,Nangaritza,0,19/03/2020
+Zamora Chinchipe,Palanda,0,19/03/2020
+Zamora Chinchipe,Chinchipe,0,19/03/2020
+Azuay,Cuenca,18,20/03/2020
+Azuay,Santa Isabel,0,20/03/2020
+Azuay,Sevilla de Oro,0,20/03/2020
+Azuay,Paute,0,20/03/2020
+Azuay,Guachapala,0,20/03/2020
+Azuay,El Pan,0,20/03/2020
+Azuay,Gualaceo,0,20/03/2020
+Azuay,Chordeleg,0,20/03/2020
+Azuay,Sígsig,0,20/03/2020
+Azuay,Pucará,0,20/03/2020
+Azuay,Camilo Ponce Enríquez,0,20/03/2020
+Azuay,San Fernando,0,20/03/2020
+Azuay,Girón,0,20/03/2020
+Azuay,Nabón,0,20/03/2020
+Azuay,Oña,0,20/03/2020
+Bolívar,Guaranda,4,20/03/2020
+Bolívar,Chillanes,0,20/03/2020
+Bolívar,Chimbo,0,20/03/2020
+Bolívar,Las Naves,0,20/03/2020
+Bolívar,Echeandía,0,20/03/2020
+Bolívar,Caluma,0,20/03/2020
+Bolívar,San Miguel,0,20/03/2020
+Cañar,Azogues,3,20/03/2020
+Cañar,Cañar,0,20/03/2020
+Cañar,El Tambo,0,20/03/2020
+Cañar,La Troncal,0,20/03/2020
+Cañar,Suscal,0,20/03/2020
+Cañar,Déleg,0,20/03/2020
+Cañar,Biblían,0,20/03/2020
+Carchi,Tulcán,0,20/03/2020
+Carchi,Mira,0,20/03/2020
+Carchi,Espejo,0,20/03/2020
+Carchi,Montúfar,0,20/03/2020
+Carchi,San Pedro de Huaca,0,20/03/2020
+Carchi,Bolivar,0,20/03/2020
+Chimborazo,Colta,2,20/03/2020
+Chimborazo,Riobamba,1,20/03/2020
+Chimborazo,Cumandá,0,20/03/2020
+Chimborazo,Guano,0,20/03/2020
+Chimborazo,Penipe,0,20/03/2020
+Chimborazo,Chambo,0,20/03/2020
+Chimborazo,Pallatanga,0,20/03/2020
+Chimborazo,Guamote,0,20/03/2020
+Chimborazo,Alausí,0,20/03/2020
+Chimborazo,Chunchi,0,20/03/2020
+Cotopaxi,La Maná,0,20/03/2020
+Cotopaxi,Latacunga,0,20/03/2020
+Cotopaxi,Sigchos,0,20/03/2020
+Cotopaxi,Saquisilí,0,20/03/2020
+Cotopaxi,Pujilí,0,20/03/2020
+Cotopaxi,Pangua,0,20/03/2020
+Cotopaxi,Salcedo,0,20/03/2020
+El Oro,Machala,1,20/03/2020
+El Oro,Santa Rosa,1,20/03/2020
+El Oro,Huaquillas,0,20/03/2020
+El Oro,Arenillas,0,20/03/2020
+El Oro,Atahualpa,0,20/03/2020
+El Oro,El Guabo,0,20/03/2020
+El Oro,Pasaje,0,20/03/2020
+El Oro,Chilla,0,20/03/2020
+El Oro,Zaruma,0,20/03/2020
+El Oro,Las Lajas,0,20/03/2020
+El Oro,Marcabelí,0,20/03/2020
+El Oro,Balsas,0,20/03/2020
+El Oro,Piñas,0,20/03/2020
+El Oro,Portovelo,0,20/03/2020
+Esmeraldas,Esmeraldas,0,20/03/2020
+Esmeraldas,San Lorenzo,0,20/03/2020
+Esmeraldas,Eloy Alfaro,0,20/03/2020
+Esmeraldas,Rioverde,0,20/03/2020
+Esmeraldas,Muisne,0,20/03/2020
+Esmeraldas,Atacames,0,20/03/2020
+Esmeraldas,Quinindé,0,20/03/2020
+Galápagos,San Cristóbal,0,20/03/2020
+Galápagos,Isabela,0,20/03/2020
+Galápagos,Santa Cruz,0,20/03/2020
+Guayas,Alfredo Baquerizo Moreno,1,20/03/2020
+Guayas,Daule,31,20/03/2020
+Guayas,Durán,16,20/03/2020
+Guayas,Empalme,3,20/03/2020
+Guayas,Guayaquil,205,20/03/2020
+Guayas,Milagro,6,20/03/2020
+Guayas,Naranjal,1,20/03/2020
+Guayas,Pedro Carbo,2,20/03/2020
+Guayas,Salitre,0,20/03/2020
+Guayas,Samborondón,52,20/03/2020
+Guayas,Santa Lucía,1,20/03/2020
+Guayas,Balzar,0,20/03/2020
+Guayas,Playas,0,20/03/2020
+Guayas,San Jacinto De Yaguachi,0,20/03/2020
+Guayas,Colimes,0,20/03/2020
+Guayas,El Triunfo,0,20/03/2020
+Guayas,Palestina,0,20/03/2020
+Guayas,Isidro Ayora,0,20/03/2020
+Guayas,Lomas de Sargentillo,0,20/03/2020
+Guayas,Nobol,0,20/03/2020
+Guayas,Yaguachi,0,20/03/2020
+Guayas,Simón Bolivar,0,20/03/2020
+Guayas,Naranjito,0,20/03/2020
+Guayas,General Antonio Elizalde,0,20/03/2020
+Guayas,Coronel Marcelino Maridueña,0,20/03/2020
+Imbabura,Ibarra,2,20/03/2020
+Imbabura,Otavalo,0,20/03/2020
+Imbabura,San Miguel de Urcuquí,0,20/03/2020
+Imbabura,Cotacachi,0,20/03/2020
+Imbabura,Antonio Ante,0,20/03/2020
+Imbabura,Pimampiro,0,20/03/2020
+Loja,Calvas,2,20/03/2020
+Loja,Loja,2,20/03/2020
+Loja,Macará,1,20/03/2020
+Loja,Catamayo,0,20/03/2020
+Loja,Saraguro,0,20/03/2020
+Loja,Chaguarpamba,0,20/03/2020
+Loja,Olmedo,0,20/03/2020
+Loja,Paltas,0,20/03/2020
+Loja,Puyango,0,20/03/2020
+Loja,Pindal,0,20/03/2020
+Loja,Celica,0,20/03/2020
+Loja,Zapotillo,0,20/03/2020
+Loja,Sozoranga,0,20/03/2020
+Loja,Gonzanamá,0,20/03/2020
+Loja,Quilanga,0,20/03/2020
+Loja,Espíndola,0,20/03/2020
+Los Ríos,Babahoyo,16,20/03/2020
+Los Ríos,Buena Fe,1,20/03/2020
+Los Ríos,Urdaneta,1,20/03/2020
+Los Ríos,Ventanas,1,20/03/2020
+Los Ríos,Mocache,0,20/03/2020
+Los Ríos,Quevedo,0,20/03/2020
+Los Ríos,Montalvo,0,20/03/2020
+Los Ríos,Vinces,0,20/03/2020
+Los Ríos,Valencia,0,20/03/2020
+Los Ríos,Quinsaloma,0,20/03/2020
+Los Ríos,Palenque,0,20/03/2020
+Los Ríos,Baba,0,20/03/2020
+Los Ríos,Puebloviejo,0,20/03/2020
+Manabí,Jipijapa,1,20/03/2020
+Manabí,Manta,6,20/03/2020
+Manabí,Montecristi,1,20/03/2020
+Manabí,Portoviejo,1,20/03/2020
+Manabí,Sucre,0,20/03/2020
+Manabí,Bolívar,0,20/03/2020
+Manabí,Santa Ana,0,20/03/2020
+Manabí,Pedernales,0,20/03/2020
+Manabí,Chone,0,20/03/2020
+Manabí,Flavio Alfaro,0,20/03/2020
+Manabí,El Carmen,0,20/03/2020
+Manabí,Jama,0,20/03/2020
+Manabí,San Vicente,0,20/03/2020
+Manabí,Tosagua,0,20/03/2020
+Manabí,Rocafuerte,0,20/03/2020
+Manabí,Junín,0,20/03/2020
+Manabí,Pichincha,0,20/03/2020
+Manabí,Jaramijó,0,20/03/2020
+Manabí,Veinticuatro de Mayo,0,20/03/2020
+Manabí,Olmedo,0,20/03/2020
+Manabí,Puerto López,0,20/03/2020
+Manabí,Paján,0,20/03/2020
+Napo,El Chaco,0,20/03/2020
+Napo,Quijos,0,20/03/2020
+Napo,Archidona,0,20/03/2020
+Napo,Tena,0,20/03/2020
+Napo,Carlos Julio Arosemena Tola,0,20/03/2020
+Orellana,Loreto,0,20/03/2020
+Orellana,Orellana,0,20/03/2020
+Orellana,La Joya de los Sachas,0,20/03/2020
+Orellana,Aguarico,0,20/03/2020
+Morona Santiago,Gualaquiza,1,20/03/2020
+Morona Santiago,Morona,1,20/03/2020
+Morona Santiago,Sucúa,1,20/03/2020
+Morona Santiago,Palora,0,20/03/2020
+Morona Santiago,Taisha,0,20/03/2020
+Morona Santiago,Pablo Sexto,0,20/03/2020
+Morona Santiago,Huamboya,0,20/03/2020
+Morona Santiago,Santiago,0,20/03/2020
+Morona Santiago,Logroño,0,20/03/2020
+Morona Santiago,Tiwintza,0,20/03/2020
+Morona Santiago,Limón Indanza,0,20/03/2020
+Morona Santiago,San Juan Bosco,0,20/03/2020
+Pastaza,Pastaza,0,20/03/2020
+Pastaza,Mera,0,20/03/2020
+Pastaza,Santa Clara,0,20/03/2020
+Pastaza,Arajuno,0,20/03/2020
+Pichincha,Quito,35,20/03/2020
+Pichincha,Rumiñahui,0,20/03/2020
+Pichincha,Pedro Vicente Maldonado,0,20/03/2020
+Pichincha,Puerto Quito,0,20/03/2020
+Pichincha,San Miguel de Los Bancos,0,20/03/2020
+Pichincha,Pedro Moncayo,0,20/03/2020
+Pichincha,Cayambe,0,20/03/2020
+Pichincha,Mejía,0,20/03/2020
+Santa Elena,Santa Elena,1,20/03/2020
+Santa Elena,La Libertad,0,20/03/2020
+Santa Elena,Salinas,0,20/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,1,20/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,20/03/2020
+Sucumbíos,Cuyabeno,1,20/03/2020
+Sucumbíos,Lago Agrio,2,20/03/2020
+Sucumbíos,Sucumbíos,0,20/03/2020
+Sucumbíos,Gonzalo Pizarro,0,20/03/2020
+Sucumbíos,Cascales,0,20/03/2020
+Sucumbíos,Putumayo,0,20/03/2020
+Sucumbíos,Shushufindi,0,20/03/2020
+Tungurahua,Ambato,0,20/03/2020
+Tungurahua,Píllaro,0,20/03/2020
+Tungurahua,Patate,0,20/03/2020
+Tungurahua,Baños,0,20/03/2020
+Tungurahua,Pelileo,0,20/03/2020
+Tungurahua,Cevallos,0,20/03/2020
+Tungurahua,Tisaleo,0,20/03/2020
+Tungurahua,Mocha,0,20/03/2020
+Tungurahua,Quero,0,20/03/2020
+Zamora Chinchipe,Yacuambi,0,20/03/2020
+Zamora Chinchipe,Yantzaza,0,20/03/2020
+Zamora Chinchipe,El Pangui,0,20/03/2020
+Zamora Chinchipe,Zamora,0,20/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,20/03/2020
+Zamora Chinchipe,Paquisha,0,20/03/2020
+Zamora Chinchipe,Nangaritza,0,20/03/2020
+Zamora Chinchipe,Palanda,0,20/03/2020
+Zamora Chinchipe,Chinchipe,0,20/03/2020
+Azuay,Cuenca,18,21/03/2020
+Azuay,Santa Isabel,1,21/03/2020
+Azuay,Sevilla de Oro,0,21/03/2020
+Azuay,Paute,0,21/03/2020
+Azuay,Guachapala,0,21/03/2020
+Azuay,El Pan,0,21/03/2020
+Azuay,Gualaceo,0,21/03/2020
+Azuay,Chordeleg,0,21/03/2020
+Azuay,Sígsig,0,21/03/2020
+Azuay,Pucará,0,21/03/2020
+Azuay,Camilo Ponce Enríquez,0,21/03/2020
+Azuay,San Fernando,0,21/03/2020
+Azuay,Girón,0,21/03/2020
+Azuay,Nabón,0,21/03/2020
+Azuay,Oña,0,21/03/2020
+Bolívar,Chillanes,1,21/03/2020
+Bolívar,Guaranda,4,21/03/2020
+Bolívar,Chimbo,0,21/03/2020
+Bolívar,Las Naves,0,21/03/2020
+Bolívar,Echeandía,0,21/03/2020
+Bolívar,Caluma,0,21/03/2020
+Bolívar,San Miguel,0,21/03/2020
+Cañar,Azogues,3,21/03/2020
+Cañar,Cañar,0,21/03/2020
+Cañar,El Tambo,0,21/03/2020
+Cañar,La Troncal,0,21/03/2020
+Cañar,Suscal,0,21/03/2020
+Cañar,Déleg,0,21/03/2020
+Cañar,Biblían,0,21/03/2020
+Carchi,Tulcán,0,21/03/2020
+Carchi,Mira,0,21/03/2020
+Carchi,Espejo,0,21/03/2020
+Carchi,Montúfar,0,21/03/2020
+Carchi,San Pedro de Huaca,0,21/03/2020
+Carchi,Bolivar,0,21/03/2020
+Chimborazo,Colta,2,21/03/2020
+Chimborazo,Riobamba,2,21/03/2020
+Chimborazo,Cumandá,0,21/03/2020
+Chimborazo,Guano,0,21/03/2020
+Chimborazo,Penipe,0,21/03/2020
+Chimborazo,Chambo,0,21/03/2020
+Chimborazo,Pallatanga,0,21/03/2020
+Chimborazo,Guamote,0,21/03/2020
+Chimborazo,Alausí,0,21/03/2020
+Chimborazo,Chunchi,0,21/03/2020
+Cotopaxi,La Maná,0,21/03/2020
+Cotopaxi,Latacunga,0,21/03/2020
+Cotopaxi,Sigchos,0,21/03/2020
+Cotopaxi,Saquisilí,0,21/03/2020
+Cotopaxi,Pujilí,0,21/03/2020
+Cotopaxi,Pangua,0,21/03/2020
+Cotopaxi,Salcedo,0,21/03/2020
+El Oro,Machala,1,21/03/2020
+El Oro,Santa Rosa,1,21/03/2020
+El Oro,Huaquillas,0,21/03/2020
+El Oro,Arenillas,0,21/03/2020
+El Oro,Atahualpa,0,21/03/2020
+El Oro,El Guabo,0,21/03/2020
+El Oro,Pasaje,0,21/03/2020
+El Oro,Chilla,0,21/03/2020
+El Oro,Zaruma,0,21/03/2020
+El Oro,Las Lajas,0,21/03/2020
+El Oro,Marcabelí,0,21/03/2020
+El Oro,Balsas,0,21/03/2020
+El Oro,Piñas,0,21/03/2020
+El Oro,Portovelo,0,21/03/2020
+Esmeraldas,Esmeraldas,2,21/03/2020
+Esmeraldas,San Lorenzo,0,21/03/2020
+Esmeraldas,Eloy Alfaro,0,21/03/2020
+Esmeraldas,Rioverde,0,21/03/2020
+Esmeraldas,Muisne,0,21/03/2020
+Esmeraldas,Atacames,0,21/03/2020
+Esmeraldas,Quinindé,0,21/03/2020
+Galápagos,San Cristóbal,0,21/03/2020
+Galápagos,Isabela,0,21/03/2020
+Galápagos,Santa Cruz,0,21/03/2020
+Guayas,Alfredo Baquerizo Moreno,1,21/03/2020
+Guayas,Daule,34,21/03/2020
+Guayas,Durán,18,21/03/2020
+Guayas,Empalme,3,21/03/2020
+Guayas,Guayaquil,251,21/03/2020
+Guayas,Milagro,12,21/03/2020
+Guayas,Naranjal,1,21/03/2020
+Guayas,Pedro Carbo,2,21/03/2020
+Guayas,Salitre,1,21/03/2020
+Guayas,Samborondón,73,21/03/2020
+Guayas,Santa Lucía,1,21/03/2020
+Guayas,Balzar,0,21/03/2020
+Guayas,Playas,0,21/03/2020
+Guayas,San Jacinto De Yaguachi,0,21/03/2020
+Guayas,Colimes,0,21/03/2020
+Guayas,El Triunfo,0,21/03/2020
+Guayas,Palestina,0,21/03/2020
+Guayas,Isidro Ayora,0,21/03/2020
+Guayas,Lomas de Sargentillo,0,21/03/2020
+Guayas,Nobol,0,21/03/2020
+Guayas,Yaguachi,0,21/03/2020
+Guayas,Simón Bolivar,0,21/03/2020
+Guayas,Naranjito,0,21/03/2020
+Guayas,General Antonio Elizalde,0,21/03/2020
+Guayas,Coronel Marcelino Maridueña,0,21/03/2020
+Imbabura,Ibarra,3,21/03/2020
+Imbabura,Otavalo,0,21/03/2020
+Imbabura,San Miguel de Urcuquí,0,21/03/2020
+Imbabura,Cotacachi,0,21/03/2020
+Imbabura,Antonio Ante,0,21/03/2020
+Imbabura,Pimampiro,0,21/03/2020
+Loja,Calvas,2,21/03/2020
+Loja,Loja,2,21/03/2020
+Loja,Macará,1,21/03/2020
+Loja,Catamayo,0,21/03/2020
+Loja,Saraguro,0,21/03/2020
+Loja,Chaguarpamba,0,21/03/2020
+Loja,Olmedo,0,21/03/2020
+Loja,Paltas,0,21/03/2020
+Loja,Puyango,0,21/03/2020
+Loja,Pindal,0,21/03/2020
+Loja,Celica,0,21/03/2020
+Loja,Zapotillo,0,21/03/2020
+Loja,Sozoranga,0,21/03/2020
+Loja,Gonzanamá,0,21/03/2020
+Loja,Quilanga,0,21/03/2020
+Loja,Espíndola,0,21/03/2020
+Los Ríos,Babahoyo,17,21/03/2020
+Los Ríos,Buena Fe,1,21/03/2020
+Los Ríos,Mocache,1,21/03/2020
+Los Ríos,Quevedo,1,21/03/2020
+Los Ríos,Urdaneta,1,21/03/2020
+Los Ríos,Ventanas,1,21/03/2020
+Los Ríos,Montalvo,0,21/03/2020
+Los Ríos,Vinces,0,21/03/2020
+Los Ríos,Valencia,0,21/03/2020
+Los Ríos,Quinsaloma,0,21/03/2020
+Los Ríos,Palenque,0,21/03/2020
+Los Ríos,Baba,0,21/03/2020
+Los Ríos,Puebloviejo,0,21/03/2020
+Manabí,Jipijapa,1,21/03/2020
+Manabí,Manta,6,21/03/2020
+Manabí,Montecristi,1,21/03/2020
+Manabí,Portoviejo,1,21/03/2020
+Manabí,Sucre,0,21/03/2020
+Manabí,Bolívar,0,21/03/2020
+Manabí,Santa Ana,0,21/03/2020
+Manabí,Pedernales,0,21/03/2020
+Manabí,Chone,0,21/03/2020
+Manabí,Flavio Alfaro,0,21/03/2020
+Manabí,El Carmen,0,21/03/2020
+Manabí,Jama,0,21/03/2020
+Manabí,San Vicente,0,21/03/2020
+Manabí,Tosagua,0,21/03/2020
+Manabí,Rocafuerte,0,21/03/2020
+Manabí,Junín,0,21/03/2020
+Manabí,Pichincha,0,21/03/2020
+Manabí,Jaramijó,0,21/03/2020
+Manabí,Veinticuatro de Mayo,0,21/03/2020
+Manabí,Olmedo,0,21/03/2020
+Manabí,Puerto López,0,21/03/2020
+Manabí,Paján,0,21/03/2020
+Napo,El Chaco,0,21/03/2020
+Napo,Quijos,0,21/03/2020
+Napo,Archidona,0,21/03/2020
+Napo,Tena,0,21/03/2020
+Napo,Carlos Julio Arosemena Tola,0,21/03/2020
+Orellana,Loreto,0,21/03/2020
+Orellana,Orellana,0,21/03/2020
+Orellana,La Joya de los Sachas,0,21/03/2020
+Orellana,Aguarico,0,21/03/2020
+Morona Santiago,Gualaquiza,1,21/03/2020
+Morona Santiago,Morona,1,21/03/2020
+Morona Santiago,Sucúa,1,21/03/2020
+Morona Santiago,Palora,0,21/03/2020
+Morona Santiago,Taisha,0,21/03/2020
+Morona Santiago,Pablo Sexto,0,21/03/2020
+Morona Santiago,Huamboya,0,21/03/2020
+Morona Santiago,Santiago,0,21/03/2020
+Morona Santiago,Logroño,0,21/03/2020
+Morona Santiago,Tiwintza,0,21/03/2020
+Morona Santiago,Limón Indanza,0,21/03/2020
+Morona Santiago,San Juan Bosco,0,21/03/2020
+Pastaza,Pastaza,0,21/03/2020
+Pastaza,Mera,0,21/03/2020
+Pastaza,Santa Clara,0,21/03/2020
+Pastaza,Arajuno,0,21/03/2020
+Pichincha,Quito,50,21/03/2020
+Pichincha,Rumiñahui,0,21/03/2020
+Pichincha,Pedro Vicente Maldonado,0,21/03/2020
+Pichincha,Puerto Quito,0,21/03/2020
+Pichincha,San Miguel de Los Bancos,0,21/03/2020
+Pichincha,Pedro Moncayo,0,21/03/2020
+Pichincha,Cayambe,0,21/03/2020
+Pichincha,Mejía,0,21/03/2020
+Santa Elena,Santa Elena,1,21/03/2020
+Santa Elena,La Libertad,0,21/03/2020
+Santa Elena,Salinas,0,21/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,4,21/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,21/03/2020
+Sucumbíos,Cuyabeno,1,21/03/2020
+Sucumbíos,Lago Agrio,2,21/03/2020
+Sucumbíos,Sucumbíos,0,21/03/2020
+Sucumbíos,Gonzalo Pizarro,0,21/03/2020
+Sucumbíos,Cascales,0,21/03/2020
+Sucumbíos,Putumayo,0,21/03/2020
+Sucumbíos,Shushufindi,0,21/03/2020
+Tungurahua,Ambato,0,21/03/2020
+Tungurahua,Píllaro,0,21/03/2020
+Tungurahua,Patate,0,21/03/2020
+Tungurahua,Baños,0,21/03/2020
+Tungurahua,Pelileo,0,21/03/2020
+Tungurahua,Cevallos,0,21/03/2020
+Tungurahua,Tisaleo,0,21/03/2020
+Tungurahua,Mocha,0,21/03/2020
+Tungurahua,Quero,0,21/03/2020
+Zamora Chinchipe,Yacuambi,0,21/03/2020
+Zamora Chinchipe,Yantzaza,0,21/03/2020
+Zamora Chinchipe,El Pangui,0,21/03/2020
+Zamora Chinchipe,Zamora,0,21/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,21/03/2020
+Zamora Chinchipe,Paquisha,0,21/03/2020
+Zamora Chinchipe,Nangaritza,0,21/03/2020
+Zamora Chinchipe,Palanda,0,21/03/2020
+Zamora Chinchipe,Chinchipe,0,21/03/2020
+Azuay,Cuenca,18,22/03/2020
+Azuay,Santa Isabel,1,22/03/2020
+Azuay,Sevilla de Oro,0,22/03/2020
+Azuay,Paute,0,22/03/2020
+Azuay,Guachapala,0,22/03/2020
+Azuay,El Pan,0,22/03/2020
+Azuay,Gualaceo,0,22/03/2020
+Azuay,Chordeleg,0,22/03/2020
+Azuay,Sígsig,0,22/03/2020
+Azuay,Pucará,0,22/03/2020
+Azuay,Camilo Ponce Enríquez,0,22/03/2020
+Azuay,San Fernando,0,22/03/2020
+Azuay,Girón,0,22/03/2020
+Azuay,Nabón,0,22/03/2020
+Azuay,Oña,0,22/03/2020
+Bolívar,Chillanes,1,22/03/2020
+Bolívar,Chimbo,1,22/03/2020
+Bolívar,Guaranda,6,22/03/2020
+Bolívar,Las Naves,0,22/03/2020
+Bolívar,Echeandía,0,22/03/2020
+Bolívar,Caluma,0,22/03/2020
+Bolívar,San Miguel,0,22/03/2020
+Cañar,Azogues,4,22/03/2020
+Cañar,Cañar,0,22/03/2020
+Cañar,El Tambo,0,22/03/2020
+Cañar,La Troncal,0,22/03/2020
+Cañar,Suscal,0,22/03/2020
+Cañar,Déleg,0,22/03/2020
+Cañar,Biblían,0,22/03/2020
+Carchi,Tulcán,0,22/03/2020
+Carchi,Mira,0,22/03/2020
+Carchi,Espejo,0,22/03/2020
+Carchi,Montúfar,0,22/03/2020
+Carchi,San Pedro de Huaca,0,22/03/2020
+Carchi,Bolivar,0,22/03/2020
+Chimborazo,Colta,6,22/03/2020
+Chimborazo,Riobamba,2,22/03/2020
+Chimborazo,Cumandá,1,22/03/2020
+Chimborazo,Guano,0,22/03/2020
+Chimborazo,Penipe,0,22/03/2020
+Chimborazo,Chambo,0,22/03/2020
+Chimborazo,Pallatanga,0,22/03/2020
+Chimborazo,Guamote,0,22/03/2020
+Chimborazo,Alausí,0,22/03/2020
+Chimborazo,Chunchi,0,22/03/2020
+Cotopaxi,La Maná,0,22/03/2020
+Cotopaxi,Latacunga,0,22/03/2020
+Cotopaxi,Sigchos,0,22/03/2020
+Cotopaxi,Saquisilí,0,22/03/2020
+Cotopaxi,Pujilí,0,22/03/2020
+Cotopaxi,Pangua,0,22/03/2020
+Cotopaxi,Salcedo,0,22/03/2020
+El Oro,Machala,1,22/03/2020
+El Oro,Santa Rosa,3,22/03/2020
+El Oro,Huaquillas,2,22/03/2020
+El Oro,Arenillas,0,22/03/2020
+El Oro,Atahualpa,0,22/03/2020
+El Oro,El Guabo,0,22/03/2020
+El Oro,Pasaje,0,22/03/2020
+El Oro,Chilla,0,22/03/2020
+El Oro,Zaruma,0,22/03/2020
+El Oro,Las Lajas,0,22/03/2020
+El Oro,Marcabelí,0,22/03/2020
+El Oro,Balsas,0,22/03/2020
+El Oro,Piñas,0,22/03/2020
+El Oro,Portovelo,0,22/03/2020
+Esmeraldas,Esmeraldas,2,22/03/2020
+Esmeraldas,San Lorenzo,0,22/03/2020
+Esmeraldas,Eloy Alfaro,0,22/03/2020
+Esmeraldas,Rioverde,0,22/03/2020
+Esmeraldas,Muisne,0,22/03/2020
+Esmeraldas,Atacames,0,22/03/2020
+Esmeraldas,Quinindé,0,22/03/2020
+Galápagos,San Cristóbal,0,22/03/2020
+Galápagos,Isabela,0,22/03/2020
+Galápagos,Santa Cruz,0,22/03/2020
+Guayas,Alfredo Baquerizo Moreno,1,22/03/2020
+Guayas,Balzar,1,22/03/2020
+Guayas,Daule,44,22/03/2020
+Guayas,Durán,28,22/03/2020
+Guayas,Empalme,4,22/03/2020
+Guayas,Guayaquil,408,22/03/2020
+Guayas,Milagro,21,22/03/2020
+Guayas,Naranjal,1,22/03/2020
+Guayas,Pedro Carbo,2,22/03/2020
+Guayas,Salitre,3,22/03/2020
+Guayas,Samborondón,89,22/03/2020
+Guayas,Santa Lucía,3,22/03/2020
+Guayas,Playas,1,22/03/2020
+Guayas,San Jacinto De Yaguachi,1,22/03/2020
+Guayas,Colimes,0,22/03/2020
+Guayas,El Triunfo,0,22/03/2020
+Guayas,Palestina,0,22/03/2020
+Guayas,Isidro Ayora,0,22/03/2020
+Guayas,Lomas de Sargentillo,0,22/03/2020
+Guayas,Nobol,0,22/03/2020
+Guayas,Yaguachi,0,22/03/2020
+Guayas,Simón Bolivar,0,22/03/2020
+Guayas,Naranjito,0,22/03/2020
+Guayas,General Antonio Elizalde,0,22/03/2020
+Guayas,Coronel Marcelino Maridueña,0,22/03/2020
+Imbabura,Ibarra,4,22/03/2020
+Imbabura,Otavalo,0,22/03/2020
+Imbabura,San Miguel de Urcuquí,0,22/03/2020
+Imbabura,Cotacachi,0,22/03/2020
+Imbabura,Antonio Ante,0,22/03/2020
+Imbabura,Pimampiro,0,22/03/2020
+Loja,Calvas,2,22/03/2020
+Loja,Loja,2,22/03/2020
+Loja,Macará,1,22/03/2020
+Loja,Catamayo,0,22/03/2020
+Loja,Saraguro,0,22/03/2020
+Loja,Chaguarpamba,0,22/03/2020
+Loja,Olmedo,0,22/03/2020
+Loja,Paltas,0,22/03/2020
+Loja,Puyango,0,22/03/2020
+Loja,Pindal,0,22/03/2020
+Loja,Celica,0,22/03/2020
+Loja,Zapotillo,0,22/03/2020
+Loja,Sozoranga,0,22/03/2020
+Loja,Gonzanamá,0,22/03/2020
+Loja,Quilanga,0,22/03/2020
+Loja,Espíndola,0,22/03/2020
+Los Ríos,Babahoyo,17,22/03/2020
+Los Ríos,Buena Fe,1,22/03/2020
+Los Ríos,Mocache,1,22/03/2020
+Los Ríos,Quevedo,3,22/03/2020
+Los Ríos,Urdaneta,1,22/03/2020
+Los Ríos,Ventanas,2,22/03/2020
+Los Ríos,Montalvo,0,22/03/2020
+Los Ríos,Vinces,0,22/03/2020
+Los Ríos,Valencia,0,22/03/2020
+Los Ríos,Quinsaloma,0,22/03/2020
+Los Ríos,Palenque,0,22/03/2020
+Los Ríos,Baba,0,22/03/2020
+Los Ríos,Puebloviejo,0,22/03/2020
+Manabí,Jipijapa,1,22/03/2020
+Manabí,Manta,18,22/03/2020
+Manabí,Montecristi,1,22/03/2020
+Manabí,Portoviejo,4,22/03/2020
+Manabí,Sucre,1,22/03/2020
+Manabí,Bolívar,0,22/03/2020
+Manabí,Santa Ana,0,22/03/2020
+Manabí,Pedernales,0,22/03/2020
+Manabí,Chone,0,22/03/2020
+Manabí,Flavio Alfaro,0,22/03/2020
+Manabí,El Carmen,0,22/03/2020
+Manabí,Jama,0,22/03/2020
+Manabí,San Vicente,0,22/03/2020
+Manabí,Tosagua,0,22/03/2020
+Manabí,Rocafuerte,0,22/03/2020
+Manabí,Junín,0,22/03/2020
+Manabí,Pichincha,0,22/03/2020
+Manabí,Jaramijó,0,22/03/2020
+Manabí,Veinticuatro de Mayo,0,22/03/2020
+Manabí,Olmedo,0,22/03/2020
+Manabí,Puerto López,0,22/03/2020
+Manabí,Paján,0,22/03/2020
+Napo,El Chaco,0,22/03/2020
+Napo,Quijos,0,22/03/2020
+Napo,Archidona,0,22/03/2020
+Napo,Tena,0,22/03/2020
+Napo,Carlos Julio Arosemena Tola,0,22/03/2020
+Orellana,Loreto,0,22/03/2020
+Orellana,Orellana,0,22/03/2020
+Orellana,La Joya de los Sachas,0,22/03/2020
+Orellana,Aguarico,0,22/03/2020
+Morona Santiago,Gualaquiza,1,22/03/2020
+Morona Santiago,Morona,1,22/03/2020
+Morona Santiago,Sucúa,1,22/03/2020
+Morona Santiago,Palora,0,22/03/2020
+Morona Santiago,Taisha,0,22/03/2020
+Morona Santiago,Pablo Sexto,0,22/03/2020
+Morona Santiago,Huamboya,0,22/03/2020
+Morona Santiago,Santiago,0,22/03/2020
+Morona Santiago,Logroño,0,22/03/2020
+Morona Santiago,Tiwintza,0,22/03/2020
+Morona Santiago,Limón Indanza,0,22/03/2020
+Morona Santiago,San Juan Bosco,0,22/03/2020
+Pastaza,Pastaza,0,22/03/2020
+Pastaza,Mera,0,22/03/2020
+Pastaza,Santa Clara,0,22/03/2020
+Pastaza,Arajuno,0,22/03/2020
+Pichincha,Quito,59,22/03/2020
+Pichincha,Rumiñahui,1,22/03/2020
+Pichincha,Pedro Vicente Maldonado,0,22/03/2020
+Pichincha,Puerto Quito,0,22/03/2020
+Pichincha,San Miguel de Los Bancos,0,22/03/2020
+Pichincha,Pedro Moncayo,0,22/03/2020
+Pichincha,Cayambe,0,22/03/2020
+Pichincha,Mejía,0,22/03/2020
+Santa Elena,Santa Elena,2,22/03/2020
+Santa Elena,La Libertad,0,22/03/2020
+Santa Elena,Salinas,0,22/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,4,22/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,22/03/2020
+Sucumbíos,Cuyabeno,1,22/03/2020
+Sucumbíos,Lago Agrio,5,22/03/2020
+Sucumbíos,Sucumbíos,0,22/03/2020
+Sucumbíos,Gonzalo Pizarro,0,22/03/2020
+Sucumbíos,Cascales,0,22/03/2020
+Sucumbíos,Putumayo,0,22/03/2020
+Sucumbíos,Shushufindi,0,22/03/2020
+Tungurahua,Ambato,0,22/03/2020
+Tungurahua,Píllaro,0,22/03/2020
+Tungurahua,Patate,0,22/03/2020
+Tungurahua,Baños,0,22/03/2020
+Tungurahua,Pelileo,0,22/03/2020
+Tungurahua,Cevallos,0,22/03/2020
+Tungurahua,Tisaleo,0,22/03/2020
+Tungurahua,Mocha,0,22/03/2020
+Tungurahua,Quero,0,22/03/2020
+Zamora Chinchipe,Yacuambi,0,22/03/2020
+Zamora Chinchipe,Yantzaza,0,22/03/2020
+Zamora Chinchipe,El Pangui,0,22/03/2020
+Zamora Chinchipe,Zamora,0,22/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,22/03/2020
+Zamora Chinchipe,Paquisha,0,22/03/2020
+Zamora Chinchipe,Nangaritza,0,22/03/2020
+Zamora Chinchipe,Palanda,0,22/03/2020
+Zamora Chinchipe,Chinchipe,0,22/03/2020
+Azuay,Cuenca,22,23/03/2020
+Azuay,Santa Isabel,1,23/03/2020
+Azuay,Sevilla de Oro,0,23/03/2020
+Azuay,Paute,0,23/03/2020
+Azuay,Guachapala,0,23/03/2020
+Azuay,El Pan,0,23/03/2020
+Azuay,Gualaceo,0,23/03/2020
+Azuay,Chordeleg,0,23/03/2020
+Azuay,Sígsig,0,23/03/2020
+Azuay,Pucará,0,23/03/2020
+Azuay,Camilo Ponce Enríquez,0,23/03/2020
+Azuay,San Fernando,0,23/03/2020
+Azuay,Girón,0,23/03/2020
+Azuay,Nabón,0,23/03/2020
+Azuay,Oña,0,23/03/2020
+Bolívar,Chillanes,1,23/03/2020
+Bolívar,Chimbo,1,23/03/2020
+Bolívar,Guaranda,7,23/03/2020
+Bolívar,Las Naves,0,23/03/2020
+Bolívar,Echeandía,0,23/03/2020
+Bolívar,Caluma,0,23/03/2020
+Bolívar,San Miguel,0,23/03/2020
+Cañar,Azogues,4,23/03/2020
+Cañar,Cañar,1,23/03/2020
+Cañar,El Tambo,0,23/03/2020
+Cañar,La Troncal,0,23/03/2020
+Cañar,Suscal,0,23/03/2020
+Cañar,Déleg,0,23/03/2020
+Cañar,Biblían,0,23/03/2020
+Carchi,Tulcán,0,23/03/2020
+Carchi,Mira,0,23/03/2020
+Carchi,Espejo,0,23/03/2020
+Carchi,Montúfar,0,23/03/2020
+Carchi,San Pedro de Huaca,0,23/03/2020
+Carchi,Bolivar,0,23/03/2020
+Chimborazo,Colta,6,23/03/2020
+Chimborazo,Riobamba,2,23/03/2020
+Chimborazo,Cumandá,1,23/03/2020
+Chimborazo,Guano,0,23/03/2020
+Chimborazo,Penipe,0,23/03/2020
+Chimborazo,Chambo,0,23/03/2020
+Chimborazo,Pallatanga,0,23/03/2020
+Chimborazo,Guamote,0,23/03/2020
+Chimborazo,Alausí,0,23/03/2020
+Chimborazo,Chunchi,0,23/03/2020
+Cotopaxi,La Maná,1,23/03/2020
+Cotopaxi,Latacunga,0,23/03/2020
+Cotopaxi,Sigchos,0,23/03/2020
+Cotopaxi,Saquisilí,0,23/03/2020
+Cotopaxi,Pujilí,0,23/03/2020
+Cotopaxi,Pangua,0,23/03/2020
+Cotopaxi,Salcedo,0,23/03/2020
+El Oro,Arenillas,1,23/03/2020
+El Oro,Huaquillas,2,23/03/2020
+El Oro,Machala,2,23/03/2020
+El Oro,Santa Rosa,4,23/03/2020
+El Oro,Atahualpa,0,23/03/2020
+El Oro,El Guabo,0,23/03/2020
+El Oro,Pasaje,0,23/03/2020
+El Oro,Chilla,0,23/03/2020
+El Oro,Zaruma,0,23/03/2020
+El Oro,Las Lajas,0,23/03/2020
+El Oro,Marcabelí,0,23/03/2020
+El Oro,Balsas,0,23/03/2020
+El Oro,Piñas,0,23/03/2020
+El Oro,Portovelo,0,23/03/2020
+Esmeraldas,Esmeraldas,3,23/03/2020
+Esmeraldas,San Lorenzo,0,23/03/2020
+Esmeraldas,Eloy Alfaro,0,23/03/2020
+Esmeraldas,Rioverde,0,23/03/2020
+Esmeraldas,Muisne,0,23/03/2020
+Esmeraldas,Atacames,0,23/03/2020
+Esmeraldas,Quinindé,0,23/03/2020
+Galápagos,San Cristóbal,0,23/03/2020
+Galápagos,Isabela,0,23/03/2020
+Galápagos,Santa Cruz,0,23/03/2020
+Guayas,Alfredo Baquerizo Moreno,1,23/03/2020
+Guayas,Balzar,1,23/03/2020
+Guayas,Colimes,1,23/03/2020
+Guayas,Daule,59,23/03/2020
+Guayas,Durán,37,23/03/2020
+Guayas,Empalme,5,23/03/2020
+Guayas,Guayaquil,526,23/03/2020
+Guayas,Milagro,33,23/03/2020
+Guayas,Naranjal,1,23/03/2020
+Guayas,Pedro Carbo,3,23/03/2020
+Guayas,Salitre,3,23/03/2020
+Guayas,Samborondón,91,23/03/2020
+Guayas,Santa Lucía,4,23/03/2020
+Guayas,Playas,1,23/03/2020
+Guayas,San Jacinto De Yaguachi,3,23/03/2020
+Guayas,El Triunfo,0,23/03/2020
+Guayas,Palestina,0,23/03/2020
+Guayas,Isidro Ayora,0,23/03/2020
+Guayas,Lomas de Sargentillo,0,23/03/2020
+Guayas,Nobol,0,23/03/2020
+Guayas,Yaguachi,0,23/03/2020
+Guayas,Simón Bolivar,0,23/03/2020
+Guayas,Naranjito,0,23/03/2020
+Guayas,General Antonio Elizalde,0,23/03/2020
+Guayas,Coronel Marcelino Maridueña,0,23/03/2020
+Imbabura,Ibarra,4,23/03/2020
+Imbabura,Otavalo,0,23/03/2020
+Imbabura,San Miguel de Urcuquí,0,23/03/2020
+Imbabura,Cotacachi,0,23/03/2020
+Imbabura,Antonio Ante,0,23/03/2020
+Imbabura,Pimampiro,0,23/03/2020
+Loja,Calvas,2,23/03/2020
+Loja,Loja,2,23/03/2020
+Loja,Macará,1,23/03/2020
+Loja,Catamayo,0,23/03/2020
+Loja,Saraguro,0,23/03/2020
+Loja,Chaguarpamba,0,23/03/2020
+Loja,Olmedo,0,23/03/2020
+Loja,Paltas,0,23/03/2020
+Loja,Puyango,0,23/03/2020
+Loja,Pindal,0,23/03/2020
+Loja,Celica,0,23/03/2020
+Loja,Zapotillo,0,23/03/2020
+Loja,Sozoranga,0,23/03/2020
+Loja,Gonzanamá,0,23/03/2020
+Loja,Quilanga,0,23/03/2020
+Loja,Espíndola,0,23/03/2020
+Los Ríos,Babahoyo,20,23/03/2020
+Los Ríos,Buena Fe,1,23/03/2020
+Los Ríos,Mocache,1,23/03/2020
+Los Ríos,Quevedo,3,23/03/2020
+Los Ríos,Urdaneta,1,23/03/2020
+Los Ríos,Ventanas,2,23/03/2020
+Los Ríos,Montalvo,0,23/03/2020
+Los Ríos,Vinces,0,23/03/2020
+Los Ríos,Valencia,0,23/03/2020
+Los Ríos,Quinsaloma,0,23/03/2020
+Los Ríos,Palenque,0,23/03/2020
+Los Ríos,Baba,0,23/03/2020
+Los Ríos,Puebloviejo,0,23/03/2020
+Manabí,Jipijapa,1,23/03/2020
+Manabí,Manta,20,23/03/2020
+Manabí,Montecristi,1,23/03/2020
+Manabí,Portoviejo,4,23/03/2020
+Manabí,Sucre,1,23/03/2020
+Manabí,Bolívar,0,23/03/2020
+Manabí,Santa Ana,0,23/03/2020
+Manabí,Pedernales,0,23/03/2020
+Manabí,Chone,0,23/03/2020
+Manabí,Flavio Alfaro,0,23/03/2020
+Manabí,El Carmen,0,23/03/2020
+Manabí,Jama,0,23/03/2020
+Manabí,San Vicente,0,23/03/2020
+Manabí,Tosagua,0,23/03/2020
+Manabí,Rocafuerte,0,23/03/2020
+Manabí,Junín,0,23/03/2020
+Manabí,Pichincha,0,23/03/2020
+Manabí,Jaramijó,0,23/03/2020
+Manabí,Veinticuatro de Mayo,0,23/03/2020
+Manabí,Olmedo,0,23/03/2020
+Manabí,Puerto López,0,23/03/2020
+Manabí,Paján,0,23/03/2020
+Napo,El Chaco,0,23/03/2020
+Napo,Quijos,0,23/03/2020
+Napo,Archidona,0,23/03/2020
+Napo,Tena,0,23/03/2020
+Napo,Carlos Julio Arosemena Tola,0,23/03/2020
+Orellana,Loreto,0,23/03/2020
+Orellana,Orellana,0,23/03/2020
+Orellana,La Joya de los Sachas,0,23/03/2020
+Orellana,Aguarico,0,23/03/2020
+Morona Santiago,Gualaquiza,1,23/03/2020
+Morona Santiago,Morona,1,23/03/2020
+Morona Santiago,Sucúa,2,23/03/2020
+Morona Santiago,Palora,2,23/03/2020
+Morona Santiago,Taisha,0,23/03/2020
+Morona Santiago,Pablo Sexto,0,23/03/2020
+Morona Santiago,Huamboya,0,23/03/2020
+Morona Santiago,Santiago,0,23/03/2020
+Morona Santiago,Logroño,0,23/03/2020
+Morona Santiago,Tiwintza,0,23/03/2020
+Morona Santiago,Limón Indanza,0,23/03/2020
+Morona Santiago,San Juan Bosco,0,23/03/2020
+Pastaza,Pastaza,0,23/03/2020
+Pastaza,Mera,0,23/03/2020
+Pastaza,Santa Clara,0,23/03/2020
+Pastaza,Arajuno,0,23/03/2020
+Pichincha,Quito,63,23/03/2020
+Pichincha,Rumiñahui,2,23/03/2020
+Pichincha,Pedro Vicente Maldonado,0,23/03/2020
+Pichincha,Puerto Quito,0,23/03/2020
+Pichincha,San Miguel de Los Bancos,0,23/03/2020
+Pichincha,Pedro Moncayo,0,23/03/2020
+Pichincha,Cayambe,0,23/03/2020
+Pichincha,Mejía,0,23/03/2020
+Santa Elena,Santa Elena,2,23/03/2020
+Santa Elena,La Libertad,2,23/03/2020
+Santa Elena,Salinas,0,23/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,7,23/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,23/03/2020
+Sucumbíos,Cuyabeno,1,23/03/2020
+Sucumbíos,Lago Agrio,5,23/03/2020
+Sucumbíos,Sucumbíos,0,23/03/2020
+Sucumbíos,Gonzalo Pizarro,0,23/03/2020
+Sucumbíos,Cascales,0,23/03/2020
+Sucumbíos,Putumayo,0,23/03/2020
+Sucumbíos,Shushufindi,0,23/03/2020
+Tungurahua,Ambato,1,23/03/2020
+Tungurahua,Píllaro,0,23/03/2020
+Tungurahua,Patate,0,23/03/2020
+Tungurahua,Baños,0,23/03/2020
+Tungurahua,Pelileo,0,23/03/2020
+Tungurahua,Cevallos,0,23/03/2020
+Tungurahua,Tisaleo,0,23/03/2020
+Tungurahua,Mocha,0,23/03/2020
+Tungurahua,Quero,0,23/03/2020
+Zamora Chinchipe,Yacuambi,0,23/03/2020
+Zamora Chinchipe,Yantzaza,0,23/03/2020
+Zamora Chinchipe,El Pangui,0,23/03/2020
+Zamora Chinchipe,Zamora,0,23/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,23/03/2020
+Zamora Chinchipe,Paquisha,0,23/03/2020
+Zamora Chinchipe,Nangaritza,0,23/03/2020
+Zamora Chinchipe,Palanda,0,23/03/2020
+Zamora Chinchipe,Chinchipe,0,23/03/2020
+Azuay,Cuenca,26,24/03/2020
+Azuay,Santa Isabel,2,24/03/2020
+Azuay,Sevilla de Oro,0,24/03/2020
+Azuay,Paute,0,24/03/2020
+Azuay,Guachapala,0,24/03/2020
+Azuay,El Pan,0,24/03/2020
+Azuay,Gualaceo,0,24/03/2020
+Azuay,Chordeleg,0,24/03/2020
+Azuay,Sígsig,0,24/03/2020
+Azuay,Pucará,0,24/03/2020
+Azuay,Camilo Ponce Enríquez,0,24/03/2020
+Azuay,San Fernando,0,24/03/2020
+Azuay,Girón,0,24/03/2020
+Azuay,Nabón,0,24/03/2020
+Azuay,Oña,0,24/03/2020
+Bolívar,Chillanes,1,24/03/2020
+Bolívar,Chimbo,1,24/03/2020
+Bolívar,Guaranda,7,24/03/2020
+Bolívar,Las Naves,0,24/03/2020
+Bolívar,Echeandía,0,24/03/2020
+Bolívar,Caluma,0,24/03/2020
+Bolívar,San Miguel,0,24/03/2020
+Cañar,Azogues,4,24/03/2020
+Cañar,Cañar,1,24/03/2020
+Cañar,El Tambo,2,24/03/2020
+Cañar,La Troncal,0,24/03/2020
+Cañar,Suscal,0,24/03/2020
+Cañar,Déleg,0,24/03/2020
+Cañar,Biblían,0,24/03/2020
+Carchi,Tulcán,0,24/03/2020
+Carchi,Mira,0,24/03/2020
+Carchi,Espejo,0,24/03/2020
+Carchi,Montúfar,0,24/03/2020
+Carchi,San Pedro de Huaca,0,24/03/2020
+Carchi,Bolivar,0,24/03/2020
+Chimborazo,Colta,6,24/03/2020
+Chimborazo,Riobamba,4,24/03/2020
+Chimborazo,Cumandá,1,24/03/2020
+Chimborazo,Guano,0,24/03/2020
+Chimborazo,Penipe,0,24/03/2020
+Chimborazo,Chambo,0,24/03/2020
+Chimborazo,Pallatanga,0,24/03/2020
+Chimborazo,Guamote,0,24/03/2020
+Chimborazo,Alausí,0,24/03/2020
+Chimborazo,Chunchi,0,24/03/2020
+Cotopaxi,La Maná,1,24/03/2020
+Cotopaxi,Latacunga,0,24/03/2020
+Cotopaxi,Sigchos,0,24/03/2020
+Cotopaxi,Saquisilí,0,24/03/2020
+Cotopaxi,Pujilí,0,24/03/2020
+Cotopaxi,Pangua,0,24/03/2020
+Cotopaxi,Salcedo,0,24/03/2020
+El Oro,Arenillas,1,24/03/2020
+El Oro,Huaquillas,2,24/03/2020
+El Oro,Machala,5,24/03/2020
+El Oro,Santa Rosa,5,24/03/2020
+El Oro,Atahualpa,1,24/03/2020
+El Oro,El Guabo,0,24/03/2020
+El Oro,Pasaje,0,24/03/2020
+El Oro,Chilla,0,24/03/2020
+El Oro,Zaruma,0,24/03/2020
+El Oro,Las Lajas,0,24/03/2020
+El Oro,Marcabelí,0,24/03/2020
+El Oro,Balsas,0,24/03/2020
+El Oro,Piñas,0,24/03/2020
+El Oro,Portovelo,0,24/03/2020
+Esmeraldas,Esmeraldas,3,24/03/2020
+Esmeraldas,San Lorenzo,0,24/03/2020
+Esmeraldas,Eloy Alfaro,0,24/03/2020
+Esmeraldas,Rioverde,0,24/03/2020
+Esmeraldas,Muisne,0,24/03/2020
+Esmeraldas,Atacames,0,24/03/2020
+Esmeraldas,Quinindé,0,24/03/2020
+Galápagos,San Cristóbal,2,24/03/2020
+Galápagos,Isabela,1,24/03/2020
+Galápagos,Santa Cruz,1,24/03/2020
+Guayas,Alfredo Baquerizo Moreno,1,24/03/2020
+Guayas,Balzar,1,24/03/2020
+Guayas,Colimes,1,24/03/2020
+Guayas,Daule,64,24/03/2020
+Guayas,Durán,40,24/03/2020
+Guayas,Empalme,5,24/03/2020
+Guayas,Guayaquil,564,24/03/2020
+Guayas,Milagro,35,24/03/2020
+Guayas,Naranjal,1,24/03/2020
+Guayas,Pedro Carbo,3,24/03/2020
+Guayas,Salitre,3,24/03/2020
+Guayas,Samborondón,99,24/03/2020
+Guayas,Santa Lucía,4,24/03/2020
+Guayas,Playas,1,24/03/2020
+Guayas,San Jacinto De Yaguachi,4,24/03/2020
+Guayas,El Triunfo,0,24/03/2020
+Guayas,Palestina,0,24/03/2020
+Guayas,Isidro Ayora,0,24/03/2020
+Guayas,Lomas de Sargentillo,0,24/03/2020
+Guayas,Nobol,0,24/03/2020
+Guayas,Yaguachi,0,24/03/2020
+Guayas,Simón Bolivar,0,24/03/2020
+Guayas,Naranjito,0,24/03/2020
+Guayas,General Antonio Elizalde,0,24/03/2020
+Guayas,Coronel Marcelino Maridueña,0,24/03/2020
+Imbabura,Ibarra,4,24/03/2020
+Imbabura,Otavalo,0,24/03/2020
+Imbabura,San Miguel de Urcuquí,0,24/03/2020
+Imbabura,Cotacachi,0,24/03/2020
+Imbabura,Antonio Ante,0,24/03/2020
+Imbabura,Pimampiro,0,24/03/2020
+Loja,Calvas,2,24/03/2020
+Loja,Loja,3,24/03/2020
+Loja,Macará,1,24/03/2020
+Loja,Catamayo,1,24/03/2020
+Loja,Saraguro,0,24/03/2020
+Loja,Chaguarpamba,0,24/03/2020
+Loja,Olmedo,0,24/03/2020
+Loja,Paltas,0,24/03/2020
+Loja,Puyango,0,24/03/2020
+Loja,Pindal,0,24/03/2020
+Loja,Celica,0,24/03/2020
+Loja,Zapotillo,0,24/03/2020
+Loja,Sozoranga,0,24/03/2020
+Loja,Gonzanamá,0,24/03/2020
+Loja,Quilanga,0,24/03/2020
+Loja,Espíndola,0,24/03/2020
+Los Ríos,Babahoyo,22,24/03/2020
+Los Ríos,Buena Fe,1,24/03/2020
+Los Ríos,Mocache,1,24/03/2020
+Los Ríos,Montalvo,1,24/03/2020
+Los Ríos,Quevedo,4,24/03/2020
+Los Ríos,Urdaneta,1,24/03/2020
+Los Ríos,Ventanas,5,24/03/2020
+Los Ríos,Vinces,2,24/03/2020
+Los Ríos,Valencia,0,24/03/2020
+Los Ríos,Quinsaloma,0,24/03/2020
+Los Ríos,Palenque,0,24/03/2020
+Los Ríos,Baba,0,24/03/2020
+Los Ríos,Puebloviejo,0,24/03/2020
+Manabí,Bolívar,1,24/03/2020
+Manabí,Jipijapa,1,24/03/2020
+Manabí,Manta,21,24/03/2020
+Manabí,Montecristi,1,24/03/2020
+Manabí,Portoviejo,6,24/03/2020
+Manabí,Santa Ana,1,24/03/2020
+Manabí,Sucre,1,24/03/2020
+Manabí,Pedernales,0,24/03/2020
+Manabí,Chone,0,24/03/2020
+Manabí,Flavio Alfaro,0,24/03/2020
+Manabí,El Carmen,0,24/03/2020
+Manabí,Jama,0,24/03/2020
+Manabí,San Vicente,0,24/03/2020
+Manabí,Tosagua,0,24/03/2020
+Manabí,Rocafuerte,0,24/03/2020
+Manabí,Junín,0,24/03/2020
+Manabí,Pichincha,0,24/03/2020
+Manabí,Jaramijó,0,24/03/2020
+Manabí,Veinticuatro de Mayo,0,24/03/2020
+Manabí,Olmedo,0,24/03/2020
+Manabí,Puerto López,0,24/03/2020
+Manabí,Paján,0,24/03/2020
+Napo,El Chaco,0,24/03/2020
+Napo,Quijos,0,24/03/2020
+Napo,Archidona,0,24/03/2020
+Napo,Tena,0,24/03/2020
+Napo,Carlos Julio Arosemena Tola,0,24/03/2020
+Orellana,Loreto,0,24/03/2020
+Orellana,Orellana,0,24/03/2020
+Orellana,La Joya de los Sachas,0,24/03/2020
+Orellana,Aguarico,0,24/03/2020
+Morona Santiago,Gualaquiza,1,24/03/2020
+Morona Santiago,Morona,1,24/03/2020
+Morona Santiago,Sucúa,2,24/03/2020
+Morona Santiago,Palora,2,24/03/2020
+Morona Santiago,Taisha,0,24/03/2020
+Morona Santiago,Pablo Sexto,0,24/03/2020
+Morona Santiago,Huamboya,0,24/03/2020
+Morona Santiago,Santiago,0,24/03/2020
+Morona Santiago,Logroño,0,24/03/2020
+Morona Santiago,Tiwintza,0,24/03/2020
+Morona Santiago,Limón Indanza,0,24/03/2020
+Morona Santiago,San Juan Bosco,0,24/03/2020
+Pastaza,Pastaza,0,24/03/2020
+Pastaza,Mera,0,24/03/2020
+Pastaza,Santa Clara,0,24/03/2020
+Pastaza,Arajuno,0,24/03/2020
+Pichincha,Quito,70,24/03/2020
+Pichincha,Rumiñahui,2,24/03/2020
+Pichincha,Pedro Vicente Maldonado,0,24/03/2020
+Pichincha,Puerto Quito,0,24/03/2020
+Pichincha,San Miguel de Los Bancos,0,24/03/2020
+Pichincha,Pedro Moncayo,0,24/03/2020
+Pichincha,Cayambe,0,24/03/2020
+Pichincha,Mejía,0,24/03/2020
+Santa Elena,Santa Elena,3,24/03/2020
+Santa Elena,La Libertad,3,24/03/2020
+Santa Elena,Salinas,0,24/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,7,24/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,24/03/2020
+Sucumbíos,Cuyabeno,1,24/03/2020
+Sucumbíos,Lago Agrio,5,24/03/2020
+Sucumbíos,Sucumbíos,0,24/03/2020
+Sucumbíos,Gonzalo Pizarro,0,24/03/2020
+Sucumbíos,Cascales,0,24/03/2020
+Sucumbíos,Putumayo,0,24/03/2020
+Sucumbíos,Shushufindi,0,24/03/2020
+Tungurahua,Ambato,2,24/03/2020
+Tungurahua,Píllaro,0,24/03/2020
+Tungurahua,Patate,0,24/03/2020
+Tungurahua,Baños,0,24/03/2020
+Tungurahua,Pelileo,0,24/03/2020
+Tungurahua,Cevallos,0,24/03/2020
+Tungurahua,Tisaleo,0,24/03/2020
+Tungurahua,Mocha,0,24/03/2020
+Tungurahua,Quero,0,24/03/2020
+Zamora Chinchipe,Yacuambi,0,24/03/2020
+Zamora Chinchipe,Yantzaza,0,24/03/2020
+Zamora Chinchipe,El Pangui,0,24/03/2020
+Zamora Chinchipe,Zamora,0,24/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,24/03/2020
+Zamora Chinchipe,Paquisha,0,24/03/2020
+Zamora Chinchipe,Nangaritza,0,24/03/2020
+Zamora Chinchipe,Palanda,0,24/03/2020
+Zamora Chinchipe,Chinchipe,0,24/03/2020
+Azuay,Cuenca,29,25/03/2020
+Azuay,Santa Isabel,2,25/03/2020
+Azuay,Sevilla de Oro,0,25/03/2020
+Azuay,Paute,0,25/03/2020
+Azuay,Guachapala,0,25/03/2020
+Azuay,El Pan,0,25/03/2020
+Azuay,Gualaceo,0,25/03/2020
+Azuay,Chordeleg,0,25/03/2020
+Azuay,Sígsig,0,25/03/2020
+Azuay,Pucará,0,25/03/2020
+Azuay,Camilo Ponce Enríquez,0,25/03/2020
+Azuay,San Fernando,0,25/03/2020
+Azuay,Girón,0,25/03/2020
+Azuay,Nabón,0,25/03/2020
+Azuay,Oña,0,25/03/2020
+Bolívar,Chillanes,2,25/03/2020
+Bolívar,Chimbo,1,25/03/2020
+Bolívar,Guaranda,8,25/03/2020
+Bolívar,Las Naves,0,25/03/2020
+Bolívar,Echeandía,0,25/03/2020
+Bolívar,Caluma,0,25/03/2020
+Bolívar,San Miguel,0,25/03/2020
+Cañar,Azogues,7,25/03/2020
+Cañar,Cañar,1,25/03/2020
+Cañar,La Troncal,2,25/03/2020
+Cañar,El Tambo,2,25/03/2020
+Cañar,Suscal,0,25/03/2020
+Cañar,Déleg,0,25/03/2020
+Cañar,Biblían,0,25/03/2020
+Carchi,Tulcán,1,25/03/2020
+Carchi,Mira,1,25/03/2020
+Carchi,Espejo,0,25/03/2020
+Carchi,Montúfar,0,25/03/2020
+Carchi,San Pedro de Huaca,0,25/03/2020
+Carchi,Bolivar,0,25/03/2020
+Chimborazo,Colta,6,25/03/2020
+Chimborazo,Riobamba,4,25/03/2020
+Chimborazo,Cumandá,1,25/03/2020
+Chimborazo,Guano,0,25/03/2020
+Chimborazo,Penipe,0,25/03/2020
+Chimborazo,Chambo,0,25/03/2020
+Chimborazo,Pallatanga,0,25/03/2020
+Chimborazo,Guamote,0,25/03/2020
+Chimborazo,Alausí,0,25/03/2020
+Chimborazo,Chunchi,0,25/03/2020
+Cotopaxi,La Maná,1,25/03/2020
+Cotopaxi,Latacunga,1,25/03/2020
+Cotopaxi,Sigchos,0,25/03/2020
+Cotopaxi,Saquisilí,0,25/03/2020
+Cotopaxi,Pujilí,0,25/03/2020
+Cotopaxi,Pangua,0,25/03/2020
+Cotopaxi,Salcedo,0,25/03/2020
+El Oro,Arenillas,1,25/03/2020
+El Oro,Huaquillas,2,25/03/2020
+El Oro,Machala,5,25/03/2020
+El Oro,Santa Rosa,8,25/03/2020
+El Oro,Atahualpa,1,25/03/2020
+El Oro,El Guabo,0,25/03/2020
+El Oro,Pasaje,0,25/03/2020
+El Oro,Chilla,0,25/03/2020
+El Oro,Zaruma,0,25/03/2020
+El Oro,Las Lajas,0,25/03/2020
+El Oro,Marcabelí,0,25/03/2020
+El Oro,Balsas,0,25/03/2020
+El Oro,Piñas,0,25/03/2020
+El Oro,Portovelo,0,25/03/2020
+Esmeraldas,Esmeraldas,4,25/03/2020
+Esmeraldas,San Lorenzo,0,25/03/2020
+Esmeraldas,Eloy Alfaro,0,25/03/2020
+Esmeraldas,Rioverde,0,25/03/2020
+Esmeraldas,Muisne,0,25/03/2020
+Esmeraldas,Atacames,0,25/03/2020
+Esmeraldas,Quinindé,0,25/03/2020
+Galápagos,San Cristóbal,2,25/03/2020
+Galápagos,Isabela,1,25/03/2020
+Galápagos,Santa Cruz,1,25/03/2020
+Guayas,Alfredo Baquerizo Moreno,1,25/03/2020
+Guayas,Balzar,1,25/03/2020
+Guayas,Colimes,1,25/03/2020
+Guayas,Daule,67,25/03/2020
+Guayas,Durán,42,25/03/2020
+Guayas,Empalme,5,25/03/2020
+Guayas,Guayaquil,611,25/03/2020
+Guayas,Milagro,36,25/03/2020
+Guayas,Naranjal,1,25/03/2020
+Guayas,Pedro Carbo,3,25/03/2020
+Guayas,Salitre,3,25/03/2020
+Guayas,Samborondón,104,25/03/2020
+Guayas,Santa Lucía,4,25/03/2020
+Guayas,Playas,1,25/03/2020
+Guayas,San Jacinto De Yaguachi,4,25/03/2020
+Guayas,El Triunfo,1,25/03/2020
+Guayas,Palestina,0,25/03/2020
+Guayas,Isidro Ayora,0,25/03/2020
+Guayas,Lomas de Sargentillo,0,25/03/2020
+Guayas,Nobol,0,25/03/2020
+Guayas,Yaguachi,0,25/03/2020
+Guayas,Simón Bolivar,0,25/03/2020
+Guayas,Naranjito,0,25/03/2020
+Guayas,General Antonio Elizalde,0,25/03/2020
+Guayas,Coronel Marcelino Maridueña,0,25/03/2020
+Imbabura,Ibarra,7,25/03/2020
+Imbabura,Otavalo,1,25/03/2020
+Imbabura,San Miguel de Urcuquí,0,25/03/2020
+Imbabura,Cotacachi,0,25/03/2020
+Imbabura,Antonio Ante,0,25/03/2020
+Imbabura,Pimampiro,0,25/03/2020
+Loja,Calvas,2,25/03/2020
+Loja,Loja,4,25/03/2020
+Loja,Macará,1,25/03/2020
+Loja,Catamayo,1,25/03/2020
+Loja,Saraguro,0,25/03/2020
+Loja,Chaguarpamba,0,25/03/2020
+Loja,Olmedo,0,25/03/2020
+Loja,Paltas,0,25/03/2020
+Loja,Puyango,0,25/03/2020
+Loja,Pindal,0,25/03/2020
+Loja,Celica,0,25/03/2020
+Loja,Zapotillo,0,25/03/2020
+Loja,Sozoranga,0,25/03/2020
+Loja,Gonzanamá,0,25/03/2020
+Loja,Quilanga,0,25/03/2020
+Loja,Espíndola,0,25/03/2020
+Los Ríos,Babahoyo,24,25/03/2020
+Los Ríos,Buena Fe,1,25/03/2020
+Los Ríos,Mocache,1,25/03/2020
+Los Ríos,Montalvo,1,25/03/2020
+Los Ríos,Quevedo,5,25/03/2020
+Los Ríos,Urdaneta,1,25/03/2020
+Los Ríos,Ventanas,5,25/03/2020
+Los Ríos,Vinces,2,25/03/2020
+Los Ríos,Valencia,0,25/03/2020
+Los Ríos,Quinsaloma,0,25/03/2020
+Los Ríos,Palenque,0,25/03/2020
+Los Ríos,Baba,0,25/03/2020
+Los Ríos,Puebloviejo,0,25/03/2020
+Manabí,Bolívar,1,25/03/2020
+Manabí,Jipijapa,1,25/03/2020
+Manabí,Manta,21,25/03/2020
+Manabí,Montecristi,1,25/03/2020
+Manabí,Portoviejo,12,25/03/2020
+Manabí,Santa Ana,1,25/03/2020
+Manabí,Sucre,1,25/03/2020
+Manabí,Pedernales,0,25/03/2020
+Manabí,Chone,0,25/03/2020
+Manabí,Flavio Alfaro,0,25/03/2020
+Manabí,El Carmen,0,25/03/2020
+Manabí,Jama,0,25/03/2020
+Manabí,San Vicente,0,25/03/2020
+Manabí,Tosagua,0,25/03/2020
+Manabí,Rocafuerte,0,25/03/2020
+Manabí,Junín,0,25/03/2020
+Manabí,Pichincha,0,25/03/2020
+Manabí,Jaramijó,0,25/03/2020
+Manabí,Veinticuatro de Mayo,0,25/03/2020
+Manabí,Olmedo,0,25/03/2020
+Manabí,Puerto López,0,25/03/2020
+Manabí,Paján,0,25/03/2020
+Napo,El Chaco,0,25/03/2020
+Napo,Quijos,0,25/03/2020
+Napo,Archidona,0,25/03/2020
+Napo,Tena,0,25/03/2020
+Napo,Carlos Julio Arosemena Tola,0,25/03/2020
+Orellana,Loreto,0,25/03/2020
+Orellana,Orellana,0,25/03/2020
+Orellana,La Joya de los Sachas,0,25/03/2020
+Orellana,Aguarico,0,25/03/2020
+Morona Santiago,Gualaquiza,1,25/03/2020
+Morona Santiago,Morona,1,25/03/2020
+Morona Santiago,Sucúa,2,25/03/2020
+Morona Santiago,Palora,2,25/03/2020
+Morona Santiago,Taisha,1,25/03/2020
+Morona Santiago,Pablo Sexto,0,25/03/2020
+Morona Santiago,Huamboya,0,25/03/2020
+Morona Santiago,Santiago,0,25/03/2020
+Morona Santiago,Logroño,0,25/03/2020
+Morona Santiago,Tiwintza,0,25/03/2020
+Morona Santiago,Limón Indanza,0,25/03/2020
+Morona Santiago,San Juan Bosco,0,25/03/2020
+Pastaza,Pastaza,1,25/03/2020
+Pastaza,Mera,0,25/03/2020
+Pastaza,Santa Clara,0,25/03/2020
+Pastaza,Arajuno,0,25/03/2020
+Pichincha,Pedro Vicente Maldonado,1,25/03/2020
+Pichincha,Quito,101,25/03/2020
+Pichincha,Rumiñahui,6,25/03/2020
+Pichincha,Puerto Quito,0,25/03/2020
+Pichincha,San Miguel de Los Bancos,0,25/03/2020
+Pichincha,Pedro Moncayo,0,25/03/2020
+Pichincha,Cayambe,0,25/03/2020
+Pichincha,Mejía,0,25/03/2020
+Santa Elena,Santa Elena,3,25/03/2020
+Santa Elena,La Libertad,3,25/03/2020
+Santa Elena,Salinas,0,25/03/2020
+Sto. Domingo Tsáchilas,Santo Domingo,7,25/03/2020
+Sto. Domingo Tsáchilas,La Concordia,0,25/03/2020
+Sucumbíos,Cuyabeno,1,25/03/2020
+Sucumbíos,Lago Agrio,5,25/03/2020
+Sucumbíos,Sucumbíos,0,25/03/2020
+Sucumbíos,Gonzalo Pizarro,0,25/03/2020
+Sucumbíos,Cascales,0,25/03/2020
+Sucumbíos,Putumayo,0,25/03/2020
+Sucumbíos,Shushufindi,0,25/03/2020
+Tungurahua,Ambato,3,25/03/2020
+Tungurahua,Píllaro,0,25/03/2020
+Tungurahua,Patate,0,25/03/2020
+Tungurahua,Baños,0,25/03/2020
+Tungurahua,Pelileo,0,25/03/2020
+Tungurahua,Cevallos,0,25/03/2020
+Tungurahua,Tisaleo,0,25/03/2020
+Tungurahua,Mocha,0,25/03/2020
+Tungurahua,Quero,0,25/03/2020
+Zamora Chinchipe,Yacuambi,0,25/03/2020
+Zamora Chinchipe,Yantzaza,0,25/03/2020
+Zamora Chinchipe,El Pangui,0,25/03/2020
+Zamora Chinchipe,Zamora,0,25/03/2020
+Zamora Chinchipe,Centinela del Cóndor,0,25/03/2020
+Zamora Chinchipe,Paquisha,0,25/03/2020
+Zamora Chinchipe,Nangaritza,0,25/03/2020
+Zamora Chinchipe,Palanda,0,25/03/2020
+Zamora Chinchipe,Chinchipe,0,25/03/2020
