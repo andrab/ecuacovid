@@ -25,15 +25,27 @@
 | 22/03/2020 | Guayas    | Daule      |
 | 22/03/2020 | Guayas    | Salitre    |
 | 22/03/2020 | Guayas    | Guayaquil  |
-| 24/03/2020 |           |            |
-| 24/03/2020 |           |            |
-| 24/03/2020 |           |            |
-| 24/03/2020 |           |            |
-| 24/03/2020 |           |            |
-| 24/03/2020 |           |            |
-| 24/03/2020 |           |            |
-| 25/03/2020 |           |            |
-| 25/03/2020 |           |            |
+| 24/03/2020 | -         | -          |
+| 24/03/2020 | -         | -          |
+| 24/03/2020 | -         | -          |
+| 24/03/2020 | -         | -          |
+| 24/03/2020 | -         | -          |
+| 24/03/2020 | -         | -          |
+| 24/03/2020 | -         | -          |
+| 25/03/2020 | -         | -          |
+| 25/03/2020 | -         | -          |
+| 26/03/2020 | -         | -          |
+| 26/03/2020 | -         | -          |
+| 26/03/2020 | -         | -          |
+| 26/03/2020 | -         | -          |
+| 26/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
+| 27/03/2020 | -         | -          |
 
 # Referencias
 
@@ -67,6 +79,19 @@
 * _"Casos de coronavirus en Ecuador ya son 1.049 y 27 fallecidos"_ ([leer más](https://www.primicias.ec/noticias/sociedad/casos-coronavirus-ecuador-semana-cuarentena/))
 
 ## Marzo 25, 2020
-* Info Riesgos Ecuador Número 022 (_[ver](../fuentes/SNGR_22.pfd)_) y 023 (_[ver](../fuentes/SNGR_22.pdf)_).
+* Info Riesgos Ecuador Número 022 (_[ver](../fuentes/SNGR_022.pfd)_) y 023 (_[ver](../fuentes/SNGR_022.pdf)_).
 * _"28 fallecidos y 1 173  contagiadas con covid-19 en el Ecuador; en Guayas y Pichincha el virus es comunitario"_ ([leer más](https://www.elcomercio.com/actualidad/fallecidos-contagiadas-covid-ecuador-coronavirus.html))
-* _"Ecuador registra 1 211 casos de covid-19 y 29 fallecidos hasta la tarde del 25 de marzo del 2020"_ ([leer más](https://www.elcomercio.com/actualidad/ecuador-balance-contagios-coronavirus-covid19.html)))
+* _"Ecuador registra 1 211 casos de covid-19 y 29 fallecidos hasta la tarde del 25 de marzo del 2020"_ ([leer más](https://www.elcomercio.com/actualidad/ecuador-balance-contagios-coronavirus-covid19.html))
+
+## Marzo 26, 2020
+* Info Riesgos Ecuador Número 024 (_[ver](../fuentes/SNGR_024.pdf)_) y 025 (_[ver](../fuentes/SNGR_025.pdf)_).
+* _"34 muertos y 1382 casos confirmados de coronavirus en Ecuador"_ ([leer más](https://www.ecuavisa.com/articulo/noticias/nacional/584311-34-muertos-1382-casos-confirmados-coronavirus-ecuador))
+
+## Marzo 27, 2020
+* Info Riesgos Ecuador número 026 (_[ver](../fuentes/SNGR_026.pdf)_) y 027 (_[ver](../fuentes/SNGR_027.pdf)_).
+* _"Alexandra Ocles: 36 fallecidos y 1 595 contagiados por coronavirus en Ecuador, la mañana de este 27 de marzo"_ ([leer más](https://www.elcomercio.com/actualidad/ocles-fallecidos-coronavirus-ecuador-covid19.html))
+* _"Ecuador tiene 1 627 contagiados y 41 fallecidos por covid-19; la circulación vehicular se restringe a dos días"_ ([leer más](https://www.elcomercio.com/actualidad/cifras-contagiados-covid19-coronavirus-ecuador.html)
+
+## Marzo 28, 2020
+* Info Riesgos Ecuador número 028 (_[ver](../fuentes/SNGR_28.pdf)_) y 029 (_[ver](../fuentes/SNGR_029)_).
+* _"1835 contagiados y 48 fallecidos por coronavirus en Ecuador (corte: 28 de marzo a las 17:00)"_ ([leer más](https://www.metroecuador.com.ec/ec/noticias/2020/03/28/1835-contagiados-y-48-fallecidos-por-coronavirus-en-ecuador-corte-28-de-marzo-a-las-1700.html))

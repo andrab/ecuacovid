@@ -86,7 +86,10 @@ class Criterios
 
     def muertes
       #"────┬──FECHA───┬──────────────────────────────────ACEPTACION────────────────────────────────────────┬"
-      [[    "25/03/2020",                                                                        29.muertes],
+      [[    "28/03/2020",                                                                        48.muertes],
+       [    "27/03/2020",                                                                        41.muertes],
+       [    "26/03/2020",                                                                        34.muertes],
+       [    "25/03/2020",                                                                        29.muertes],
        [    "24/03/2020",                                                                        27.muertes],
        [    "23/03/2020",              18.muertes.y(sin_provincia(9).y_tiene(3,1).de("Guayas", "Cotopaxi"))],
        [    "22/03/2020",                                                                        14.muertes],
