@@ -1,1 +1,1 @@
-module Ecuacovid19; end
+module Ecuacovid; end
