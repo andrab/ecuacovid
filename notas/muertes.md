@@ -25,6 +25,15 @@
 | 22/03/2020 | Guayas    | Daule      |
 | 22/03/2020 | Guayas    | Salitre    |
 | 22/03/2020 | Guayas    | Guayaquil  |
+| 24/03/2020 |           |            |
+| 24/03/2020 |           |            |
+| 24/03/2020 |           |            |
+| 24/03/2020 |           |            |
+| 24/03/2020 |           |            |
+| 24/03/2020 |           |            |
+| 24/03/2020 |           |            |
+| 25/03/2020 |           |            |
+| 25/03/2020 |           |            |
 
 # Referencias
 
@@ -47,8 +56,17 @@
 
 ## Marzo 21, 2020
 * Info Riesgos Ecuador Número 018 (_[ver](../fuentes/SNGRE_018.pdf)_).
-* _"Casos de Coronavirus en Ecuador marzo 22, 11H00: 789 contagiados y 14 fallecidos"_ ([leer más])(https://www.eluniverso.com/noticias/2020/03/22/nota/7791375/casos-coronavirus-ecuador-marzo-22-11h00-789-contagiados))
+* _"Casos de Coronavirus en Ecuador marzo 22, 11H00: 789 contagiados y 14 fallecidos"_ ([leer más](https://www.eluniverso.com/noticias/2020/03/22/nota/7791375/casos-coronavirus-ecuador-marzo-22-11h00-789-contagiados))
 
 ## Marzo 22, 2020
 * Info Riesgos Ecuador Número 019 (_[ver](../fuentes/SNGRE_019.pdf)_).
 * _"18 fallecidos y 981 contagios de coronavirus en Ecuador"_ ([leer más](https://www.primicias.ec/noticias/sociedad/coronavirus-ecuador-emergencia-sanitaria/))
+
+## Marzo 24, 2020
+* Info Riesgos Ecuador Número 020 (_[ver](../fuentes/SNGRE_020.pdf)_) y 021 (_[ver](../fuentes/SNGRE_021.pdf)_).
+* _"Casos de coronavirus en Ecuador ya son 1.049 y 27 fallecidos"_ ([leer más](https://www.primicias.ec/noticias/sociedad/casos-coronavirus-ecuador-semana-cuarentena/))
+
+## Marzo 25, 2020
+* Info Riesgos Ecuador Número 022 (_[ver](../fuentes/SNGR_22.pfd)_) y 023 (_[ver](../fuentes/SNGR_22.pdf)_).
+* _"28 fallecidos y 1 173  contagiadas con covid-19 en el Ecuador; en Guayas y Pichincha el virus es comunitario"_ ([leer más](https://www.elcomercio.com/actualidad/fallecidos-contagiadas-covid-ecuador-coronavirus.html))
+* _"Ecuador registra 1 211 casos de covid-19 y 29 fallecidos hasta la tarde del 25 de marzo del 2020"_ ([leer más](https://www.elcomercio.com/actualidad/ecuador-balance-contagios-coronavirus-covid19.html)))
