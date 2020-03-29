@@ -1,7 +1,6 @@
-
-class PruebaError < StandardError; end
-  
 class Prueba
+  class PruebaError < StandardError; end
+
   attr_reader :fallo
     
   def initialize(caso, options = {})
@@ -32,5 +31,19 @@ class Prueba
   def err!(razon)
     @razon = PruebaError.new(razon)
     fallar!
+  end
+
+  private
+  def nu!(program = "nu")
+    extensions = ENV['PATHEXT'] ? ENV['PATHEXT'].split(';') : ['']
+  
+    ENV['PATH'].split(File::PATH_SEPARATOR).each do |path|
+      extensions.each do |extension|
+        binary = File.join(path, "#{program}#{extension}")
+        return binary if File.executable?(binary) && !File.directory?(binary)
+      end
+    end
+
+    "#{ENV['NU_PATH']}/#{program}"
   end
 end

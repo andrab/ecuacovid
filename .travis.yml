@@ -1,0 +1,40 @@
+os:
+  - linux
+  - osx
+
+dist: trusty
+
+language: ruby
+rvm:
+  - 2.7.0
+
+cache:
+  directories:
+    - $HOME/.rvm/gems
+    - $HOME/.cargo
+    - $HOME/.multirust
+
+env:
+  global:
+    - VERBOSE=true
+    - RUST_BACKTRACE=1
+    - RUST_VERSION=stable
+
+matrix:
+  include:
+    - os: linux
+      env: RUST_VERSION=stable
+  allow_failures:
+    - env: RUST_VERSION=stable
+
+before_install:
+  - if [ ! -e "$HOME/.cargo/bin" ]; then curl https://sh.rustup.rs -sSf | sh -s -- --default-toolchain $RUST_VERSION -y; fi
+  - export PATH="$HOME/.cargo/bin:$PATH"
+  - rustup default $RUST_VERSION
+  - cargo install nu
+
+install:
+  - bundle install
+
+script:
+  - bundle exec rake

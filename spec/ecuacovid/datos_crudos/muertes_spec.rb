@@ -4,7 +4,7 @@ require_relative "../support/caso"
 class MuertesTest
   include Caso
 
-  def initialize(source = "muertes.csv")
+  def initialize(source = "muertes.json")
     @source = File.join(DIRECTORY, source)
     sin_clasificadas!
   end

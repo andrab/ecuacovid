@@ -4,7 +4,7 @@ require_relative "../support/caso"
 class NumeroDeMuestras
   include Caso
   
-  def initialize(source = "numero_de_muestras.csv")
+  def initialize(source = "numero_de_muestras.json")
     @source = File.join(DIRECTORY, source)
   end
 

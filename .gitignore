@@ -1,1 +1,14 @@
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+InstalledFile
+_yardoc
+coverage
+doc/
+lib/bundler/man
+pkg
+rdoc
+spec/reports
 tmp
