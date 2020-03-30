@@ -10,7 +10,20 @@ Un proyecto que te proporciona los datos sin procesar, extraído de [los informe
 
 # Información
 
-¡Muy pronto!
+Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes [descargarlos aquí](datos_crudos/). Contienen los siguientes campos:
+
+Muertes (`provincia`, `total`, `created_at`) donde:
+
+* `provincia` = El nombre de la provincia
+* `total` = El total número de muertes
+* `created_at` = La fecha del registro
+
+Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
+
+* `provincia` = El nombre de la provincia
+* `canton` = El nombre del canton
+* `total` = El total número de casos positivos
+* `created_at` = La fecha del registro
 
 # Licensia
 
