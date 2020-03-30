@@ -57,18 +57,24 @@ end
 describe "Muertes registradas" do
   require_relative "../criterios"
 
-  Criterios.para(:muertes).each do |(fecha, spec)|
+  Criterios.para(:muertes).each do |(de_informe, fecha, spec)|
     muertes_totales = spec[:muertes]
     las_provincias  = spec[:de_las_provincias_teniendo]
     sin_clasificar  = spec.fetch(:teniendo_sin_clasificar) { 0 }
 
-    it "Verificando casos de fallecidos el #{fecha}.." do
+    nombre, numero, hora = de_informe.to_s.split('_')
+    ruta = File.join(
+      File.expand_path('../../../../informes/', __FILE__),
+      [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
+    )
+
+    it "Verificando casos de fallecidos (informe: #{ruta}).." do
       MuertesTest.para(fecha).registradas_excluyendo(las_provincias) do |total|
         expect(total + sin_clasificar + las_provincias.map(&:values).flatten.sum).to be(muertes_totales)
       end
     end
 
-    it "y que todas las provincias existen.." do
+    it "Verificando provincias existen.." do
       MuertesTest.para(fecha).provincias do |total|
         expect(total).to be(24),
           "Se esperaba 24 provincias registradas, devolvió: #{total}"

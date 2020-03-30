@@ -1,6 +1,6 @@
 # Ejecución de las pruebas
 
-Empieza instalando las dependencias.
+Empieza instalando las dependencias:
 
 ``` sh
 git clone https://github.com/andrab/ecuacovid

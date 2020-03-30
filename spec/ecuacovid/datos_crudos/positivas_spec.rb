@@ -81,9 +81,13 @@ describe "Casos Positivos" do
     Criterios.para(:positivas).each do |(de_informe, fecha, spec)|
       casos_totales, ingresados_totales, sin_ingresar_totales = spec.values_at(:casos, :cantones_ingresados, :cantones_sin_ingresar)
 
-      ruta = File.join(File.expand_path('../../../documentos_sngre/', __FILE__), de_informe.to_s.gsub('/', '_'))
+      nombre, numero, hora = de_informe.to_s.split('_')
+      ruta = File.join(
+        File.expand_path('../../../../informes/', __FILE__),
+        [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
+      )
 
-      context "Del informe en #{ruta}..." do
+      context "de (informe: #{ruta})..." do
         datos = PositivasTest.para(fecha)
           
         it "Verificando casos.." do
