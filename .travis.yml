@@ -12,7 +12,6 @@ cache:
   directories:
     - $HOME/.rvm/gems
     - $HOME/.cargo
-    - $HOME/.multirust
 
 env:
   global:
@@ -24,8 +23,6 @@ matrix:
   include:
     - os: linux
       env: RUST_VERSION=stable
-  allow_failures:
-    - env: RUST_VERSION=stable
 
 before_install:
   - if [ ! -e "$HOME/.cargo/bin" ]; then curl https://sh.rustup.rs -sSf | sh -s -- --default-toolchain $RUST_VERSION -y; fi
