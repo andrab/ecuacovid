@@ -4,7 +4,7 @@ require_relative "../support/caso"
 class MuertesTest
   include Caso
 
-  def initialize(source = "muertes.csv")
+  def initialize(source = "muertes.json")
     @source = File.join(DIRECTORY, source)
     sin_clasificadas!
   end
@@ -62,13 +62,13 @@ describe "Muertes registradas" do
     las_provincias  = spec[:de_las_provincias_teniendo]
     sin_clasificar  = spec.fetch(:teniendo_sin_clasificar) { 0 }
 
-    it "Verificando casos.." do
+    it "Verificando casos de fallecidos el #{fecha}.." do
       MuertesTest.para(fecha).registradas_excluyendo(las_provincias) do |total|
         expect(total + sin_clasificar + las_provincias.map(&:values).flatten.sum).to be(muertes_totales)
       end
     end
 
-    it "Verificando que todas las provincias existen.." do
+    it "y que todas las provincias existen.." do
       MuertesTest.para(fecha).provincias do |total|
         expect(total).to be(24),
           "Se esperaba 24 provincias registradas, devolvió: #{total}"

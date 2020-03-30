@@ -55,8 +55,6 @@ class PositivasTest
 end
 
 describe "Casos Positivos" do
-  require_relative "../criterios"
-
   context "Todas las fechas" do
     let(:fechas_totales) { Criterios.para(:positivas).count }
 
@@ -78,6 +76,8 @@ describe "Casos Positivos" do
   end
   
   context "Por fecha" do
+    require_relative "../criterios"
+    
     Criterios.para(:positivas).each do |(de_informe, fecha, spec)|
       casos_totales, ingresados_totales, sin_ingresar_totales = spec.values_at(:casos, :cantones_ingresados, :cantones_sin_ingresar)
 
