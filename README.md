@@ -36,6 +36,8 @@ Para ejectuar las pruebas en su maquina, clona el proyecto y ejecuta:
 bundle exec rake
 ```
 
+Asegúrate de tener todas las dependencias instaladas.
+
 # Licensia
 
 Copyright (c) 2020 Andrés N. Robalino <andres@androbtech.com>
