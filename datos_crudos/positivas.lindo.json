@@ -22540,5 +22540,1331 @@
     "canton": "Chinchipe",
     "total": 0,
     "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Cuenca",
+    "total": 47,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Gualaceo",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Santa Isabel",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Paute",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Sígsig",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Sevilla de Oro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Guachapala",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "El Pan",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Chordeleg",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Pucará",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Camilo Ponce Enríquez",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "San Fernando",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Girón",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Nabón",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Azuay",
+    "canton": "Oña",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "Chillanes",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "Chimbo",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "Guaranda",
+    "total": 9,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "Echeandía",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "Las Naves",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "Caluma",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "canton": "San Miguel",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "Azogues",
+    "total": 11,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "Cañar",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "La Troncal",
+    "total": 9,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "El Tambo",
+    "total": 4,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "Biblían",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "Suscal",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "canton": "Déleg",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "canton": "Tulcán",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "canton": "Montúfar",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "canton": "Mira",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "canton": "San Pedro de Huaca",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "canton": "Espejo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "canton": "Bolivar",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Colta",
+    "total": 6,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Riobamba",
+    "total": 6,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Cumandá",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Guano",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Chambo",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Penipe",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Pallatanga",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Guamote",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Alausí",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "canton": "Chunchi",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "Salcedo",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "La Maná",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "Latacunga",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "Saquisilí",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "Sigchos",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "Pujilí",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "canton": "Pangua",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Arenillas",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Huaquillas",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Machala",
+    "total": 9,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Pasaje",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Santa Rosa",
+    "total": 9,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Atahualpa",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Zaruma",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Piñas",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "El Guabo",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Chilla",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Las Lajas",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Marcabelí",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Balsas",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "canton": "Portovelo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "Esmeraldas",
+    "total": 7,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "San Lorenzo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "Eloy Alfaro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "Rioverde",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "Muisne",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "Atacames",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "canton": "Quinindé",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Galápagos",
+    "canton": "San Cristóbal",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Galápagos",
+    "canton": "Isabela",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Galápagos",
+    "canton": "Santa Cruz",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Alfredo Baquerizo Moreno",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Balzar",
+    "total": 4,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Colimes",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Daule",
+    "total": 105,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Durán",
+    "total": 67,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Empalme",
+    "total": 5,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Guayaquil",
+    "total": 978,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Milagro",
+    "total": 50,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Naranjal",
+    "total": 6,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Pedro Carbo",
+    "total": 6,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Salitre",
+    "total": 11,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Samborondón",
+    "total": 130,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Santa Lucía",
+    "total": 8,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Playas",
+    "total": 8,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "San Jacinto De Yaguachi",
+    "total": 10,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "El Triunfo",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Naranjito",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Nobol",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "General Antonio Elizalde",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Palestina",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Isidro Ayora",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Lomas de Sargentillo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Yaguachi",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Simón Bolivar",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "canton": "Coronel Marcelino Maridueña",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "canton": "Ibarra",
+    "total": 8,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "canton": "Otavalo",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "canton": "San Miguel de Urcuquí",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "canton": "Cotacachi",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "canton": "Antonio Ante",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "canton": "Pimampiro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Calvas",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Loja",
+    "total": 15,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Macará",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Catamayo",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Chaguarpamba",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Saraguro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Olmedo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Paltas",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Puyango",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Pindal",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Celica",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Zapotillo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Sozoranga",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Gonzanamá",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Quilanga",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "canton": "Espíndola",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Babahoyo",
+    "total": 32,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Buena Fe",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Mocache",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Montalvo",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Quevedo",
+    "total": 16,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Urdaneta",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Ventanas",
+    "total": 5,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Vinces",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Valencia",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Quinsaloma",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Palenque",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Baba",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "canton": "Puebloviejo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Bolívar",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Jipijapa",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Manta",
+    "total": 25,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Montecristi",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Portoviejo",
+    "total": 18,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Santa Ana",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Sucre",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Jaramijó",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Pedernales",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Chone",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Flavio Alfaro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "El Carmen",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Jama",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "San Vicente",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Tosagua",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Rocafuerte",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Junín",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Pichincha",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Veinticuatro de Mayo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Olmedo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Puerto López",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "canton": "Paján",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "canton": "El Chaco",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "canton": "Quijos",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "canton": "Archidona",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "canton": "Tena",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "canton": "Carlos Julio Arosemena Tola",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "canton": "Orellana",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "canton": "Loreto",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "canton": "La Joya de los Sachas",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "canton": "Aguarico",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Gualaquiza",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Morona",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Sucúa",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Palora",
+    "total": 4,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Taisha",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Pablo Sexto",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Huamboya",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Santiago",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Logroño",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Tiwintza",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "Limón Indanza",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "canton": "San Juan Bosco",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "canton": "Pastaza",
+    "total": 4,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "canton": "Mera",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "canton": "Santa Clara",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "canton": "Arajuno",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Mejía",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Pedro Vicente Maldonado",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Quito",
+    "total": 176,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Rumiñahui",
+    "total": 10,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Puerto Quito",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "San Miguel de Los Bancos",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Pedro Moncayo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Cayambe",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Santa Elena",
+    "canton": "Santa Elena",
+    "total": 5,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Santa Elena",
+    "canton": "La Libertad",
+    "total": 5,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Santa Elena",
+    "canton": "Salinas",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sto. Domingo Tsáchilas",
+    "canton": "La Concordia",
+    "total": 2,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sto. Domingo Tsáchilas",
+    "canton": "Santo Domingo",
+    "total": 13,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Cuyabeno",
+    "total": 3,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Lago Agrio",
+    "total": 22,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Sucumbíos",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Gonzalo Pizarro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Cascales",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Putumayo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "canton": "Shushufindi",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Ambato",
+    "total": 4,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Píllaro",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Patate",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Baños",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Pelileo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Cevallos",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Tisaleo",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Mocha",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "canton": "Quero",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Yantzaza",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Zamora",
+    "total": 1,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Yacuambi",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "El Pangui",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Centinela del Cóndor",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Paquisha",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Nangaritza",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Palanda",
+    "total": 0,
+    "created_at": "30/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "canton": "Chinchipe",
+    "total": 0,
+    "created_at": "30/03/2020"
   }
 ]

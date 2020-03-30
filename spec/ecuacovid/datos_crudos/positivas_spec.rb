@@ -87,7 +87,7 @@ describe "Casos Positivos" do
         [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
       )
 
-      context "de (informe: #{ruta})..." do
+      context "informe: #{ruta}..." do
         datos = PositivasTest.para(fecha)
           
         it "Verificando casos.." do
