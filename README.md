@@ -10,7 +10,7 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 # Información
 
-Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos`([aquí](datos_crudos/)). Contienen los siguientes campos:
+Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos` [[aquí](datos_crudos/)]. Contienen los siguientes campos:
 
 Muertes (`provincia`, `total`, `created_at`) donde:
 
@@ -28,7 +28,7 @@ Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
 
 # ¿Por qué debo confiar en la precisión de estos datos?
 
-Todos los datos están _tested_,[aquí puedes revisar](spec/ecuacovid/criterios.rb) con más detalle los criterios que verifica. Todas las pruebas automáticas verifica que nuestros datos extraídos sumen totales exactamente iguales a los reportados por el Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador.
+Todos los datos están _tested_, [aquí puedes revisar](spec/ecuacovid/criterios.rb) con más detalle los criterios que verifica. Todas las pruebas automáticas verifica que nuestros datos extraídos sumen totales exactamente iguales a los reportados por el Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador.
 
 Para ejectuar las pruebas en su maquina, clona el proyecto y ejecuta:
 
