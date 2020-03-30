@@ -6,7 +6,7 @@
 
 # Ecuacovid
 
-Un proyecto que te proporciona los datos sin procesar, extraído de [los informes](fuentes/) del Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador ([SNGRE](https://www.gestionderiesgos.gob.ec)).
+Un proyecto que te proporciona un conjunto de datos sin procesar extraído de los [los informes](fuentes/) de la situación nacional frente a la Emergencia Sanitaria por el COVID-19 del Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador ([SNGRE](https://www.gestionderiesgos.gob.ec)).
 
 # Información
 
@@ -24,6 +24,7 @@ Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
 * `canton` = El nombre del canton
 * `total` = El total número de casos positivos
 * `created_at` = La fecha del registro
+
 
 # Licensia
 
