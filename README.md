@@ -10,7 +10,7 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído de lo
 
 # Información
 
-Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes [descargarlos aquí](datos_crudos/). Contienen los siguientes campos:
+Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos`([aquí](datos_crudos/)). Contienen los siguientes campos:
 
 Muertes (`provincia`, `total`, `created_at`) donde:
 
