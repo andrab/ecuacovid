@@ -36,7 +36,7 @@ Todos los datos están _tested_, [aquí puedes revisar](spec/ecuacovid/criterios
 
 Para ejectuar las pruebas en su maquina sigue las instrucciones [aquí](PRUEBAS.md).
 
-# Licensia
+# Licencia
 
 Copyright (c) 2020 Andrés N. Robalino <andres@androbtech.com>
 
