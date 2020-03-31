@@ -2,2101 +2,461 @@
   {
     "provincia": "Azuay",
     "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "13/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Bolívar",
     "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "14/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Cañar",
     "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "14/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Carchi",
     "total": 0,
-    "created_at": "14/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Chimborazo",
     "total": 0,
-    "created_at": "14/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "14/03/2020"
+    "total": 1,
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "El Oro",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Guayas",
     "total": 3,
-    "created_at": "18/03/2020"
+    "created_at": "26/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "total": 0,
+    "created_at": "26/03/2020"
+  },
+  {
+    "provincia": "Galápagos",
+    "total": 0,
+    "created_at": "26/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "total": 21,
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "18/03/2020"
+    "total": 1,
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Loja",
     "total": 0,
-    "created_at": "18/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": null,
     "total": 3,
-    "created_at": "18/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": "Azuay",
+    "provincia": "Manabí",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": "Cañar",
+    "provincia": "Napo",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": "Bolívar",
+    "provincia": "Morona Santiago",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": "Carchi",
+    "provincia": "Orellana",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": "Chimborazo",
+    "provincia": "Pastaza",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Guayas",
+    "provincia": "Pichincha",
     "total": 3,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "19/03/2020"
+    "total": 2,
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Sto. Domingo Tsáchilas",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Sucumbíos",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Tungurahua",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
     "provincia": "Zamora Chinchipe",
     "total": 0,
-    "created_at": "19/03/2020"
+    "created_at": "26/03/2020"
   },
   {
-    "provincia": null,
+    "provincia": "Azuay",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Bolívar",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Carchi",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Chimborazo",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Cotopaxi",
+    "total": 1,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "El Oro",
+    "total": 3,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Esmeraldas",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Galápagos",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Guayas",
+    "total": 25,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "total": 1,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "total": 3,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "total": 1,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
     "total": 4,
-    "created_at": "19/03/2020"
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Santa Elena",
+    "total": 2,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Sto. Domingo Tsáchilas",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Sucumbíos",
+    "total": 1,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Tungurahua",
+    "total": 0,
+    "created_at": "27/03/2020"
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "total": 0,
+    "created_at": "27/03/2020"
   },
   {
     "provincia": "Azuay",
     "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Bolívar",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "total": 0,
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Carchi",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "20/03/2020"
+    "total": 1,
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Cotopaxi",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "El Oro",
-    "total": 0,
-    "created_at": "20/03/2020"
+    "total": 3,
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Esmeraldas",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Galápagos",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Guayas",
+    "total": 30,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "total": 1,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "total": 0,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "total": 5,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "total": 1,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "total": 0,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "total": 0,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "total": 0,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "total": 0,
+    "created_at": "28/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
     "total": 4,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "20/03/2020"
+    "total": 2,
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Sto. Domingo Tsáchilas",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "20/03/2020"
+    "total": 1,
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Tungurahua",
     "total": 0,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Zamora Chinchipe",
     "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 7,
-    "created_at": "20/03/2020"
+    "created_at": "28/03/2020"
   },
   {
     "provincia": "Azuay",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "21/03/2020"
+    "total": 1,
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Bolívar",
     "total": 0,
-    "created_at": "21/03/2020"
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Cañar",
+    "total": 1,
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Carchi",
     "total": 0,
-    "created_at": "21/03/2020"
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Chimborazo",
     "total": 0,
-    "created_at": "21/03/2020"
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "21/03/2020"
+    "total": 1,
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "El Oro",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Guayas",
     "total": 4,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 7,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "22/03/2020"
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Esmeraldas",
     "total": 0,
-    "created_at": "22/03/2020"
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Galápagos",
     "total": 0,
-    "created_at": "22/03/2020"
+    "created_at": "29/03/2020"
   },
   {
     "provincia": "Guayas",
+    "total": 37,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Imbabura",
+    "total": 1,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Loja",
+    "total": 0,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Los Ríos",
+    "total": 5,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Manabí",
+    "total": 1,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Napo",
+    "total": 0,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Morona Santiago",
+    "total": 0,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Orellana",
+    "total": 0,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Pastaza",
+    "total": 0,
+    "created_at": "29/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
     "total": 4,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 14,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 18,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 27,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 29,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 34,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 41,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 48,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
     "created_at": "29/03/2020"
   },
   {
     "provincia": "Santa Elena",
-    "total": 0,
+    "total": 2,
     "created_at": "29/03/2020"
   },
   {
@@ -2106,7 +466,7 @@
   },
   {
     "provincia": "Sucumbíos",
-    "total": 0,
+    "total": 1,
     "created_at": "29/03/2020"
   },
   {
@@ -2117,11 +477,6 @@
   {
     "provincia": "Zamora Chinchipe",
     "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 58,
     "created_at": "29/03/2020"
   },
   {
@@ -2130,13 +485,13 @@
     "created_at": "30/03/2020"
   },
   {
-    "provincia": "Cañar",
-    "total": 1,
+    "provincia": "Bolívar",
+    "total": 0,
     "created_at": "30/03/2020"
   },
   {
-    "provincia": "Bolívar",
-    "total": 0,
+    "provincia": "Cañar",
+    "total": 1,
     "created_at": "30/03/2020"
   },
   {
@@ -2171,7 +526,7 @@
   },
   {
     "provincia": "Guayas",
-    "total": 38,
+    "total": 40,
     "created_at": "30/03/2020"
   },
   {
@@ -2200,12 +555,12 @@
     "created_at": "30/03/2020"
   },
   {
-    "provincia": "Orellana",
+    "provincia": "Morona Santiago",
     "total": 0,
     "created_at": "30/03/2020"
   },
   {
-    "provincia": "Morona Santiago",
+    "provincia": "Orellana",
     "total": 0,
     "created_at": "30/03/2020"
   },
@@ -2242,2263 +597,6 @@
   {
     "provincia": "Zamora Chinchipe",
     "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 60,
-    "created_at": "30/03/2020"
-  }
-]
-[
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "13/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "14/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "15/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "16/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 2,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 2,
-    "created_at": "17/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 3,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 3,
-    "created_at": "18/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 3,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 4,
-    "created_at": "19/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 4,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 7,
-    "created_at": "20/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 4,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 7,
-    "created_at": "21/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 4,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 14,
-    "created_at": "22/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 18,
-    "created_at": "23/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 27,
-    "created_at": "24/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 29,
-    "created_at": "25/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 34,
-    "created_at": "26/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 41,
-    "created_at": "27/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 48,
-    "created_at": "28/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 7,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 58,
-    "created_at": "29/03/2020"
-  },
-  {
-    "provincia": "Azuay",
-    "total": 1,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Cañar",
-    "total": 1,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Bolívar",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Carchi",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Chimborazo",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Cotopaxi",
-    "total": 1,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "El Oro",
-    "total": 4,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Esmeraldas",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Galápagos",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Guayas",
-    "total": 38,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Imbabura",
-    "total": 1,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Loja",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Los Ríos",
-    "total": 5,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Manabí",
-    "total": 1,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Napo",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Orellana",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Morona Santiago",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Pastaza",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "total": 5,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Santa Elena",
-    "total": 2,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Sto. Domingo Tsáchilas",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Sucumbíos",
-    "total": 1,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Tungurahua",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": "Zamora Chinchipe",
-    "total": 0,
-    "created_at": "30/03/2020"
-  },
-  {
-    "provincia": null,
-    "total": 60,
     "created_at": "30/03/2020"
   }
 ]

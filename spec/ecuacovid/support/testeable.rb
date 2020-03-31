@@ -1,14 +1,11 @@
 module Testeable
   def probar!
-    prueba = Prueba.new(self)
-  
-    prueba.fallar! unless block_given?
-  
-    prueba.test do |test_run, out|
-      test_run.fallar! unless yield(out.to_i)
-    
+    test_run = Prueba.new(self).test do |run, out|
+      run.ok! if yield(out.to_i)
       rescue StandardError => e
-      prueba.err!("¡Falló! Algo salió mal: #{e.message}")
+      run.err!("¡Falló! Algo salió mal: #{e.message}")
     end
+
+    test_run.ok?
   end
 end

@@ -15,14 +15,6 @@ module Caso
     def para(fecha)
       self.new.para(fecha)
     end
-  
-    def todos_los_cantones(&block)
-      self.new.cantones(&block)
-    end
-  
-    def todas_las_provincias(&block)
-      self.new.provincias(&block)
-    end
   end
   
   DIRECTORY = File.join(File.dirname(__FILE__), '../../../datos_crudos/')

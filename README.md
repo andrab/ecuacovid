@@ -25,11 +25,6 @@ Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
 * `total` = El total número de casos positivos
 * `created_at` = La fecha del registro
 
-# Observaciones
-
-No están publicando ni la provincia ni canton de las muertes (al principio lo hacían) por lo que se incluye para cada día un "dato" adicional que no tiene valor en `provincia` siendo `null` (csv: ` `, json: `null`) y su `total` es el número de muertes de _ese_ día. Revisar los días en [csv](datos_crudos/muertes.csv) y [json](datos/muertes.lindo.json)(versión pretty-json) para entender.
-
-
 # ¿Por qué debo confiar en la precisión de estos datos?
 
 Todos los datos están _tested_, [aquí puedes revisar](spec/ecuacovid/criterios.rb) con más detalle los criterios que verifica. Todas las pruebas automáticas verifica que nuestros datos extraídos sumen totales exactamente iguales a los reportados por el Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador.

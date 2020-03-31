@@ -8,6 +8,15 @@ class PositivasTest
     @source = File.join(DIRECTORY, source)
   end
 
+  def casos(&block)
+    @command = "open #{@source} "\
+               " | where created_at == #{@fecha} "\
+               " | get total "\
+               " | sum "\
+               " | echo $it"
+    probar!(&block)
+  end
+
   def provincias(&block)
     @command = "open #{@source} "\
                ' | format "{provincia}-{created_at}"'\
@@ -43,15 +52,6 @@ class PositivasTest
                " | echo $it"
     probar!(&block)
   end
-
-  def casos(&block)
-    @command = "open #{@source} "\
-               " | where created_at == #{@fecha} "\
-               " | get total "\
-               " | sum "\
-               " | echo $it"
-    probar!(&block)
-  end
 end
 
 describe "Casos Positivos" do
@@ -60,7 +60,7 @@ describe "Casos Positivos" do
 
     it "Contiene todas las provincias por día" do
       veces = fechas_totales
-      PositivasTest.todas_las_provincias do |total|
+      PositivasTest.new.provincias do |total|
         expect(total).to be(24 * veces),
           "Se esperaban #{24 * veces} provincias registradas, devolvió: #{total}"
       end
@@ -68,7 +68,7 @@ describe "Casos Positivos" do
   
     it "Contiene todos los cantones por día" do
       veces = fechas_totales
-      PositivasTest.todos_los_cantones do |total|
+      PositivasTest.new.cantones do |total|
         expect(total).to be(221 * veces),
           "Se esperaban #{221 * veces} cantones registrados, devolvió: #{total}"
       end
@@ -79,7 +79,9 @@ describe "Casos Positivos" do
     require_relative "../criterios"
 
     Criterios.para(:positivas).each do |(de_informe, fecha, spec)|
-      casos_totales, ingresados_totales, sin_ingresar_totales = spec.values_at(:casos, :cantones_ingresados, :cantones_sin_ingresar)
+      casos_totales = spec[:casos]
+      ingresados_totales =  spec[:cantones_ingresados]
+      sin_ingresar_totales = spec[:cantones_sin_ingresar]
 
       nombre, numero, hora = de_informe.to_s.split('_')
       ruta = File.join(

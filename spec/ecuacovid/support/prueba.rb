@@ -12,6 +12,7 @@ class Prueba
     IO.popen([nu!, "-c", @caso.command], :err => [:child, :out]) do |out|
       yield(self, out.read)
     end
+    self
   end
     
   def fallar!
@@ -19,7 +20,6 @@ class Prueba
   end
     
   def ok!
-    ok?
     @fallo = false
   end
     

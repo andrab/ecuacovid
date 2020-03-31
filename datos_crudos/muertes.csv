@@ -1,446 +1,117 @@
 provincia,total,created_at
-Azuay,0,13/03/2020
-Cañar,0,13/03/2020
-Bolívar,0,13/03/2020
-Carchi,0,13/03/2020
-Chimborazo,0,13/03/2020
-Cotopaxi,0,13/03/2020
-El Oro,0,13/03/2020
-Esmeraldas,0,13/03/2020
-Galápagos,0,13/03/2020
-Guayas,2,13/03/2020
-Imbabura,0,13/03/2020
-Loja,0,13/03/2020
-Los Ríos,0,13/03/2020
-Manabí,0,13/03/2020
-Napo,0,13/03/2020
-Orellana,0,13/03/2020
-Morona Santiago,0,13/03/2020
-Pastaza,0,13/03/2020
-Pichincha,0,13/03/2020
-Santa Elena,0,13/03/2020
-Sto. Domingo Tsáchilas,0,13/03/2020
-Sucumbíos,0,13/03/2020
-Tungurahua,0,13/03/2020
-Zamora Chinchipe,0,13/03/2020
-,2,13/03/2020
-Azuay,0,14/03/2020
-Cañar,0,14/03/2020
-Bolívar,0,14/03/2020
-Carchi,0,14/03/2020
-Chimborazo,0,14/03/2020
-Cotopaxi,0,14/03/2020
-El Oro,0,14/03/2020
-Esmeraldas,0,14/03/2020
-Galápagos,0,14/03/2020
-Guayas,2,14/03/2020
-Imbabura,0,14/03/2020
-Loja,0,14/03/2020
-Los Ríos,0,14/03/2020
-Manabí,0,14/03/2020
-Napo,0,14/03/2020
-Orellana,0,14/03/2020
-Morona Santiago,0,14/03/2020
-Pastaza,0,14/03/2020
-Pichincha,0,14/03/2020
-Santa Elena,0,14/03/2020
-Sto. Domingo Tsáchilas,0,14/03/2020
-Sucumbíos,0,14/03/2020
-Tungurahua,0,14/03/2020
-Zamora Chinchipe,0,14/03/2020
-,2,14/03/2020
-Azuay,0,15/03/2020
-Cañar,0,15/03/2020
-Bolívar,0,15/03/2020
-Carchi,0,15/03/2020
-Chimborazo,0,15/03/2020
-Cotopaxi,0,15/03/2020
-El Oro,0,15/03/2020
-Esmeraldas,0,15/03/2020
-Galápagos,0,15/03/2020
-Guayas,2,15/03/2020
-Imbabura,0,15/03/2020
-Loja,0,15/03/2020
-Los Ríos,0,15/03/2020
-Manabí,0,15/03/2020
-Napo,0,15/03/2020
-Orellana,0,15/03/2020
-Morona Santiago,0,15/03/2020
-Pastaza,0,15/03/2020
-Pichincha,0,15/03/2020
-Santa Elena,0,15/03/2020
-Sto. Domingo Tsáchilas,0,15/03/2020
-Sucumbíos,0,15/03/2020
-Tungurahua,0,15/03/2020
-Zamora Chinchipe,0,15/03/2020
-,2,15/03/2020
-Azuay,0,16/03/2020
-Cañar,0,16/03/2020
-Bolívar,0,16/03/2020
-Carchi,0,16/03/2020
-Chimborazo,0,16/03/2020
-Cotopaxi,0,16/03/2020
-El Oro,0,16/03/2020
-Esmeraldas,0,16/03/2020
-Galápagos,0,16/03/2020
-Guayas,2,16/03/2020
-Imbabura,0,16/03/2020
-Loja,0,16/03/2020
-Los Ríos,0,16/03/2020
-Manabí,0,16/03/2020
-Napo,0,16/03/2020
-Orellana,0,16/03/2020
-Morona Santiago,0,16/03/2020
-Pastaza,0,16/03/2020
-Pichincha,0,16/03/2020
-Santa Elena,0,16/03/2020
-Sto. Domingo Tsáchilas,0,16/03/2020
-Sucumbíos,0,16/03/2020
-Tungurahua,0,16/03/2020
-Zamora Chinchipe,0,16/03/2020
-,2,16/03/2020
-Azuay,0,17/03/2020
-Cañar,0,17/03/2020
-Bolívar,0,17/03/2020
-Carchi,0,17/03/2020
-Chimborazo,0,17/03/2020
-Cotopaxi,0,17/03/2020
-El Oro,0,17/03/2020
-Esmeraldas,0,17/03/2020
-Galápagos,0,17/03/2020
-Guayas,2,17/03/2020
-Imbabura,0,17/03/2020
-Loja,0,17/03/2020
-Los Ríos,0,17/03/2020
-Manabí,0,17/03/2020
-Napo,0,17/03/2020
-Orellana,0,17/03/2020
-Morona Santiago,0,17/03/2020
-Pastaza,0,17/03/2020
-Pichincha,0,17/03/2020
-Santa Elena,0,17/03/2020
-Sto. Domingo Tsáchilas,0,17/03/2020
-Sucumbíos,0,17/03/2020
-Tungurahua,0,17/03/2020
-Zamora Chinchipe,0,17/03/2020
-,2,17/03/2020
-Azuay,0,18/03/2020
-Cañar,0,18/03/2020
-Bolívar,0,18/03/2020
-Carchi,0,18/03/2020
-Chimborazo,0,18/03/2020
-Cotopaxi,0,18/03/2020
-El Oro,0,18/03/2020
-Esmeraldas,0,18/03/2020
-Galápagos,0,18/03/2020
-Guayas,3,18/03/2020
-Imbabura,0,18/03/2020
-Loja,0,18/03/2020
-Los Ríos,0,18/03/2020
-Manabí,0,18/03/2020
-Napo,0,18/03/2020
-Orellana,0,18/03/2020
-Morona Santiago,0,18/03/2020
-Pastaza,0,18/03/2020
-Pichincha,0,18/03/2020
-Santa Elena,0,18/03/2020
-Sto. Domingo Tsáchilas,0,18/03/2020
-Sucumbíos,0,18/03/2020
-Tungurahua,0,18/03/2020
-Zamora Chinchipe,0,18/03/2020
-,3,18/03/2020
-Azuay,0,19/03/2020
-Cañar,0,19/03/2020
-Bolívar,0,19/03/2020
-Carchi,0,19/03/2020
-Chimborazo,0,19/03/2020
-Cotopaxi,0,19/03/2020
-El Oro,0,19/03/2020
-Esmeraldas,0,19/03/2020
-Galápagos,0,19/03/2020
-Guayas,3,19/03/2020
-Imbabura,0,19/03/2020
-Loja,0,19/03/2020
-Los Ríos,0,19/03/2020
-Manabí,1,19/03/2020
-Napo,0,19/03/2020
-Orellana,0,19/03/2020
-Morona Santiago,0,19/03/2020
-Pastaza,0,19/03/2020
-Pichincha,0,19/03/2020
-Santa Elena,0,19/03/2020
-Sto. Domingo Tsáchilas,0,19/03/2020
-Sucumbíos,0,19/03/2020
-Tungurahua,0,19/03/2020
-Zamora Chinchipe,0,19/03/2020
-,4,19/03/2020
-Azuay,0,20/03/2020
-Cañar,0,20/03/2020
-Bolívar,0,20/03/2020
-Carchi,0,20/03/2020
-Chimborazo,0,20/03/2020
-Cotopaxi,0,20/03/2020
-El Oro,0,20/03/2020
-Esmeraldas,0,20/03/2020
-Galápagos,0,20/03/2020
-Guayas,4,20/03/2020
-Imbabura,0,20/03/2020
-Loja,0,20/03/2020
-Los Ríos,0,20/03/2020
-Manabí,1,20/03/2020
-Napo,0,20/03/2020
-Orellana,0,20/03/2020
-Morona Santiago,0,20/03/2020
-Pastaza,0,20/03/2020
-Pichincha,0,20/03/2020
-Santa Elena,0,20/03/2020
-Sto. Domingo Tsáchilas,0,20/03/2020
-Sucumbíos,0,20/03/2020
-Tungurahua,0,20/03/2020
-Zamora Chinchipe,0,20/03/2020
-,7,20/03/2020
-Azuay,0,21/03/2020
-Cañar,0,21/03/2020
-Bolívar,0,21/03/2020
-Carchi,0,21/03/2020
-Chimborazo,0,21/03/2020
-Cotopaxi,0,21/03/2020
-El Oro,0,21/03/2020
-Esmeraldas,0,21/03/2020
-Galápagos,0,21/03/2020
-Guayas,4,21/03/2020
-Imbabura,0,21/03/2020
-Loja,0,21/03/2020
-Los Ríos,0,21/03/2020
-Manabí,1,21/03/2020
-Napo,0,21/03/2020
-Orellana,0,21/03/2020
-Morona Santiago,0,21/03/2020
-Pastaza,0,21/03/2020
-Pichincha,0,21/03/2020
-Santa Elena,0,21/03/2020
-Sto. Domingo Tsáchilas,0,21/03/2020
-Sucumbíos,0,21/03/2020
-Tungurahua,0,21/03/2020
-Zamora Chinchipe,0,21/03/2020
-,7,21/03/2020
-Azuay,0,22/03/2020
-Cañar,0,22/03/2020
-Bolívar,0,22/03/2020
-Carchi,0,22/03/2020
-Chimborazo,0,22/03/2020
-Cotopaxi,0,22/03/2020
-El Oro,0,22/03/2020
-Esmeraldas,0,22/03/2020
-Galápagos,0,22/03/2020
-Guayas,4,22/03/2020
-Imbabura,0,22/03/2020
-Loja,0,22/03/2020
-Los Ríos,0,22/03/2020
-Manabí,1,22/03/2020
-Napo,0,22/03/2020
-Orellana,0,22/03/2020
-Morona Santiago,0,22/03/2020
-Pastaza,0,22/03/2020
-Pichincha,0,22/03/2020
-Santa Elena,0,22/03/2020
-Sto. Domingo Tsáchilas,0,22/03/2020
-Sucumbíos,0,22/03/2020
-Tungurahua,0,22/03/2020
-Zamora Chinchipe,0,22/03/2020
-,14,22/03/2020
-Azuay,0,23/03/2020
-Cañar,0,23/03/2020
-Bolívar,0,23/03/2020
-Carchi,0,23/03/2020
-Chimborazo,0,23/03/2020
-Cotopaxi,1,23/03/2020
-El Oro,0,23/03/2020
-Esmeraldas,0,23/03/2020
-Galápagos,0,23/03/2020
-Guayas,7,23/03/2020
-Imbabura,0,23/03/2020
-Loja,0,23/03/2020
-Los Ríos,0,23/03/2020
-Manabí,1,23/03/2020
-Napo,0,23/03/2020
-Orellana,0,23/03/2020
-Morona Santiago,0,23/03/2020
-Pastaza,0,23/03/2020
-Pichincha,0,23/03/2020
-Santa Elena,0,23/03/2020
-Sto. Domingo Tsáchilas,0,23/03/2020
-Sucumbíos,0,23/03/2020
-Tungurahua,0,23/03/2020
-Zamora Chinchipe,0,23/03/2020
-,18,23/03/2020
-Azuay,0,24/03/2020
-Cañar,0,24/03/2020
-Bolívar,0,24/03/2020
-Carchi,0,24/03/2020
-Chimborazo,0,24/03/2020
-Cotopaxi,1,24/03/2020
-El Oro,0,24/03/2020
-Esmeraldas,0,24/03/2020
-Galápagos,0,24/03/2020
-Guayas,7,24/03/2020
-Imbabura,0,24/03/2020
-Loja,0,24/03/2020
-Los Ríos,0,24/03/2020
-Manabí,1,24/03/2020
-Napo,0,24/03/2020
-Orellana,0,24/03/2020
-Morona Santiago,0,24/03/2020
-Pastaza,0,24/03/2020
-Pichincha,0,24/03/2020
-Santa Elena,0,24/03/2020
-Sto. Domingo Tsáchilas,0,24/03/2020
-Sucumbíos,0,24/03/2020
-Tungurahua,0,24/03/2020
-Zamora Chinchipe,0,24/03/2020
-,27,24/03/2020
-Azuay,0,25/03/2020
-Cañar,0,25/03/2020
-Bolívar,0,25/03/2020
-Carchi,0,25/03/2020
-Chimborazo,0,25/03/2020
-Cotopaxi,1,25/03/2020
-El Oro,0,25/03/2020
-Esmeraldas,0,25/03/2020
-Galápagos,0,25/03/2020
-Guayas,7,25/03/2020
-Imbabura,0,25/03/2020
-Loja,0,25/03/2020
-Los Ríos,0,25/03/2020
-Manabí,1,25/03/2020
-Napo,0,25/03/2020
-Orellana,0,25/03/2020
-Morona Santiago,0,25/03/2020
-Pastaza,0,25/03/2020
-Pichincha,0,25/03/2020
-Santa Elena,0,25/03/2020
-Sto. Domingo Tsáchilas,0,25/03/2020
-Sucumbíos,0,25/03/2020
-Tungurahua,0,25/03/2020
-Zamora Chinchipe,0,25/03/2020
-,29,25/03/2020
 Azuay,0,26/03/2020
-Cañar,0,26/03/2020
 Bolívar,0,26/03/2020
+Cañar,0,26/03/2020
 Carchi,0,26/03/2020
 Chimborazo,0,26/03/2020
 Cotopaxi,1,26/03/2020
-El Oro,0,26/03/2020
+El Oro,3,26/03/2020
 Esmeraldas,0,26/03/2020
 Galápagos,0,26/03/2020
-Guayas,7,26/03/2020
-Imbabura,0,26/03/2020
+Guayas,21,26/03/2020
+Imbabura,1,26/03/2020
 Loja,0,26/03/2020
-Los Ríos,0,26/03/2020
-Manabí,1,26/03/2020
+Los Ríos,3,26/03/2020
+Manabí,0,26/03/2020
 Napo,0,26/03/2020
-Orellana,0,26/03/2020
 Morona Santiago,0,26/03/2020
+Orellana,0,26/03/2020
 Pastaza,0,26/03/2020
-Pichincha,0,26/03/2020
-Santa Elena,0,26/03/2020
+Pichincha,3,26/03/2020
+Santa Elena,2,26/03/2020
 Sto. Domingo Tsáchilas,0,26/03/2020
 Sucumbíos,0,26/03/2020
 Tungurahua,0,26/03/2020
 Zamora Chinchipe,0,26/03/2020
-,34,26/03/2020
 Azuay,0,27/03/2020
-Cañar,0,27/03/2020
 Bolívar,0,27/03/2020
+Cañar,0,27/03/2020
 Carchi,0,27/03/2020
 Chimborazo,0,27/03/2020
 Cotopaxi,1,27/03/2020
-El Oro,0,27/03/2020
+El Oro,3,27/03/2020
 Esmeraldas,0,27/03/2020
 Galápagos,0,27/03/2020
-Guayas,7,27/03/2020
-Imbabura,0,27/03/2020
+Guayas,25,27/03/2020
+Imbabura,1,27/03/2020
 Loja,0,27/03/2020
-Los Ríos,0,27/03/2020
+Los Ríos,3,27/03/2020
 Manabí,1,27/03/2020
 Napo,0,27/03/2020
-Orellana,0,27/03/2020
 Morona Santiago,0,27/03/2020
+Orellana,0,27/03/2020
 Pastaza,0,27/03/2020
-Pichincha,0,27/03/2020
-Santa Elena,0,27/03/2020
+Pichincha,4,27/03/2020
+Santa Elena,2,27/03/2020
 Sto. Domingo Tsáchilas,0,27/03/2020
-Sucumbíos,0,27/03/2020
+Sucumbíos,1,27/03/2020
 Tungurahua,0,27/03/2020
 Zamora Chinchipe,0,27/03/2020
-,41,27/03/2020
 Azuay,0,28/03/2020
-Cañar,0,28/03/2020
 Bolívar,0,28/03/2020
+Cañar,0,28/03/2020
 Carchi,0,28/03/2020
-Chimborazo,0,28/03/2020
-Cotopaxi,1,28/03/2020
-El Oro,0,28/03/2020
+Chimborazo,1,28/03/2020
+Cotopaxi,0,28/03/2020
+El Oro,3,28/03/2020
 Esmeraldas,0,28/03/2020
 Galápagos,0,28/03/2020
-Guayas,7,28/03/2020
-Imbabura,0,28/03/2020
+Guayas,30,28/03/2020
+Imbabura,1,28/03/2020
 Loja,0,28/03/2020
-Los Ríos,0,28/03/2020
+Los Ríos,5,28/03/2020
 Manabí,1,28/03/2020
 Napo,0,28/03/2020
-Orellana,0,28/03/2020
 Morona Santiago,0,28/03/2020
+Orellana,0,28/03/2020
 Pastaza,0,28/03/2020
-Pichincha,0,28/03/2020
-Santa Elena,0,28/03/2020
+Pichincha,4,28/03/2020
+Santa Elena,2,28/03/2020
 Sto. Domingo Tsáchilas,0,28/03/2020
-Sucumbíos,0,28/03/2020
+Sucumbíos,1,28/03/2020
 Tungurahua,0,28/03/2020
 Zamora Chinchipe,0,28/03/2020
-,48,28/03/2020
-Azuay,0,29/03/2020
-Cañar,0,29/03/2020
+Azuay,1,29/03/2020
 Bolívar,0,29/03/2020
+Cañar,1,29/03/2020
 Carchi,0,29/03/2020
 Chimborazo,0,29/03/2020
 Cotopaxi,1,29/03/2020
-El Oro,0,29/03/2020
+El Oro,4,29/03/2020
 Esmeraldas,0,29/03/2020
 Galápagos,0,29/03/2020
-Guayas,7,29/03/2020
-Imbabura,0,29/03/2020
+Guayas,37,29/03/2020
+Imbabura,1,29/03/2020
 Loja,0,29/03/2020
-Los Ríos,0,29/03/2020
+Los Ríos,5,29/03/2020
 Manabí,1,29/03/2020
 Napo,0,29/03/2020
-Orellana,0,29/03/2020
 Morona Santiago,0,29/03/2020
+Orellana,0,29/03/2020
 Pastaza,0,29/03/2020
-Pichincha,0,29/03/2020
-Santa Elena,0,29/03/2020
+Pichincha,4,29/03/2020
+Santa Elena,2,29/03/2020
 Sto. Domingo Tsáchilas,0,29/03/2020
-Sucumbíos,0,29/03/2020
+Sucumbíos,1,29/03/2020
 Tungurahua,0,29/03/2020
 Zamora Chinchipe,0,29/03/2020
-,58,29/03/2020
 Azuay,1,30/03/2020
-Cañar,1,30/03/2020
 Bolívar,0,30/03/2020
+Cañar,1,30/03/2020
 Carchi,0,30/03/2020
 Chimborazo,0,30/03/2020
 Cotopaxi,1,30/03/2020
 El Oro,4,30/03/2020
 Esmeraldas,0,30/03/2020
 Galápagos,0,30/03/2020
-Guayas,38,30/03/2020
+Guayas,40,30/03/2020
 Imbabura,1,30/03/2020
 Loja,0,30/03/2020
 Los Ríos,5,30/03/2020
 Manabí,1,30/03/2020
 Napo,0,30/03/2020
-Orellana,0,30/03/2020
 Morona Santiago,0,30/03/2020
+Orellana,0,30/03/2020
 Pastaza,0,30/03/2020
 Pichincha,5,30/03/2020
 Santa Elena,2,30/03/2020
@@ -448,4 +119,3 @@ Sto. Domingo Tsáchilas,0,30/03/2020
 Sucumbíos,1,30/03/2020
 Tungurahua,0,30/03/2020
 Zamora Chinchipe,0,30/03/2020
-,60,30/03/2020

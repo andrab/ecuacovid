@@ -6,51 +6,33 @@ class MuertesTest
 
   def initialize(source = "muertes.json")
     @source = File.join(DIRECTORY, source)
-    sin_clasificadas!
   end
 
-  def provincias(&block)
-    @command = if @fecha
-      "open #{@source} "\
-      " #{filtro} "\
-      " | where created_at == #{@fecha} "\
-      " | count "\
-      " | echo $it"
-    else
-      "open #{@source} | count | echo $it"     
-    end
-
-    probar!(&block)
-  end
-
-  def registradas_excluyendo(provincias, &block)
-    @provincias = provincias
+  def casos(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
-               " | #{excluyendo.join(' | ')} "\
                " | get total "\
                " | sum "\
                " | echo $it"
-
     probar!(&block)
   end
 
-private
-  def sin_clasificadas!
-    @sin_clasificadas = true
+  def provincias_ingresadas(&block)
+    @command = "open #{@source}                  "\
+               " | where created_at == #{@fecha} "\
+               " | where total > 0 "\
+               " | count "\
+               " | echo $it"
+    probar!(&block)
   end
-
-  def filtro
-    @sin_clasificadas ? " | compact provincia" : ""
-  end
-
-  def excluyendo
-    @provincias
-      .keys
-      .flatten
-      .map {|p| ['where provincia ', '!=', ' ', p].join}
-  rescue
-    []
+  
+  def provincias_sin_ingresar(&block)
+    @command = "open #{@source} "\
+               " | where created_at == #{@fecha} "\
+               " | where total == 0 "\
+               " | count "\
+               " | echo $it"
+    probar!(&block)
   end
 end
 
@@ -59,8 +41,8 @@ describe "Muertes registradas" do
 
   Criterios.para(:muertes).each do |(de_informe, fecha, spec)|
     muertes_totales = spec[:muertes]
-    las_provincias  = spec[:de_las_provincias_teniendo]
-    sin_clasificar  = spec.fetch(:teniendo_sin_clasificar) { 0 }
+    ingresadas_totales =  spec[:provincias_ingresadas]
+    sin_ingresar_totales = spec[:provincias_sin_ingresar]
 
     nombre, numero, hora = de_informe.to_s.split('_')
     ruta = File.join(
@@ -68,16 +50,29 @@ describe "Muertes registradas" do
       [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
     )
 
-    it "Verificando casos de fallecidos (informe: #{ruta}).." do
-      MuertesTest.para(fecha).registradas_excluyendo(las_provincias) do |total|
-        expect(total + sin_clasificar + las_provincias.map(&:values).flatten.sum).to be(muertes_totales)
-      end
-    end
+    context "informe: #{ruta}..." do
+      datos = MuertesTest.para(fecha)
 
-    it "Verificando provincias existen.." do
-      MuertesTest.para(fecha).provincias do |total|
-        expect(total).to be(24),
-          "Se esperaba 24 provincias registradas, devolvió: #{total}"
+      it "Verificando casos.." do
+        datos.casos do |total|
+          expect(total).to be(muertes_totales)
+        end
+      end
+
+      it "Verificando provincias con información.." do
+        datos.provincias_ingresadas do |total|
+          expect(total).to be(ingresadas_totales)
+        end
+      end 
+
+      it "Verificando provincias sin información.." do
+        datos.provincias_sin_ingresar do |total|
+          expect(total).to be(sin_ingresar_totales)
+        end
+      end
+
+      it "Verificando que todas los provincias existen.." do
+        expect(ingresadas_totales + sin_ingresar_totales).to be(24)
       end
     end
   end
