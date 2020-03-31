@@ -1,9 +1,5 @@
 class Criterios
   class << self
-    def para(tema)
-      self.send(tema)
-    end
-
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
       [[  :SNGRE_033_17H   ,"30/03/2020",       {casos: 1966, cantones_ingresados: 103,   cantones_sin_ingresar: 118}],
@@ -33,6 +29,10 @@ class Criterios
        [  :SNGRE_029_10H   ,"28/03/2020", {muertes:   48, provincias_ingresadas:   9,   provincias_sin_ingresar:  15}],
        [  :SNGRE_027_17H   ,"27/03/2020", {muertes:   41, provincias_ingresadas:   9,   provincias_sin_ingresar:  15}],
        [  :SNGRE_025_17H   ,"26/03/2020", {muertes:   34, provincias_ingresadas:   7,   provincias_sin_ingresar:  17}]]
+    end
+    
+    def para(tema)
+      self.send(tema)
     end
   end
 end
