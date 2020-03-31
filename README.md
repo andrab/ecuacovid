@@ -16,12 +16,16 @@ Muertes (`provincia`, `total`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `total` = El total número de muertes
+* `lat` = Latitud
+* `lng` = Longitud
 * `created_at` = La fecha del registro
 
 Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `canton` = El nombre del canton
+* `lat` = Latitud
+* `lng` = Longitud
 * `total` = El total número de casos positivos
 * `created_at` = La fecha del registro
 

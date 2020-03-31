@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_033_17H   ,"30/03/2020",       {casos: 1966, cantones_ingresados: 103,   cantones_sin_ingresar: 118}],
+      [[  :SNGRE_034_10H   ,"31/03/2020",       {casos: 2240, cantones_ingresados: 115,   cantones_sin_ingresar: 106}],
+       [  :SNGRE_033_17H   ,"30/03/2020",       {casos: 1966, cantones_ingresados: 103,   cantones_sin_ingresar: 118}],
        [  :SNGRE_031_17H   ,"29/03/2020",       {casos: 1924, cantones_ingresados: 100,   cantones_sin_ingresar: 121}],
        [  :SNGRE_029_10H   ,"28/03/2020",       {casos: 1835, cantones_ingresados:  96,   cantones_sin_ingresar: 125}],
        [  :SNGRE_027_17H   ,"27/03/2020",       {casos: 1627, cantones_ingresados:  86,   cantones_sin_ingresar: 135}],
@@ -24,7 +25,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION───────────────────────────────────────────┬"
-      [[  :SNGRE_033_17H   ,"30/03/2020", {muertes:   62, provincias_ingresadas:  11,   provincias_sin_ingresar:  13}],
+      [[  :SNGRE_034_10H   ,"31/03/2020", {muertes:   75, provincias_ingresadas:  11,   provincias_sin_ingresar:  13}],
+       [  :SNGRE_033_17H   ,"30/03/2020", {muertes:   62, provincias_ingresadas:  11,   provincias_sin_ingresar:  13}],
        [  :SNGRE_031_17H   ,"29/03/2020", {muertes:   58, provincias_ingresadas:  11,   provincias_sin_ingresar:  13}],
        [  :SNGRE_029_10H   ,"28/03/2020", {muertes:   48, provincias_ingresadas:   9,   provincias_sin_ingresar:  15}],
        [  :SNGRE_027_17H   ,"27/03/2020", {muertes:   41, provincias_ingresadas:   9,   provincias_sin_ingresar:  15}],
