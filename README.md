@@ -24,9 +24,9 @@ Positivas (`provincia`, `canton`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `canton` = El nombre del canton
+* `total` = El total número de casos positivos
 * `lat` = Latitud
 * `lng` = Longitud
-* `total` = El total número de casos positivos
 * `created_at` = La fecha del registro
 
 # ¿Por qué debo confiar en la precisión de estos datos?
