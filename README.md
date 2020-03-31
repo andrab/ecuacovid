@@ -12,7 +12,7 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos` [[aquí](datos_crudos/)]. Contienen los siguientes campos:
 
-Muertes (`provincia`, `total`, `created_at`) donde:
+Muertes (`provincia`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `total` = El total número de muertes
@@ -20,7 +20,7 @@ Muertes (`provincia`, `total`, `created_at`) donde:
 * `lng` = Longitud
 * `created_at` = La fecha del registro
 
-Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
+Positivas (`provincia`, `canton`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `canton` = El nombre del canton
