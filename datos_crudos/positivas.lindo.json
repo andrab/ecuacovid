@@ -31826,7 +31826,7 @@
   {
     "provincia": "Azuay",
     "canton": "Cuenca",
-    "total": 67,
+    "total": 68,
     "lat": -79.3905213,
     "lng": -2.5002799500000004,
     "created_at": "31/03/2020"
@@ -32458,7 +32458,7 @@
   {
     "provincia": "Guayas",
     "canton": "Daule",
-    "total": 116,
+    "total": 117,
     "lat": -79.90490453,
     "lng": -1.7776247600000001,
     "created_at": "31/03/2020"
@@ -32466,7 +32466,7 @@
   {
     "provincia": "Guayas",
     "canton": "Durán",
-    "total": 77,
+    "total": 78,
     "lat": -79.83355507,
     "lng": -2.22901241,
     "created_at": "31/03/2020"
@@ -32482,7 +32482,7 @@
   {
     "provincia": "Guayas",
     "canton": "Guayaquil",
-    "total": 1084,
+    "total": 1116,
     "lat": -80.16798687,
     "lng": -3.01539525,
     "created_at": "31/03/2020"
@@ -32490,7 +32490,7 @@
   {
     "provincia": "Guayas",
     "canton": "Milagro",
-    "total": 53,
+    "total": 63,
     "lat": -79.52324435,
     "lng": -2.0371286,
     "created_at": "31/03/2020"
@@ -32514,7 +32514,7 @@
   {
     "provincia": "Guayas",
     "canton": "Salitre",
-    "total": 19,
+    "total": 22,
     "lat": -79.85967228,
     "lng": -1.6488041400000002,
     "created_at": "31/03/2020"
@@ -32522,7 +32522,7 @@
   {
     "provincia": "Guayas",
     "canton": "Samborondón",
-    "total": 145,
+    "total": 150,
     "lat": -79.66607271,
     "lng": -1.90682378,
     "created_at": "31/03/2020"
@@ -32810,7 +32810,7 @@
   {
     "provincia": "Los Ríos",
     "canton": "Babahoyo",
-    "total": 43,
+    "total": 44,
     "lat": -79.35563332,
     "lng": -1.63750579,
     "created_at": "31/03/2020"
@@ -33306,7 +33306,7 @@
   {
     "provincia": "Pichincha",
     "canton": "Quito",
-    "total": 197,
+    "total": 204,
     "lat": -78.30099673,
     "lng": 0.15477657,
     "created_at": "31/03/2020"
@@ -33317,6 +33317,14 @@
     "total": 11,
     "lat": -78.43658633,
     "lng": -0.48629986999999997,
+    "created_at": "31/03/2020"
+  },
+  {
+    "provincia": "Pichincha",
+    "canton": "Pedro Moncayo",
+    "total": 1,
+    "lat": -78.17878546,
+    "lng": 0.12156428999999999,
     "created_at": "31/03/2020"
   },
   {
@@ -33333,14 +33341,6 @@
     "total": 0,
     "lat": -78.93187092,
     "lng": 0.09168845,
-    "created_at": "31/03/2020"
-  },
-  {
-    "provincia": "Pichincha",
-    "canton": "Pedro Moncayo",
-    "total": 0,
-    "lat": -78.17878546,
-    "lng": 0.12156428999999999,
     "created_at": "31/03/2020"
   },
   {
