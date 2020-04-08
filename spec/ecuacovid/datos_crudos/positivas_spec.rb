@@ -52,6 +52,16 @@ class PositivasTest
                " | echo $it"
     probar!(&block)
   end
+
+  def poblacion_total_de(provincia, &block)
+    @command = "open #{@source} "\
+               " | where created_at == #{@fecha} "\
+               " | group-by provincia "\
+               " | get \"#{provincia}\".canton_poblacion "\
+               " | sum "\
+               " | echo $it"
+    probar!(&block)
+  end
 end
 
 describe "Casos Positivos" do
@@ -77,6 +87,7 @@ describe "Casos Positivos" do
   
   context "Por fecha" do
     require_relative "../criterios"
+    require_relative "../cifras"
 
     Criterios.para(:positivas).each do |(de_informe, fecha, spec)|
       casos_totales = spec[:casos]
@@ -112,6 +123,14 @@ describe "Casos Positivos" do
 
         it "Verificando que todos los cantones existen.." do
           expect(ingresados_totales + sin_ingresar_totales).to be(221)
+        end
+
+        it "Verificando población por provincia sumando sus cantones respectivos.." do
+          Cifras.poblaciones.each_pair do |provincia, poblacion_esperada|    
+            datos.poblacion_total_de(provincia) do |total|
+              expect(total).to be(poblacion_esperada)
+            end
+          end
         end
       end
     end
