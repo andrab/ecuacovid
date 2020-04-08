@@ -10,19 +10,26 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 # Información
 
-Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos` [[aquí](datos_crudos/)]. Contienen los siguientes campos:
+Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos` [aquí](datos_crudos/). Contienen los siguientes campos:
 
-Muertes (`provincia`, `total`, `created_at`) donde:
+Muertes (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
+* `poblacion` = La población total
 * `total` = El total número de muertes
+* `lat` = Latitud
+* `lng` = Longitud
 * `created_at` = La fecha del registro
 
-Positivas (`provincia`, `canton`, `total`, `created_at`) donde:
+Positivas (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
+* `provincia_poblacion` = La población total
 * `canton` = El nombre del canton
-* `total` = El total número de casos positivos
+* `canton_poblacion` = La población total
+* `total` = El número de casos positivos
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
 * `created_at` = La fecha del registro
 
 # ¿Por qué debo confiar en la precisión de estos datos?
