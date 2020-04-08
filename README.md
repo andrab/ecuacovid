@@ -12,7 +12,7 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos` [aquí](datos_crudos/). Contienen los siguientes campos:
 
-muertes.csv (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
+[muertes.csv](datos_crudos/muertes.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `poblacion` = La población total
@@ -21,7 +21,7 @@ muertes.csv (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) dond
 * `lng` = Longitud
 * `created_at` = La fecha del registro
 
-positivas.csv (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
+[positivas.csv](datos_crudos/positivas.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `provincia_poblacion` = La población total
@@ -36,10 +36,10 @@ positivas.csv (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`,
 
 Adicionalmente a los archivos incluímos códigos INEC de referencia adicionales, son:
 
-muertes.inec.csv (`inec_provincia_id`) donde:
+[muertes.inec.csv](datos_crudos/muertes.inec.csv):
 * `inec_provincia_id` = Código de referencia de la provincia
 
-positivas.inec.csv (`inec_provincia_id`, `inec_canton_id`) donde
+[positivas.inec.csv](datos_crudos/positivas.inec.csv):
 * `inec_provincia_id` = Código de referencia de la provincia
 * `inec_canton_id` = Código de referencia de cantón
 
