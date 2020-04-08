@@ -10,7 +10,7 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 # Información
 
-Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`, `.json`). Puedes ver los archivos en `datos_crudos` [aquí](datos_crudos/). Contienen los siguientes campos:
+Por el momento se proporcionan los casos positivos y muertes en formatos csv y json. Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen los siguientes campos:
 
 [muertes.csv](datos_crudos/muertes.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -32,9 +32,9 @@ Por el momento se proporcionan los casos positivos y muertes en formatos (`.csv`
 * `lng` = Longitud de cantón
 * `created_at` = La fecha del registro
 
-## Instituto Nacional de Estadística y Censos 
+## Instituto Nacional de Estadística y Censos (INEC)
 
-Adicionalmente a los archivos incluímos códigos INEC de referencia adicionales, son:
+Incluímos también los mismos datos con campos adicionales del INEC, son:
 
 [muertes.inec.csv](datos_crudos/muertes.inec.csv):
 * `inec_provincia_id` = Código de referencia de la provincia
