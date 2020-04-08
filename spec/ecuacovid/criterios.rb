@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_041_10H   ,"05/04/2020",       {casos: 3646, cantones_ingresados: 130,   cantones_sin_ingresar:  91}],
+      [[  :SNGRE_042_10H   ,"06/04/2020",       {casos: 3747, cantones_ingresados: 135,   cantones_sin_ingresar:  86}],
+       [  :SNGRE_041_10H   ,"05/04/2020",       {casos: 3646, cantones_ingresados: 130,   cantones_sin_ingresar:  91}],
        [  :SNGRE_040_10H   ,"04/04/2020",       {casos: 3465, cantones_ingresados: 130,   cantones_sin_ingresar:  91}],
        [  :SNGRE_039_10H   ,"03/04/2020",       {casos: 3368, cantones_ingresados: 128,   cantones_sin_ingresar:  93}],
        [  :SNGRE_038_10H   ,"02/04/2020",       {casos: 3163, cantones_ingresados: 126,   cantones_sin_ingresar:  95}],
@@ -30,7 +31,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION───────────────────────────────────────────┬"
-      [[  :SNGRE_041_10H   ,"05/04/2020", {muertes:  180, provincias_ingresadas:  16,   provincias_sin_ingresar:   8}],
+      [[  :SNGRE_042_10H   ,"06/04/2020", {muertes:  191, provincias_ingresadas:  16,   provincias_sin_ingresar:   8}],
+       [  :SNGRE_041_10H   ,"05/04/2020", {muertes:  180, provincias_ingresadas:  16,   provincias_sin_ingresar:   8}],
        [  :SNGRE_040_10H   ,"04/04/2020", {muertes:  172, provincias_ingresadas:  16,   provincias_sin_ingresar:   8}],
        [  :SNGRE_039_10H   ,"03/04/2020", {muertes:  145, provincias_ingresadas:  14,   provincias_sin_ingresar:  10}],
        [  :SNGRE_038_10H   ,"02/04/2020", {muertes:  120, provincias_ingresadas:  13,   provincias_sin_ingresar:  11}],
