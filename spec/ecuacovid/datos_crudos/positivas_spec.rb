@@ -4,7 +4,7 @@ require_relative "../support/caso"
 class PositivasTest
   include Caso
 
-  def initialize(source = "positivas.csv")
+  def initialize(source = "positivas/cantones.csv")
     @source = File.join(DIRECTORY, source)
   end
 
@@ -57,7 +57,8 @@ class PositivasTest
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
                " | group-by provincia "\
-               " | get \"#{provincia}\".canton_poblacion "\
+               " | get \"#{provincia}\" "\
+               " | get canton_poblacion "\
                " | sum "\
                " | echo $it"
     probar!(&block)
