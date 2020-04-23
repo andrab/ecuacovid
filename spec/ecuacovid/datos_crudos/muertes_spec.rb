@@ -57,7 +57,7 @@ describe "Muertes registradas" do
 
     nombre, numero, hora = de_informe.to_s.split('_')
     ruta = File.join(
-      File.expand_path('../../../../informes/', __FILE__),
+      File.expand_path('../../../../informes/SNGRE/', __FILE__),
       [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
     )
 
