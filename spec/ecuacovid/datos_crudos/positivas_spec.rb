@@ -95,10 +95,10 @@ describe "Casos Positivos" do
       ingresados_totales =  spec[:cantones_ingresados]
       sin_ingresar_totales = spec[:cantones_sin_ingresar]
 
-      nombre, numero, hora = de_informe.to_s.split('_')
+      _, numero, hora = de_informe.to_s.split('_')
       ruta = File.join(
-        File.expand_path('../../../../informes/SNGRE', __FILE__),
-        [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
+        File.expand_path('../../../../informes/SGNRE/', __FILE__),
+        [numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
       )
 
       context "informe: #{ruta}..." do

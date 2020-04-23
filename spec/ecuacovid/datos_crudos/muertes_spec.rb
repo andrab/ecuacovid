@@ -55,10 +55,10 @@ describe "Muertes registradas" do
     ingresadas_totales =  spec[:provincias_ingresadas]
     sin_ingresar_totales = spec[:provincias_sin_ingresar]
 
-    nombre, numero, hora = de_informe.to_s.split('_')
+    _, numero, hora = de_informe.to_s.split('_')
     ruta = File.join(
       File.expand_path('../../../../informes/SNGRE/', __FILE__),
-      [nombre, numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
+      [numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
     )
 
     context "informe: #{ruta}..." do
