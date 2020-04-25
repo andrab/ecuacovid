@@ -80,6 +80,46 @@ class Criterios
        [  :SNGRE_027_17H   ,"27/03/2020", {muertes:   41, provincias_ingresadas:   9,   provincias_sin_ingresar:  15}],
        [  :SNGRE_025_17H   ,"26/03/2020", {muertes:   34, provincias_ingresadas:   7,   provincias_sin_ingresar:  17}]]
     end
+
+    def muertes_probables
+      #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
+      [#[  :SNGRE_060_08H   ,"24/04/2020", {probables: 1060, total: 1636}],
+       [  :SNGRE_059_08H   ,"23/04/2020", {probables: 1028, total: 1588}],
+       [  :SNGRE_058_08H   ,"22/04/2020", {probables:  952, total: 1489}],
+       [  :SNGRE_057_08H   ,"21/04/2020", {probables:  902, total: 1422}],
+       [  :SNGRE_056_08H   ,"20/04/2020", {probables:  826, total: 1333}],
+       [  :SNGRE_055_08H   ,"19/04/2020", {probables:  817, total: 1291}],
+       [  :SNGRE_054_08H   ,"18/04/2020", {probables:  731, total: 1187}],
+       [  :SNGRE_053_08H   ,"17/04/2020", {probables:  675, total: 1096}],
+       [  :SNGRE_052_08H   ,"16/04/2020", {probables:  632, total: 1035}],
+       [  :SNGRE_051_08H   ,"15/04/2020", {probables:  582, total:  970}],
+       [  :SNGRE_050_08H   ,"14/04/2020", {probables:  436, total:  805}],
+       [  :SNGRE_049_08H   ,"13/04/2020", {probables:  424, total:  779}],
+       [  :SNGRE_048_07H   ,"12/04/2020", {probables:  384, total:  717}],
+       [  :SNGRE_047_07H   ,"11/04/2020", {probables:  338, total:  653}],
+       [  :SNGRE_046_07H   ,"10/04/2020", {probables:  311, total:  608}],
+       [  :SNGRE_045_07H   ,"09/04/2020", {probables:  284, total:  556}],
+       [  :SNGRE_044_17H   ,"08/04/2020", {probables:  240, total:  482}],
+       [  :SNGRE_043_10H   ,"07/04/2020", {probables:  182, total:  402}],
+       [  :SNGRE_042_10H   ,"06/04/2020", {probables:  173, total:  364}],
+       [  :SNGRE_041_10H   ,"05/04/2020", {probables:  159, total:  339}],
+       [  :SNGRE_040_10H   ,"04/04/2020", {probables:  146, total:  318}],
+       [  :SNGRE_039_10H   ,"03/04/2020", {probables:  101, total:  246}],
+       [  :SNGRE_038_17H   ,"02/04/2020", {probables:   78, total:  198}],
+       [  :SNGRE_037_17H   ,"01/04/2020", {probables:   76, total:  174}],
+       [  :SNGRE_035_17H   ,"31/03/2020", {probables:    0, total:   79}],
+       [  :SNGRE_033_17H   ,"30/03/2020", {probables:    0, total:   62}],
+       [  :SNGRE_031_10H   ,"29/03/2020", {probables:    0, total:   58}],
+       [  :SNGRE_029_17H   ,"28/03/2020", {probables:    0, total:   48}],
+       [  :SNGRE_027_17H   ,"27/03/2020", {probables:    0, total:   41}],
+       [  :SNGRE_025_17H   ,"26/03/2020", {probables:    0, total:   34}]]
+    end
+
+    def con_muertes_probables
+      muertes.map.each_with_index do |(de_informe, fecha, spec), idx|
+        [de_informe, fecha, spec.merge(muertes_probables[idx].last)]
+      end
+    end
     
     def para(tema)
       self.send(tema)

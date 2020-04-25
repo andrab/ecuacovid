@@ -10,7 +10,31 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 # Información
 
-Por el momento se proporcionan los casos positivos y muertes en formatos csv y json. Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
+Por el momento se proporcionan los casos positivos, muertes, y muertes probables en formatos csv y json. Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
+
+[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) (`muertes`, `muertes_probables`, `total_muertes`, `positivas`, `negativas`, `created_at`) donde:
+
+* `muertes` = El total de muertes
+* `muertes_probables` = El total de muertes probables
+* `total_muertes` = El total de muertes más el total de las muertes probables
+* `positivas` = El total de casos positivos
+* `negativas` = El total de casos negativos
+* `created_at` = La fecha del registro
+
+[ecuacovid-muertes_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-muertes_por_fecha.csv) (`pais`, `fechas por día`) donde:
+
+* `pais` = Ecuador
+* `fechas por día` = todas las fechas por día
+
+[ecuacovid-con-muertes-probables_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-con-muertes-probables_por_fecha.csv) (`pais`, `fechas por día`) donde:
+
+* `pais` = Ecuador
+* `fechas por día` = todas las fechas por día
+
+[ecuacovid-positivas_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_fecha.csv) (`pais`, `fechas por día`) donde:
+
+* `pais` = Ecuador
+* `fechas por día` = todas las fechas por día
 
 [muertes/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/provincias.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
