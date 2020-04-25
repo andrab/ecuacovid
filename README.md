@@ -61,6 +61,15 @@ Por el momento se proporcionan los casos positivos y muertes en formatos csv y j
 * `lng` = Longitud de cantón
 * `created_at` = La fecha del registro
 
+[positivas/provincias_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias_por_fecha.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+
+* `provincia` = El nombre de la provincia
+* `poblacion` = La población total
+* `total` = El número de casos positivos
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
+* `fechas por día` = todas las fechas por día
+
 ## Instituto Nacional de Estadística y Censos (INEC)
 
 Incluímos también los mismos datos con campos adicionales del INEC, son:
@@ -80,6 +89,9 @@ Incluímos también los mismos datos con campos adicionales del INEC, son:
 * `inec_canton_id` = Código de referencia de cantón
 
 [positivas/provincias.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias.inec.csv):
+* `inec_provincia_id` = Código de referencia de la provincia
+
+[positivas/provincias_por_fecha.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias_por_fecha.inec.csv):
 * `inec_provincia_id` = Código de referencia de la provincia
 
 # ¿Por qué debo confiar en la precisión de estos datos?
