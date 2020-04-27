@@ -81,6 +81,18 @@ class Criterios
        [  :SNGRE_025_17H   ,"26/03/2020", {muertes:   34, provincias_ingresadas:   7,   provincias_sin_ingresar:  17}]]
     end
 
+    def defunciones
+      #"───INFORME  RCIVIL───┬───FECHA────┬─────────ACEPTACION───────────┬"
+      [[  :RCIV_23_04_2020  ,"23/04/2020", {muertes: 108                }],
+       [  :RCIV_23_04_2020  ,"22/04/2020", {muertes: 263                }],
+       [  :RCIV_23_04_2020  ,"21/04/2020", {muertes: 346                }],
+       [  :RCIV_23_04_2020  ,"20/04/2020", {muertes: 400                }],
+       [  :RCIV_23_04_2020  ,"19/04/2020", {muertes: 407                }],
+       [  :RCIV_23_04_2020  ,"18/04/2020", {muertes: 347                }],
+       [  :RCIV_23_04_2020  ,"17/04/2020", {muertes: 409                }],
+       [  :RCIV_23_04_2020  ,"16/04/2020", {muertes: 439                }]]
+    end
+
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
       [#[  :SNGRE_060_08H   ,"24/04/2020", {probables: 1060, total: 1636}],

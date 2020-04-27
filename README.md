@@ -6,11 +6,11 @@
 
 # Ecuacovid
 
-Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de los informes](fuentes/) de la situación nacional frente a la Emergencia Sanitaria por el COVID-19 del Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador ([SNGRE](https://www.gestionderiesgos.gob.ec)).
+Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de los informes](informes/) de la situación nacional frente a la Emergencia Sanitaria por el COVID-19 del Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador (SNGRE), Ministerio de Salud Pública del Ecuador (MSP), y Registro Civil del Ecuador.
 
 # Información
 
-Por el momento se proporcionan los casos positivos, muertes, y muertes probables en formatos csv y json. Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
+Por el momento se proporcionan los casos positivos, muertes, muertes probables, y defunciones en formatos csv y json. Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
 
 [ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) (`muertes`, `muertes_probables`, `total_muertes`, `positivas`, `negativas`, `created_at`) donde:
 
@@ -52,6 +52,46 @@ Por el momento se proporcionan los casos positivos, muertes, y muertes probables
 * `total` = El total número de muertes
 * `lat` = Latitud
 * `lng` = Longitud
+* `fechas por día` = todas las fechas por día
+
+[defunciones/cantones.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
+
+* `provincia` = El nombre de la provincia
+* `provincia_poblacion` = La población total
+* `canton` = El nombre del canton
+* `canton_poblacion` = La población total
+* `total` = El número de defunciones
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
+* `created_at` = La fecha del registro
+
+[defunciones/cantones_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones_por_fecha.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+
+* `provincia` = El nombre de la provincia
+* `provincia_poblacion` = La población total
+* `canton` = El nombre del canton
+* `canton_poblacion` = La población total
+* `total` = El número de defunciones
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
+* `fechas por día` = todas las fechas por día
+
+[defunciones/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
+
+* `provincia` = El nombre de la provincia
+* `poblacion` = La población total
+* `total` = El número de defunciones
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
+* `created_at` = La fecha del registro
+
+[defunciones/provincias_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias_por_fecha.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+
+* `provincia` = El nombre de la provincia
+* `poblacion` = La población total
+* `total` = El número de defunciones
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
 * `fechas por día` = todas las fechas por día
 
 [positivas/cantones.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/cantones.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
@@ -102,6 +142,20 @@ Incluímos también los mismos datos con campos adicionales del INEC, son:
 * `inec_provincia_id` = Código de referencia de la provincia
 
 [muertes/por_fecha.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/por_fecha.inec.csv):
+* `inec_provincia_id` = Código de referencia de la provincia
+
+[defunciones/cantones.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.inec.csv):
+* `inec_provincia_id` = Código de referencia de la provincia
+* `inec_canton_id` = Código de referencia de cantón
+
+[defunciones/cantones_por_fecha.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones_por_fecha.inec.csv):
+* `inec_provincia_id` = Código de referencia de la provincia
+* `inec_canton_id` = Código de referencia de cantón
+
+[defunciones/provincias.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.inec.csv):
+* `inec_provincia_id` = Código de referencia de la provincia
+
+[defunciones/provincias_por_fecha.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias_por_fecha.inec.csv):
 * `inec_provincia_id` = Código de referencia de la provincia
 
 [positivas/cantones.inec.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/cantones.inec.csv):
