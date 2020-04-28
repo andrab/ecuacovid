@@ -52,10 +52,10 @@ describe "Casos Positivos" do
       sin_ingresar_totales = spec[:cantones_sin_ingresar]
 
       _, numero, hora = de_informe.to_s.split('_')
-      ruta = File.join(
+      ruta =  numero != "SIN" ? File.join(
         File.expand_path('../../../../informes/SGNRE/', __FILE__),
         [numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
-      )
+      ) : "No hubo informe publicado para #{fecha.gsub('/', '_')}"
 
       context "informe: #{ruta}..." do
         datos = PositivasTest.para(fecha)

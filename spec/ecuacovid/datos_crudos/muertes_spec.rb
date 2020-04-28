@@ -50,7 +50,7 @@ describe "Muertes registradas" do
   require_relative "../criterios"
   require_relative "../cifras"
 
-  Criterios.para(:muertes).each do |(de_informe, fecha, spec)|
+  Criterios.para(:muertes)[4..].each do |(de_informe, fecha, spec)|
     muertes_totales = spec[:muertes]
     ingresadas_totales =  spec[:provincias_ingresadas]
     sin_ingresar_totales = spec[:provincias_sin_ingresar]

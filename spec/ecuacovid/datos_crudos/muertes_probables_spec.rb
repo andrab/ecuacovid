@@ -26,10 +26,10 @@ describe "Muertes Probables registradas" do
     total_esperadas = spec[:total] + spec[:probables] + spec[:muertes]
 
     _, numero, hora = de_informe.to_s.split('_')
-    ruta = File.join(
-      File.expand_path('../../../../informes/SNGRE/', __FILE__),
+    ruta =  numero != "SIN" ? File.join(
+      File.expand_path('../../../../informes/SGNRE/', __FILE__),
       [numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
-    )
+    ) : "No hubo informe publicado para #{fecha.gsub('/', '_')}"
 
     context "informe: #{ruta}..." do
       datos = MuertesProbablesTest.para(fecha)
