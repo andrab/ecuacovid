@@ -49,15 +49,16 @@ describe "Defunciones del Registro Civil" do
     Criterios.para(:defunciones).each do |(de_informe, fecha, spec)|
       totales = spec[:muertes]
 
+      _, dia, mes, _ = de_informe.to_s.split('_')
       ruta = File.join(
         File.expand_path('../../../../informes/RCIV/', __FILE__),
-        "#{fecha.gsub('/', '_')}.pdf"
+        "#{dia}_#{mes}_2020.pdf"
       )
 
       context "informe: #{ruta}..." do
         datos = DefuncionesTest.para(fecha)
           
-        it "Verificando casos.." do
+        it "Verificando casos del #{fecha}.." do
           datos.casos do |total|
             expect(total).to be(totales)
           end

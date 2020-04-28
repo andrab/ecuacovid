@@ -54,7 +54,7 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `lng` = Longitud
 * `fechas por día` = todas las fechas por día
 
-[defunciones/cantones.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
+[defunciones/cantones.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.json)] (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `provincia_poblacion` = La población total
@@ -63,9 +63,9 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `created_at` = La fecha del registro
+* `created_at` = La fecha del registro **hasta el 26 de Abril**
 
-[defunciones/cantones_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones_por_fecha.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+[defunciones/cantones_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones_por_fecha.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones_por_fecha.json)] (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
 * `provincia` = El nombre de la provincia
 * `provincia_poblacion` = La población total
@@ -74,25 +74,25 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `fechas por día` = todas las fechas por día
+* `fechas por día` = todas las fechas por día **hasta el 26 de Abril**
 
-[defunciones/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
-
-* `provincia` = El nombre de la provincia
-* `poblacion` = La población total
-* `total` = El número de defunciones
-* `lat` = Latitud de cantón
-* `lng` = Longitud de cantón
-* `created_at` = La fecha del registro
-
-[defunciones/provincias_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias_por_fecha.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+[defunciones/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
 * `provincia` = El nombre de la provincia
 * `poblacion` = La población total
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `fechas por día` = todas las fechas por día
+* `created_at` = La fecha del registro por día **hasta el 26 de Abril**
+
+[defunciones/provincias_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias_por_fecha.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias_por_fecha.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+
+* `provincia` = El nombre de la provincia
+* `poblacion` = La población total
+* `total` = El número de defunciones
+* `lat` = Latitud de cantón
+* `lng` = Longitud de cantón
+* `fechas por día` = todas las fechas por día **hasta el 26 de Abril**
 
 [positivas/cantones.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/cantones.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
