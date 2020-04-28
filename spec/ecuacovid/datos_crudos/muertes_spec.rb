@@ -50,7 +50,7 @@ describe "Muertes registradas" do
   require_relative "../criterios"
   require_relative "../cifras"
 
-  Criterios.para(:muertes)[4..].each do |(de_informe, fecha, spec)|
+  Criterios.para(:muertes).each do |(de_informe, fecha, spec)|
     muertes_totales = spec[:muertes]
     ingresadas_totales =  spec[:provincias_ingresadas]
     sin_ingresar_totales = spec[:provincias_sin_ingresar]
@@ -70,29 +70,31 @@ describe "Muertes registradas" do
         end
       end
 
-      it "Verificando provincias con información.." do
-        datos.provincias_ingresadas do |total|
-          expect(total).to be(ingresadas_totales)
-        end
-      end 
+      lambda do
+        it "Verificando provincias con información.." do
+          datos.provincias_ingresadas do |total|
+            expect(total).to be(ingresadas_totales)
+          end
+        end 
 
-      it "Verificando provincias sin información.." do
-        datos.provincias_sin_ingresar do |total|
-          expect(total).to be(sin_ingresar_totales)
-        end
-      end
-
-      it "Verificando que todas los provincias existen.." do
-        expect(ingresadas_totales + sin_ingresar_totales).to be(24)
-      end
-
-      it "Verificando población por provincia.." do
-        Cifras.poblaciones.each_pair do |provincia, poblacion_esperada| 
-          datos.poblacion_total_de(provincia) do |total|
-            expect(total).to be(poblacion_esperada)
+        it "Verificando provincias sin información.." do
+          datos.provincias_sin_ingresar do |total|
+            expect(total).to be(sin_ingresar_totales)
           end
         end
-      end
+
+        it "Verificando que todas los provincias existen.." do
+          expect(ingresadas_totales + sin_ingresar_totales).to be(24)
+        end
+
+        it "Verificando población por provincia.." do
+          Cifras.poblaciones.each_pair do |provincia, poblacion_esperada| 
+            datos.poblacion_total_de(provincia) do |total|
+              expect(total).to be(poblacion_esperada)
+            end
+          end
+        end
+      end.call if ingresadas_totales
     end
   end
 end
