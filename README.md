@@ -26,12 +26,12 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `pais` = Ecuador
 * `fechas por día` = todas las fechas por día **hasta el 27 de Abril**
 
-[ecuacovid-con-muertes-probables_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-con-muertes-probables_por_fecha.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-con-muertes-probables_por_fecha.json)] (`pais`, `fechas por día`) donde:
+[ecuacovid-con-muertes-probables_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-con-muertes-probables_por_fecha.csv) (`pais`, `fechas por día`) donde:
 
 * `pais` = Ecuador
 * `fechas por día` = todas las fechas por día **hasta el 27 de Abril**
 
-[ecuacovid-positivas_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_fecha.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_fecha.json)] (`pais`, `fechas por día`) donde:
+[ecuacovid-positivas_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_fecha.csv) (`pais`, `fechas por día`) donde:
 
 * `pais` = Ecuador
 * `fechas por día` = todas las fechas por día **hasta el 27 de Abril**
