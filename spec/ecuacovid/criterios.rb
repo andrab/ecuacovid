@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_062_08H   ,"28/04/2020",       {casos: 15728                                                        }],
+      [[  :SNGRE_063_08H   ,"29/04/2020",       {casos: 16145                                                        }],
+       [  :SNGRE_062_08H   ,"28/04/2020",       {casos: 15728                                                        }],
        [  :SNGRE_061_08H   ,"27/04/2020",       {casos: 15004                                                        }],
        [  :_SIN_INPORME_   ,"26/04/2020",       {casos: 22719                                                        }],
        [  :_SIN_INPORME_   ,"25/04/2020",       {casos: 22719                                                        }],
@@ -53,7 +54,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_062_08H   ,"28/04/2020", {muertes:  871                                                            }],
+      [[  :SNGRE_063_08H   ,"29/04/2020", {muertes:  883                                                            }],
+       [  :SNGRE_062_08H   ,"28/04/2020", {muertes:  871                                                            }],
        [  :SNGRE_061_08H   ,"27/04/2020", {muertes:  663                                                            }],
        #───────────────────┬────────────┬────────────────────────────────────────────────────────────────────────────┬
        #[  :_SIN_INPORME   ,"26/04/2020",                                                              muertes:  576}|
@@ -110,7 +112,8 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_062_08H   ,"28/04/2020", {probables: 1212, total: 2083}],
+      [[  :SNGRE_063_08H   ,"29/04/2020", {probables: 1357, total: 2240}],
+       [  :SNGRE_062_08H   ,"28/04/2020", {probables: 1212, total: 2083}],
        [  :SNGRE_061_08H   ,"27/04/2020", {probables: 1138, total: 1801}],
       #[  :_SIN_INPORME_   ,"26/04/2020", {probables: 1060, total: 1636}],
       #[  :_SIN_INPORME_   ,"25/04/2020", {probables: 1060, total: 1636}],
