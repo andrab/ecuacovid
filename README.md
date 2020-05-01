@@ -63,7 +63,7 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `created_at` = La fecha del registro **hasta el 28 de Abril**
+* `created_at` = La fecha del registro **hasta el 29 de Abril**
 
 [defunciones/cantones_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones_por_fecha.csv) (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -74,7 +74,7 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `fechas por día` = todas las fechas por día **hasta el 28 de Abril**
+* `fechas por día` = todas las fechas por día **hasta el 29 de Abril**
 
 [defunciones/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -83,7 +83,7 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `created_at` = La fecha del registro por día **hasta el 28 de Abril**
+* `created_at` = La fecha del registro por día **hasta el 29 de Abril**
 
 [defunciones/provincias_por_fecha.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias_por_fecha.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -92,7 +92,7 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `total` = El número de defunciones
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `fechas por día` = todas las fechas por día **hasta el 28 de Abril**
+* `fechas por día` = todas las fechas por día **hasta el 29 de Abril**
 
 [positivas/cantones-hasta-23_04_2020.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/cantones-hasta-23_04_2020.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/cantones-hasta-23_04_2020.json)] (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
