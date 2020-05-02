@@ -4,8 +4,12 @@ require_relative "../support/caso"
 class PositivasTest
   include Caso
 
-  def initialize(source = "positivas/provincias.csv")
+  def initialize(source = "positivas/cantones.csv")
     @source = File.join(DIRECTORY, source)
+  end
+
+  def usar_provincias!
+    @source = File.join(DIRECTORY, "positivas/provincias.csv")
   end
 
   def casos(&block)
@@ -17,6 +21,11 @@ class PositivasTest
     probar!(&block)
   end
 
+  def cantones(&block)
+    @command = "open #{@source} | where created_at == #{@fecha} | count | echo $it"
+    probar!(&block)
+  end
+
   def provincias(&block)
     @command = "open #{@source} "\
                ' | format "{provincia}-{created_at}"'\
@@ -24,6 +33,37 @@ class PositivasTest
                " | group-by sujeto "\
                " | pivot "\
                " | count "\
+               " | echo $it"
+    probar!(&block)
+  end
+
+  def cantones_ingresados(&block)
+    @command = "open #{@source}                  "\
+               " | where created_at == #{@fecha} "\
+               " | where total > 0 "\
+               " | get canton "\
+               " | count "\
+               " | echo $it"
+    probar!(&block)
+  end
+
+  def cantones_sin_ingresar(&block)
+    @command = "open #{@source} "\
+               " | where created_at == #{@fecha} "\
+               " | where total == 0 "\
+               " | get canton "\
+               " | count "\
+               " | echo $it"
+    probar!(&block)
+  end
+
+  def poblacion_total_de(provincia, &block)
+    @command = "open #{@source} "\
+               " | where created_at == #{@fecha} "\
+               " | group-by provincia "\
+               " | get \"#{provincia}\" "\
+               " | get canton_poblacion "\
+               " | sum "\
                " | echo $it"
     probar!(&block)
   end
@@ -59,12 +99,40 @@ describe "Casos Positivos" do
 
       context "informe: #{ruta}..." do
         datos = PositivasTest.para(fecha)
+
+        datos.usar_provincias! if not ingresados_totales
           
         it "Verificando casos.." do
           datos.casos do |total|
             expect(total).to be(casos_totales)
           end
         end
+
+        lambda do
+          it "Verificando cantones con información.." do
+            datos.cantones_ingresados do |total|
+              expect(total).to be(ingresados_totales)
+            end
+          end 
+ 
+          it "Verificando cantones sin información.." do
+            datos.cantones_sin_ingresar do |total|
+              expect(total).to be(sin_ingresar_totales)
+            end
+          end
+ 
+          it "Verificando que todos los cantones existen.." do
+            expect(ingresados_totales + sin_ingresar_totales).to be(221)
+          end
+ 
+          it "Verificando población por provincia sumando sus cantones respectivos.." do
+            Cifras.poblaciones.each_pair do |provincia, poblacion_esperada|    
+              datos.poblacion_total_de(provincia) do |total|
+                expect(total).to be(poblacion_esperada)
+              end
+            end
+          end
+        end.call if ingresados_totales
       end
     end
   end

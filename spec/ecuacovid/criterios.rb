@@ -2,8 +2,10 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_063_08H   ,"29/04/2020",       {casos: 16145                                                        }],
-       [  :SNGRE_062_08H   ,"28/04/2020",       {casos: 15728                                                        }],
+      [[  :SNGRE_065_08H   ,"01/05/2020",       {casos: 17806, cantones_ingresados: 185,   cantones_sin_ingresar:  36}],
+       [  :SNGRE_064_08H   ,"30/04/2020",       {casos: 16404, cantones_ingresados: 185,   cantones_sin_ingresar:  36}],
+       [  :SNGRE_063_08H   ,"29/04/2020",       {casos: 16145, cantones_ingresados: 185,   cantones_sin_ingresar:  36}],
+       [  :SNGRE_062_08H   ,"28/04/2020",       {casos: 15728, cantones_ingresados: 184,   cantones_sin_ingresar:  37}],
        [  :SNGRE_061_08H   ,"27/04/2020",       {casos: 15004                                                        }],
        [  :_SIN_INPORME_   ,"26/04/2020",       {casos: 22719                                                        }],
        [  :_SIN_INPORME_   ,"25/04/2020",       {casos: 22719                                                        }],
@@ -54,14 +56,14 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_063_08H   ,"29/04/2020", {muertes:  883                                                            }],
+      [[  :SNGRE_065_08H   ,"01/05/2020", {muertes: 1063                                                            }],
+       [  :SNGRE_064_08H   ,"30/04/2020", {muertes:  900                                                            }],
+       [  :SNGRE_063_08H   ,"29/04/2020", {muertes:  883                                                            }],
        [  :SNGRE_062_08H   ,"28/04/2020", {muertes:  871                                                            }],
        [  :SNGRE_061_08H   ,"27/04/2020", {muertes:  663                                                            }],
-       #───────────────────┬────────────┬────────────────────────────────────────────────────────────────────────────┬
-       #[  :_SIN_INPORME   ,"26/04/2020",                                                              muertes:  576}|
-       #[  :_SIN_INPORME   ,"25/04/2020",                                                              muertes:  576}|                                                           |
-       #[  :SNGRE_060_08H_SIN_PROVINCIA , "24/04/2020",                                                muertes:  576}|           
-       #───────────────────┬────────────┬────────────────────────────────────────────────────────────────────────────┬
+       [  :_SIN_INPORME   ,"26/04/2020",  {muertes:  576                                                            }],
+       [  :_SIN_INPORME   ,"25/04/2020",  {muertes:  576                                                            }], 
+       [  :SNGRE_060_08H_SIN_PROVINCIA , "24/04/2020"   , {                                             muertes: 576}],
        [  :SNGRE_059_08H   ,"23/04/2020", {muertes:  560, provincias_ingresadas:  22,   provincias_sin_ingresar:   2}],
        [  :SNGRE_058_08H   ,"22/04/2020", {muertes:  537, provincias_ingresadas:  22,   provincias_sin_ingresar:   2}],
        [  :SNGRE_057_08H   ,"21/04/2020", {muertes:  520, provincias_ingresadas:  22,   provincias_sin_ingresar:   2}],
@@ -95,30 +97,33 @@ class Criterios
 
     def defunciones
       #"───INFORME  RCIVIL─┬───FECHA────┬──ACEPTACION───┬"
-      [[  :RCIV_29_04_2020 ,"29/04/2020", {muertes:  90}],
-       [  :RCIV_29_04_2020 ,"28/04/2020", {muertes: 263}],
-       [  :RCIV_29_04_2020 ,"27/04/2020", {muertes: 281}],
-       [  :RCIV_29_04_2020 ,"26/04/2020", {muertes: 292}],
-       [  :RCIV_29_04_2020 ,"25/04/2020", {muertes: 319}],
-       [  :RCIV_29_04_2020 ,"24/04/2020", {muertes: 321}],
-       [  :RCIV_29_04_2020 ,"23/04/2020", {muertes: 307}],
-       [  :RCIV_29_04_2020 ,"22/04/2020", {muertes: 351}],
-       [  :RCIV_29_04_2020 ,"21/04/2020", {muertes: 409}],
-       [  :RCIV_29_04_2020 ,"20/04/2020", {muertes: 459}],
-       [  :RCIV_29_04_2020 ,"19/04/2020", {muertes: 446}],
-       [  :RCIV_29_04_2020 ,"18/04/2020", {muertes: 385}],
-       [  :RCIV_29_04_2020 ,"17/04/2020", {muertes: 445}],
-       [  :RCIV_29_04_2020 ,"16/04/2020", {muertes: 468}]]
+      [[  :RCIV_30_04_2020 ,"30/04/2020", {muertes:  91}],
+       [  :RCIV_30_04_2020 ,"29/04/2020", {muertes: 229}],
+       [  :RCIV_30_04_2020 ,"28/04/2020", {muertes: 299}],
+       [  :RCIV_30_04_2020 ,"27/04/2020", {muertes: 299}],
+       [  :RCIV_30_04_2020 ,"26/04/2020", {muertes: 308}],
+       [  :RCIV_30_04_2020 ,"25/04/2020", {muertes: 330}],
+       [  :RCIV_30_04_2020 ,"24/04/2020", {muertes: 330}],
+       [  :RCIV_30_04_2020 ,"23/04/2020", {muertes: 314}],
+       [  :RCIV_30_04_2020 ,"22/04/2020", {muertes: 359}],
+       [  :RCIV_30_04_2020 ,"21/04/2020", {muertes: 413}],
+       [  :RCIV_30_04_2020 ,"20/04/2020", {muertes: 462}],
+       [  :RCIV_30_04_2020 ,"19/04/2020", {muertes: 452}],
+       [  :RCIV_30_04_2020 ,"18/04/2020", {muertes: 389}],
+       [  :RCIV_30_04_2020 ,"17/04/2020", {muertes: 447}],
+       [  :RCIV_30_04_2020 ,"16/04/2020", {muertes: 474}]]
     end
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_063_08H   ,"29/04/2020", {probables: 1357, total: 2240}],
+      [[  :SNGRE_065_08H   ,"01/05/2020", {probables: 1606, total: 2669}],
+       [  :SNGRE_064_08H   ,"30/04/2020", {probables: 1453, total: 2353}],
+       [  :SNGRE_063_08H   ,"29/04/2020", {probables: 1357, total: 2240}],
        [  :SNGRE_062_08H   ,"28/04/2020", {probables: 1212, total: 2083}],
        [  :SNGRE_061_08H   ,"27/04/2020", {probables: 1138, total: 1801}],
-      #[  :_SIN_INPORME_   ,"26/04/2020", {probables: 1060, total: 1636}],
-      #[  :_SIN_INPORME_   ,"25/04/2020", {probables: 1060, total: 1636}],
-      #[  :SNGRE_060_08H   ,"24/04/2020", {probables: 1060, total: 1636}],
+       [  :_SIN_INPORME_   ,"26/04/2020", {probables: 1060, total: 1636}],
+       [  :_SIN_INPORME_   ,"25/04/2020", {probables: 1060, total: 1636}],
+       [  :SNGRE_060_08H   ,"24/04/2020", {probables: 1060, total: 1636}],
        [  :SNGRE_059_08H   ,"23/04/2020", {probables: 1028, total: 1588}],
        [  :SNGRE_058_08H   ,"22/04/2020", {probables:  952, total: 1489}],
        [  :SNGRE_057_08H   ,"21/04/2020", {probables:  902, total: 1422}],
