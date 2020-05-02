@@ -85,7 +85,7 @@ Por el momento se proporcionan los casos positivos, muertes, muertes probables, 
 * `lng` = Longitud de cantón
 * `created_at` = La fecha del registro por día **hasta el 30 de Abril**
 
-[defunciones/provincias/por_fecha/provincias_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/por_fecha/provincias_por_dia.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
+[defunciones/por_fecha/provincias_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/por_fecha/provincias_por_dia.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
 * `provincia` = El nombre de la provincia
 * `poblacion` = La población total
