@@ -8,6 +8,10 @@ class DefuncionesTest
     @source = File.join(DIRECTORY, source)
   end
 
+  def usar_provincias!
+    @source = File.join(DIRECTORY, "defunciones/provincias.csv")
+  end
+
   def casos(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
@@ -31,7 +35,7 @@ end
 
 describe "Defunciones del Registro Civil" do
   context "Todas las fechas" do
-    let(:fechas_totales) { Criterios.para(:defunciones).count }
+    let(:fechas_totales) { Criterios.para(:defunciones).select {|d| d.first.to_s !~ /.+-.+/}.count }
 
     it "Contiene todas las provincias por día" do
       veces = fechas_totales
@@ -49,14 +53,30 @@ describe "Defunciones del Registro Civil" do
     Criterios.para(:defunciones).each do |(de_informe, fecha, spec)|
       totales = spec[:muertes]
 
-      _, dia, mes, _ = de_informe.to_s.split('_')
-      ruta = File.join(
-        File.expand_path('../../../../informes/RCIV/', __FILE__),
-        "#{dia}_#{mes}_2020.pdf"
-      )
+      origen = File.expand_path('../../../../informes/RCIV/', __FILE__)
+      es_individual = de_informe.to_s !~ /.+-.+/
+
+      ruta = if es_individual
+        _, dia, mes, _ = de_informe.to_s.split('_')
+        File.join(
+          origen,
+          "#{dia}_#{mes}_2020.pdf" 
+        )
+      else
+        inicio, fin = de_informe.to_s.split('-')
+        a_dia, a_mes, _ = inicio.split('_')
+        b_dia, b_mes, _ = fin.split('_')
+
+        File.join(
+          origen,
+          "#{a_dia}_#{b_mes}_2020-#{b_dia}_#{b_mes}_2020.pdf" 
+        )
+      end
 
       context "informe: #{ruta}..." do
         datos = DefuncionesTest.para(fecha)
+
+        datos.usar_provincias! if not es_individual
           
         it "Verificando casos del #{fecha}.." do
           datos.casos do |total|
