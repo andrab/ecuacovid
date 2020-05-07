@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_069_08H   ,"06/05/2020",       {casos: 20483, cantones_ingresados: 187,   cantones_sin_ingresar:  34}],
+      [[  :SNGRE_070_08H   ,"07/05/2020",       {casos: 21361, cantones_ingresados: 189,   cantones_sin_ingresar:  32}],
+       [  :SNGRE_069_08H   ,"06/05/2020",       {casos: 20483, cantones_ingresados: 187,   cantones_sin_ingresar:  34}],
        [  :_SIN_INFORME_   ,"05/05/2020",       {casos: 22981, cantones_ingresados: 188,   cantones_sin_ingresar:  33}],
        [  :SNGRE_068_08H   ,"04/05/2020",       {casos: 22981, cantones_ingresados: 188,   cantones_sin_ingresar:  33}],
        [  :SNGRE_067_08H   ,"03/05/2020",       {casos: 20937, cantones_ingresados: 185,   cantones_sin_ingresar:  36}],
@@ -61,7 +62,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_069_08H   ,"06/05/2020", {muertes: 1618, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_070_08H   ,"07/05/2020", {muertes: 1654, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_069_08H   ,"06/05/2020", {muertes: 1618, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :_SIN_INFORME_   ,"05/05/2020", {muertes: 1569                                                            }],
        [  :SNGRE_068_08H   ,"04/05/2020", {muertes: 1569, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_067_08H   ,"03/05/2020", {muertes: 1564, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -166,7 +168,8 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_069_08H   ,"06/05/2020", {probables: 1628, total: 3246}],
+      [[  :SNGRE_070_08H   ,"07/05/2020", {probables: 1705, total: 3359}],
+       [  :SNGRE_069_08H   ,"06/05/2020", {probables: 1628, total: 3246}],
        [  :_SIN_INPORME_   ,"05/05/2020", {probables: 1336, total: 2905}],
        [  :SNGRE_068_08H   ,"04/05/2020", {probables: 1336, total: 2905}],
        [  :SNGRE_067_08H   ,"03/05/2020", {probables: 1312, total: 2876}],
