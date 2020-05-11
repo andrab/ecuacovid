@@ -12,18 +12,18 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
 
-[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muertes`, `muertes_probables`, `total_muertes`, `recuperadas`, `positivas`, `pcr_positivas` `rapidas_positivas`, `negativas`, `muestras`, `estables_aisladas_domiciliarias`, `hospitalizadas_estables`, `hospitalizadas_pronostico_reservadas`, `created_at`) donde:
+[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muertes`, `muertes_probables`, `total_muertes`, `positivas`, `pcr_positivas` `rapidas_positivas`, `negativas`, `muestras`, `estables_aisladas_domiciliarias`, `hospitalizadas_altas`, `hospitalizadas_estables`, `hospitalizadas_pronostico_reservadas`, `created_at`) donde:
 
 * `muertes` = El total de muertes
 * `muertes_probables` = El total de muertes probables
 * `total_muertes` = El total de muertes más el total de las muertes probables
-* `recuperadas` = El total de recuperados (alta hospitalitaria)
 * `positivas` = El total de casos positivos
 * `pcr_positivas` = El total de casos positivos de pruebas PCR
 * `rapidas_positivas` = El total de casos positivos de pruebas rápidas
 * `negativas` = El total de casos negativos
 * `muestras` = El total de muestras tomadas
 * `estables_aisladas_domiciliarias` = El total de personas estables en aislamiento domiciliario
+* `hospitalizadas_altas` = El total de altas hospitalitaria
 * `hospitalizadas_estables` = El total de hospitalizados estables
 * `hospitalizadas_pronostico_reservadas` = El total de hospitalizados con pronóstico reservado
 * `created_at` = La fecha del registro **hasta 10 de Mayo**
