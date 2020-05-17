@@ -38,10 +38,26 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `informacion` = Información del total calculado (total confirmados, PCR, y rápidas)
 * `fechas por día` = todas las fechas por día **hasta 16 de Mayo**
 
-[ecuacovid-hospitalizadas_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-hospitalizadas_por_dia.csv) (`informacion`, `fechas por día`) donde:
+[coronavirusecuador.com/ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/coronavirusecuador.com/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/coronavirusecuador.com/ecuacovid.json)] (`muertes`, `muertes_probables`,`total_muertes`, `sospechas`, `pcr_positivas`, `pcr_negativas`, `created_at`) donde:
 
-* `informacion` = Información del total calculado (total altas hospitalitaria, estables, y pronóstico reservado)
-* `fechas por día` = todas las fechas por día **hasta 16 de Mayo**
+* `muertes` = El total de muertes
+* `muertes_probables` = El total de muertes probables
+* `total_muertes` = El total de muertes más el total de las muertes probables
+* `sospechas` = El total de casos sospechosos
+* `pcr_positivas` = El total de casos positivos de pruebas PCR
+* `pcr_negativas` = El total de casos negativos de pruebas PCR
+* `muestras` = El total de muestras tomadas
+* `created_at` = La fecha del registro **hasta 14 de Mayo**
+
+[coronavirusecuador.com/ecuacovid-muertes_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/coronavirusecuador.com/ecuacovid-muertes_por_dia.csv) (`informacion`, `fechas por día`) donde:
+
+* `informacion` = Tipo de muerte (total muertes, muertes, y muertes probables)
+* `fechas por día` = Todas las fechas por día **hasta 14 de Mayo**
+
+[coronavirusecuador.com/ecuacovid-positivas_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/coronavirusecuador.com/ecuacovid-positivas_por_dia.csv) (`informacion`, `fechas por día`) donde:
+
+* `informacion` = Información del total calculado (total PCR)
+* `fechas por día` = todas las fechas por día **hasta 14 de Mayo**
 
 [muertes/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
