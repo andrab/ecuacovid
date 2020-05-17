@@ -2,7 +2,7 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_079_08H   ,"16/05/2020",       {casos: 23786, cantones_ingresados: 193,   cantones_sin_ingresar:  28}],
+      [[  :SNGRE_079_08H   ,"16/05/2020",       {casos: 23786, cantones_ingresados: 194,   cantones_sin_ingresar:  27}],
        [  :SNGRE_078_08H   ,"15/05/2020",       {casos: 22530, cantones_ingresados: 193,   cantones_sin_ingresar:  28}],
        [  :SNGRE_077_08H   ,"14/05/2020",       {casos: 21565, cantones_ingresados: 192,   cantones_sin_ingresar:  29}],
        [  :SNGRE_076_08H   ,"13/05/2020",       {casos: 21549, cantones_ingresados: 192,   cantones_sin_ingresar:  29}],
