@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_085_08H   ,"22/05/2020",       {casos: 26872, cantones_ingresados: 199,   cantones_sin_ingresar:  22}],
+      [[  :SNGRE_086_08H   ,"23/05/2020",       {casos: 27302, cantones_ingresados: 199,   cantones_sin_ingresar:  22}],
+       [  :SNGRE_085_08H   ,"22/05/2020",       {casos: 26872, cantones_ingresados: 199,   cantones_sin_ingresar:  22}],
        [  :SNGRE_084_08H   ,"21/05/2020",       {casos: 26350, cantones_ingresados: 199,   cantones_sin_ingresar:  22}],
        [  :SNGRE_083_08H   ,"20/05/2020",       {casos: 25898, cantones_ingresados: 197,   cantones_sin_ingresar:  24}],
        [  :SNGRE_082_08H   ,"19/05/2020",       {casos: 25195, cantones_ingresados: 196,   cantones_sin_ingresar:  25}],
@@ -77,7 +78,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_085_08H   ,"22/05/2020", {muertes: 3056, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_086_08H   ,"23/05/2020", {muertes: 3096, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_085_08H   ,"22/05/2020", {muertes: 3056, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_084_08H   ,"21/05/2020", {muertes: 2939, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_083_08H   ,"20/05/2020", {muertes: 2888, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_082_08H   ,"19/05/2020", {muertes: 2839, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -208,7 +210,8 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_085_08H   ,"22/05/2020", {probables: 1892, total: 4948}],
+      [[  :SNGRE_086_08H   ,"23/05/2020", {probables: 1986, total: 5082}],
+       [  :SNGRE_085_08H   ,"22/05/2020", {probables: 1892, total: 4948}],
        [  :SNGRE_084_08H   ,"21/05/2020", {probables: 1880, total: 4819}],
        [  :SNGRE_083_08H   ,"20/05/2020", {probables: 1805, total: 4693}],
        [  :SNGRE_082_08H   ,"19/05/2020", {probables: 1692, total: 4531}],
