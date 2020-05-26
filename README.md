@@ -26,17 +26,17 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `hospitalizadas_altas` = El total de altas hospitalitaria
 * `hospitalizadas_estables` = El total de hospitalizados estables
 * `hospitalizadas_pronostico_reservadas` = El total de hospitalizados con pronóstico reservado
-* `created_at` = La fecha del registro **hasta 23 de Mayo**
+* `created_at` = La fecha del registro **hasta 24 de Mayo**
 
 [ecuacovid-muertes_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-muertes_por_dia.csv) (`informacion`, `fechas por día`) donde:
 
 * `informacion` = Tipo de muerte (total muertes, muertes, y muertes probables)
-* `fechas por día` = Todas las fechas por día **hasta 23 de Mayo**
+* `fechas por día` = Todas las fechas por día **hasta 24 de Mayo**
 
 [ecuacovid-positivas_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_dia.csv) (`informacion`, `fechas por día`) donde:
 
 * `informacion` = Información del total calculado (total confirmados, PCR, y rápidas)
-* `fechas por día` = todas las fechas por día **hasta 23 de Mayo**
+* `fechas por día` = todas las fechas por día **hasta 24 de Mayo**
 
 [coronavirusecuador.com/ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/coronavirusecuador.com/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/coronavirusecuador.com/ecuacovid.json)] (`muertes`, `muertes_probables`,`total_muertes`, `sospechas`, `pcr_positivas`, `pcr_negativas`, `created_at`) donde:
 
@@ -66,7 +66,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El total número de muertes
 * `lat` = Latitud
 * `lng` = Longitud
-* `created_at` = La fecha del registro **hasta 23 de Mayo**
+* `created_at` = La fecha del registro **hasta 24 de Mayo**
 
 [muertes/por_fecha/provincias_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/por_fecha/provincias_por_dia.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -75,7 +75,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El total número de muertes
 * `lat` = Latitud
 * `lng` = Longitud
-* `fechas por día` = todas las fechas por día **hasta 23 de Mayo**
+* `fechas por día` = todas las fechas por día **hasta 24 de Mayo**
 
 [defunciones/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -104,7 +104,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `created_at` = La fecha del registro **hasta 23 de Mayo** 
+* `created_at` = La fecha del registro **hasta 24 de Mayo** 
 
 [positivas/por_fecha/cantones_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/por_fecha/cantones_por_dia.csv): (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -115,7 +115,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `fechas por día` = todas las fechas por día **hasta 23 de Mayo**
+* `fechas por día` = todas las fechas por día **hasta 24 de Mayo**
 
 [positivas/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -124,7 +124,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `created_at` = La fecha del registro **hasta 23 de Mayo**
+* `created_at` = La fecha del registro **hasta 24 de Mayo**
 
 [positivas/por_fecha/provincias_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/por_fecha/provincias_por_dia.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -133,7 +133,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud de cantón
 * `lng` = Longitud de cantón
-* `fechas por día` = todas las fechas por día **hasta 23 de Mayo**
+* `fechas por día` = todas las fechas por día **hasta 24 de Mayo**
 
 ## Instituto Nacional de Estadística y Censos (INEC)
 
