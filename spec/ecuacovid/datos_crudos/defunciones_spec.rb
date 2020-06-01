@@ -35,7 +35,7 @@ end
 
 describe "Defunciones del Registro Civil" do
   context "Todas las fechas" do
-    let(:fechas_totales) { Criterios.para(:defunciones).select {|d| d.first.to_s !~ /.+-.+/}.count }
+    let(:fechas_totales) { Criterios.para(:defunciones).count }
 
     it "Contiene todas las provincias por día" do
       veces = fechas_totales
@@ -72,6 +72,8 @@ describe "Defunciones del Registro Civil" do
           "#{a_dia}_#{b_mes}_2020-#{b_dia}_#{b_mes}_2020.pdf" 
         )
       end
+
+      es_individual = true
 
       context "informe: #{ruta}..." do
         datos = DefuncionesTest.para(fecha)
