@@ -114,7 +114,26 @@ module Ecuacovid
         @d <= other
       end
     end
+
+    class FechaPorMes
+      def initialize(d)
+        @d = d
+      end
+
+      def to_s
+        @d.strftime("%b-%Y")
+      end
+
+      def >>(other)
+        @d = @d >> other
+      end
+
+      def <=(other)
+        @d <= other
+      end
+    end
     
     PorDia = ->(fecha) { FechaPorDia.new(fecha) }
+    PorMes = ->(fecha) { FechaPorMes.new(fecha) }
   end
 end
