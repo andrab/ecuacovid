@@ -2,7 +2,10 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_094_08H   ,"31/05/2020",       {casos: 30142, cantones_ingresados: 201,   cantones_sin_ingresar:  20}],
+      [[  :SNGRE_097_08H   ,"03/06/2020",       {casos: 42010, cantones_ingresados: 208,   cantones_sin_ingresar:  13}],
+       [  :SNGRE_096_08H   ,"02/06/2020",       {casos: 31458, cantones_ingresados: 208,   cantones_sin_ingresar:  13}],
+       [  :SNGRE_095_08H   ,"01/06/2020",       {casos: 31038, cantones_ingresados: 207,   cantones_sin_ingresar:  14}],
+       [  :SNGRE_094_08H   ,"31/05/2020",       {casos: 30142, cantones_ingresados: 201,   cantones_sin_ingresar:  20}],
        [  :SNGRE_093_08H   ,"30/05/2020",       {casos: 29887, cantones_ingresados: 201,   cantones_sin_ingresar:  20}],
        [  :SNGRE_092_08H   ,"29/05/2020",       {casos: 29615, cantones_ingresados: 201,   cantones_sin_ingresar:  20}],
        [  :SNGRE_091_08H   ,"28/05/2020",       {casos: 29515, cantones_ingresados: 201,   cantones_sin_ingresar:  20}],
@@ -86,7 +89,10 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_094_08H   ,"31/05/2020", {muertes: 3358, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_097_08H   ,"03/06/2020", {muertes: 3486, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_096_08H   ,"02/06/2020", {muertes: 3438, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_095_08H   ,"01/06/2020", {muertes: 3394, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_094_08H   ,"31/05/2020", {muertes: 3358, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_093_08H   ,"30/05/2020", {muertes: 3346, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_092_08H   ,"29/05/2020", {muertes: 3334, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_091_08H   ,"28/05/2020", {muertes: 3313, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -315,7 +321,10 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_094_08H   ,"31/05/2020", {probables: 2154, total: 5512}],
+      [[  :SNGRE_097_08H   ,"03/06/2020", {probables: 2221, total: 5707}],
+       [  :SNGRE_096_08H   ,"02/06/2020", {probables: 2201, total: 5639}],
+       [  :SNGRE_095_08H   ,"01/06/2020", {probables: 2135, total: 5529}],
+       [  :SNGRE_094_08H   ,"31/05/2020", {probables: 2154, total: 5512}],
        [  :SNGRE_093_08H   ,"30/05/2020", {probables: 2148, total: 5494}],
        [  :SNGRE_092_08H   ,"29/05/2020", {probables: 2129, total: 5463}],
        [  :SNGRE_091_08H   ,"28/05/2020", {probables: 2136, total: 5449}],
