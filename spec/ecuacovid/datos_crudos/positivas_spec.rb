@@ -69,19 +69,7 @@ class PositivasTest
   end
 end
 
-describe "Casos Positivos" do
-  context "Todas las fechas" do
-    let(:fechas_totales) { Criterios.para(:positivas).count }
-
-    it "Contiene todas las provincias por día" do
-      veces = fechas_totales
-      PositivasTest.new.provincias do |total|
-        expect(total).to be(24 * veces),
-          "Se esperaban #{24 * veces} provincias registradas, devolvió: #{total}"
-      end
-    end
-  end
-  
+describe "Casos Positivos" do  
   context "Por fecha" do
     require_relative "../criterios"
     require_relative "../cifras"
@@ -133,6 +121,18 @@ describe "Casos Positivos" do
             end
           end
         end.call if ingresados_totales
+      end
+    end
+  end
+  
+  context "Todas las fechas" do
+    let(:fechas_totales) { Criterios.para(:positivas).count }
+
+    it "Contiene todas las provincias por día" do
+      veces = fechas_totales
+      PositivasTest.new.provincias do |total|
+        expect(total).to be(24 * veces),
+          "Se esperaban #{24 * veces} provincias registradas, devolvió: #{total}"
       end
     end
   end

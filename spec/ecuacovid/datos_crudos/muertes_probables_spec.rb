@@ -35,6 +35,7 @@ describe "Muertes Probables registradas" do
       datos = MuertesProbablesTest.para(fecha)
 
       it "Verificando muertes con muertes probables.." do
+        
         datos.muertes_con_probables do |total|
           expect(total).to be(total_esperadas)
         end
