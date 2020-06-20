@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_112_08H   ,"18/06/2020",       {casos: 40141, cantones_ingresados: 209,   cantones_sin_ingresar:  12}],
+      [[  :SNGRE_113_08H   ,"19/06/2020",       {casos: 40775, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
+       [  :SNGRE_112_08H   ,"18/06/2020",       {casos: 40141, cantones_ingresados: 209,   cantones_sin_ingresar:  12}],
        [  :SNGRE_111_08H   ,"17/06/2020",       {casos: 39534, cantones_ingresados: 209,   cantones_sin_ingresar:  12}],
        [  :SNGRE_110_08H   ,"16/06/2020",       {casos: 38987, cantones_ingresados: 209,   cantones_sin_ingresar:  12}],
        [  :SNGRE_109_08H   ,"15/06/2020",       {casos: 38366, cantones_ingresados: 209,   cantones_sin_ingresar:  12}],
@@ -104,7 +105,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_112_08H   ,"18/06/2020", {muertes: 4087, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_113_08H   ,"19/06/2020", {muertes: 4156, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_112_08H   ,"18/06/2020", {muertes: 4087, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_111_08H   ,"17/06/2020", {muertes: 4007, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_110_08H   ,"16/06/2020", {muertes: 3970, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_109_08H   ,"15/06/2020", {muertes: 3929, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -193,23 +195,24 @@ class Criterios
 
     def defunciones
       #"───INFORME  RCIVIL──────────────┬───FECHA────┬──ACEPTACION───┬"
-      [[  :RCIV_17_06_2020              ,"17/06/2020", {muertes:   95}],
-       [  :RCIV_17_06_2020              ,"16/06/2020", {muertes:  214}],
-       [  :RCIV_17_06_2020              ,"15/06/2020", {muertes:  227}],
-       [  :RCIV_17_06_2020              ,"14/06/2020", {muertes:  218}],
-       [  :RCIV_17_06_2020              ,"13/06/2020", {muertes:  242}],
-       [  :RCIV_17_06_2020              ,"12/06/2020", {muertes:  299}],
-       [  :RCIV_17_06_2020              ,"11/06/2020", {muertes:  247}],
-       [  :RCIV_17_06_2020              ,"10/06/2020", {muertes:  280}],
-       [  :RCIV_17_06_2020              ,"09/06/2020", {muertes:  262}],
-       [  :RCIV_17_06_2020              ,"08/06/2020", {muertes:  300}],
-       [  :RCIV_17_06_2020              ,"07/06/2020", {muertes:  276}],
-       [  :RCIV_17_06_2020              ,"06/06/2020", {muertes:  237}],
-       [  :RCIV_17_06_2020              ,"05/06/2020", {muertes:  268}],
-       [  :RCIV_17_06_2020              ,"04/06/2020", {muertes:  281}],
-       [  :RCIV_17_06_2020              ,"03/06/2020", {muertes:  262}],
-       [  :RCIV_17_06_2020              ,"02/06/2020", {muertes:  265}],
-       [  :RCIV_17_06_2020              ,"01/06/2020", {muertes:  292}],
+      [[  :RCIV_18_06_2020              ,"18/06/2020", {muertes:   84}],
+       [  :RCIV_18_06_2020              ,"17/06/2020", {muertes:  204}],
+       [  :RCIV_18_06_2020              ,"16/06/2020", {muertes:  243}],
+       [  :RCIV_18_06_2020              ,"15/06/2020", {muertes:  237}],
+       [  :RCIV_18_06_2020              ,"14/06/2020", {muertes:  235}],
+       [  :RCIV_18_06_2020              ,"13/06/2020", {muertes:  248}],
+       [  :RCIV_18_06_2020              ,"12/06/2020", {muertes:  305}],
+       [  :RCIV_18_06_2020              ,"11/06/2020", {muertes:  253}],
+       [  :RCIV_18_06_2020              ,"10/06/2020", {muertes:  284}],
+       [  :RCIV_18_06_2020              ,"09/06/2020", {muertes:  264}],
+       [  :RCIV_18_06_2020              ,"08/06/2020", {muertes:  300}],
+       [  :RCIV_18_06_2020              ,"07/06/2020", {muertes:  277}],
+       [  :RCIV_18_06_2020              ,"06/06/2020", {muertes:  239}],
+       [  :RCIV_18_06_2020              ,"05/06/2020", {muertes:  269}],
+       [  :RCIV_18_06_2020              ,"04/06/2020", {muertes:  283}],
+       [  :RCIV_18_06_2020              ,"03/06/2020", {muertes:  263}],
+       [  :RCIV_18_06_2020              ,"02/06/2020", {muertes:  265}],
+       [  :RCIV_18_06_2020              ,"01/06/2020", {muertes:  294}],
        [  :"RCIV_01_01_2020-31_05_2020" ,"31/05/2020", {muertes:  233}],
        [  :"RCIV_01_01_2020-31_05_2020" ,"30/05/2020", {muertes:  280}],
        [  :"RCIV_01_01_2020-31_05_2020" ,"29/05/2020", {muertes:  286}],
@@ -366,7 +369,8 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_112_08H   ,"18/06/2020", {probables: 2770, total: 6857}],
+      [[  :SNGRE_113_08H   ,"19/06/2020", {probables: 2818, total: 6974}],
+       [  :SNGRE_112_08H   ,"18/06/2020", {probables: 2770, total: 6857}],
        [  :SNGRE_111_08H   ,"17/06/2020", {probables: 2702, total: 6709}],
        [  :SNGRE_110_08H   ,"16/06/2020", {probables: 2683, total: 6653}],
        [  :SNGRE_109_08H   ,"15/06/2020", {probables: 2603, total: 6532}],
