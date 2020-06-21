@@ -1,3 +1,5 @@
+require 'date'
+
 module Ecuacovid
   class Data
     FECHA = ->(valor) { valor.created_at.strftime("%d/%m/%Y") }
@@ -25,12 +27,12 @@ module Ecuacovid
       end
     end
 
-    def dividir(grupos, options = {})
-      return {predeterminado: grupos} if not options[:por]
+    def dividir(grupos, divisor)
+      return {predeterminado: grupos} if not divisor
 
       {}.tap do |divisiones|
         grupos.each_pair do |grupo, dataset|
-          agrupar(dataset, options).each_pair do |division, subset|
+          agrupar(dataset, por: divisor).each_pair do |division, subset|
             key = division
             fetch(divisiones, key, {}) {|c| c[grupo] = subset}
           end
@@ -78,6 +80,25 @@ module Ecuacovid
           labels << date.to_s
           date >> 1
         end
+      end
+    end
+
+    def maxima(reducidas, options = {})
+      sumas = []
+    
+      if options[:visualizacion].to_s.include?("stacked")
+        reducidas.first.size.times do |i|
+          sumas << reducidas.reduce(0) { |sum, set| sum + set[i] }
+        end
+      else
+        sumas = reducidas.map {|set| set.max}
+      end
+      sumas.max
+    end
+
+    def porcentajes(max, valores)
+      valores.map do |subset|
+        subset.map {|total| total * 100.0 / max}
       end
     end
   
