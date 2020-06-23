@@ -15,6 +15,16 @@ module Ecuacovid
           {min: min}.merge(options)
         end
       end
+
+      def marcador(maximo = 2)
+        veces = 0
+    
+        lambda do 
+          return false if veces == maximo
+          veces = veces + 1
+          true
+        end
+      end
     end
   end
 end
