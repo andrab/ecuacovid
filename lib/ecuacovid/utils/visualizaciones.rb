@@ -2,12 +2,13 @@ module Ecuacovid
   module Utils
     module Visualizaciones
       [
-       [:guayas     ,   0],
-       [:pichincha  ,  30],
-       [:manabi     ,  10], 
-       [:tungurahua ,   6],
-       [:santa_elena,   0],
-       [:ecuador    , 150]
+       [:guayas        ,    0],
+       [:pichincha     ,   30],
+       [:manabi        ,   10], 
+       [:tungurahua    ,    6],
+       [:santa_elena   ,    0],
+       [:ecuador       ,  150],
+       [:santo_domingo ,    6]
       ].each do |propiedades|
         provincia, min = propiedades
 
