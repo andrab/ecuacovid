@@ -2,6 +2,7 @@ module Ecuacovid
   module Utils
     module Visualizaciones
       [
+       [:azuay         ,   10],
        [:guayas        ,    0],
        [:pichincha     ,   30],
        [:manabi        ,   10], 
