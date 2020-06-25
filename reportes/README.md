@@ -26,6 +26,11 @@
 
 ![Santo Domingo Tsáchilas: Muertes en exceso](visualizaciones/hoy/santo_domingo_tsachilas.png "Santo Domingo Tsáchilas: Muertes en exceso")
 
+## Esmeraldas
+
+![Esmeraldas: Muertes en exceso](visualizaciones/hoy/esmeraldas.png "Esmeraldas: Muertes en exceso")
+
+
 ## Santa Elena
 
 ![Santa Elena: Muertes en exceso](visualizaciones/hoy/santa_elena.png "Santa Elena: Muertes en exceso")
