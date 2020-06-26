@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_118_08H   ,"24/06/2020",       {casos: 43378, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
+      [[  :SNGRE_119_08H   ,"25/06/2020",       {casos: 44200, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
+       [  :SNGRE_118_08H   ,"24/06/2020",       {casos: 43378, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
        [  :SNGRE_117_08H   ,"23/06/2020",       {casos: 42687, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
        [  :SNGRE_116_08H   ,"22/06/2020",       {casos: 41959, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
        [  :SNGRE_115_08H   ,"21/06/2020",       {casos: 41684, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
@@ -110,7 +111,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_118_08H   ,"24/06/2020", {muertes: 4309, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_119_08H   ,"25/06/2020", {muertes: 4343, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_118_08H   ,"24/06/2020", {muertes: 4309, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_117_08H   ,"23/06/2020", {muertes: 4274, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_116_08H   ,"22/06/2020", {muertes: 4246, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_115_08H   ,"21/06/2020", {muertes: 4223, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -382,10 +384,11 @@ class Criterios
        [  :"RCIV_01_01_2020-31_05_2020" ,"02/01/2020", {muertes:  230}],
        [  :"RCIV_01_01_2020-31_05_2020" ,"01/01/2020", {muertes:  276}]]
     end
-    
+
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_118_08H   ,"24/06/2020", {probables: 2915, total: 7224}],
+      [[  :SNGRE_119_08H   ,"25/06/2020", {probables: 2965, total: 7308}],
+       [  :SNGRE_118_08H   ,"24/06/2020", {probables: 2915, total: 7224}],
        [  :SNGRE_117_08H   ,"23/06/2020", {probables: 2875, total: 7149}],
        [  :SNGRE_116_08H   ,"22/06/2020", {probables: 2860, total: 7106}],
        [  :SNGRE_115_08H   ,"21/06/2020", {probables: 2872, total: 7095}],
