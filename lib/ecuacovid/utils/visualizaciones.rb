@@ -10,7 +10,7 @@ module Ecuacovid
        [:tungurahua    ,    6],
        [:santa_elena   ,    0],
        [:ecuador       ,  150],
-       [:santo_domingo ,    6]
+       [:santo_domingo ,    5]
       ].each do |propiedades|
         provincia, min = propiedades
 
