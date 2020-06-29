@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_121_08H   ,"27/06/2020",       {casos: 45618, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
+      [[  :SNGRE_122_08H   ,"28/06/2020",       {casos: 46299, cantones_ingresados: 212,   cantones_sin_ingresar:   9}],
+       [  :SNGRE_121_08H   ,"27/06/2020",       {casos: 45618, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
        [  :SNGRE_120_08H   ,"26/06/2020",       {casos: 44900, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
        [  :SNGRE_119_08H   ,"25/06/2020",       {casos: 44200, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
        [  :SNGRE_118_08H   ,"24/06/2020",       {casos: 43378, cantones_ingresados: 211,   cantones_sin_ingresar:  10}],
@@ -113,7 +114,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_121_08H   ,"27/06/2020", {muertes: 4424, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_122_08H   ,"28/06/2020", {muertes: 4429, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_121_08H   ,"27/06/2020", {muertes: 4424, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_120_08H   ,"26/06/2020", {muertes: 4406, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_119_08H   ,"25/06/2020", {muertes: 4343, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_118_08H   ,"24/06/2020", {muertes: 4309, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -393,7 +395,8 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_121_08H   ,"27/06/2020", {probables: 3054, total: 7478}],
+      [[  :SNGRE_122_08H   ,"28/06/2020", {probables: 3065, total: 7494}],
+       [  :SNGRE_121_08H   ,"27/06/2020", {probables: 3054, total: 7478}],
        [  :SNGRE_120_08H   ,"26/06/2020", {probables: 3016, total: 7422}],
        [  :SNGRE_119_08H   ,"25/06/2020", {probables: 2965, total: 7308}],
        [  :SNGRE_118_08H   ,"24/06/2020", {probables: 2915, total: 7224}],
