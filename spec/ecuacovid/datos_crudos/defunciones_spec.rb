@@ -16,7 +16,7 @@ class DefuncionesTest
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
                " | get total "\
-               " | sum "\
+               " | math sum "\
                " | echo $it"
     probar!(&block)
   end

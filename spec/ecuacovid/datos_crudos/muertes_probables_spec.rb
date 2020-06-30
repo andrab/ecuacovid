@@ -12,7 +12,7 @@ class MuertesProbablesTest
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
                " | get muertes muertes_probables total_muertes "\
-               " | sum "\
+               " | math sum "\
                " | echo $it"
     probar!(&block)
   end

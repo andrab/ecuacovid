@@ -12,7 +12,7 @@ class MuertesTest
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
                " | get total "\
-               " | sum "\
+               " | math sum "\
                " | echo $it"
     probar!(&block)
   end
@@ -40,7 +40,7 @@ class MuertesTest
                " | where created_at == #{@fecha} "\
                " | where  provincia == \"#{provincia}\" "\
                " | get poblacion "\
-               " | sum "\
+               " | math sum "\
                " | echo $it"
     probar!(&block)
   end

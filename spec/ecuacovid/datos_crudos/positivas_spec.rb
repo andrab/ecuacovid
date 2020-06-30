@@ -16,7 +16,7 @@ class PositivasTest
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
                " | get total "\
-               " | sum "\
+               " | math sum "\
                " | echo $it"
     probar!(&block)
   end
@@ -63,7 +63,7 @@ class PositivasTest
                " | group-by provincia "\
                " | get \"#{provincia}\" "\
                " | get canton_poblacion "\
-               " | sum "\
+               " | math sum "\
                " | echo $it"
     probar!(&block)
   end
