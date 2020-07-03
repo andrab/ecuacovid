@@ -2,7 +2,8 @@ class Criterios
   class << self
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────┬"
-      [[  :SNGRE_125_08H   ,"01/07/2020",       {casos: 49301, cantones_ingresados: 214,   cantones_sin_ingresar:   7}],
+      [[  :SNGRE_126_08H   ,"02/07/2020",       {casos: 50530, cantones_ingresados: 215,   cantones_sin_ingresar:   6}],
+       [  :SNGRE_125_08H   ,"01/07/2020",       {casos: 49301, cantones_ingresados: 214,   cantones_sin_ingresar:   7}],
        [  :SNGRE_124_08H   ,"30/06/2020",       {casos: 47386, cantones_ingresados: 213,   cantones_sin_ingresar:   8}],
        [  :SNGRE_123_08H   ,"29/06/2020",       {casos: 46709, cantones_ingresados: 212,   cantones_sin_ingresar:   9}],
        [  :SNGRE_122_08H   ,"28/06/2020",       {casos: 46299, cantones_ingresados: 212,   cantones_sin_ingresar:   9}],
@@ -117,7 +118,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_125_08H   ,"01/07/2020", {muertes: 4576, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_126_08H   ,"02/07/2020", {muertes: 4639, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_125_08H   ,"01/07/2020", {muertes: 4576, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_124_08H   ,"30/06/2020", {muertes: 4527, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_123_08H   ,"29/06/2020", {muertes: 4502, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_122_08H   ,"28/06/2020", {muertes: 4429, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -219,7 +221,8 @@ class Criterios
 
     def defunciones
       #"───INFORME  RCIVIL──────────────┬───FECHA────┬──ACEPTACION───┬"
-      [[  :RCIV_30_06_2020              ,"30/06/2020", {muertes:  102}],
+      [[  :RCIV_01_07_2020              ,"01/07/2020", {muertes:  100}],
+       [  :RCIV_30_06_2020              ,"30/06/2020", {muertes:  102}],
        [  :RCIV_30_06_2020              ,"29/06/2020", {muertes:  210}],
        [  :RCIV_30_06_2020              ,"28/06/2020", {muertes:  271}],
        [  :RCIV_30_06_2020              ,"27/06/2020", {muertes:  264}],
@@ -405,7 +408,8 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_125_08H   ,"01/07/2020", {probables: 3079, total: 7655}],
+      [[  :SNGRE_126_08H   ,"02/07/2020", {probables: 3134, total: 7773}],
+       [  :SNGRE_125_08H   ,"01/07/2020", {probables: 3079, total: 7655}],
        [  :SNGRE_124_08H   ,"30/06/2020", {probables: 3071, total: 7598}],
        [  :SNGRE_123_08H   ,"29/06/2020", {probables: 3059, total: 7561}],
        [  :SNGRE_122_08H   ,"28/06/2020", {probables: 3065, total: 7494}],
