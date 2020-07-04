@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 01/07/2020)
+## Muertes En Exceso Encima Del Promedio (corte 02/07/2020)
 
 ![Ecuador: Muertes en exceso](visualizaciones/hoy/ecuador.png "Ecuador: Muertes en exceso")
 
