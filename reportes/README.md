@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 03/07/2020)
+## Muertes En Exceso Encima Del Promedio (corte 04/07/2020)
 
 ![Ecuador: Muertes en exceso](visualizaciones/hoy/ecuador.png "Ecuador: Muertes en exceso")
 
@@ -14,9 +14,17 @@
 
 ![Manabí: Muertes en exceso](visualizaciones/hoy/manabi.png "Manabí: Muertes en exceso")
 
-## Azuay
+## El Oro
 
-![Azuay: Muertes en exceso](visualizaciones/hoy/azuay.png "Azuay: Muertes en exceso")
+![El Oro: Muertes en exceso](visualizaciones/hoy/el_oro.png "El Oro: Muertes en exceso")
+
+## Los Ríos
+
+![Los Ríos: Muertes en exceso](visualizaciones/hoy/los_rios.png "Los Ríos: Muertes en exceso")
+
+## Cotopaxi
+
+![Cotopaxi: Muertes en exceso](visualizaciones/hoy/cotopaxi.png "Cotopaxi: Muertes en exceso")
 
 ## Tungurahua
 

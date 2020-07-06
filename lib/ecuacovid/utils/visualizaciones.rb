@@ -2,6 +2,9 @@ module Ecuacovid
   module Utils
     module Visualizaciones
       [
+       [:cotopaxi      ,    4],
+       [:el_oro        ,    6],
+       [:los_rios      ,    5],
        [:azuay         ,   10],
        [:esmeraldas    ,    3],
        [:guayas        ,    0],
