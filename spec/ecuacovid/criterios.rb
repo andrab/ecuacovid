@@ -236,7 +236,7 @@ class Criterios
     def defunciones
       #"───INFORME  RCIVIL──────────────┬───FECHA────┬──ACEPTACION───┬"
       [[  :RCIV_08_07_2020              ,"08/07/2020", muertes:  116],
-       [  :RCIV_08_07_2020              ,"07/07/2020", muertes:  152],
+       [  :RCIV_08_07_2020              ,"07/07/2020", muertes:  252],
        [  :RCIV_08_07_2020              ,"06/07/2020", muertes:  255],
        [  :RCIV_08_07_2020              ,"05/07/2020", muertes:  277],
        [  :RCIV_08_07_2020              ,"04/07/2020", muertes:  306],
@@ -429,7 +429,7 @@ class Criterios
 
     def muertes_probables
       #"──INFORME  SNGRE───┬───FECHA────┬─────────ACEPTACION────────────┬"
-      [[  :SNGRE_133_08H   ,"09/07/2020", {probables: 3257, total: 8221}],
+      [[  :SNGRE_133_08H   ,"09/07/2020", {probables: 3282, total: 8221}],
        [  :SNGRE_132_08H   ,"08/07/2020", {probables: 3257, total: 8157}],
        [  :SNGRE_131_08H   ,"07/07/2020", {probables: 3247, total: 8120}],
        [  :SNGRE_130_08H   ,"06/07/2020", {probables: 3205, total: 8026}],
