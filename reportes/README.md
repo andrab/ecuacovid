@@ -10,6 +10,10 @@
 
 ![Guayas: Muertes en exceso](visualizaciones/hoy/guayas.png "Guayas: Muertes en exceso")
 
+## Azuay
+
+![Azuay: Muertes en exceso](visualizaciones/hoy/azuay.png "Azuay: Muertes en exceso")
+
 ## Manabí
 
 ![Manabí: Muertes en exceso](visualizaciones/hoy/manabi.png "Manabí: Muertes en exceso")
