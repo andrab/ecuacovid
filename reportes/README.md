@@ -1,6 +1,12 @@
-## Muertes En Exceso Encima Del Promedio (corte 11/07/2020)
+## Muertes En Exceso Encima Del Promedio (corte 12/07/2020)
+
+### Desde Enero
 
 ![Ecuador: Muertes en exceso](visualizaciones/hoy/ecuador.png "Ecuador: Muertes en exceso")
+
+### Desde Mayo
+
+![Ecuador: Muertes en exceso](visualizaciones/hoy/ecuador_mayo.png "Ecuador: Muertes en exceso")
 
 ## Pichincha
 
@@ -8,7 +14,13 @@
 
 ## Guayas
 
+### Desde Enero
+
 ![Guayas: Muertes en exceso](visualizaciones/hoy/guayas.png "Guayas: Muertes en exceso")
+
+### Desde Mayo
+
+![Guayas: Muertes en exceso](visualizaciones/hoy/guayas_mayo.png "Guayas: Muertes en exceso")
 
 ## Azuay
 
