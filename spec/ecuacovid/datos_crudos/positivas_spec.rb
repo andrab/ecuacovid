@@ -26,16 +26,6 @@ class PositivasTest
     probar!(&block)
   end
 
-  def provincias(&block)
-    @command = "open #{@source} "\
-               " | = \`{{provincia}}-{{created_at}}\` "\
-               " | group-by "\
-               " | pivot "\
-               " | count "\
-               " | echo $it"
-    probar!(&block)
-  end
-
   def cantones_ingresados(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
@@ -73,7 +63,7 @@ describe "Casos Positivos" do
     Criterios.para(:positivas).each do |(de_informe, fecha, spec)|
       casos_totales = spec[:casos]
       ingresados_totales =  spec[:cantones_ingresados]
-      sin_ingresar_totales = spec[:cantones_sin_ingresar]
+      sin_ingresar_totales = spec[:sin_ingresar]
 
       _, numero, hora = de_informe.to_s.split('_')
       ruta =  numero != "SIN" ? File.join(
@@ -115,18 +105,6 @@ describe "Casos Positivos" do
             end
           end
         end
-      end
-    end
-  end
-  
-  context "Todas las fechas" do
-    let(:fechas_totales) { Criterios.para(:positivas).count }
-
-    it "Contiene todas las provincias por día" do
-      veces = fechas_totales
-      PositivasTest.new.provincias do |total|
-        expect(total).to be(24 * veces),
-          "Se esperaban #{24 * veces} provincias registradas, devolvió: #{total}"
       end
     end
   end
