@@ -1,7 +1,7 @@
 class Criterios
   class << self
     require_relative "support/seleccionable"
-
+    
     def positivas
       #"──INFORME  SNGRE───┬───FECHA────┬──────────────────────────ACEPTACION────────────────────────────┬"
      [[:SNGRE_002_17H      ,"13/03/2020", { casos:      23, cantones_ingresados:   8, sin_ingresar: 213}],
@@ -128,7 +128,8 @@ class Criterios
       [:SNGRE_136_08H      ,"12/07/2020", { casos:   58914, cantones_ingresados: 217, sin_ingresar:   4}],
       [:SNGRE_137_08H      ,"13/07/2020", { casos:   59503, cantones_ingresados: 217, sin_ingresar:   4}],
       [:SNGRE_138_08H      ,"14/07/2020", { casos:   60614, cantones_ingresados: 217, sin_ingresar:   4}],
-      [:SNGRE_139_08H      ,"15/07/2020", { casos:   61373, cantones_ingresados: 217, sin_ingresar:   4}]]
+      [:SNGRE_139_08H      ,"15/07/2020", { casos:   61373, cantones_ingresados: 217, sin_ingresar:   4}],
+      [:SNGRE_140_08H      ,"16/07/2020", { casos:   62409, cantones_ingresados: 217, sin_ingresar:   4}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
@@ -136,7 +137,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_139_08H   ,"15/07/2020", {muertes: 5158, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_140_08H   ,"16/07/2020", {muertes: 5207, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_139_08H   ,"15/07/2020", {muertes: 5158, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_138_08H   ,"14/07/2020", {muertes: 5130, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_137_08H   ,"13/07/2020", {muertes: 5063, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_136_08H   ,"12/07/2020", {muertes: 5047, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -568,7 +570,8 @@ class Criterios
       [  :SNGRE_136_08H    ,"12/07/2020", { probables: 3292, total:  8339}],
       [  :SNGRE_137_08H    ,"13/07/2020", { probables: 3277, total:  8340}],
       [  :SNGRE_138_08H    ,"14/07/2020", { probables: 3326, total:  8456}],
-      [  :SNGRE_139_08H    ,"15/07/2020", { probables: 3343, total:  8501}]]
+      [  :SNGRE_139_08H    ,"15/07/2020", { probables: 3343, total:  8501}],
+      [  :SNGRE_140_08H    ,"16/07/2020", { probables: 3355, total:  8562}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
