@@ -2,6 +2,9 @@ module Ecuacovid
   module Utils
     module Visualizaciones
       [
+       [:sucumbios     ,    1],
+       [:imbabura      ,    4],
+       [:chimborazo    ,    5],
        [:cotopaxi      ,    4],
        [:el_oro        ,    6],
        [:los_rios      ,    5],

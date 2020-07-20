@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 17/07/2020)
+## Muertes En Exceso Encima Del Promedio (corte 18/07/2020)
 
 ### Desde Marzo 19
 
@@ -22,9 +22,21 @@
 
 ![Guayas: Muertes en exceso](visualizaciones/hoy/guayas_mayo.png "Guayas: Muertes en exceso")
 
+## Chimborazo
+
+![Chimborazo: Muertes en exceso](visualizaciones/hoy/chimborazo.png "Chimborazo: Muertes en exceso")
+
+## Imbabura
+
+![Imbabura: Muertes en exceso](visualizaciones/hoy/imbabura.png "Imbabura: Muertes en exceso")
+
 ## Azuay
 
 ![Azuay: Muertes en exceso](visualizaciones/hoy/azuay.png "Azuay: Muertes en exceso")
+
+## Sucumbíos
+
+![Sucumbíos: Muertes en exceso](visualizaciones/hoy/sucumbios.png "Sucumbíos: Muertes en exceso")
 
 ## Manabí
 
