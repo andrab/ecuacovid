@@ -1,6 +1,7 @@
 [![Travis Build Status](https://travis-ci.org/andrab/ecuacovid.svg?branch=master)](https://travis-ci.org/andrab/ecuacovid)
 [![Maintainability](https://api.codeclimate.com/v1/badges/2e4a49500559587cbc5f/maintainability)](https://codeclimate.com/github/andrab/ecuacovid/maintainability)
 [![Discord](https://img.shields.io/discord/693754947040444436.svg?logo=discord)](https://discord.gg/WnS2ss)
+[![@cococoronata](https://img.shields.io/badge/twitter-@cococoronata-1DA1F3?style=flat-square)](https://twitter.com/cococoronata)
 
 # Ecuacovid
 
@@ -24,17 +25,17 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `hospitalizadas_altas` = El total de altas hospitalitaria
 * `hospitalizadas_estables` = El total de hospitalizados estables
 * `hospitalizadas_pronostico_reservadas` = El total de hospitalizados con pronóstico reservado
-* `created_at` = La fecha del registro **desde Marzo 13 hasta 23 de Julio**
+* `created_at` = La fecha del registro **desde Marzo 13 hasta 24 de Julio**
 
 [ecuacovid-muertes_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-muertes_por_dia.csv) (`informacion`, `fechas por día`) donde:
 
 * `informacion` = Tipo de muerte (total muertes, muertes, y muertes probables)
-* `fechas por día` = Todas las fechas por día **desde Marzo 13 hasta 23 de Julio**
+* `fechas por día` = Todas las fechas por día **desde Marzo 13 hasta 24 de Julio**
 
 [ecuacovid-positivas_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_dia.csv) (`informacion`, `fechas por día`) donde:
 
 * `informacion` = Información del total calculado (total confirmados, PCR, y rápidas)
-* `fechas por día` = todas las fechas por día **desde Marzo 13 hasta 23 de Julio**
+* `fechas por día` = todas las fechas por día **desde Marzo 13 hasta 24 de Julio**
 
 [muertes/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -43,7 +44,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El total número de muertes
 * `lat` = Latitud
 * `lng` = Longitud
-* `created_at` = La fecha del registro **desde Marzo 26 hasta 23 de Julio**
+* `created_at` = La fecha del registro **desde Marzo 26 hasta 24 de Julio**
 
 [muertes/por_fecha/provincias_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/muertes/por_fecha/provincias_por_dia.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -52,7 +53,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El total número de muertes
 * `lat` = Latitud
 * `lng` = Longitud
-* `fechas por día` = todas las fechas por día **desde Marzo 26 hasta 23 de Julio**
+* `fechas por día` = todas las fechas por día **desde Marzo 26 hasta 24 de Julio**
 
 [defunciones/cantones.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/defunciones/cantones.json)] (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -92,7 +93,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud
 * `lng` = Longitud
-* `created_at` = La fecha del registro **desde Marzo 26 hasta 23 de Julio** 
+* `created_at` = La fecha del registro **desde Marzo 26 hasta 24 de Julio** 
 
 [positivas/por_fecha/cantones_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/por_fecha/cantones_por_dia.csv): (`provincia`, `provincia_poblacion`, `canton`, `canton_poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -103,7 +104,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud
 * `lng` = Longitud
-* `fechas por día` = todas las fechas por día **desde Marzo 26 hasta 23 de Julio**
+* `fechas por día` = todas las fechas por día **desde Marzo 26 hasta 24 de Julio**
 
 [positivas/provincias.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/provincias.json)] (`provincia`, `poblacion`, `total`, `lat`, `lng`, `created_at`) donde:
 
@@ -112,7 +113,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud
 * `lng` = Longitud
-* `created_at` = La fecha del registro **desde Marzo 26 hasta 23 de Julio**
+* `created_at` = La fecha del registro **desde Marzo 26 hasta 24 de Julio**
 
 [positivas/por_fecha/provincias_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/positivas/por_fecha/provincias_por_dia.csv) (`provincia`, `poblacion`, `total`, `lat`, `lng`, `fechas por día`) donde:
 
@@ -121,7 +122,7 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `total` = El número de casos positivos
 * `lat` = Latitud
 * `lng` = Longitud
-* `fechas por día` = todas las fechas por día **desde Marzo 26 hasta 23 de Julio**
+* `fechas por día` = todas las fechas por día **desde Marzo 26 hasta 24 de Julio**
 
 ## Instituto Nacional de Estadística y Censos (INEC)
 
