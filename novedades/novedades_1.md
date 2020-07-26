@@ -1,7 +1,7 @@
-# Novedades en Cococoronata 1
+# Novedades en Cococoronata #1
 
-* Andrés N. Robalino extrajo todos los datos del registro civil, SNGRE. Regeneró todos los datos a formatos prácticos de trabajarla. Regeneró visualizaciones diarias.
-* Carlos Oporto anuncia diariamente análisis de la situación: casos, fallecidos, incluyendo exceso de muertes.
+* [Andrés](http://twitter.com/andras_io) N. Robalino [extrajo todos los datos](https://github.com/andrab/ecuacovid/commits/master) del registro civil, SNGRE. Regeneró todos los datos a [formatos prácticos de trabajarla](https://github.com/andrab/ecuacovid/tree/master/datos_crudos). Regeneró [visualizaciones](https://github.com/andrab/ecuacovid/tree/master/reportes) diarias.
+* Carlos Oporto [anuncia diariamente](http://twitter.com/carlosoporto) análisis de la situación: casos, fallecidos, incluyendo exceso de muertes.
 * Federico Rojas hace [pronóstico de exceso de muertes](https://twitter.com/fmrodasespeedu1/status/1285600175583629313).
 * Andrea Gómez Ayora [hizo un análisis](https://twitter.com/angiegomeza/status/1286348391048511491) de los informes diarios de @Salud_ec.
 * Homero Paltán publicó un [breve análisis de tendencias](https://twitter.com/hpnk/status/1284574291028320264) de exceso de fallecido diarios.
