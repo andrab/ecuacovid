@@ -24,7 +24,7 @@ module Ecuacovid
 
       def mediana
         return @datum[mitad].to_f if !par?
-        @datum[((mitad - 1)..mitad)].sum / 2.0
+        @datum[((mitad - 1)..mitad)].map(&:to_f).sum / 2.0
       end
 
       def mitad

@@ -13,7 +13,6 @@ module Ecuacovid
         def reajustar(datum)
           data = new(datum)
           data.reajustar
-          data.reajustados
         end
       end
 
@@ -37,6 +36,8 @@ module Ecuacovid
             @apuntador = idx
           end
         end
+
+        @reajustados
       end
 
       def rastrear!
