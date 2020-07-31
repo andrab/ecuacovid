@@ -141,7 +141,9 @@ class Criterios
       [:SNGRE_149_08H      ,"25/07/2020", { casos:   71080, cantones_ingresados: 218, sin_ingresar:   3}],
       [:SNGRE_150_08H      ,"26/07/2020", { casos:   71738, cantones_ingresados: 218, sin_ingresar:   3}],
       [:SNGRE_151_08H      ,"27/07/2020", { casos:   72205, cantones_ingresados: 218, sin_ingresar:   3}],
-      [:SNGRE_152_08H      ,"28/07/2020", { casos:   73323, cantones_ingresados: 218, sin_ingresar:   3}]]
+      [:SNGRE_152_08H      ,"28/07/2020", { casos:   73323, cantones_ingresados: 218, sin_ingresar:   3}],
+      [:SNGRE_153_08H      ,"29/07/2020", { casos:   74237, cantones_ingresados: 218, sin_ingresar:   3}],
+      [:SNGRE_154_08H      ,"30/07/2020", { casos:   75414, cantones_ingresados: 218, sin_ingresar:   3}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
@@ -149,7 +151,9 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_152_08H   ,"28/07/2020", {muertes: 5584, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_154_08H   ,"30/07/2020", {muertes: 5657, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_153_08H   ,"29/07/2020", {muertes: 5623, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_152_08H   ,"28/07/2020", {muertes: 5584, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_151_08H   ,"27/07/2020", {muertes: 5532, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_150_08H   ,"26/07/2020", {muertes: 5515, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_149_08H   ,"25/07/2020", {muertes: 5507, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -462,34 +466,35 @@ class Criterios
        [  :"RCIV_01_01_2020-26_07_2020" ,"28/06/2020", muertes:  320],
        [  :"RCIV_01_01_2020-26_07_2020" ,"29/06/2020", muertes:  286],
        [  :"RCIV_01_01_2020-26_07_2020" ,"30/06/2020", muertes:  283],
-       [  :RCIV_28_07_2020              ,"01/07/2020", muertes:  297],
-       [  :RCIV_28_07_2020              ,"02/07/2020", muertes:  313],
-       [  :RCIV_28_07_2020              ,"03/07/2020", muertes:  295],
-       [  :RCIV_28_07_2020              ,"04/07/2020", muertes:  339],
-       [  :RCIV_28_07_2020              ,"05/07/2020", muertes:  318],
-       [  :RCIV_28_07_2020              ,"06/07/2020", muertes:  308],
-       [  :RCIV_28_07_2020              ,"07/07/2020", muertes:  320],
-       [  :RCIV_28_07_2020              ,"08/07/2020", muertes:  324],
-       [  :RCIV_28_07_2020              ,"09/07/2020", muertes:  341],
-       [  :RCIV_28_07_2020              ,"10/07/2020", muertes:  331],
-       [  :RCIV_28_07_2020              ,"11/07/2020", muertes:  330],
-       [  :RCIV_28_07_2020              ,"12/07/2020", muertes:  342],
-       [  :RCIV_28_07_2020              ,"13/07/2020", muertes:  348],
-       [  :RCIV_28_07_2020              ,"14/07/2020", muertes:  343],
-       [  :RCIV_28_07_2020              ,"15/07/2020", muertes:  353],
-       [  :RCIV_28_07_2020              ,"16/07/2020", muertes:  297],
-       [  :RCIV_28_07_2020              ,"17/07/2020", muertes:  342],
-       [  :RCIV_28_07_2020              ,"18/07/2020", muertes:  361],
-       [  :RCIV_28_07_2020              ,"19/07/2020", muertes:  349],
-       [  :RCIV_28_07_2020              ,"20/07/2020", muertes:  328],
-       [  :RCIV_28_07_2020              ,"21/07/2020", muertes:  336],
-       [  :RCIV_28_07_2020              ,"22/07/2020", muertes:  336],
-       [  :RCIV_28_07_2020              ,"23/07/2020", muertes:  315],
-       [  :RCIV_28_07_2020              ,"24/07/2020", muertes:  302],
-       [  :RCIV_28_07_2020              ,"25/07/2020", muertes:  310],
-       [  :RCIV_28_07_2020              ,"26/07/2020", muertes:  287],
-       [  :RCIV_28_07_2020              ,"27/07/2020", muertes:  277],
-       [  :RCIV_28_07_2020              ,"28/07/2020", muertes:  119]]
+       [  :RCIV_29_07_2020              ,"01/07/2020", muertes:  298],
+       [  :RCIV_29_07_2020              ,"02/07/2020", muertes:  313],
+       [  :RCIV_29_07_2020              ,"03/07/2020", muertes:  296],
+       [  :RCIV_29_07_2020              ,"04/07/2020", muertes:  341],
+       [  :RCIV_29_07_2020              ,"05/07/2020", muertes:  318],
+       [  :RCIV_29_07_2020              ,"06/07/2020", muertes:  308],
+       [  :RCIV_29_07_2020              ,"07/07/2020", muertes:  320],
+       [  :RCIV_29_07_2020              ,"08/07/2020", muertes:  325],
+       [  :RCIV_29_07_2020              ,"09/07/2020", muertes:  342],
+       [  :RCIV_29_07_2020              ,"10/07/2020", muertes:  331],
+       [  :RCIV_29_07_2020              ,"11/07/2020", muertes:  333],
+       [  :RCIV_29_07_2020              ,"12/07/2020", muertes:  342],
+       [  :RCIV_29_07_2020              ,"13/07/2020", muertes:  349],
+       [  :RCIV_29_07_2020              ,"14/07/2020", muertes:  346],
+       [  :RCIV_29_07_2020              ,"15/07/2020", muertes:  355],
+       [  :RCIV_29_07_2020              ,"16/07/2020", muertes:  298],
+       [  :RCIV_29_07_2020              ,"17/07/2020", muertes:  345],
+       [  :RCIV_29_07_2020              ,"18/07/2020", muertes:  363],
+       [  :RCIV_29_07_2020              ,"19/07/2020", muertes:  349],
+       [  :RCIV_29_07_2020              ,"20/07/2020", muertes:  332],
+       [  :RCIV_29_07_2020              ,"21/07/2020", muertes:  342],
+       [  :RCIV_29_07_2020              ,"22/07/2020", muertes:  341],
+       [  :RCIV_29_07_2020              ,"23/07/2020", muertes:  320],
+       [  :RCIV_29_07_2020              ,"24/07/2020", muertes:  316],
+       [  :RCIV_29_07_2020              ,"25/07/2020", muertes:  329],
+       [  :RCIV_29_07_2020              ,"26/07/2020", muertes:  303],
+       [  :RCIV_29_07_2020              ,"27/07/2020", muertes:  306],
+       [  :RCIV_29_07_2020              ,"28/07/2020", muertes:  261],
+       [  :RCIV_29_07_2020              ,"29/07/2020", muertes:  115]]
        .reverse
        .seleccionable
        .probar(ENV["SOLO"])
@@ -621,7 +626,9 @@ class Criterios
       [  :SNGRE_149_08H    ,"25/07/2020", { probables: 3438, total:  8945}],
       [  :SNGRE_150_08H    ,"26/07/2020", { probables: 3440, total:  8955}],
       [  :SNGRE_151_08H    ,"27/07/2020", { probables: 3444, total:  8976}],
-      [  :SNGRE_152_08H    ,"28/07/2020", { probables: 3454, total:  9038}]]
+      [  :SNGRE_152_08H    ,"28/07/2020", { probables: 3454, total:  9038}],
+      [  :SNGRE_153_08H    ,"29/07/2020", { probables: 3465, total:  9088}],
+      [  :SNGRE_154_08H    ,"30/07/2020", { probables: 3468, total:  9125}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
