@@ -500,7 +500,8 @@ class Criterios
        [  :RCIV_31_07_2020              ,"28/07/2020", muertes:  302],
        [  :RCIV_31_07_2020              ,"29/07/2020", muertes:  292],
        [  :RCIV_31_07_2020              ,"30/07/2020", muertes:  243],
-       [  :RCIV_31_07_2020              ,"31/07/2020", muertes:  133]]
+       [  :RCIV_31_07_2020              ,"31/07/2020", muertes:  133],
+       [  :RCIV_01_08_2020              ,"01/08/2020", muertes:   81]]
        .reverse
        .seleccionable
        .probar(ENV["SOLO"])
