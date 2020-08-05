@@ -147,7 +147,8 @@ class Criterios
       [:SNGRE_155_08H      ,"31/07/2020", { casos:   76399, cantones_ingresados: 218, sin_ingresar:   3}],
       [:SNGRE_156_08H      ,"01/08/2020", { casos:   77276, cantones_ingresados: 219, sin_ingresar:   2}],
       [:SNGRE_157_08H      ,"02/08/2020", { casos:   77568, cantones_ingresados: 219, sin_ingresar:   2}],
-      [:SNGRE_158_08H      ,"03/08/2020", { casos:   78085, cantones_ingresados: 220, sin_ingresar:   1}]]
+      [:SNGRE_158_08H      ,"03/08/2020", { casos:   78085, cantones_ingresados: 220, sin_ingresar:   1}],
+      [:SNGRE_159_08H      ,"04/08/2020", { casos:   79007, cantones_ingresados: 221, sin_ingresar:   0}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
@@ -155,7 +156,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_158_08H   ,"03/08/2020", {muertes: 5767, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_159_08H   ,"04/08/2020", {muertes: 5808, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_158_08H   ,"03/08/2020", {muertes: 5767, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_157_08H   ,"02/08/2020", {muertes: 5750, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_156_08H   ,"01/08/2020", {muertes: 5736, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_155_08H   ,"31/07/2020", {muertes: 5702, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -645,7 +647,8 @@ class Criterios
       [  :SNGRE_155_08H    ,"31/07/2020", { probables: 3470, total:  9172}],
       [  :SNGRE_156_08H    ,"01/08/2020", { probables: 3508, total:  9244}],
       [  :SNGRE_157_08H    ,"02/08/2020", { probables: 3508, total:  9258}],
-      [  :SNGRE_158_08H    ,"03/08/2020", { probables: 3512, total:  9279}]]
+      [  :SNGRE_158_08H    ,"03/08/2020", { probables: 3512, total:  9279}],
+      [  :SNGRE_159_08H    ,"04/08/2020", { probables: 3524, total:  9332}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
