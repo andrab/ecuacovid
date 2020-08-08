@@ -1,6 +1,6 @@
-## Muertes En Exceso Encima Del Promedio (corte 06/08/2020)
+## Muertes En Exceso Encima Del Promedio (corte 07/08/2020)
 
-### Desde Marzo 19
+### Desde Marzo 16
 
 ![Ecuador: Muertes en exceso](visualizaciones/hoy/ecuador.png "Ecuador: Muertes en exceso")
 
@@ -14,7 +14,7 @@
 
 ## Guayas
 
-### Desde Marzo 19
+### Desde Marzo 16
 
 ![Guayas: Muertes en exceso](visualizaciones/hoy/guayas.png "Guayas: Muertes en exceso")
 
