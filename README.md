@@ -11,13 +11,14 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
 
-[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muertes`, `muertes_probables`, `total_muertes`, `positivas`, `pcr_positivas` `rapidas_positivas`, `negativas`, `muestras`, `estables_aisladas_domiciliarias`, `hospitalizadas_altas`, `hospitalizadas_estables`, `hospitalizadas_pronostico_reservadas`, `created_at`) donde:
+[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muertes`, `muertes_probables`, `total_muertes`, `positivas`, `pcr_positivas`, `pcr_positivas_inicio_sintoma`, `rapidas_positivas`, `negativas`, `muestras`, `estables_aisladas_domiciliarias`, `hospitalizadas_altas`, `hospitalizadas_estables`, `hospitalizadas_pronostico_reservadas`, `created_at`) donde:
 
 * `muertes` = El total de muertes
 * `muertes_probables` = El total de muertes probables
 * `total_muertes` = El total de muertes más el total de las muertes probables
 * `positivas` = El total de casos positivos
 * `pcr_positivas` = El total de casos positivos de pruebas PCR
+* `pcr_positivas_inicio_sintoma` = El total de casos positivos por inicio de síntoma de pruebas PCR
 * `rapidas_positivas` = El total de casos positivos de pruebas rápidas
 * `negativas` = El total de casos negativos
 * `muestras` = El total de muestras tomadas
