@@ -11,16 +11,14 @@ class MuertesTest
   def casos(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
-               " | get total "\
-               " | math sum "\
+               " | reduce -f 0 { = $acc + $it.total } "\
                " | echo $it"
     probar!(&block)
   end
 
   def provincias_ingresadas(&block)
-    @command = "open #{@source}                  "\
-               " | where created_at == #{@fecha} "\
-               " | where total > 0 "\
+    @command = "open #{@source} "\
+               " | where created_at == #{@fecha} && total > 0 "\
                " | count "\
                " | echo $it"
     probar!(&block)
@@ -28,25 +26,31 @@ class MuertesTest
   
   def provincias_sin_ingresar(&block)
     @command = "open #{@source} "\
-               " | where created_at == #{@fecha} "\
-               " | where total == 0 "\
+               " | where created_at == #{@fecha} && total == 0 "\
                " | count "\
                " | echo $it"
     probar!(&block)
   end
 
-  def poblacion_total_de(provincia, &block)
-    @command = "open #{@source} "\
-               " | where created_at == #{@fecha} "\
-               " | where  provincia == \"#{provincia}\" "\
-               " | get poblacion "\
-               " | math sum "\
-               " | echo $it"
+  def poblaciones(&block)
+    @command = "open #{@source}                                                   "\
+               " | where created_at == #{@fecha}                                  "\
+               " | group-by provincia                                             "\
+               " | pivot provincia poblacion                                      "\
+               " | update poblacion {                                             "\
+               "     get poblacion | reduce -f 0 {                                "\
+               "       = $acc + $it.poblacion                                     "\
+               "      }                                                           "\
+               "   }                                                              "\
+               " | to json                                                        "\
+               " | echo $it                                                       "
     probar!(&block)
   end
 end
 
 describe "Muertes registradas" do
+  require "json"
+
   require_relative "../criterios"
   require_relative "../cifras"
 
@@ -88,10 +92,14 @@ describe "Muertes registradas" do
         end
 
         it "Verificando población por provincia.." do
-          Cifras.poblaciones.each_pair do |provincia, poblacion_esperada| 
-            datos.poblacion_total_de(provincia) do |total|
-              expect(total).to be(poblacion_esperada)
+          datos.poblaciones do |poblaciones|
+            poblaciones = {}.tap do |actuales|
+              JSON.load(poblaciones).each do |d|
+                actuales[d["provincia"]] = d["poblacion"]
+              end
             end
+
+            expect(Cifras.poblaciones).to eq(poblaciones)
           end
         end
       end.call if ingresadas_totales

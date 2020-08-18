@@ -15,8 +15,7 @@ class DefuncionesTest
   def casos(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
-               " | get total "\
-               " | math sum "\
+               " | reduce -f 0 { = $acc + $it.total } "\
                " | echo $it"
     probar!(&block)
   end

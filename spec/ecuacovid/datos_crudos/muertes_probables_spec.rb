@@ -9,11 +9,12 @@ class MuertesProbablesTest
   end
 
   def muertes_con_probables(&block)
-    @command = "open #{@source} "\
-               " | where created_at == #{@fecha} "\
-               " | get muertes muertes_probables total_muertes "\
-               " | math sum "\
-               " | echo $it"
+    @command = "open #{@source}                                                       "\
+               " | where created_at == #{@fecha}                                      "\
+               " | reduce -f 0 {                                                      "\
+               "   = $acc + $it.muertes + $it.muertes_probables + $it.total_muertes   "\
+               "   }                                                                  "\
+               " | echo $it                                                           "
     probar!(&block)
   end
 end
@@ -35,7 +36,6 @@ describe "Muertes Probables registradas" do
       datos = MuertesProbablesTest.para(fecha)
 
       it "Verificando muertes con muertes probables.." do
-        
         datos.muertes_con_probables do |total|
           expect(total).to be(total_esperadas)
         end
