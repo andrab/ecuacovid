@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 17/08/2020)
+## Muertes En Exceso Encima Del Promedio (corte 18/08/2020)
 
 ### Desde Marzo 16
 
@@ -11,6 +11,10 @@
 ## Pichincha
 
 ![Pichincha: Muertes en exceso](visualizaciones/hoy/pichincha.png "Pichincha: Muertes en exceso")
+
+### Desde Mayo
+
+![Pichincha: Muertes en exceso](visualizaciones/hoy/pichincha_mayo.png "Pichincha: Muertes en exceso")
 
 ## Guayas
 
