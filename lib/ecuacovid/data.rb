@@ -5,16 +5,23 @@ module Ecuacovid
     FECHA = ->(valor) { valor.created_at.strftime("%d/%m/%Y") }
     UNO = ->(valor) { 1 }
 
-    CONTEO = ->(acc, data) {
-      result = acc * 0
-      return result if data.nil?
-      result + data.reduce(0) { |sum, value| sum + value }
-    }
-  
-    ACUMULACION = ->(acc, data) {
-      result = (acc * 1)
-      return result if data.nil?
-      result + data.reduce(0) { |sum, value| sum + value }
+    class << self
+      def calculador(multiplicador, &formula)
+        lambda do |acc, data|
+          result = (acc * multiplicador)
+          return result if data.nil?
+          result + formula.call(data)
+        end
+      end
+    end
+
+    CONTEO = calculador(0) {|data| data.reduce(0) { |sum, valor| sum + valor } }
+    ACUMULACION = calculador(1) { |data| data.reduce(0) { |sum, valor| sum + valor } }
+    
+    MEDIA_MOVIL = ->(acc, data) {
+      result = PromedioMovil.new(acc)
+      result << data.shift
+      result
     }
     
     def agrupar(datum, options = {})
@@ -84,16 +91,11 @@ module Ecuacovid
     end
 
     def maxima(reducidas, options = {})
-      sumas = []
-    
-      if options[:visualizacion].to_s.include?("stacked")
-        reducidas.first.size.times do |i|
-          sumas << reducidas.reduce(0) { |sum, set| sum + set[i] }
-        end
-      else
-        sumas = reducidas.map {|set| set.max}
-      end
-      sumas.max
+      reducidas.map {|set| set.max}.max
+    end
+
+    def minima(reducidas, options = {})
+      reducidas.map {|set| set.min}.min
     end
 
     def porcentajes(max, valores)
@@ -153,8 +155,61 @@ module Ecuacovid
         @d <= other
       end
     end
+
+    class FechaPorSemana
+      def initialize(d)
+        @d = d
+      end
+
+      def to_s
+        @d.strftime("%V")
+      end
+
+      def >>(other)
+        @d = @d >> other
+      end
+
+      def <=(other)
+        @d <= other
+      end
+    end
+
+    class PromedioMovil
+      attr_reader :dias, :total
+  
+      def initialize(movil)
+        if movil == 0
+          @acc, @dias = nil, []
+        else 
+          @dias = movil.dias.dup
+        end
+      end
+  
+      def <<(dia)
+        dias.shift if lleno?
+        @dias << dia
+      end
+  
+      def +(movil)
+        total.nil? ? nil : total + movil
+      end
+  
+      def total
+        lleno? ? @dias.map(&:total).sum / n.to_f : nil
+      end
+
+      private
+      def lleno?
+        @dias.size == n
+      end
+
+      def n
+        7
+      end
+    end
     
     PorDia = ->(fecha) { FechaPorDia.new(fecha) }
     PorMes = ->(fecha) { FechaPorMes.new(fecha) }
+    PorSemana = ->(fecha) { FechaPorSemana.new(fecha) }
   end
 end
