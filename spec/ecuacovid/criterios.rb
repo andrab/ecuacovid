@@ -170,7 +170,8 @@ class Criterios
       [:SNGRE_178_08H      ,"23/08/2020", { casos:   98813, cantones_ingresados: 221, sin_ingresar:   0}],
       [:SNGRE_179_08H      ,"24/08/2020", { casos:   99333, cantones_ingresados: 221, sin_ingresar:   0}],
       [:SNGRE_180_08H      ,"25/08/2020", { casos:  100074, cantones_ingresados: 221, sin_ingresar:   0}],
-      [:SNGRE_181_08H      ,"26/08/2020", { casos:  101593, cantones_ingresados: 221, sin_ingresar:   0}]]
+      [:SNGRE_181_08H      ,"26/08/2020", { casos:  101593, cantones_ingresados: 221, sin_ingresar:   0}],
+      [:SNGRE_182_08H      ,"27/08/2020", { casos:  102263, cantones_ingresados: 221, sin_ingresar:   0}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
@@ -178,7 +179,8 @@ class Criterios
 
     def muertes
       #"──INFORME  SNGRE───┬───FECHA────┬───────────────────────ACEPTACION────────────────────────────────────────────"
-      [[  :SNGRE_181_08H   ,"26/08/2020", {muertes: 6410, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+      [[  :SNGRE_182_08H   ,"27/08/2020", {muertes: 6471, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
+       [  :SNGRE_181_08H   ,"26/08/2020", {muertes: 6410, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_180_08H   ,"25/08/2020", {muertes: 6368, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_179_08H   ,"24/08/2020", {muertes: 6322, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
        [  :SNGRE_178_08H   ,"23/08/2020", {muertes: 6310, provincias_ingresadas:  24,   provincias_sin_ingresar:   0}],
@@ -551,31 +553,32 @@ class Criterios
        [  :"RCIV_01_01_2020-31_07_2020" ,"29/07/2020", muertes:  347],
        [  :"RCIV_01_01_2020-31_07_2020" ,"30/07/2020", muertes:  323],
        [  :"RCIV_01_01_2020-31_07_2020" ,"31/07/2020", muertes:  357],
-       [  :RCIV_25_08_2020              ,"01/08/2020", muertes:  367],
-       [  :RCIV_25_08_2020              ,"02/08/2020", muertes:  344],
-       [  :RCIV_25_08_2020              ,"03/08/2020", muertes:  366],
-       [  :RCIV_25_08_2020              ,"04/08/2020", muertes:  335],
-       [  :RCIV_25_08_2020              ,"05/08/2020", muertes:  354],
-       [  :RCIV_25_08_2020              ,"06/08/2020", muertes:  319],
-       [  :RCIV_25_08_2020              ,"07/08/2020", muertes:  344],
-       [  :RCIV_25_08_2020              ,"08/08/2020", muertes:  308],
-       [  :RCIV_25_08_2020              ,"09/08/2020", muertes:  316],
-       [  :RCIV_25_08_2020              ,"10/08/2020", muertes:  332],
-       [  :RCIV_25_08_2020              ,"11/08/2020", muertes:  330],
-       [  :RCIV_25_08_2020              ,"12/08/2020", muertes:  330],
-       [  :RCIV_25_08_2020              ,"13/08/2020", muertes:  328],
-       [  :RCIV_25_08_2020              ,"14/08/2020", muertes:  310],
-       [  :RCIV_25_08_2020              ,"15/08/2020", muertes:  322],
-       [  :RCIV_25_08_2020              ,"16/08/2020", muertes:  282],
-       [  :RCIV_25_08_2020              ,"17/08/2020", muertes:  294],
-       [  :RCIV_25_08_2020              ,"18/08/2020", muertes:  292],
-       [  :RCIV_25_08_2020              ,"19/08/2020", muertes:  305],
-       [  :RCIV_25_08_2020              ,"20/08/2020", muertes:  273],
-       [  :RCIV_25_08_2020              ,"21/08/2020", muertes:  264],
-       [  :RCIV_25_08_2020              ,"22/08/2020", muertes:  245],
-       [  :RCIV_25_08_2020              ,"23/08/2020", muertes:  233],
-       [  :RCIV_25_08_2020              ,"24/08/2020", muertes:  195],
-       [  :RCIV_25_08_2020              ,"25/08/2020", muertes:   94]]
+       [  :RCIV_26_08_2020              ,"01/08/2020", muertes:  368],
+       [  :RCIV_26_08_2020              ,"02/08/2020", muertes:  344],
+       [  :RCIV_26_08_2020              ,"03/08/2020", muertes:  369],
+       [  :RCIV_26_08_2020              ,"04/08/2020", muertes:  336],
+       [  :RCIV_26_08_2020              ,"05/08/2020", muertes:  354],
+       [  :RCIV_26_08_2020              ,"06/08/2020", muertes:  320],
+       [  :RCIV_26_08_2020              ,"07/08/2020", muertes:  347],
+       [  :RCIV_26_08_2020              ,"08/08/2020", muertes:  310],
+       [  :RCIV_26_08_2020              ,"09/08/2020", muertes:  317],
+       [  :RCIV_26_08_2020              ,"10/08/2020", muertes:  333],
+       [  :RCIV_26_08_2020              ,"11/08/2020", muertes:  332],
+       [  :RCIV_26_08_2020              ,"12/08/2020", muertes:  331],
+       [  :RCIV_26_08_2020              ,"13/08/2020", muertes:  330],
+       [  :RCIV_26_08_2020              ,"14/08/2020", muertes:  313],
+       [  :RCIV_26_08_2020              ,"15/08/2020", muertes:  324],
+       [  :RCIV_26_08_2020              ,"16/08/2020", muertes:  286],
+       [  :RCIV_26_08_2020              ,"17/08/2020", muertes:  296],
+       [  :RCIV_26_08_2020              ,"18/08/2020", muertes:  294],
+       [  :RCIV_26_08_2020              ,"19/08/2020", muertes:  311],
+       [  :RCIV_26_08_2020              ,"20/08/2020", muertes:  282],
+       [  :RCIV_26_08_2020              ,"21/08/2020", muertes:  281],
+       [  :RCIV_26_08_2020              ,"22/08/2020", muertes:  261],
+       [  :RCIV_26_08_2020              ,"23/08/2020", muertes:  252],
+       [  :RCIV_26_08_2020              ,"24/08/2020", muertes:  241],
+       [  :RCIV_26_08_2020              ,"25/08/2020", muertes:  245],
+       [  :RCIV_26_08_2020              ,"26/08/2020", muertes:   87]]
        .reverse
        .seleccionable
        .probar(ENV["SOLO"])
@@ -736,7 +739,8 @@ class Criterios
       [  :SNGRE_178_08H    ,"23/08/2020", { probables: 3662, total:  9972}],
       [  :SNGRE_179_08H    ,"24/08/2020", { probables: 3664, total:  9986}],
       [  :SNGRE_180_08H    ,"25/08/2020", { probables: 3696, total: 10064}],
-      [  :SNGRE_181_08H    ,"26/08/2020", { probables: 3703, total: 10113}]]
+      [  :SNGRE_181_08H    ,"26/08/2020", { probables: 3703, total: 10113}],
+      [  :SNGRE_182_08H    ,"27/08/2020", { probables: 3708, total: 10179}]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
