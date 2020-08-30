@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 27/08/2020)
+## Muertes En Exceso Encima Del Promedio (corte 28/08/2020)
 
 ### Desde Marzo 16
 
