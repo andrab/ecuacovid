@@ -54,20 +54,14 @@ describe "Muertes registradas" do
   require_relative "../criterios"
   require_relative "../cifras"
 
-  Criterios.para(:muertes).each do |(de_informe, fecha, spec)|
+  Criterios.para(:muertes).each do |(informe, fecha, spec)|
     muertes_totales = spec[:muertes]
     ingresadas_totales =  spec[:provincias_ingresadas]
     sin_ingresar_totales = spec[:provincias_sin_ingresar]
 
-    _, numero, hora = de_informe.to_s.split('_')
-    ruta =  numero != "SIN" ? File.join(
-      File.expand_path('../../../../informes/SGNRE/', __FILE__),
-      [numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
-    ) : "No hubo informe publicado para #{fecha.gsub('/', '_')}"
+    datos = MuertesTest.para(fecha)
 
-    context "informe: #{ruta}..." do
-      datos = MuertesTest.para(fecha)
-
+    context "informe: #{datos.formatear(informe)}..." do
       lambda do
         it "Verificando casos.." do
           datos.casos do |total|

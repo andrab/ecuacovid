@@ -64,22 +64,14 @@ describe "Casos Positivos" do
     require_relative "../criterios"
     require_relative "../cifras"
 
-    Criterios.para(:positivas).each do |(de_informe, fecha, spec)|
+    Criterios.para(:positivas).each do |(informe, fecha, spec)|
       casos_totales = spec[:casos]
       ingresados_totales =  spec[:cantones_ingresados]
       sin_ingresar_totales = spec[:sin_ingresar]
 
-      _, numero, hora = de_informe.to_s.split('_')
-      ruta =  numero != "SIN" ? File.join(
-        File.expand_path('../../../../informes/SGNRE/', __FILE__),
-        [numero, fecha.gsub('/', '_'), hora].join('-') + ".pdf"
-      ) : "No hubo informe publicado para #{fecha.gsub('/', '_')}"
+      datos = PositivasTest.para(fecha)
 
-      context "informe: #{ruta}..." do
-        datos = PositivasTest.para(fecha)
-
-        datos.usar_provincias! if not ingresados_totales
-          
+      context "informe: #{datos.formatear(informe)}..." do
         it "Verificando casos.." do
           datos.casos do |total|
             expect(total).to be(casos_totales)
