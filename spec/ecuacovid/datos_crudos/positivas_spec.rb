@@ -49,7 +49,7 @@ class PositivasTest
                " | update poblacion {                                             "\
                "     get poblacion | reduce -f 0 {                                "\
                "       = $acc + $it.canton_poblacion                              "\
-               "      }                                                           "\
+               "     }                                                            "\
                "   }                                                              "\
                " | to json                                                        "\
                " | echo $it                                                       "
