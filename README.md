@@ -11,26 +11,33 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
 
-[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muertes`, `muertes_probables`, `total_muertes`, `muertes_nuevas`, `positivas`, `pcr_positivas`, `pcr_positivas_nuevas`, `rapidas_positivas`, `negativas`, `muestras`, `estables_aisladas_domiciliarias`, `hospitalizadas_altas`, `hospitalizadas_estables`, `hospitalizadas_pronostico_reservadas`, `created_at`) donde:
+[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muestras`,`muestras_pcr`,`muestras_pcr_nuevas`,`pruebas_rezagadas`,`muertes_confirmadas`,`muertes_probables`,`muertes`,`muertes_nuevas`,`positivas`,`positivas_pcr`,`positivas_pcr_nuevas`,`positivas_rapidas`,`negativas`,`negativas_pcr`,`negativas_pcr_nuevas`,`negativas_rapidas`,`hospitalizadas_altas`,`hospitalizadas_estables`,`hospitalizadas_pronostico_reservadas`,`created_at`) donde:
 
-* `muertes` = El total de muertes
+* `muestras` = Muestras tomadas entre PCR y pruebas rápidas
+* `muestras_pcr` = Muestras tomadas para RT-PCR
+* `muestras_pcr_nuevas` = El número de nuevas muestras
+* `pruebas_rezagadas` = Pruebas rezagadas
+* `muertes_confirmadas` = El total de muertes confirmadas
 * `muertes_probables` = El total de muertes probables
-* `total_muertes` = El total de muertes más el total de las muertes probables
-* `muertes_nuevas` = El total de muertes nuevas respecto al día anterior
-* `positivas` = El total de casos positivos
-* `pcr_positivas` = El total de casos positivos de pruebas PCR
-* `pcr_positivas_nuevas` = El total de nuevos casos positivos respecto al día anterior
-* `rapidas_positivas` = El total de casos positivos de pruebas rápidas
-* `negativas` = El total de casos negativos
-* `muestras` = El total de muestras tomadas
-* `hospitalizadas_altas` = El total de altas hospitalitaria
+* `muertes` = El total de muertes confirmadas junto las probables
+* `muertes_nuevas` = El número de nuevas muertes
+* `positivas` = El total de pruebas confirmadas (PCR y rápidas)
+* `positivas_pcr` = El total de pruebas PCR confirmadas
+* `positivas_pcr_nuevas` = El número de nuevas pruebas PCR confirmadas
+* `positivas_rapidas` = El total de pruebas rápidas confirmadas
+* `negativas` = El total de pruebas descartadas (PCR y rápidas)
+* `negativas_pcr` = El total de pruebas PCR descartadas
+* `negativas_pcr_nuevas` = El número de nuevas pruebas PCR descartadas
+* `negativas_rapidas` = El total de pruebas rápidas descartadas
+* `hospitalizadas_altas` = El total de alta hospitalitaria
 * `hospitalizadas_estables` = El total de hospitalizados estables
 * `hospitalizadas_pronostico_reservadas` = El total de hospitalizados con pronóstico reservado
-* `created_at` = La fecha del registro
+* `created_at` = El día de registro de informe MSP
+
 
 [ecuacovid-muertes_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-muertes_por_dia.csv) (`informacion`, `fechas por día`) donde:
 
-* `informacion` = Tipo de muerte (total muertes, muertes, nuevas muertes, y muertes probables)
+* `informacion` = Tipo de muerte (uertes, confirmadas, probables, nuevas)
 * `fechas por día` = Todas las fechas por día
 
 [ecuacovid-positivas_por_dia.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid-positivas_por_dia.csv) (`informacion`, `fechas por día`) donde:
