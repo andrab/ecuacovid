@@ -1012,8 +1012,29 @@ class Criterios
     def pendiente
 <<NACIONAL
   [         
-    [muestras, muertes_confirmadas, muertes_probables, positivas, negativas, altas, estables, pronostico_reservada ];
-    [  339130,                6924,              3777,    112166,    166773, 16447,      794,                  374 ]
+    [
+      muestras_pcr,
+      muertes_confirmadas,
+      muertes_probables,
+      muertes,
+      positivas_pcr,
+      negativas_pcr,
+      hospitalizadas_altas,
+      hospitalizadas_estables,
+      hospitalizadas_pronostico_reservadas
+    ];
+
+    [
+      339310,
+        6924,
+        3777,
+       10701,
+      112166,
+      166773,
+       16447,
+         794,
+         374
+    ]
   ]
 NACIONAL
     end

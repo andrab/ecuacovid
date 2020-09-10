@@ -11,7 +11,7 @@ Un proyecto que te proporciona un conjunto de datos sin procesar extraído [de l
 
 Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Contienen lo siguiente:
 
-[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muestras`,`muestras_pcr`,`muestras_pcr_nuevas`,`pruebas_rezagadas`,`muertes_confirmadas`,`muertes_probables`,`muertes`,`muertes_nuevas`,`positivas`,`positivas_pcr`,`positivas_pcr_nuevas`,`positivas_rapidas`,`negativas`,`negativas_pcr`,`negativas_pcr_nuevas`,`negativas_rapidas`,`hospitalizadas_altas`,`hospitalizadas_estables`,`hospitalizadas_pronostico_reservadas`,`created_at`) donde:
+[ecuacovid.csv](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.csv) [[json](https://raw.githubusercontent.com/andrab/ecuacovid/master/datos_crudos/ecuacovid.json)] (`muestras`,`muestras_pcr`,`muestras_pcr_nuevas`,`pruebas_rezagadas`,`muertes_confirmadas`,`muertes_probables`,`muertes`,`muertes_nuevas`,`positivas`,`positivas_pcr`,`positivas_pcr_nuevas`,`positivas_rapidas`,`negativas`,`negativas_pcr`,`negativas_pcr_nuevas`,`negativas_rapidas`,`defunciones`, `defunciones_nuevas`, `defunciones_2019`, `defunciones_2019_nuevas`, `defunciones_2018`, `defunciones_2018_nuevas`, `defunciones_2017`, `defunciones_2017_nuevas`, `defunciones_2016`, `defunciones_2016_nuevas`, `defunciones_2015`, `defunciones_2015_nuevas`, `hospitalizadas_altas`,`hospitalizadas_estables`,`hospitalizadas_pronostico_reservadas`,`created_at`) donde:
 
 * `muestras` = Muestras tomadas entre PCR y pruebas rápidas
 * `muestras_pcr` = Muestras tomadas para RT-PCR
@@ -29,6 +29,18 @@ Puedes ver los archivos en la carpeta `datos_crudos` [aquí](datos_crudos/). Con
 * `negativas_pcr` = El total de pruebas PCR descartadas
 * `negativas_pcr_nuevas` = El número de nuevas pruebas PCR descartadas
 * `negativas_rapidas` = El total de pruebas rápidas descartadas
+* `defunciones` = El total acumulado de defunciones de este año
+* `defunciones_nuevas` = El número total de defunciones del día
+* `defunciones_2019` = El total acumulado de defunciones 2019
+* `defunciones_2019_nuevas` = El número total de defunciones del día 
+* `defunciones_2018` = El total acumulado de defunciones 2018
+* `defunciones_2018_nuevas` = El número total de defunciones del día 
+* `defunciones_2017` = El total acumulado de defunciones 2017
+* `defunciones_2017_nuevas` = El número total de defunciones del día 
+* `defunciones_2016` = El total acumulado de defunciones 2016
+* `defunciones_2016_nuevas` = El número total de defunciones del día 
+* `defunciones_2015` = El total acumulado de defunciones 2015
+* `defunciones_2015_nuevas` = El número total de defunciones del día 
 * `hospitalizadas_altas` = El total de alta hospitalitaria
 * `hospitalizadas_estables` = El total de hospitalizados estables
 * `hospitalizadas_pronostico_reservadas` = El total de hospitalizados con pronóstico reservado
