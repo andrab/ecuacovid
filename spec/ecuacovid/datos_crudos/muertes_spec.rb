@@ -57,7 +57,7 @@ describe "Muertes registradas" do
   Criterios.para(:muertes).each do |(informe, fecha, spec)|
     muertes_totales = spec[:muertes]
     ingresadas_totales =  spec[:provincias_ingresadas]
-    sin_ingresar_totales = spec[:provincias_sin_ingresar]
+    sin_ingresar_totales = spec[:sin_ingresar]
 
     datos = MuertesTest.para(fecha)
 
