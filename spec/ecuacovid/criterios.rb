@@ -1008,5 +1008,17 @@ class Criterios
     def para(tema)
       self.send(tema)
     end
+    
+    def pendiente
+<<NACIONAL
+  [         
+    [muestras, muertes_confirmadas, muertes_probables, positivas, negativas, altas, estables, pronostico_reservada ];
+    [  339130,                6924,              3777,    112166,    166773, 16447,      794,                  374 ]
+  ]
+NACIONAL
+    end
+    
   end
 end
+
+
