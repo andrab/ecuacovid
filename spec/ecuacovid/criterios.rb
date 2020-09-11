@@ -185,7 +185,8 @@ class Criterios
         [  :SNGRE_193_08H   ,"07/09/2020", {casos: 110092, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_194_08H   ,"08/09/2020", {casos: 110757, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_195_08H   ,"09/09/2020", {casos: 112166, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_196_08H   ,"10/09/2020", {casos: 113206, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_196_08H   ,"10/09/2020", {casos: 113206, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_197_08H   ,"11/09/2020", {casos: 114732, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -194,6 +195,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_197_08H   ,"11/09/2020", { muertes: 7054, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_196_08H   ,"10/09/2020", { muertes: 6971, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_195_08H   ,"09/09/2020", { muertes: 6924, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_194_08H   ,"08/09/2020", { muertes: 6869, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -613,15 +615,16 @@ class Criterios
        [  :"RCIV_01_01_2020-31_08_2020" ,"28/08/2020", muertes:  296],
        [  :"RCIV_01_01_2020-31_08_2020" ,"29/08/2020", muertes:  253],
        [  :"RCIV_01_01_2020-31_08_2020" ,"30/08/2020", muertes:  239],
-       [  :RCIV_09_09_2020              ,"01/09/2020", muertes:  245],
-       [  :RCIV_09_09_2020              ,"02/09/2020", muertes:  260],
-       [  :RCIV_09_09_2020              ,"03/09/2020", muertes:  275],
-       [  :RCIV_09_09_2020              ,"04/09/2020", muertes:  258],
-       [  :RCIV_09_09_2020              ,"05/09/2020", muertes:  255],
-       [  :RCIV_09_09_2020              ,"06/09/2020", muertes:  278],
-       [  :RCIV_09_09_2020              ,"07/09/2020", muertes:  224],
-       [  :RCIV_09_09_2020              ,"08/09/2020", muertes:  219],
-       [  :RCIV_09_09_2020              ,"09/09/2020", muertes:  119]]
+       [  :RCIV_10_09_2020              ,"01/09/2020", muertes:  249],
+       [  :RCIV_10_09_2020              ,"02/09/2020", muertes:  264],
+       [  :RCIV_10_09_2020              ,"03/09/2020", muertes:  278],
+       [  :RCIV_10_09_2020              ,"04/09/2020", muertes:  264],
+       [  :RCIV_10_09_2020              ,"05/09/2020", muertes:  262],
+       [  :RCIV_10_09_2020              ,"06/09/2020", muertes:  282],
+       [  :RCIV_10_09_2020              ,"07/09/2020", muertes:  237],
+       [  :RCIV_10_09_2020              ,"08/09/2020", muertes:  243],
+       [  :RCIV_10_09_2020              ,"09/09/2020", muertes:  215],
+       [  :RCIV_10_09_2020              ,"10/09/2020", muertes:   95]]
        .reverse
        .seleccionable
        .probar(ENV["SOLO"])
@@ -810,7 +813,8 @@ class Criterios
         [  :SNGRE_193_08H   ,"07/09/2020", {muestras: 351570, rezagadas:  57268}],
         [  :SNGRE_194_08H   ,"08/09/2020", {muestras: 354549, rezagadas:  58736}],
         [  :SNGRE_195_08H   ,"09/09/2020", {muestras: 359882, rezagadas:  60371}],
-        [  :SNGRE_196_08H   ,"10/09/2020", {muestras: 364196, rezagadas:  61704}]
+        [  :SNGRE_196_08H   ,"10/09/2020", {muestras: 364196, rezagadas:  61704}],
+        [  :SNGRE_197_08H   ,"11/09/2020", {muestras: 368671, rezagadas:  61343}]
       ]
       .reverse
       .seleccionable
@@ -987,7 +991,8 @@ class Criterios
         [  :SNGRE_193_08H   ,"07/09/2020", {probables: 3754, total: 10576}],
         [  :SNGRE_194_08H   ,"08/09/2020", {probables: 3758, total: 10627}],
         [  :SNGRE_195_08H   ,"09/09/2020", {probables: 3777, total: 10701}],
-        [  :SNGRE_196_08H   ,"10/09/2020", {probables: 3778, total: 10749}]
+        [  :SNGRE_196_08H   ,"10/09/2020", {probables: 3778, total: 10749}],
+        [  :SNGRE_197_08H   ,"11/09/2020", {probables: 3782, total: 10836}]
       ]
       .reverse
       .seleccionable
@@ -1030,15 +1035,15 @@ class Criterios
     ];
 
     [
-      343624,
-        6971,
-        3778,
-       10749,
-      113206,
-      168714,
-       16548,
-         764,
-         371
+      348099,
+        7054,
+        3782,
+       10836,
+      114732,
+      172024,
+       16651,
+         759,
+         367
     ]
   ]
 NACIONAL
