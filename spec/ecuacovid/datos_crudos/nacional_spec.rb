@@ -1,7 +1,7 @@
 require_relative "../support/prueba"
 require_relative "../support/caso"
 
-class NacionalPositivasTest
+class NacionalTest
   include Caso
 
   def initialize(source = "ecuacovid.csv")
@@ -14,14 +14,6 @@ class NacionalPositivasTest
                " | echo $it.positivas_pcr                                             "
     probar!(&block)
   end
-end
-
-class NacionalMuertesProbablesTest
-  include Caso
-
-  def initialize(source = "ecuacovid.csv")
-    @source = File.join(DIRECTORY, source)
-  end
 
   def muertes_con_probables(&block)
     @command = "open #{@source}                                                             "\
@@ -31,15 +23,6 @@ class NacionalMuertesProbablesTest
                "   }                                                                        "\
                " | echo $it                                                                 "
     probar!(&block)
-  end
-end
-
-class NacionalMuestrasTest
-  require_relative '../criterios'
-  include Caso
-
-  def initialize(source = "ecuacovid.csv")
-    @source = File.join(DIRECTORY, source)
   end
 
   def muestras(casos, &block)
@@ -70,51 +53,56 @@ end
 describe "Información Nacional" do
   require_relative "../criterios"
   require_relative "../cifras"
+  require "json"
 
-  context "Muestras" do
-    require 'json'
+  Criterios.para(:con_muestras).each do |(informe, fecha, spec)|
+    muestras = spec[:muestras]
+    rezagadas =  spec[:rezagadas]
+    positivas_pcr = informe == :_SIN_INFORME_ ? nil : spec[:positivas_pcr]
 
-    Criterios.para(:con_muestras).each do |(informe, fecha, spec)|
-      muestras = spec[:muestras]
-      rezagadas =  spec[:rezagadas]
-      positivas_pcr = informe == :_SIN_INFORME_ ? nil : spec[:positivas_pcr]
+    prueba = NacionalTest.para(fecha)
 
-      prueba = NacionalMuestrasTest.para(fecha)
+    context "Muestras: #{fecha}" do
+      prueba.muestras(positivas_pcr) do |valores|
+        valores = JSON.load(valores).transform_keys(&:to_sym)
 
-      it "Verificando día #{fecha}: #{prueba.formatear(informe)}..." do
-        prueba.muestras(positivas_pcr) do |valores|
-          valores = JSON.load(valores).transform_keys(&:to_sym)
-
+        it "Verificando rezadas..." do
           expect(valores[:test_rezagadas]).to be(rezagadas)
+        end
+
+        it "Verificando rezadas con rápidas..."  do
           expect(valores[:test_rezagadas_con_rapidas]).to be(rezagadas)
+        end
+
+        it "Verificando muestras tomadas..." do
           expect(valores[:test_muestras]).to be(muestras)
         end
       end
     end
   end
+  
+  Criterios.para(:positivas).each do |(informe, fecha, spec)|
+    casos_totales = spec[:casos]
 
-  context "Pruebas positivas" do
-    Criterios.para(:positivas).each do |(informe, fecha, spec)|
-      casos_totales = spec[:casos]
+    prueba = NacionalTest.para(fecha)
 
-      prueba = NacionalPositivasTest.para(fecha)
-
-      it "Verificando día #{fecha}: #{prueba.formatear(informe)}..." do
-        prueba.casos do |total|
+    context "PCR: #{fecha}" do
+      prueba.casos do |total|
+        it "Verificando positivas..." do
           expect(total).to be(informe == :_SIN_INFORME_ ? total : casos_totales)
         end
       end
     end
   end
 
-  context "Muertes probables" do
-    Criterios.para(:con_muertes_probables).each do |(informe, fecha, spec)|
-      total_esperadas = spec[:total] + spec[:probables] + spec[:muertes]
+  Criterios.para(:con_muertes_probables).each do |(informe, fecha, spec)|
+    total_esperadas = spec[:total] + spec[:probables] + spec[:muertes]
   
-      prueba = NacionalMuertesProbablesTest.para(fecha)
+    prueba = NacionalTest.para(fecha)
   
-      it "Verificando día #{fecha}: #{prueba.formatear(informe)}..." do
-        prueba.muertes_con_probables do |total|
+    context "Muertes: #{fecha}" do
+      prueba.muertes_con_probables do |total|
+        it "Verificando con muertes probables..." do
           expect(total).to be(total_esperadas)
         end
       end
