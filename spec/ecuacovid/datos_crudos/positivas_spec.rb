@@ -4,6 +4,14 @@ require_relative "../support/caso"
 class PositivasTest
   include Caso
 
+  class << self
+    def provinciales(fecha)
+      datos = PositivasTest.para(fecha)
+      datos.usar_provincias!
+      datos
+    end
+  end
+
   def initialize(source = "positivas/cantones.csv")
     @source = File.join(DIRECTORY, source)
   end
@@ -25,7 +33,7 @@ class PositivasTest
     probar!(&block)
   end
 
-  def cantones_ingresados(&block)
+  def ingresados(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
                " | count "\
@@ -33,7 +41,7 @@ class PositivasTest
     probar!(&block)
   end
 
-  def cantones_sin_ingresar(&block)
+  def sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
                " | count "\
@@ -69,23 +77,30 @@ describe "Casos Positivos" do
       ingresados_totales =  spec[:cantones_ingresados]
       sin_ingresar_totales = spec[:sin_ingresar]
 
-      datos = PositivasTest.para(fecha)
+      cantonales = PositivasTest.para(fecha)
 
-      context "informe: #{datos.formatear(informe)}..." do
+      context "informe: #{cantonales.formatear(informe)}..." do
         it "Verificando casos.." do
-          datos.casos do |total|
+          cantonales.casos do |total|
             expect(total).to be(casos_totales)
           end
         end
 
-        it "Verificando cantones con información.." do
-          datos.cantones_ingresados do |total|
+        it "Verificando provinciales.." do
+          provinciales = PositivasTest.provinciales(fecha)
+          provinciales.casos do |total|
+            expect(total).to be(casos_totales)
+          end
+        end
+
+       it "Verificando cantones con información.." do
+          cantonales.ingresados do |total|
             expect(total).to be(ingresados_totales)
           end
         end 
  
         it "Verificando cantones sin información.." do
-          datos.cantones_sin_ingresar do |total|
+          cantonales.sin_ingresar do |total|
             expect(total).to be(sin_ingresar_totales)
           end
         end
@@ -95,7 +110,7 @@ describe "Casos Positivos" do
         end
  
         it "Verificando población por provincia sumando sus cantones respectivos.." do
-          datos.poblaciones do |poblaciones|
+          cantonales.poblaciones do |poblaciones|
             poblaciones = {}.tap do |actuales|
               JSON.load(poblaciones).each do |d|
                 actuales[d["provincia"]] = d["poblacion"]
