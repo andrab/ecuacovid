@@ -87,8 +87,7 @@ describe "Casos Positivos" do
         end
 
         it "Verificando provinciales.." do
-          provinciales = PositivasTest.provinciales(fecha)
-          provinciales.casos do |total|
+          PositivasTest.provinciales(fecha).casos do |total|
             expect(total).to be(casos_totales)
           end
         end
