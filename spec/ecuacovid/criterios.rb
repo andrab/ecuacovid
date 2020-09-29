@@ -202,7 +202,8 @@ class Criterios
         [  :SNGRE_210_08H   ,"24/09/2020", {casos: 131146, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_211_08H   ,"25/09/2020", {casos: 132475, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_212_08H   ,"26/09/2020", {casos: 133981, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_213_08H   ,"27/09/2020", {casos: 134747, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_213_08H   ,"27/09/2020", {casos: 134747, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_214_08H   ,"28/09/2020", {casos: 134965, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -211,6 +212,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_214_08H   ,"28/09/2020", { muertes: 7477, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_213_08H   ,"27/09/2020", { muertes: 7476, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_212_08H   ,"26/09/2020", { muertes: 7470, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_211_08H   ,"25/09/2020", { muertes: 7436, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -648,32 +650,33 @@ class Criterios
         [  :"RCIV_01_01_2020-31_08_2020" ,"29/08/2020", muertes:  267],
         [  :"RCIV_01_01_2020-31_08_2020" ,"30/08/2020", muertes:  250],
         [  :"RCIV_01_01_2020-31_08_2020" ,"31/08/2020", muertes:  284],
-        [  :RCIV_26_09_2020              ,"01/09/2020", muertes:  255],
-        [  :RCIV_26_09_2020              ,"02/09/2020", muertes:  272],
-        [  :RCIV_26_09_2020              ,"03/09/2020", muertes:  287],
-        [  :RCIV_26_09_2020              ,"04/09/2020", muertes:  281],
-        [  :RCIV_26_09_2020              ,"05/09/2020", muertes:  280],
-        [  :RCIV_26_09_2020              ,"06/09/2020", muertes:  310],
-        [  :RCIV_26_09_2020              ,"07/09/2020", muertes:  258],
-        [  :RCIV_26_09_2020              ,"08/09/2020", muertes:  273],
-        [  :RCIV_26_09_2020              ,"09/09/2020", muertes:  281],
-        [  :RCIV_26_09_2020              ,"10/09/2020", muertes:  271],
-        [  :RCIV_26_09_2020              ,"11/09/2020", muertes:  218],
-        [  :RCIV_26_09_2020              ,"12/09/2020", muertes:  265],
-        [  :RCIV_26_09_2020              ,"13/09/2020", muertes:  271],
-        [  :RCIV_26_09_2020              ,"14/09/2020", muertes:  260],
-        [  :RCIV_26_09_2020              ,"15/09/2020", muertes:  243],
-        [  :RCIV_26_09_2020              ,"16/09/2020", muertes:  251],
-        [  :RCIV_26_09_2020              ,"17/09/2020", muertes:  249],
-        [  :RCIV_26_09_2020              ,"18/09/2020", muertes:  251],
-        [  :RCIV_26_09_2020              ,"19/09/2020", muertes:  218],
-        [  :RCIV_26_09_2020              ,"20/09/2020", muertes:  253],
-        [  :RCIV_26_09_2020              ,"21/09/2020", muertes:  237],
-        [  :RCIV_26_09_2020              ,"22/09/2020", muertes:  249],
-        [  :RCIV_26_09_2020              ,"23/09/2020", muertes:  200],
-        [  :RCIV_26_09_2020              ,"24/09/2020", muertes:  183],
-        [  :RCIV_26_09_2020              ,"25/09/2020", muertes:  154],
-        [  :RCIV_26_09_2020              ,"26/09/2020", muertes:   93]
+        [  :RCIV_27_09_2020              ,"01/09/2020", muertes:  255],
+        [  :RCIV_27_09_2020              ,"02/09/2020", muertes:  274],
+        [  :RCIV_27_09_2020              ,"03/09/2020", muertes:  287],
+        [  :RCIV_27_09_2020              ,"04/09/2020", muertes:  281],
+        [  :RCIV_27_09_2020              ,"05/09/2020", muertes:  281],
+        [  :RCIV_27_09_2020              ,"06/09/2020", muertes:  310],
+        [  :RCIV_27_09_2020              ,"07/09/2020", muertes:  259],
+        [  :RCIV_27_09_2020              ,"08/09/2020", muertes:  273],
+        [  :RCIV_27_09_2020              ,"09/09/2020", muertes:  281],
+        [  :RCIV_27_09_2020              ,"10/09/2020", muertes:  273],
+        [  :RCIV_27_09_2020              ,"11/09/2020", muertes:  219],
+        [  :RCIV_27_09_2020              ,"12/09/2020", muertes:  265],
+        [  :RCIV_27_09_2020              ,"13/09/2020", muertes:  271],
+        [  :RCIV_27_09_2020              ,"14/09/2020", muertes:  262],
+        [  :RCIV_27_09_2020              ,"15/09/2020", muertes:  245],
+        [  :RCIV_27_09_2020              ,"16/09/2020", muertes:  253],
+        [  :RCIV_27_09_2020              ,"17/09/2020", muertes:  251],
+        [  :RCIV_27_09_2020              ,"18/09/2020", muertes:  252],
+        [  :RCIV_27_09_2020              ,"19/09/2020", muertes:  221],
+        [  :RCIV_27_09_2020              ,"20/09/2020", muertes:  254],
+        [  :RCIV_27_09_2020              ,"21/09/2020", muertes:  237],
+        [  :RCIV_27_09_2020              ,"22/09/2020", muertes:  251],
+        [  :RCIV_27_09_2020              ,"23/09/2020", muertes:  203],
+        [  :RCIV_27_09_2020              ,"24/09/2020", muertes:  192],
+        [  :RCIV_27_09_2020              ,"25/09/2020", muertes:  170],
+        [  :RCIV_27_09_2020              ,"26/09/2020", muertes:  143],
+        [  :RCIV_27_09_2020              ,"27/09/2020", muertes:  108]
       ]
       .reverse
       .seleccionable
@@ -880,7 +883,8 @@ class Criterios
         [  :SNGRE_210_08H   ,"24/09/2020", {muestras: 424423, rezagadas:  66424}],
         [  :SNGRE_211_08H   ,"25/09/2020", {muestras: 429906, rezagadas:  67510}],
         [  :SNGRE_212_08H   ,"26/09/2020", {muestras: 436870, rezagadas:  68516}],
-        [  :SNGRE_213_08H   ,"27/09/2020", {muestras: 439357, rezagadas:  68287}]
+        [  :SNGRE_213_08H   ,"27/09/2020", {muestras: 439357, rezagadas:  68287}],
+        [  :SNGRE_214_08H   ,"28/09/2020", {muestras: 440312, rezagadas:  68519}]
       ]
       .reverse
       .seleccionable
@@ -1074,7 +1078,8 @@ class Criterios
         [  :SNGRE_210_08H   ,"24/09/2020", {probables: 3799, total: 11213}],
         [  :SNGRE_211_08H   ,"25/09/2020", {probables: 3800, total: 11236}],
         [  :SNGRE_212_08H   ,"26/09/2020", {probables: 3803, total: 11273}],
-        [  :SNGRE_213_08H   ,"27/09/2020", {probables: 3803, total: 11279}]
+        [  :SNGRE_213_08H   ,"27/09/2020", {probables: 3803, total: 11279}],
+        [  :SNGRE_214_08H   ,"28/09/2020", {probables: 3803, total: 11280}]
       ]
       .reverse
       .seleccionable
@@ -1117,15 +1122,15 @@ class Criterios
     ];
 
     [
-      418785,
-        7476,
+      419740,
+        7477,
         3803,
-       11279,
-      134747,
-      215751,
-       18570,
-         724,
-         355
+       11280,
+      134965,
+      216256,
+       18611,
+         728,
+         366
     ]
   ]
 NACIONAL
