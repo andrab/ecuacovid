@@ -206,7 +206,10 @@ class Criterios
         [  :SNGRE_214_08H   ,"28/09/2020", {casos: 134965, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_215_08H   ,"29/09/2020", {casos: 135749, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_216_08H   ,"30/09/2020", {casos: 137047, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_217_08H   ,"01/10/2020", {casos: 138584, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_217_08H   ,"01/10/2020", {casos: 138584, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_218_08H   ,"02/10/2020", {casos: 139534, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_219_08H   ,"03/10/2020", {casos: 140351, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_220_08H   ,"04/10/2020", {casos: 141034, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -215,6 +218,9 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_220_08H   ,"04/10/2020", { muertes: 7792, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :SNGRE_219_08H   ,"03/10/2020", { muertes: 7742, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :SNGRE_218_08H   ,"02/10/2020", { muertes: 7678, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_217_08H   ,"01/10/2020", { muertes: 7621, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_216_08H   ,"30/09/2020", { muertes: 7546, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_215_08H   ,"29/09/2020", { muertes: 7509, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -685,7 +691,9 @@ class Criterios
         [  :RCIV_30_09_2020              ,"27/09/2020", muertes:  212],
         [  :RCIV_30_09_2020              ,"28/09/2020", muertes:  203],
         [  :RCIV_30_09_2020              ,"29/09/2020", muertes:  176],
-        [  :RCIV_30_09_2020              ,"30/09/2020", muertes:   70]
+        [  :RCIV_30_09_2020              ,"30/09/2020", muertes:   70],
+        [  :RCIV_02_10_2020              ,"01/10/2020", muertes:  183],
+        [  :RCIV_02_10_2020              ,"02/10/2020", muertes:   61]
       ]
       .reverse
       .seleccionable
@@ -896,7 +904,10 @@ class Criterios
         [  :SNGRE_214_08H   ,"28/09/2020", {muestras: 440312, rezagadas:  68519}],
         [  :SNGRE_215_08H   ,"29/09/2020", {muestras: 445105, rezagadas:  69932}],
         [  :SNGRE_216_08H   ,"30/09/2020", {muestras: 452891, rezagadas:  72401}],
-        [  :SNGRE_217_08H   ,"01/10/2020", {muestras: 459991, rezagadas:  74416}]
+        [  :SNGRE_217_08H   ,"01/10/2020", {muestras: 459991, rezagadas:  74416}],
+        [  :SNGRE_218_08H   ,"02/10/2020", {muestras: 467278, rezagadas:  77160}],
+        [  :SNGRE_219_08H   ,"03/10/2020", {muestras: 471670, rezagadas:  78284}],
+        [  :SNGRE_220_08H   ,"04/10/2020", {muestras: 474395, rezagadas:  78548}]
       ]
       .reverse
       .seleccionable
@@ -1094,7 +1105,10 @@ class Criterios
         [  :SNGRE_214_08H   ,"28/09/2020", {probables: 3803, total: 11280}],
         [  :SNGRE_215_08H   ,"29/09/2020", {probables: 3803, total: 11312}],
         [  :SNGRE_216_08H   ,"30/09/2020", {probables: 3809, total: 11355}],
-        [  :SNGRE_217_08H   ,"01/10/2020", {probables: 3812, total: 11433}]
+        [  :SNGRE_217_08H   ,"01/10/2020", {probables: 3812, total: 11433}],
+        [  :SNGRE_218_08H   ,"02/10/2020", {probables: 3817, total: 11495}],
+        [  :SNGRE_219_08H   ,"03/10/2020", {probables: 3855, total: 11597}],
+        [  :SNGRE_219_08H   ,"04/10/2020", {probables: 3855, total: 11647}]
       ]
       .reverse
       .seleccionable
@@ -1137,15 +1151,15 @@ class Criterios
     ];
 
     [
-      439419,
-        7621,
-        3812,
-       11433,
-      138584,
-      226419,
-       18887,
-         592,
-         347
+      453823,
+        7792,
+        3855,
+       11647,
+      141034,
+      234241,
+       19226,
+         641,
+         354
     ]
   ]
 NACIONAL
