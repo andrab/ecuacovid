@@ -210,7 +210,8 @@ class Criterios
         [  :SNGRE_218_08H   ,"02/10/2020", {casos: 139534, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_219_08H   ,"03/10/2020", {casos: 140351, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_220_08H   ,"04/10/2020", {casos: 141034, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_221_08H   ,"05/10/2020", {casos: 141339, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_221_08H   ,"05/10/2020", {casos: 141339, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_222_08H   ,"06/10/2020", {casos: 142056, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -219,6 +220,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_222_08H   ,"06/10/2020", { muertes: 7845, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_221_08H   ,"05/10/2020", { muertes: 7825, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_220_08H   ,"04/10/2020", { muertes: 7792, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_219_08H   ,"03/10/2020", { muertes: 7742, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -694,10 +696,11 @@ class Criterios
         [  :"RCIV_01_01_2020-30_09_2020" ,"28/09/2020", muertes:  220],
         [  :"RCIV_01_01_2020-30_09_2020" ,"29/09/2020", muertes:  214],
         [  :"RCIV_01_01_2020-30_09_2020" ,"30/09/2020", muertes:  202],
-        [  :RCIV_04_10_2020              ,"01/10/2020", muertes:  192],
-        [  :RCIV_04_10_2020              ,"02/10/2020", muertes:  129],
-        [  :RCIV_04_10_2020              ,"03/10/2020", muertes:   89],
-        [  :RCIV_04_10_2020              ,"04/10/2020", muertes:   46]
+        [  :RCIV_05_10_2020              ,"01/10/2020", muertes:  201],
+        [  :RCIV_05_10_2020              ,"02/10/2020", muertes:  150],
+        [  :RCIV_05_10_2020              ,"03/10/2020", muertes:  148],
+        [  :RCIV_05_10_2020              ,"04/10/2020", muertes:  153],
+        [  :RCIV_05_10_2020              ,"05/10/2020", muertes:   70]
       ]
       .reverse
       .seleccionable
@@ -912,7 +915,8 @@ class Criterios
         [  :SNGRE_218_08H   ,"02/10/2020", {muestras: 467278, rezagadas:  77160}],
         [  :SNGRE_219_08H   ,"03/10/2020", {muestras: 471670, rezagadas:  78284}],
         [  :SNGRE_220_08H   ,"04/10/2020", {muestras: 474395, rezagadas:  78548}],
-        [  :SNGRE_221_08H   ,"05/10/2020", {muestras: 475694, rezagadas:  78827}]
+        [  :SNGRE_221_08H   ,"05/10/2020", {muestras: 475694, rezagadas:  78827}],
+        [  :SNGRE_222_08H   ,"06/10/2020", {muestras: 465598, rezagadas:  66155}]
       ]
       .reverse
       .seleccionable
@@ -1114,7 +1118,8 @@ class Criterios
         [  :SNGRE_218_08H   ,"02/10/2020", {probables: 3817, total: 11495}],
         [  :SNGRE_219_08H   ,"03/10/2020", {probables: 3855, total: 11597}],
         [  :SNGRE_220_08H   ,"04/10/2020", {probables: 3855, total: 11647}],
-        [  :SNGRE_221_08H   ,"05/10/2020", {probables: 3856, total: 11681}]
+        [  :SNGRE_221_08H   ,"05/10/2020", {probables: 3856, total: 11681}],
+        [  :SNGRE_222_08H   ,"06/10/2020", {probables: 3857, total: 11702}]
       ]
       .reverse
       .seleccionable
@@ -1157,15 +1162,15 @@ class Criterios
     ];
 
     [
-      455122,
-        7825,
-        3856,
-       11681,
-      141339,
-      234956,
-       19275,
-         623,
-         356
+      445026,
+        7845,
+        3857,
+       11702,
+      142056,
+      236815,
+       19318,
+         610,
+         354
     ]
   ]
 NACIONAL
