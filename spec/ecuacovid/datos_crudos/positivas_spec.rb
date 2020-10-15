@@ -10,6 +10,14 @@ class PositivasTest
       datos.usar_provincias!
       datos
     end
+
+    def cantones_tabuladas(fecha)
+      Tabuladas.para(fecha)
+    end
+
+    def provinciales_tabuladas(fecha)
+      Tabuladas.provinciales(fecha)
+    end
   end
 
   def initialize(source = "positivas/cantones.csv")
@@ -21,10 +29,11 @@ class PositivasTest
   end
 
   def casos(&block)
-    @command = "open #{@source} "\
-               " | where created_at == #{@fecha} "\
-               " | reduce -f 0 { = $acc + $it.total } "\
-               " | echo $it"
+    @command = "open #{@source}                                                            "\
+               " | where created_at == #{@fecha}                                           "\
+               " | reduce -f 0 {                                                           "\
+               "    = $acc + $it.total                                                     "\
+               " }                                                                         "
     probar!(&block)
   end
 
@@ -36,32 +45,57 @@ class PositivasTest
   def ingresados(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
-               " | count "\
-               " | echo $it"
+               " | count "
     probar!(&block)
   end
 
   def sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
-               " | count "\
-               " | echo $it"
+               " | count "
     probar!(&block)
   end
 
   def poblaciones(&block)
-    @command = "open #{@source}                                                   "\
-               " | where created_at == #{@fecha}                                  "\
-               " | group-by provincia                                             "\
-               " | pivot provincia poblacion                                      "\
-               " | update poblacion {                                             "\
-               "     get poblacion | reduce -f 0 {                                "\
-               "       = $acc + $it.canton_poblacion                              "\
-               "     }                                                            "\
-               "   }                                                              "\
-               " | to json                                                        "\
-               " | echo $it                                                       "
+    @command = "open #{@source}                                                             "\
+               " | where created_at == #{@fecha}                                            "\
+               " | group-by provincia                                                       "\
+               " | pivot provincia poblacion                                                "\
+               " | update poblacion {                                                       "\
+               "     get poblacion | reduce -f 0 {                                          "\
+               "       = $acc + $it.canton_poblacion                                        "\
+               "     }                                                                      "\
+               "   }                                                                        "\
+               " | to json                                                                  "
     probar!(&block)
+  end
+
+  class Tabuladas
+    include Caso
+
+    class << self
+      def provinciales(fecha)
+        datos = Tabuladas.para(fecha)
+        datos.usar_provincias!
+        datos
+      end
+    end
+
+    def initialize(source = "positivas/por_fecha/cantones_por_dia_acumuladas.csv")
+      @source = File.join(DIRECTORY, source)
+    end
+
+    def usar_provincias!
+      @source = File.join(DIRECTORY, "positivas/por_fecha/provincias_por_dia_acumuladas.csv")
+    end
+#
+    def casos(&block)
+      @command = "open #{@source}                                                          "\
+                 " | reduce -f 0 {                                                         "\
+                 "    = $acc + $it.'#{@fecha}'                                             "\
+                 " }                                                                       "
+      probar!(&block)
+    end
   end
 end
 
@@ -86,8 +120,20 @@ describe "Casos Positivos" do
           end
         end
 
+        it "Verificando casos tabuladas.." do
+          PositivasTest.cantones_tabuladas(fecha).casos do |total|
+            expect(total).to be(casos_totales)
+          end
+        end
+
         it "Verificando provinciales.." do
           PositivasTest.provinciales(fecha).casos do |total|
+            expect(total).to be(casos_totales)
+          end
+        end
+
+        it "Verificando provinciales tabuladas.." do
+          PositivasTest.provinciales_tabuladas(fecha).casos do |total|
             expect(total).to be(casos_totales)
           end
         end
