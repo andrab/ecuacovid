@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 15/10/2020)
+## Muertes En Exceso Encima Del Promedio (corte 16/10/2020)
 
 ### Desde Marzo 16
 
