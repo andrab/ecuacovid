@@ -223,7 +223,6 @@ class Criterios
         [  :SNGRE_231_08H   ,"15/10/2020", {casos: 150360, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_232_08H   ,"16/10/2020", {casos: 151659, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_233_08H   ,"17/10/2020", {casos: 152422, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_233_08H   ,"17/10/2020", {casos: 152422, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_234_08H   ,"18/10/2020", {casos: 153289, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_235_08H   ,"19/10/2020", {casos: 153423, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
