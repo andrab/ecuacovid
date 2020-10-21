@@ -224,7 +224,8 @@ class Criterios
         [  :SNGRE_232_08H   ,"16/10/2020", {casos: 151659, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_233_08H   ,"17/10/2020", {casos: 152422, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_234_08H   ,"18/10/2020", {casos: 153289, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_235_08H   ,"19/10/2020", {casos: 153423, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_235_08H   ,"19/10/2020", {casos: 153423, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_236_08H   ,"20/10/2020", {casos: 154115, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -233,6 +234,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_236_08H   ,"20/10/2020", { muertes: 8115, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_235_08H   ,"19/10/2020", { muertes: 8106, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_234_08H   ,"18/10/2020", { muertes: 8099, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_233_08H   ,"17/10/2020", { muertes: 8087, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -722,24 +724,25 @@ class Criterios
         [  :"RCIV_01_01_2020-30_09_2020" ,"28/09/2020", muertes:  235],
         [  :"RCIV_01_01_2020-30_09_2020" ,"29/09/2020", muertes:  241],
         [  :"RCIV_01_01_2020-30_09_2020" ,"30/09/2020", muertes:  227],
-        [  :RCIV_18_10_2020              ,"01/10/2020", muertes:  225],
-        [  :RCIV_18_10_2020              ,"02/10/2020", muertes:  210],
-        [  :RCIV_18_10_2020              ,"03/10/2020", muertes:  220],
-        [  :RCIV_18_10_2020              ,"04/10/2020", muertes:  240],
-        [  :RCIV_18_10_2020              ,"05/10/2020", muertes:  239],
-        [  :RCIV_18_10_2020              ,"06/10/2020", muertes:  241],
-        [  :RCIV_18_10_2020              ,"07/10/2020", muertes:  253],
-        [  :RCIV_18_10_2020              ,"08/10/2020", muertes:  216],
-        [  :RCIV_18_10_2020              ,"09/10/2020", muertes:  232],
-        [  :RCIV_18_10_2020              ,"10/10/2020", muertes:  196],
-        [  :RCIV_18_10_2020              ,"11/10/2020", muertes:  273],
-        [  :RCIV_18_10_2020              ,"12/10/2020", muertes:  241],
-        [  :RCIV_18_10_2020              ,"13/10/2020", muertes:  220],
-        [  :RCIV_18_10_2020              ,"14/10/2020", muertes:  214],
-        [  :RCIV_18_10_2020              ,"15/10/2020", muertes:  175],
-        [  :RCIV_18_10_2020              ,"16/10/2020", muertes:  144],
-        [  :RCIV_18_10_2020              ,"17/10/2020", muertes:  111],
-        [  :RCIV_18_10_2020              ,"18/10/2020", muertes:   71]
+        [  :RCIV_19_10_2020              ,"01/10/2020", muertes:  225],
+        [  :RCIV_19_10_2020              ,"02/10/2020", muertes:  211],
+        [  :RCIV_19_10_2020              ,"03/10/2020", muertes:  223],
+        [  :RCIV_19_10_2020              ,"04/10/2020", muertes:  243],
+        [  :RCIV_19_10_2020              ,"05/10/2020", muertes:  243],
+        [  :RCIV_19_10_2020              ,"06/10/2020", muertes:  244],
+        [  :RCIV_19_10_2020              ,"07/10/2020", muertes:  257],
+        [  :RCIV_19_10_2020              ,"08/10/2020", muertes:  218],
+        [  :RCIV_19_10_2020              ,"09/10/2020", muertes:  237],
+        [  :RCIV_19_10_2020              ,"10/10/2020", muertes:  201],
+        [  :RCIV_19_10_2020              ,"11/10/2020", muertes:  277],
+        [  :RCIV_19_10_2020              ,"12/10/2020", muertes:  247],
+        [  :RCIV_19_10_2020              ,"13/10/2020", muertes:  225],
+        [  :RCIV_19_10_2020              ,"14/10/2020", muertes:  220],
+        [  :RCIV_19_10_2020              ,"15/10/2020", muertes:  194],
+        [  :RCIV_19_10_2020              ,"16/10/2020", muertes:  192],
+        [  :RCIV_19_10_2020              ,"17/10/2020", muertes:  184],
+        [  :RCIV_19_10_2020              ,"18/10/2020", muertes:  188],
+        [  :RCIV_19_10_2020              ,"19/10/2020", muertes:  172]
       ]
       .reverse
       .seleccionable
@@ -968,7 +971,8 @@ class Criterios
         [  :SNGRE_232_08H   ,"16/10/2020", {muestras: 507559, rezagadas:  69369}],
         [  :SNGRE_233_08H   ,"17/10/2020", {muestras: 512457, rezagadas:  71367}],
         [  :SNGRE_234_08H   ,"18/10/2020", {muestras: 515705, rezagadas:  70258}],
-        [  :SNGRE_235_08H   ,"19/10/2020", {muestras: 516424, rezagadas:  70411}]
+        [  :SNGRE_235_08H   ,"19/10/2020", {muestras: 516424, rezagadas:  70411}],
+        [  :SNGRE_236_08H   ,"20/10/2020", {muestras: 520243, rezagadas:  72099}]
       ]
       .reverse
       .seleccionable
@@ -1184,7 +1188,8 @@ class Criterios
         [  :SNGRE_232_08H   ,"16/10/2020", {probables: 4285, total: 12357}],
         [  :SNGRE_233_08H   ,"17/10/2020", {probables: 4288, total: 12375}],
         [  :SNGRE_234_08H   ,"18/10/2020", {probables: 4288, total: 12387}],
-        [  :SNGRE_235_08H   ,"19/10/2020", {probables: 4289, total: 12395}]
+        [  :SNGRE_235_08H   ,"19/10/2020", {probables: 4289, total: 12395}],
+        [  :SNGRE_236_08H   ,"20/10/2020", {probables: 4289, total: 12404}]
       ]
       .reverse
       .seleccionable
@@ -1227,15 +1232,15 @@ class Criterios
     ];
 
     [
-      495852,
-        8106,
+      499671,
+        8115,
         4289,
-       12395,
-      153423,
-      272018,
-       20432,
-         521,
-         366
+       12404,
+      154115,
+      273457,
+       20464,
+         523,
+         365
     ]
   ]
 NACIONAL
