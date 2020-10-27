@@ -11,24 +11,21 @@ class MuertesTest
   def casos(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} "\
-               " | reduce -f 0 { = $acc + $it.total } "\
-               " | echo $it"
+               " | reduce -f 0 { = $acc + $it.total } "
     probar!(&block)
   end
 
   def provincias_ingresadas(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
-               " | count "\
-               " | echo $it"
+               " | count "
     probar!(&block)
   end
   
   def provincias_sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
-               " | count "\
-               " | echo $it"
+               " | count "
     probar!(&block)
   end
 
@@ -42,8 +39,7 @@ class MuertesTest
                "       = $acc + $it.poblacion                                     "\
                "      }                                                           "\
                "   }                                                              "\
-               " | to json                                                        "\
-               " | echo $it                                                       "
+               " | to json                                                        "
     probar!(&block)
   end
 end

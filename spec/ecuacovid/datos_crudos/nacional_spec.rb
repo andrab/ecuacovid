@@ -11,7 +11,7 @@ class NacionalTest
   def casos(&block)
     @command = "open #{@source}                                                       "\
                " | where created_at == #{@fecha}                                      "\
-               " | echo $it.positivas_pcr                                             "
+               " | get positivas_pcr                                                  "
     probar!(&block)
   end
 
@@ -20,8 +20,7 @@ class NacionalTest
                " | where created_at == #{@fecha}                                            "\
                " | reduce -f 0 {                                                            "\
                "   = $acc + $it.muertes_confirmadas + $it.muertes_probables + $it.muertes   "\
-               "   }                                                                        "\
-               " | echo $it                                                                 "
+               "   }                                                                        "
     probar!(&block)
   end
 
@@ -44,8 +43,7 @@ class NacionalTest
                "                + ($it.muestras - ($it.positivas + $it.negativas))           "\
                "   }                                                                         "\
                " | select test_rezagadas test_rezagadas_con_rapidas test_muestras            "\
-               " | to json                                                                   "\
-               " | echo $it                                                                  "
+               " | to json                                                                   "
     probar!(&block)
   end
 end
