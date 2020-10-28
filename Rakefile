@@ -1,5 +1,6 @@
 require "bundler/gem_tasks"
-require 'rspec/core/rake_task'
+require "rspec/core/rake_task"
+#require "ecuacovid/tasks"
 
 RSpec::Core::RakeTask.new(:spec)
 
