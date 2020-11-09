@@ -244,7 +244,8 @@ class Criterios
         [  :SNGRE_252_08H   ,"05/11/2020", {casos: 171783, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_253_08H   ,"06/11/2020", {casos: 172508, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_254_08H   ,"07/11/2020", {casos: 173486, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_255_08H   ,"08/11/2020", {casos: 174907, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_255_08H   ,"08/11/2020", {casos: 174907, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_256_08H   ,"09/11/2020", {casos: 175269, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -253,6 +254,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_256_08H   ,"09/11/2020", { muertes: 8516, provincias_ingresadas: 24, sin_ingresar:  0}], 
         [  :SNGRE_255_08H   ,"08/11/2020", { muertes: 8507, provincias_ingresadas: 24, sin_ingresar:  0}],  
         [  :SNGRE_254_08H   ,"07/11/2020", { muertes: 8492, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_253_08H   ,"06/11/2020", { muertes: 8449, provincias_ingresadas: 24, sin_ingresar:  0}],
