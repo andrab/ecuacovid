@@ -1,4 +1,4 @@
-## Muertes En Exceso Encima Del Promedio (corte 15/11/2020)
+## Muertes En Exceso Encima Del Promedio (corte 16/11/2020)
 
 ### Desde Marzo 16
 
@@ -12,7 +12,7 @@
 
 ![Ecuador: Muertes en exceso](visualizaciones/ecuador_mensual.png "Ecuador: Muertes en exceso")
 
-### Anual
+### Muertes todas las causas Enero a Diciembre (2015-2019) y Enero a Noviembre (2020)
 
 ![Ecuador: Muertes en exceso](visualizaciones/ecuador_anual.png "Ecuador: Muertes en exceso")
 
