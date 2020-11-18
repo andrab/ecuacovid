@@ -8,6 +8,14 @@
 
 ![Ecuador: Muertes en exceso](visualizaciones/ecuador_julio.png "Ecuador: Muertes en exceso")
 
+### Mensual
+
+![Ecuador: Muertes en exceso](visualizaciones/ecuador_mensual.png "Ecuador: Muertes en exceso")
+
+### Anual
+
+![Ecuador: Muertes en exceso](visualizaciones/ecuador_anual.png "Ecuador: Muertes en exceso")
+
 ## Pichincha
 
 ![Pichincha: Muertes en exceso](visualizaciones/pichincha.png "Pichincha: Muertes en exceso")

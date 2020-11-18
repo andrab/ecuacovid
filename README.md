@@ -1,7 +1,7 @@
 [![Travis Build Status](https://travis-ci.org/andrab/ecuacovid.svg?branch=master)](https://travis-ci.org/andrab/ecuacovid)
 [![Maintainability](https://api.codeclimate.com/v1/badges/2e4a49500559587cbc5f/maintainability)](https://codeclimate.com/github/andrab/ecuacovid/maintainability)
 [![Discord](https://img.shields.io/discord/693754947040444436.svg?logo=discord)](https://discord.gg/WnS2ss)
-[![@cocoronata](https://img.shields.io/badge/twitter-@cococoronata-1DA1F3?style=flat-square)](https://twitter.com/cocoronata)
+[![@cocoronata](https://img.shields.io/badge/twitter-@cocoronata-1DA1F3?style=flat-square)](https://twitter.com/cocoronata)
 [![@andras_io](https://img.shields.io/badge/twitter-@andras_io-1DA1F3?style=flat-square)](https://twitter.com/andras_io)
 
 # Ecuacovid
