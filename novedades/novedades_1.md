@@ -1,4 +1,4 @@
-# Novedades en Cococoronata #1
+# Novedades en Cocoronata #1
 
 * [Andrés](http://twitter.com/andras_io) N. Robalino [extrajo todos los datos](https://github.com/andrab/ecuacovid/commits/master) del registro civil, SNGRE. Regeneró todos los datos a [formatos prácticos de trabajarla](https://github.com/andrab/ecuacovid/tree/master/datos_crudos). Regeneró [visualizaciones](https://github.com/andrab/ecuacovid/tree/master/reportes) diarias.
 * Carlos Oporto [anuncia diariamente](http://twitter.com/carlosoporto) análisis de la situación: casos, fallecidos, incluyendo exceso de muertes.

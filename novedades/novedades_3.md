@@ -1,4 +1,4 @@
-# Novedades en Cococoronata #3
+# Novedades en Cocoronata #3
 
 * El Observatorio Social del Ecuador y Andrés N. Robalino confirman que registro civíl publica defunciones de 220 cantones faltando el cantón San Juan Bosco de la provincia Morona Santiago.
 * Carlos Oporto agrega [cifras nacionales](https://github.com/andrab/ecuacovid/commits?author=itos) de SNGRE al repositorio Ecuacovid.

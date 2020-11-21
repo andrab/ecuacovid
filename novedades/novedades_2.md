@@ -1,4 +1,4 @@
-# Novedades en Cococoronata #2
+# Novedades en Cocoronata #2
 
 * [Santiago Ron](https://twitter.com/santiak) realizó un análisis con [exceso de mortalidad mensual](https://twitter.com/santiak/status/1290299130036850690) respecto al año 2019.
 * [Carlos Oporto](https://twitter.com/carlosoporto) confirmó [Registro Civil publica](https://twitter.com/TaianoVicente2/status/1288877655266332675) defunciones por *lugar* de fallecimiento. [Empezó a informar visualizaciones](https://twitter.com/carlosoporto/status/1287869371767898112) con excesos de muertes respecto al promedio de los años 2005 al 2009 usando la mediana. [Hizo llegar los datos](https://twitter.com/carlosoporto/status/1288637137248821250) a médicos que conforman mesa técnica Covid del Municipio de Guayaquil.

@@ -1,4 +1,4 @@
-# Novedades en Cococoronata #4
+# Novedades en Cocoronata #4
 
 * Ecuador tiene 88,266 muertes `corte 23/09/2020` desde Enero `todas las causas` superando las muertes anuales de los últimos cinco años `Enero-Diciembre`: 2015: `64,790`, 2016: `67,506`, 2017: `69,247`, 2018: `71,007`, 2019: `73,431`
 * Andrés N. Robalino agregó los datos crudos de SNGRE y Registro Civil diariamente y [visualizaciones de exceso de muertes](https://bit.ly/coronavirusEC) por día y mes.
