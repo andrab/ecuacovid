@@ -259,7 +259,8 @@ class Criterios
         [  :SNGRE_267_08H   ,"20/11/2020", {casos: 183840, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_268_08H   ,"21/11/2020", {casos: 184876, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_269_08H   ,"22/11/2020", {casos: 185643, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_270_08H   ,"23/11/2020", {casos: 185944, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_270_08H   ,"23/11/2020", {casos: 185944, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_271_08H   ,"24/11/2020", {casos: 186436, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -268,6 +269,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_271_08H   ,"24/11/2020", { muertes: 8861, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_270_08H   ,"23/11/2020", { muertes: 8825, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_269_08H   ,"22/11/2020", { muertes: 8804, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_268_08H   ,"21/11/2020", { muertes: 8787, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1108,7 +1110,8 @@ class Criterios
         [  :SNGRE_267_08H   ,"20/11/2020", {muestras: 632453, rezagadas:  48275}],
         [  :SNGRE_268_08H   ,"21/11/2020", {muestras: 636428, rezagadas:  47265}],
         [  :SNGRE_269_08H   ,"22/11/2020", {muestras: 641542, rezagadas:  45942}],
-        [  :SNGRE_270_08H   ,"23/11/2020", {muestras: 643405, rezagadas:  45756}]
+        [  :SNGRE_270_08H   ,"23/11/2020", {muestras: 643405, rezagadas:  45756}],
+        [  :SNGRE_271_08H   ,"24/11/2020", {muestras: 646936, rezagadas:  46587}]
       ]
       .reverse
       .seleccionable
@@ -1359,7 +1362,8 @@ class Criterios
         [  :SNGRE_267_08H   ,"20/11/2020", {probables: 4345, total: 13095}],
         [  :SNGRE_268_08H   ,"21/11/2020", {probables: 4352, total: 13139}],
         [  :SNGRE_269_08H   ,"22/11/2020", {probables: 4397, total: 13201}],
-        [  :SNGRE_270_08H   ,"23/11/2020", {probables: 4400, total: 13225}]
+        [  :SNGRE_270_08H   ,"23/11/2020", {probables: 4400, total: 13225}],
+        [  :SNGRE_271_08H   ,"24/11/2020", {probables: 4403, total: 13264}]
       ]
       .reverse
       .seleccionable
@@ -1402,15 +1406,15 @@ class Criterios
     ];
 
     [
-      622833,
-        8825,
-        4400,
-       13225,
-      185944,
-      391133,
-       22870,
-         488,
-         365
+      626364,
+        8861,
+        4403,
+       13264,
+      186436,
+      393341,
+       22901,
+         501,
+         367
     ]
   ]
 NACIONAL
