@@ -870,7 +870,8 @@ class Criterios
       [  :RCIV_27_11_2020              ,"27/11/2020", muertes:  180],
       [  :RCIV_28_11_2020              ,"28/11/2020", muertes:  171],
       [  :RCIV_29_11_2020              ,"29/11/2020", muertes:  160],
-      [  :RCIV_30_11_2020              ,"30/11/2020", muertes:   74]
+      [  :RCIV_30_11_2020              ,"30/11/2020", muertes:   74],
+      [  :RCIV_01_12_2020              ,"01/12/2020", muertes:   95]
       ]
       .reverse
       .seleccionable
