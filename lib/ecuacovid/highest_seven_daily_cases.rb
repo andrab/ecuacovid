@@ -15,40 +15,26 @@ module Ecuacovid
       @region = @view.region
 
       @app.view = self
-      @app.load_report(:positives_cities_accumulated_per_day_tabulated)
+      @app.entities(:daily_positives, [[:area, :eq, @region], [:ano, :eq, 2020], [:group, :by, :daily]])
     end
 
     def display_report(contents)
-      @contents = contents
-      send(@region)
-      sort
+      @contents = contents.map do |daily_cases|
+        except_latest_seven_days = daily_cases.days[...(daily_cases.days.size - 7)].sum
+
+        Hash[:city, daily_cases.city, :province, daily_cases.province, :total, daily_cases.total, :change, daily_cases.total - except_latest_seven_days].to_objectable
+      end.sort_by {|daily_cases| -daily_cases.change}
+      
       @view.tweet(format)
-    end
-
-    def cities
-      @contents = @contents.flatten.map {|r| r.transform_keys(&:to_sym).to_objectable}.map do |record|
-        city = record.canton
-        province = record.provincia
-
-        last_7 = record.keys[-8..]
-
-        first_day = record[last_7.first]
-        last_day  = record[last_7.last]
-        Hash[:city, city, :province, province, :total, last_day, :nuevas, last_day - first_day].to_objectable
-      end
-    end
-
-    def sort
-      @contents = @contents.sort_by {|data| -data[:nuevas]}
     end
 
     def format
       msg = []
 
-      top_five = @contents[2..].take(7).map {|record| "#{record.city}, #{record.province} #{fmt(record.total)} (+#{fmt(record.nuevas)})"}
+      top_five = @contents[2..].take(7).map {|daily_cases| "#{daily_cases.city}, #{daily_cases.province} #{fmt(daily_cases.total)} (+#{fmt(daily_cases.change)})"}
       msg << ["Cantones con más nuevos casos comparando desde hace siete días:", top_five]
 
-      priority = @contents[0,2].map {|record| "#{record.city}, #{record.province} #{fmt(record.total)} (+#{fmt(record.nuevas)})"}
+      priority = @contents[0,2].map {|daily_cases| "#{daily_cases.city}, #{daily_cases.province} #{fmt(daily_cases.total)} (+#{fmt(daily_cases.change)})"}
       msg << ["\nGuayaquil y Quito:", priority]
 
       msg.flatten.join("\n")

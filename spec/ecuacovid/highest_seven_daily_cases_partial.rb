@@ -4,50 +4,12 @@ require 'ecuacovid/highest_seven_daily_cases'
 require 'ecuacovid/app'
 
 class InMemoryStore
-  def positives(options={})
+  def daily_positives(options={})
     [
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,19), nuevas: 71},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,20), nuevas: 33},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,21), nuevas: 59},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,22), nuevas: 71},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,23), nuevas: 13},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,24), nuevas: 11},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,25), nuevas: 53},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,26), nuevas: 84},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,27), nuevas: 76},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,28), nuevas: 128},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,29), nuevas: 87},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,11,30), nuevas: 44},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,12,01), nuevas: 168},
-      {provincia: "Guayas", canton: "Guayaquil", created_at: DateTime.new(2020,12,02), nuevas: 220},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,20), nuevas: 290},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,21), nuevas: 487},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,22), nuevas: 244},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,23), nuevas: 148},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,24), nuevas: 143},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,25), nuevas: 295},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,26), nuevas: 228},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,27), nuevas: 409},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,28), nuevas: 639},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,29), nuevas: 667},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,11,30), nuevas: 114},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,12,01), nuevas: 335},
-      {provincia: "Pichincha", canton: "Quito", created_at: DateTime.new(2020,12,02), nuevas: 308},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,19), nuevas: 32},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,20), nuevas: 28},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,21), nuevas: 12},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,22), nuevas: 26},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,23), nuevas: 2},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,24), nuevas: 1},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,25), nuevas: 19},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,26), nuevas: 13},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,27), nuevas: 13},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,28), nuevas: 32},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,29), nuevas: 17},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,11,30), nuevas: 57},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,12,01), nuevas: 58},
-      {provincia: "Manabí", canton: "Portoviejo", created_at: DateTime.new(2020,12,02), nuevas: 82}
-  ].map(&:to_objectable)
+      {:province=>"Pichincha", :city=>"Quito", :total=>4698, :days=>[391, 290, 487, 244, 148, 143, 295, 228, 409, 639, 667, 114, 335, 308]},
+      {:province=>"Guayas", :city=>"Guayaquil", :total=>1118, :days=>[71, 33, 59, 71, 13, 11, 53, 84, 76, 128, 87, 44, 168, 220]},
+      {:province=>"Manabí", :city=>"Portoviejo", :total=>392, :days=>[32, 28, 12, 26, 2, 1, 19, 13, 13, 32, 17, 57, 58, 82]}
+    ].map(&:to_objectable)
   end
 end
 
@@ -68,9 +30,10 @@ class HighestSevenDailyTest < Ecuacovid::HighestSevenDailyCases
 
   class << self
     def run
-      table = Ecuacovid::Table.new(serializer: Ecuacovid::TableSerializers::Nu)
-      app = Ecuacovid::App.new(reporter: table, client: InMemoryStore.new)
-      new(app: app, view: StubUi.new)
+      app = Ecuacovid::App.new(client: InMemoryStore.new)
+      ui  = StubUi.new
+
+      new(app: app, view: ui)
     end
   end
 end
@@ -81,22 +44,15 @@ describe Ecuacovid::HighestSevenDailyCases do
   end
 
   it "report accumulated cases and new cases since the last seven days" do
-    cases = InMemoryStore.new.positives
+    cases = InMemoryStore.new.daily_positives
     expected_total_new_cases_since_last_seven_days = { "Quito" => 2700, "Guayaquil" => 807, "Portoviejo" => 272 }
-    expected_total_accumulated_cases = { "Quito" => 4307, "Guayaquil" => 1118, "Portoviejo" => 392 }
+    expected_total_accumulated_cases = { "Quito" => 4698, "Guayaquil" => 1118, "Portoviejo" => 392 }
 
     expected = %w{Quito Guayaquil Portoviejo}.map do |city_name|
-        props = []
+      accumulation = cases.find {|city| city.city == city_name}.days.reduce(:+)
+      expect(accumulation).to eq(expected_total_accumulated_cases[city_name])
 
-        accumulation = cases.select {|city| city.canton == city_name}.map(&:nuevas).reduce(:+)
-        expect(accumulation).to eq(expected_total_accumulated_cases[city_name])
-        props << [:total, accumulation]
-
-        props << [:nuevas, expected_total_new_cases_since_last_seven_days[city_name]]
-        props << [:city, city_name]
-        props << [:province, provinces[city_name]]
-
-        Hash[props]
+      Hash[:city, city_name, :province, provinces[city_name], :total, accumulation, :change, expected_total_new_cases_since_last_seven_days[city_name]]
     end
 
     actual = HighestSevenDailyTest.run

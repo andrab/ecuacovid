@@ -3,6 +3,8 @@ require 'ecuacovid/utils/string'
 
 module Ecuacovid
   module Nu
+    require 'ecuacovid/highest_seven_daily_cases'
+
     class Tweet < NuPlugin::Command
       attr_reader :region
 
