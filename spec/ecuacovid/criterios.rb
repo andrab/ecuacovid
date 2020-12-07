@@ -881,8 +881,9 @@ class Criterios
       [  :RCIV_30_11_2020              ,"30/11/2020", muertes:   74],
       [  :RCIV_01_12_2020              ,"01/12/2020", muertes:  235],
       [  :RCIV_02_12_2020              ,"02/12/2020", muertes:  226],
-      [  :RCIV_03_12_2020              ,"03/12/2020", muertes:  201],
-      [  :RCIV_03_12_2020              ,"04/12/2020", muertes:   71]
+      [  :RCIV_03_12_2020              ,"03/12/2020", muertes:  208],
+      [  :RCIV_03_12_2020              ,"04/12/2020", muertes:  122],
+      [  :RCIV_03_12_2020              ,"05/12/2020", muertes:   42]
       ]
       .reverse
       .seleccionable
