@@ -279,7 +279,8 @@ class Criterios
         [  :SNGRE_287_08H   ,"10/12/2020", {casos: 200379, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_288_08H   ,"11/12/2020", {casos: 200765, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_289_08H   ,"12/12/2020", {casos: 201524, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_290_08H   ,"13/12/2020", {casos: 202110, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_290_08H   ,"13/12/2020", {casos: 202110, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_291_08H   ,"14/12/2020", {casos: 202180, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -288,6 +289,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_291_08H   ,"14/12/2020", { muertes: 9337, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_290_08H   ,"13/12/2020", { muertes: 9337, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_289_08H   ,"12/12/2020", { muertes: 9336, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_288_08H   ,"11/12/2020", { muertes: 9323, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -893,16 +895,19 @@ class Criterios
       [  :"RCIV_01_01_2020-30_11_2020" ,"28/11/2020", muertes:  218],
       [  :"RCIV_01_01_2020-30_11_2020" ,"29/11/2020", muertes:  218],
       [  :"RCIV_01_01_2020-30_11_2020" ,"30/11/2020", muertes:  232],
-      [  :RCIV_01_12_2020              ,"01/12/2020", muertes:  253],
-      [  :RCIV_02_12_2020              ,"02/12/2020", muertes:  233],
-      [  :RCIV_03_12_2020              ,"03/12/2020", muertes:  241],
-      [  :RCIV_04_12_2020              ,"04/12/2020", muertes:  210],
-      [  :RCIV_05_12_2020              ,"05/12/2020", muertes:  213],
-      [  :RCIV_06_12_2020              ,"06/12/2020", muertes:  255],
-      [  :RCIV_07_12_2020              ,"07/12/2020", muertes:  202],
-      [  :RCIV_08_12_2020              ,"08/12/2020", muertes:  185],
-      [  :RCIV_09_12_2020              ,"09/12/2020", muertes:  180],
-      [  :RCIV_10_12_2020              ,"10/12/2020", muertes:   95]
+      [  :RCIV_01_12_2020              ,"01/12/2020", muertes:  254],
+      [  :RCIV_02_12_2020              ,"02/12/2020", muertes:  236],
+      [  :RCIV_03_12_2020              ,"03/12/2020", muertes:  242],
+      [  :RCIV_04_12_2020              ,"04/12/2020", muertes:  214],
+      [  :RCIV_05_12_2020              ,"05/12/2020", muertes:  218],
+      [  :RCIV_06_12_2020              ,"06/12/2020", muertes:  258],
+      [  :RCIV_07_12_2020              ,"07/12/2020", muertes:  210],
+      [  :RCIV_08_12_2020              ,"08/12/2020", muertes:  199],
+      [  :RCIV_09_12_2020              ,"09/12/2020", muertes:  207],
+      [  :RCIV_10_12_2020              ,"10/12/2020", muertes:  208],
+      [  :RCIV_11_12_2020              ,"11/12/2020", muertes:  147],
+      [  :RCIV_12_12_2020              ,"12/12/2020", muertes:   68],
+      [  :RCIV_13_12_2020              ,"13/12/2020", muertes:   24]
       ]
       .reverse
       .seleccionable
@@ -1186,7 +1191,8 @@ class Criterios
         [  :SNGRE_287_08H   ,"10/12/2020", {muestras: 703430, rezagadas:  40337}],
         [  :SNGRE_288_08H   ,"11/12/2020", {muestras: 705060, rezagadas:  40185}],
         [  :SNGRE_289_08H   ,"12/12/2020", {muestras: 708604, rezagadas:  40605}],
-        [  :SNGRE_290_08H   ,"13/12/2020", {muestras: 711141, rezagadas:  40030}]
+        [  :SNGRE_290_08H   ,"13/12/2020", {muestras: 711141, rezagadas:  40030}],
+        [  :SNGRE_291_08H   ,"14/12/2020", {muestras: 711735, rezagadas:  40055}]
       ]
       .reverse
       .seleccionable
@@ -1457,7 +1463,8 @@ class Criterios
         [  :SNGRE_287_08H   ,"10/12/2020", {probables: 4530, total: 13850}],
         [  :SNGRE_288_08H   ,"11/12/2020", {probables: 4535, total: 13858}],
         [  :SNGRE_289_08H   ,"12/12/2020", {probables: 4538, total: 13874}],
-        [  :SNGRE_290_08H   ,"13/12/2020", {probables: 4538, total: 13875}]
+        [  :SNGRE_290_08H   ,"13/12/2020", {probables: 4538, total: 13875}],
+        [  :SNGRE_291_08H   ,"14/12/2020", {probables: 4538, total: 13875}]
       ]
       .reverse
       .seleccionable
@@ -1500,15 +1507,15 @@ class Criterios
     ];
 
     [
-      690569,
+      691163,
         9337,
         4538,
        13875,
-      202110,
-      448429,
-       24474,
+      202180,
+      448928,
+       24500,
          433,
-         335
+         358
     ]
   ]
 NACIONAL
