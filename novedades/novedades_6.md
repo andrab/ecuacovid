@@ -2,7 +2,7 @@
 
 ## Información
 * Amanda Páez [comparte reflexiones](https://twitter.com/amandaasubiar/status/1343322690950746112) del afortunado error al momento de empezar estudios de eficacía y seguridad con la vacuna en desarrollo de Oxford en conjunto con AstraZenca. 
-* María Miranda [dice algunos detalles](https://twitter.com/MaiadelC/status/1341144694798098432) de la nueva variante de SARS-CoV-2 encontrada en el Reuno Unido.
+* María Miranda [dice algunos detalles](https://twitter.com/MaiadelC/status/1341144694798098432) de la nueva variante de SARS-CoV-2 encontrada en el Reino Unido.
 * Carlos Oporto [visualiza y reporta](https://twitter.com/carlosoporto/status/1343642230511333378) casos, pruebas, hospitalizados, fallecidos MSP y exceso de fallecidos.
 * La Escuela Politécnica Nacional [visualiza](https://twitter.com/ModeMatEC/status/1343242531736334336) el número de reproducción efectivo semanal en Ecuador (semanas 18-24).
 
