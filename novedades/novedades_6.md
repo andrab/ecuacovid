@@ -7,10 +7,9 @@
 * La Escuela Politécnica Nacional [visualiza](https://twitter.com/ModeMatEC/status/1343242531736334336) el número de reproducción efectivo semanal en Ecuador (semanas 18-24).
 
 ## Datos
-
 * Andrés N. Robalino [proporciona](https://github.com/andrab/ecuacovid/commit/ad01c14b4684a860d49d9a564499cbe552f1fea8) datos crudos Registro Civil (Generales Enero hasta Diciembre 27), informes MSP, y visualizaciones.
 
-## Exceso Mortalidad Hasta Noviembre 30, 2020 [Visualización](imagenes/exceso_6.png "Ecuador: Muertes en exceso")
+## Exceso Mortalidad Hasta Noviembre 30, 2020 [Visualización](https://github.com/andrab/ecuacovid/raw/master/novedades/imagenes/exceso_6.png "Ecuador: Muertes en exceso")
 | Provincia  | Fallecidos | Exceso |
 |---|---:|---:|
 |Pichincha|18,054|5,608|
@@ -38,7 +37,7 @@
 |Napo|497|153|
 |Galápagos|45|16|
 
-## Casos Positivos Ultimos 60 días /corte informe MSP [No. 303](../informes/SNGRE/303-26-12-2020-08H.pdf) (Visualizaciones: [1](imagenes/positivas_ultimas60_1.png),[2](imagenes/positivas_ultimas60_2.png),[3](imagenes/positivas_ultimas60_3.png))
+## Casos Positivos Ultimos 60 días /corte informe MSP [No. 303](../informes/SNGRE/303-26-12-2020-08H.pdf) (Visualizaciones: [1](https://github.com/andrab/ecuacovid/raw/master/novedades/imagenes/positivas_ultimas60_1.png),[2](https://github.com/andrab/ecuacovid/raw/master/novedades/imagenes/positivas_ultimas60_2.png),[3](https://github.com/andrab/ecuacovid/raw/master/novedades/imagenes/positivas_ultimas60_3.png))
 |Provincia|Promedio por día|Total Ultimos 60 días|Total|
 |---|---:|---:|---:|
 |Pichincha|103|17,025|74,282|
