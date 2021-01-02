@@ -297,7 +297,8 @@ class Criterios
         [  :SNGRE_305_08H   ,"28/12/2020", {casos: 209758, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_306_08H   ,"29/12/2020", {casos: 210326, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_307_08H   ,"30/12/2020", {casos: 211512, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_308_08H   ,"31/12/2020", {casos: 212512, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_308_08H   ,"31/12/2020", {casos: 212512, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_309_08H   ,"01/01/2021", {casos: 213378, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -306,6 +307,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_309_08H   ,"01/01/2021", { muertes: 9487, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_308_08H   ,"31/12/2020", { muertes: 9473, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_307_08H   ,"30/12/2020", { muertes: 9469, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_306_08H   ,"29/12/2020", { muertes: 9447, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1259,7 +1261,8 @@ class Criterios
         [  :SNGRE_305_08H   ,"28/12/2020", {muestras: 757887, rezagadas:  46902}],
         [  :SNGRE_306_08H   ,"29/12/2020", {muestras: 761704, rezagadas:  48639}],
         [  :SNGRE_307_08H   ,"30/12/2020", {muestras: 765556, rezagadas:  47397}],
-        [  :SNGRE_308_08H   ,"31/12/2020", {muestras: 769218, rezagadas:  48362}]
+        [  :SNGRE_308_08H   ,"31/12/2020", {muestras: 769218, rezagadas:  48362}],
+        [  :SNGRE_309_08H   ,"01/01/2021", {muestras: 772814, rezagadas:  47729}]
       ]
       .reverse
       .seleccionable
@@ -1548,7 +1551,8 @@ class Criterios
         [  :SNGRE_305_08H   ,"28/12/2020", {probables: 4553, total: 13994}],
         [  :SNGRE_306_08H   ,"29/12/2020", {probables: 4554, total: 14001}],
         [  :SNGRE_307_08H   ,"30/12/2020", {probables: 4554, total: 14023}],
-        [  :SNGRE_308_08H   ,"31/12/2020", {probables: 4561, total: 14034}]
+        [  :SNGRE_308_08H   ,"31/12/2020", {probables: 4561, total: 14034}],
+        [  :SNGRE_309_08H   ,"01/01/2021", {probables: 4564, total: 14051}]
       ]
       .reverse
       .seleccionable
@@ -1571,8 +1575,12 @@ class Criterios
       end
     end
     
-    def para(tema)
-      self.send(tema)
+    def para(tema, options={})
+      self.send(tema).select do |criterio|
+        month, day, year = criterio[1].split('/').map(&:to_i)
+
+        year == (options[:year] || (ENV["YEAR"] && ENV["YEAR"].to_i) || 2021)
+      end
     end
     
     def pendiente
@@ -1591,15 +1599,15 @@ class Criterios
     ];
 
     [
-      748646,
-        9473,
-        4561,
-       14034,
-      212512,
-      487772,
-       25575,
-         462,
-         360
+      752242,
+        9487,
+        4564,
+       14051,
+      213378,
+      491135,
+       25784,
+         522,
+         381
     ]
   ]
 NACIONAL
