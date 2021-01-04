@@ -121,6 +121,8 @@ describe "Casos Positivos" do
         end
 
         it "Verificando casos tabuladas.." do
+          pending("Implementar por acumulados")
+
           PositivasTest.cantones_tabuladas(fecha).casos do |total|
             expect(total).to be(casos_totales)
           end
@@ -133,6 +135,8 @@ describe "Casos Positivos" do
         end
 
         it "Verificando provinciales tabuladas.." do
+          pending("Implementar por acumulados")
+          
           PositivasTest.provinciales_tabuladas(fecha).casos do |total|
             expect(total).to be(casos_totales)
           end
