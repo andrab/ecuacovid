@@ -12,7 +12,7 @@
 
 ![Ecuador: Muertes en exceso](visualizaciones/ecuador_mensual.png "Ecuador: Muertes en exceso")
 
-### Muertes todas las causas Enero a Diciembre (2015-2019) y Enero a Noviembre (2020)
+### Muertes todas las causas Enero a Diciembre (2015-2020)
 
 ![Ecuador: Muertes en exceso](visualizaciones/ecuador_anual.png "Ecuador: Muertes en exceso")
 
