@@ -33,4 +33,5 @@ install:
   - bundle install
 
 script:
-  - bundle exec rake
+  - YEAR=ALL bundle exec rspec spec/ecuacovid/datos_crudos_spec.rb
+  - SOLO=50 bundle exec rake

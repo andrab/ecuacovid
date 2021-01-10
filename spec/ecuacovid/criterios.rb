@@ -1619,7 +1619,7 @@ class Criterios
       self.send(tema).select do |criterio|
         month, day, year = criterio[1].split('/').map(&:to_i)
 
-        year == (options[:year] || (ENV["YEAR"] && ENV["YEAR"].to_i) || 2021)
+        ENV["YEAR"] == "ALL" || year == (options[:year] || (ENV["YEAR"] && ENV["YEAR"].to_i) || 2021)
       end
     end
     

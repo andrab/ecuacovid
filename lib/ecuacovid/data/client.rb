@@ -4,7 +4,7 @@ module EcuacovidData
     attr_reader :handshake, :connection
     
     def initialize(options={})
-      @handshake = options[:handshake] || Handshake.new
+      @handshake = options[:handshake] || Handshake.local_storage
     end
     
     def connection
@@ -15,7 +15,15 @@ module EcuacovidData
     end
     
     def positives(options={})
-      connection.positives(filters: options[:filters])
+      connection.positives(filters: options[:filters] || [[:year, :in, [2020, 2021]]])
+    end
+
+    def deaths(options={})
+      connection.deaths(filters: options[:filters] || [[:year, :in, [2020, 2021]]])
+    end
+
+    def mortalities(options={})
+      connection.mortalities(filters: options[:filters] || [[:year, :in, [2020, 2021]]])
     end
   end
 

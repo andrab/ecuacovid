@@ -15,6 +15,15 @@ module EcuacovidData
     
       @service.prepare(query).pull
     end
+
+    def deaths(options={})
+      []
+    end
+
+    def mortalities(options={})
+      []
+    end
+    
   end
   
 end

@@ -1,6 +1,9 @@
 module Ecuacovid
+
   module Utils
+
     module Objectable
+
       def method_missing(name, *args, &block)
         return fetch(name) if has_key? name
         super.method_missing name, *args, &block
@@ -11,6 +14,9 @@ module Ecuacovid
           self.extend Objectable
         end
       end
+
     end
+
   end
+  
 end

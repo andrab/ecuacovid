@@ -1,1 +1,2 @@
-module Ecuacovid; end
+module Ecuacovid
+end

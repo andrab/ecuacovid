@@ -2,6 +2,7 @@ require 'ecuacovid/data'
 require 'date'
 
 describe EcuacovidData::Query do
+
   it "query prototype" do
     engine = EcuacovidData::Query.where(created_at: "01/01/2020")
     expect(engine.filters.first).to eq([:created_at, :eq, "01/01/2020"])
@@ -24,5 +25,19 @@ describe EcuacovidData::Query do
     value = client.positives(filters: [:created_at, :eq, "14/03/2020"])
     expect(value.first.created_at).to eq(DateTime.new(2020, 3, 14))
   end
+
+  it "query prototype" do
+    connector = EcuacovidData::Handshake.local_fast_storage
+    client = EcuacovidData::Client.new(handshake: connector)
+  
+
+    value = client.positives(filters: [:year, :in, [2020, 2021]])
+                 .find {|x| x.created_at == DateTime.new(2020, 3, 13) && x.canton == "Guayaquil"}
+
+    expect(value.created_at).to eq(DateTime.new(2020, 3, 13))
+    expect(value.total).to eq(2)
+    expect(value.nuevas).to eq(2)
+  end
+  
 end
 

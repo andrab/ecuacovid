@@ -1,4 +1,5 @@
-require 'ecuacovid/explorer'
+require 'ecuacovid/app'
+require 'ecuacovid/data'
 require 'rake/clean'
 
 module Ecuacovid
@@ -12,7 +13,7 @@ module Ecuacovid
     end
 
     def initialize
-      @app = Explorer.new
+      @app = App.new(client: EcuacovidData::Client.new)
       @app.reporting_ready(self)
     end
 
@@ -158,7 +159,7 @@ module Ecuacovid
     end
   
     def log(msg, endl = "\n")
-      print "#{msg}#{endl}"
+      # print "#{msg}#{endl}"
     end
       
     def log_report(data)

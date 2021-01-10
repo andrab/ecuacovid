@@ -2,6 +2,7 @@ require_relative "../support/prueba"
 require_relative "../support/caso"
 
 class PositivasTest
+  
   include Caso
 
   class << self
@@ -9,14 +10,6 @@ class PositivasTest
       datos = PositivasTest.para(fecha)
       datos.usar_provincias!
       datos
-    end
-
-    def cantones_tabuladas(fecha)
-      Tabuladas.para(fecha)
-    end
-
-    def provinciales_tabuladas(fecha)
-      Tabuladas.provinciales(fecha)
     end
   end
 
@@ -70,37 +63,12 @@ class PositivasTest
     probar!(&block)
   end
 
-  class Tabuladas
-    include Caso
-
-    class << self
-      def provinciales(fecha)
-        datos = Tabuladas.para(fecha)
-        datos.usar_provincias!
-        datos
-      end
-    end
-
-    def initialize(source = "positivas/por_fecha/cantones_por_dia_acumuladas.csv")
-      @source = File.join(DIRECTORY, source)
-    end
-
-    def usar_provincias!
-      @source = File.join(DIRECTORY, "positivas/por_fecha/provincias_por_dia_acumuladas.csv")
-    end
-#
-    def casos(&block)
-      @command = "open #{@source}                                                          "\
-                 " | reduce -f 0 {                                                         "\
-                 "    = $acc + $it.'#{@fecha}'                                             "\
-                 " }                                                                       "
-      probar!(&block)
-    end
-  end
 end
 
 describe "Casos Positivos" do  
+
   context "Por fecha" do
+
     require "json"
 
     require_relative "../criterios"
@@ -114,16 +82,9 @@ describe "Casos Positivos" do
       cantonales = PositivasTest.para(fecha)
 
       context "informe: #{cantonales.formatear(informe)}..." do
+
         it "Verificando casos.." do
           cantonales.casos do |total|
-            expect(total).to be(casos_totales)
-          end
-        end
-
-        it "Verificando casos tabuladas.." do
-          pending("Implementar por acumulados")
-
-          PositivasTest.cantones_tabuladas(fecha).casos do |total|
             expect(total).to be(casos_totales)
           end
         end
@@ -134,15 +95,7 @@ describe "Casos Positivos" do
           end
         end
 
-        it "Verificando provinciales tabuladas.." do
-          pending("Implementar por acumulados")
-          
-          PositivasTest.provinciales_tabuladas(fecha).casos do |total|
-            expect(total).to be(casos_totales)
-          end
-        end
-
-       it "Verificando cantones con información.." do
+        it "Verificando cantones con información.." do
           cantonales.ingresados do |total|
             expect(total).to be(ingresados_totales)
           end
@@ -169,7 +122,10 @@ describe "Casos Positivos" do
             expect(Cifras.poblaciones).to eq(poblaciones)
           end
         end
+
       end
     end
+
   end
+  
 end
