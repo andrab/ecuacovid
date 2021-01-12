@@ -21,7 +21,11 @@ module EcuacovidData
     end
 
     def mortalities(options={})
-      []
+      query = Query::Builder.new
+      query.model = :mortalities
+      query.filters = [options[:filters] || []]
+  
+      @service.prepare(query).pull
     end
     
   end

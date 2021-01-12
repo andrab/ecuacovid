@@ -32,6 +32,15 @@ module EcuacovidData
       end
     end
 
+    class Mortalities
+      class << self
+        def sources
+          {2020 => File.expand_path("../../../datos_crudos/defunciones/2020/lugar_cantones.json", File.dirname(__FILE__)),
+           2021 => File.expand_path("../../../datos_crudos/defunciones/cantones.json", File.dirname(__FILE__))}
+        end
+      end
+    end
+
   end
 
 end

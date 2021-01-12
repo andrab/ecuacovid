@@ -16,6 +16,19 @@ module EcuacovidData
       equality.all? {|(field, op, value)| record.send(field) == value}
     end
   end
+
+  class Mortalities
+    attr_accessor :years, :filters
+  
+    def model
+      :mortalities
+    end
+  
+    def select(record)
+      equality = @filters.select {|cond| cond[0] == :created_at && cond[1] == :eq}
+      equality.all? {|(field, op, value)| record.send(field) == value}
+    end
+  end
   
   class Query
     attr_reader :model
@@ -43,6 +56,30 @@ module EcuacovidData
       end
         
       m = Positives.new
+      m.years = @years
+      m.filters = @filters
+      m
+    end
+
+    def mortalities
+      @model = :mortalities
+      @years = @filters.select {|(field, op, value)| field == :year && op == :eq}
+
+      @includes = @filters.select {|(field, op, value)| op == :in && field == :year}
+  
+      if @years.empty?
+        if @includes.empty?
+          @years = [2020, 2021]
+        else
+          _field, _op, years = @includes.find {|(field, _in, value)| field == :year}
+          @years = years
+        end
+      else
+        _field, _op, year = @years.first
+        @years = [year]
+      end
+        
+      m = Mortalities.new
       m.years = @years
       m.filters = @filters
       m

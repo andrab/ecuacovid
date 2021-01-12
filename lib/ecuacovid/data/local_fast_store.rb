@@ -26,11 +26,8 @@ module EcuacovidData
                       days.map.with_index do |day, idx|
                         base_total += day
 
-                        record = {:total => base_total,
-                                  :nuevas => day,
-                                  :created_at => data.headers[idx + offset_days]}
-
-                        base.merge(record)
+                        base.merge(plan.model == :positives ? {:total => base_total, :nuevas => day} : {:total => day, acumuladas: base_total})
+                            .merge(created_at: data.headers[idx + offset_days])
                             .to_objectable
                       end
                     end
@@ -51,6 +48,15 @@ module EcuacovidData
         def sources
           {2020 => File.expand_path("../../../datos_crudos/positivas/2020/por_fecha/cantones_por_dia.csv", File.dirname(__FILE__)),
            2021 => File.expand_path("../../../datos_crudos/positivas/por_fecha/cantones_por_dia.csv", File.dirname(__FILE__))}
+        end
+      end
+    end
+
+    class Mortalities
+      class << self
+        def sources
+          {2020 => File.expand_path("../../../datos_crudos/defunciones/2020/por_fecha/lugar_cantones_por_dia.csv", File.dirname(__FILE__)),
+           2021 => File.expand_path("../../../datos_crudos/defunciones/por_fecha/cantones_por_dia.csv", File.dirname(__FILE__))}
         end
       end
     end
