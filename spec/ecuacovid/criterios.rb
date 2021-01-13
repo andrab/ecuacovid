@@ -309,7 +309,8 @@ class Criterios
         [  :SNGRE_317_08H   ,"09/01/2021", {casos: 220349, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_318_08H   ,"10/01/2021", {casos: 221070, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_319_08H   ,"11/01/2021", {casos: 221506, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_320_08H   ,"12/01/2021", {casos: 222567, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_320_08H   ,"12/01/2021", {casos: 222567, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_321_08H   ,"13/01/2021", {casos: 224315, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -318,6 +319,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_321_08H   ,"13/01/2021", { muertes: 9636, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_320_08H   ,"12/01/2021", { muertes: 9610, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_319_08H   ,"11/01/2021", { muertes: 9600, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_318_08H   ,"10/01/2021", { muertes: 9593, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1655,15 +1657,15 @@ class Criterios
     ];
 
     [
-      781748,
-        9610,
-        4586,
-       14196,
-      222567,
-      514536,
-       26614,
-         649,
-         440
+      789122,
+        9636,
+        4593,
+       14229,
+      224315,
+      518558,
+       26750,
+         643,
+         461
     ]
   ]
 NACIONAL
