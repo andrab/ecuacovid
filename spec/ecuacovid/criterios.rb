@@ -323,7 +323,8 @@ class Criterios
         [  :SNGRE_331_08H   ,"23/01/2021", {casos: 238232, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_332_08H   ,"24/01/2021", {casos: 241292, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_333_08H   ,"25/01/2021", {casos: 241567, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_334_08H   ,"26/01/2021", {casos: 242146, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_334_08H   ,"26/01/2021", {casos: 242146, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_335_08H   ,"27/01/2021", {casos: 243535, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -332,6 +333,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_335_08H   ,"27/01/2021", { muertes: 10035, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_334_08H   ,"26/01/2021", { muertes: 10007, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_333_08H   ,"25/01/2021", { muertes: 9981, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_332_08H   ,"24/01/2021", { muertes: 9968, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1365,7 +1367,8 @@ class Criterios
         [  :SNGRE_331_08H   ,"23/01/2021", {muestras: 861376, rezagadas:  49884}],
         [  :SNGRE_332_08H   ,"24/01/2021", {muestras: 866599, rezagadas:  45695}],
         [  :SNGRE_333_08H   ,"25/01/2021", {muestras: 868178, rezagadas:  46081}],
-        [  :SNGRE_334_08H   ,"26/01/2021", {muestras: 870339, rezagadas:  46239}]
+        [  :SNGRE_334_08H   ,"26/01/2021", {muestras: 870339, rezagadas:  46239}],
+        [  :SNGRE_336_08H   ,"27/01/2021", {muestras: 876846, rezagadas:  48102}]
       ]
       .reverse
       .seleccionable
@@ -1680,7 +1683,8 @@ class Criterios
         [  :SNGRE_331_08H   ,"23/01/2021", {probables: 4653, total: 14596}],
         [  :SNGRE_332_08H   ,"24/01/2021", {probables: 4655, total: 14623}],
         [  :SNGRE_333_08H   ,"25/01/2021", {probables: 4658, total: 14639}],
-        [  :SNGRE_334_08H   ,"26/01/2021", {probables: 4661, total: 14668}]
+        [  :SNGRE_334_08H   ,"26/01/2021", {probables: 4661, total: 14668}],
+        [  :SNGRE_335_08H   ,"27/01/2021", {probables: 4669, total: 14704}]
       ]
       .reverse
       .seleccionable
@@ -1710,7 +1714,7 @@ class Criterios
         ENV["YEAR"] == "ALL" || year == (options[:year] || (ENV["YEAR"] && ENV["YEAR"].to_i) || 2021)
       end
     end
-    
+
     def pendiente
 <<NACIONAL
   [         
@@ -1727,15 +1731,15 @@ class Criterios
     ];
 
     [
-      849767,
-       10007,
-        4661,
-       14668,
-      242146,
-      561382,
-       27889,
-         866,
-         498
+      856274,
+       10035,
+        4669,
+       14704,
+      243535,
+      564637,
+       28182,
+         841,
+         510
     ]
   ]
 NACIONAL
