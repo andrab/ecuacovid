@@ -1059,7 +1059,8 @@ class Criterios
       [  :RCIV_29_01_2021              ,"29/01/2021", muertes:  168],
       [  :RCIV_30_01_2021              ,"30/01/2021", muertes:   85],
       [  :RCIV_31_01_2021              ,"31/01/2021", muertes:   17],
-      [  :RCIV_01_02_2021              ,"01/02/2021", muertes:   91]
+      [  :RCIV_01_02_2021              ,"01/02/2021", muertes:  244],
+      [  :RCIV_02_02_2021              ,"02/02/2021", muertes:   99]
       ]
       .reverse
       .seleccionable
