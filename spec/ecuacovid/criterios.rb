@@ -352,7 +352,8 @@ class Criterios
         [  :SNGRE_360_08H   ,"21/02/2021", {casos: 274673, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_361_08H   ,"22/02/2021", {casos: 274968, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_362_08H   ,"23/02/2021", {casos: 275780, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_363_08H   ,"24/02/2021", {casos: 278779, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_363_08H   ,"24/02/2021", {casos: 278779, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_364_08H   ,"25/02/2021", {casos: 281169, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -361,6 +362,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_364_08H   ,"25/02/2021", { muertes: 10929, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_363_08H   ,"24/02/2021", { muertes: 10883, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_362_08H   ,"23/02/2021", { muertes: 10826, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_361_08H   ,"22/02/2021", { muertes: 10807, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -696,7 +698,7 @@ class Criterios
         [  :SNGRE_031_17H   ,"29/03/2020", { muertes:   58, provincias_ingresadas: 11, sin_ingresar: 13}],
         [  :SNGRE_029_10H   ,"28/03/2020", { muertes:   48, provincias_ingresadas:  9, sin_ingresar: 15}],
         [  :SNGRE_027_17H   ,"27/03/2020", { muertes:   41, provincias_ingresadas:  9, sin_ingresar: 15}],
-        [  :SNGRE_025_17H   ,"26/03/2020", { muertes:   34, provincias_ingresadas:  7, sin_ingresar: 17}]
+        [  :SNGRE_025_17H   ,"26/03/2020", { muertes:   34, provincias_ingresadas:  7, sin_ingresar: 17}],
       ]
       .seleccionable
       .probar(ENV["SOLO"])
@@ -1480,7 +1482,8 @@ class Criterios
         [  :SNGRE_360_08H   ,"21/02/2021", {muestras: 993196, rezagadas:  52875}],
         [  :SNGRE_361_08H   ,"22/02/2021", {muestras: 994704, rezagadas:  53069}],
         [  :SNGRE_362_08H   ,"23/02/2021", {muestras: 996309, rezagadas:  52373}],
-        [  :SNGRE_363_08H   ,"24/02/2021", {muestras: 1003773, rezagadas:  51220}]
+        [  :SNGRE_363_08H   ,"24/02/2021", {muestras: 1003773, rezagadas: 51220}],
+        [  :SNGRE_364_08H   ,"25/02/2021", {muestras: 1012044, rezagadas: 52691}]
       ]
       .reverse
       .seleccionable
@@ -1824,7 +1827,8 @@ class Criterios
         [  :SNGRE_360_08H   ,"21/02/2021", {probables: 4740, total: 15536}],
         [  :SNGRE_361_08H   ,"22/02/2021", {probables: 4740, total: 15547}],
         [  :SNGRE_362_08H   ,"23/02/2021", {probables: 4741, total: 15567}],
-        [  :SNGRE_363_08H   ,"24/02/2021", {probables: 4751, total: 15634}]
+        [  :SNGRE_363_08H   ,"24/02/2021", {probables: 4751, total: 15634}],
+        [  :SNGRE_364_08H   ,"25/02/2021", {probables: 4740, total: 15669}]
       ]
       .reverse
       .seleccionable
@@ -1871,15 +1875,15 @@ class Criterios
     ];
 
     [
-      983201,
-       10883,
-        4751,
-       15634,
-      278779,
-      653202,
-       31057,
-         757,
-         490
+      991472,
+       10929,
+        4740,
+       15669,
+      281169,
+      657612,
+       31591,
+         835,
+         513
     ]
   ]
 NACIONAL
