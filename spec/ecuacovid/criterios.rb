@@ -1828,7 +1828,7 @@ class Criterios
         [  :SNGRE_361_08H   ,"22/02/2021", {probables: 4740, total: 15547}],
         [  :SNGRE_362_08H   ,"23/02/2021", {probables: 4741, total: 15567}],
         [  :SNGRE_363_08H   ,"24/02/2021", {probables: 4751, total: 15634}],
-        [  :SNGRE_364_08H   ,"25/02/2021", {probables: 4740, total: 15669}]
+        [  :SNGRE_364_08H   ,"25/02/2021", {probables: 4818, total: 15747}]
       ]
       .reverse
       .seleccionable
@@ -1877,8 +1877,8 @@ class Criterios
     [
       991472,
        10929,
-        4740,
-       15669,
+        4818,
+       15747,
       281169,
       657612,
        31591,
