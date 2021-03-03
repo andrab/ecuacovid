@@ -1140,7 +1140,8 @@ class Criterios
       [  :RCIV_25_02_2021              ,"25/02/2021", muertes:  262],
       [  :RCIV_26_02_2021              ,"26/02/2021", muertes:  163],
       [  :RCIV_27_02_2021              ,"27/02/2021", muertes:   93],
-      [  :RCIV_28_02_2021              ,"28/02/2021", muertes:   20]
+      [  :RCIV_28_02_2021              ,"28/02/2021", muertes:   20],
+      [  :RCIV_01_03_2021              ,"01/03/2021", muertes:   93]
       ]
       .reverse
       .seleccionable
