@@ -31,21 +31,21 @@ class PositivasTest
   end
 
   def cantones(&block)
-    @command = "open #{@source} | where created_at == #{@fecha} | count | echo $it"
+    @command = "open #{@source} | where created_at == #{@fecha} | length | echo $it"
     probar!(&block)
   end
 
   def ingresados(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
-               " | count "
+               " | length "
     probar!(&block)
   end
 
   def sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
-               " | count "
+               " | length "
     probar!(&block)
   end
 

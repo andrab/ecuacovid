@@ -18,14 +18,14 @@ class MuertesTest
   def provincias_ingresadas(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
-               " | count "
+               " | length "
     probar!(&block)
   end
   
   def provincias_sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
-               " | count "
+               " | length "
     probar!(&block)
   end
 
