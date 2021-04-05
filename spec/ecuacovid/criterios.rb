@@ -389,7 +389,9 @@ class Criterios
         [  :SNGRE_397_08H   ,"30/03/2021", {casos: 327325, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_398_08H   ,"31/03/2021", {casos: 328755, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_399_08H   ,"01/04/2021", {casos: 330388, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_400_08H   ,"02/04/2021", {casos: 332038, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_400_08H   ,"02/04/2021", {casos: 332038, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_401_08H   ,"03/04/2021", {casos: 333175, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_402_08H   ,"04/04/2021", {casos: 335681, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -398,6 +400,8 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_402_08H   ,"04/04/2021", { muertes: 12060, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :SNGRE_401_08H   ,"03/04/2021", { muertes: 12050, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_400_08H   ,"02/04/2021", { muertes: 12033, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_399_08H   ,"01/04/2021", { muertes: 12003, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_398_08H   ,"31/03/2021", { muertes: 11977, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1627,7 +1631,9 @@ class Criterios
         [  :SNGRE_397_08H   ,"30/03/2021", {muestras: 1158663, rezagadas: 53169}],
         [  :SNGRE_398_08H   ,"31/03/2021", {muestras: 1163311, rezagadas: 53656}],
         [  :SNGRE_399_08H   ,"01/04/2021", {muestras: 1168267, rezagadas: 53983}],
-        [  :SNGRE_400_08H   ,"02/04/2021", {muestras: 1176142, rezagadas: 56840}]
+        [  :SNGRE_400_08H   ,"02/04/2021", {muestras: 1176142, rezagadas: 56840}],
+        [  :SNGRE_401_08H   ,"03/04/2021", {muestras: 1178477, rezagadas: 55822}],
+        [  :SNGRE_401_08H   ,"04/04/2021", {muestras: 1181331, rezagadas: 52380}]
       ]
       .reverse
       .seleccionable
@@ -2008,7 +2014,9 @@ class Criterios
         [  :SNGRE_397_08H   ,"30/03/2021", {probables: 4868, total: 16780}],
         [  :SNGRE_398_08H   ,"31/03/2021", {probables: 4870, total: 16847}],
         [  :SNGRE_399_08H   ,"01/04/2021", {probables: 4874, total: 16877}],
-        [  :SNGRE_400_08H   ,"02/04/2021", {probables: 4877, total: 16910}]
+        [  :SNGRE_400_08H   ,"02/04/2021", {probables: 4877, total: 16910}],
+        [  :SNGRE_401_08H   ,"03/04/2021", {probables: 4879, total: 16929}],
+        [  :SNGRE_402_08H   ,"04/04/2021", {probables: 4896, total: 16956}]
       ]
       .reverse
       .seleccionable
@@ -2055,15 +2063,15 @@ class Criterios
     ];
 
     [
-     1155570,
-       12033,
-        4877,
-       16910,
-      332038,
-      766692,
-       36195,
-        1106,
-         555
+     1160759,
+       12060,
+        4896,
+       16956,
+      335681,
+      772698,
+       36548,
+        1171,
+         539
     ]
   ]
 NACIONAL
