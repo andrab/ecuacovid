@@ -396,7 +396,8 @@ class Criterios
         [  :SNGRE_404_08H   ,"06/04/2021", {casos: 337702, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_405_08H   ,"07/04/2021", {casos: 339604, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_406_08H   ,"08/04/2021", {casos: 341619, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_407_08H   ,"09/04/2021", {casos: 342678, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_407_08H   ,"09/04/2021", {casos: 342678, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_408_08H   ,"10/04/2021", {casos: 344877, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -405,6 +406,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_408_08H   ,"10/04/2021", { muertes: 12356, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_407_08H   ,"09/04/2021", { muertes: 12247, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_406_08H   ,"08/04/2021", { muertes: 12208, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_405_08H   ,"07/04/2021", { muertes: 12158, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2042,7 +2044,8 @@ class Criterios
         [  :SNGRE_404_08H   ,"06/04/2021", {probables: 4898, total: 17004}],
         [  :SNGRE_405_08H   ,"07/04/2021", {probables: 4899, total: 17057}],
         [  :SNGRE_406_08H   ,"08/04/2021", {probables: 4907, total: 17115}],
-        [  :SNGRE_407_08H   ,"09/04/2021", {probables: 4911, total: 17158}]
+        [  :SNGRE_407_08H   ,"09/04/2021", {probables: 4911, total: 17158}],
+        [  :SNGRE_408_08H   ,"10/04/2021", {probables: 4919, total: 17158}],
       ]
       .reverse
       .seleccionable
@@ -2089,15 +2092,15 @@ class Criterios
     ];
 
     [
-     1183906,
-       12247,
-        4911,
-       17158,
-      342678,
-      785217,
-       37261,
-        1008,
-         602
+     1190939,
+       12356,
+        4919,
+       17275,
+      344877,
+      788593,
+       37329,
+        1156,
+         593
     ]
   ]
 NACIONAL
