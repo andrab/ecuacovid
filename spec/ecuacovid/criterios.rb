@@ -397,7 +397,8 @@ class Criterios
         [  :SNGRE_405_08H   ,"07/04/2021", {casos: 339604, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_406_08H   ,"08/04/2021", {casos: 341619, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_407_08H   ,"09/04/2021", {casos: 342678, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_408_08H   ,"10/04/2021", {casos: 344877, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_408_08H   ,"10/04/2021", {casos: 344877, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_409_08H   ,"11/04/2021", {casos: 346817, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -406,6 +407,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_409_08H   ,"11/04/2021", { muertes: 12370, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_408_08H   ,"10/04/2021", { muertes: 12356, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_407_08H   ,"09/04/2021", { muertes: 12247, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_406_08H   ,"08/04/2021", { muertes: 12208, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2048,6 +2050,7 @@ class Criterios
         [  :SNGRE_406_08H   ,"08/04/2021", {probables: 4907, total: 17115}],
         [  :SNGRE_407_08H   ,"09/04/2021", {probables: 4911, total: 17158}],
         [  :SNGRE_408_08H   ,"10/04/2021", {probables: 4919, total: 17275}],
+        [  :SNGRE_409_08H   ,"11/04/2021", {probables: 4923, total: 17293}]
       ]
       .reverse
       .seleccionable
@@ -2094,15 +2097,15 @@ class Criterios
     ];
 
     [
-     1190939,
-       12356,
-        4919,
-       17275,
-      344877,
-      788593,
-       37329,
-        1156,
-         593
+     1193846,
+       12370,
+        4923,
+       17293,
+      346817,
+      792029,
+       37497,
+        1148,
+         601
     ]
   ]
 NACIONAL
