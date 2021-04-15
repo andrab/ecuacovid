@@ -400,7 +400,8 @@ class Criterios
         [  :SNGRE_408_08H   ,"10/04/2021", {casos: 344877, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_409_08H   ,"11/04/2021", {casos: 346817, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_410_08H   ,"12/04/2021", {casos: 347070, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_411_08H   ,"13/04/2021", {casos: 347589, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_411_08H   ,"13/04/2021", {casos: 347589, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_412_08H   ,"14/04/2021", {casos: 350539, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -409,6 +410,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_412_08H   ,"14/04/2021", { muertes: 12458, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_411_08H   ,"13/04/2021", { muertes: 12421, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_410_08H   ,"12/04/2021", { muertes: 12375, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_409_08H   ,"11/04/2021", { muertes: 12370, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1256,17 +1258,19 @@ class Criterios
       [  :"RCIV_01_01_2021-31_03_2021" ,"29/03/2021", muertes:  392],
       [  :"RCIV_01_01_2021-31_03_2021" ,"30/03/2021", muertes:  413],
       [  :"RCIV_01_01_2021-31_03_2021" ,"31/03/2021", muertes:  359],
-      [  :RCIV_01_04_2021              ,"01/04/2021", muertes:  399],
-      [  :RCIV_02_04_2021              ,"02/04/2021", muertes:  365],
-      [  :RCIV_03_04_2021              ,"03/04/2021", muertes:  337],
-      [  :RCIV_04_04_2021              ,"04/04/2021", muertes:  359],
-      [  :RCIV_05_04_2021              ,"05/04/2021", muertes:  393],
-      [  :RCIV_06_04_2021              ,"06/04/2021", muertes:  387],
-      [  :RCIV_07_04_2021              ,"07/04/2021", muertes:  405],
-      [  :RCIV_08_04_2021              ,"08/04/2021", muertes:  360],
-      [  :RCIV_06_04_2021              ,"09/04/2021", muertes:  208],
-      [  :RCIV_10_04_2021              ,"10/04/2021", muertes:   63],
-      [  :RCIV_11_04_2021              ,"11/04/2021", muertes:   25]]
+      [  :RCIV_01_04_2021              ,"01/04/2021", muertes:  411],
+      [  :RCIV_02_04_2021              ,"02/04/2021", muertes:  372],
+      [  :RCIV_03_04_2021              ,"03/04/2021", muertes:  350],
+      [  :RCIV_04_04_2021              ,"04/04/2021", muertes:  370],
+      [  :RCIV_05_04_2021              ,"05/04/2021", muertes:  408],
+      [  :RCIV_06_04_2021              ,"06/04/2021", muertes:  411],
+      [  :RCIV_07_04_2021              ,"07/04/2021", muertes:  439],
+      [  :RCIV_08_04_2021              ,"08/04/2021", muertes:  410],
+      [  :RCIV_06_04_2021              ,"09/04/2021", muertes:  354],
+      [  :RCIV_10_04_2021              ,"10/04/2021", muertes:  331],
+      [  :RCIV_11_04_2021              ,"11/04/2021", muertes:  350],
+      [  :RCIV_12_04_2021              ,"12/04/2021", muertes:  359],
+      [  :RCIV_13_04_2021              ,"13/04/2021", muertes:  140]]
       .reverse
       .seleccionable
       .probar(ENV["SOLO"])
@@ -1670,7 +1674,8 @@ class Criterios
         [  :SNGRE_408_08H   ,"10/04/2021", {muestras: 1211511, rezagadas: 57469}],
         [  :SNGRE_409_08H   ,"11/04/2021", {muestras: 1214418, rezagadas: 55000}],
         [  :SNGRE_410_08H   ,"12/04/2021", {muestras: 1215942, rezagadas: 55535}],
-        [  :SNGRE_411_08H   ,"13/04/2021", {muestras: 1219336, rezagadas: 57501}]
+        [  :SNGRE_411_08H   ,"13/04/2021", {muestras: 1219336, rezagadas: 57501}],
+        [  :SNGRE_412_08H   ,"14/04/2021", {muestras: 1226441, rezagadas: 56642}]
       ]
       .reverse
       .seleccionable
@@ -2062,7 +2067,8 @@ class Criterios
         [  :SNGRE_408_08H   ,"10/04/2021", {probables: 4919, total: 17275}],
         [  :SNGRE_409_08H   ,"11/04/2021", {probables: 4923, total: 17293}],
         [  :SNGRE_410_08H   ,"12/04/2021", {probables: 4923, total: 17298}],
-        [  :SNGRE_411_08H   ,"13/04/2021", {probables: 4930, total: 17351}]
+        [  :SNGRE_411_08H   ,"13/04/2021", {probables: 4930, total: 17351}],
+        [  :SNGRE_412_08H   ,"14/04/2021", {probables: 4942, total: 17400}]
       ]
       .reverse
       .seleccionable
@@ -2109,15 +2115,15 @@ class Criterios
     ];
 
     [
-     1198764,
-       12421,
-        4930,
-       17351,
-      347589,
-      793674,
-       37657,
-        1150,
-         600
+     1205869,
+       12458,
+        4942,
+       17400,
+      350539,
+      798688,
+       37836,
+        1158,
+         591
     ]
   ]
 NACIONAL
