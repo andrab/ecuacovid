@@ -1704,7 +1704,8 @@ class Criterios
         [  :SNGRE_416_08H   ,"18/04/2021", {muestras: 1249213, rezagadas: 54835}],
         [  :SNGRE_417_08H   ,"19/04/2021", {muestras: 1249317, rezagadas: 54886}],
         [  :SNGRE_418_08H   ,"20/04/2021", {muestras: 1252225, rezagadas: 55714}],
-        [  :SNGRE_419_08H   ,"21/04/2021", {muestras: 1257056, rezagadas: 56459}]
+        [  :SNGRE_419_08H   ,"21/04/2021", {muestras: 1257056, rezagadas: 56459}],
+        [  :SNGRE_420_08H   ,"22/04/2021", {muestras: 1264837, rezagadas: 57633}]
       ]
       .reverse
       .seleccionable
