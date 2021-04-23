@@ -409,7 +409,8 @@ class Criterios
         [  :SNGRE_417_08H   ,"19/04/2021", {casos: 360563, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_418_08H   ,"20/04/2021", {casos: 361154, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_419_08H   ,"21/04/2021", {casos: 362843, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_420_08H   ,"22/04/2021", {casos: 365393, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_420_08H   ,"22/04/2021", {casos: 365393, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_421_08H   ,"23/04/2021", {casos: 371306, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -418,6 +419,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_421_08H   ,"23/04/2021", { muertes: 12995, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_420_08H   ,"22/04/2021", { muertes: 12915, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_419_08H   ,"21/04/2021", { muertes: 12795, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_418_08H   ,"20/04/2021", { muertes: 12747, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2106,7 +2108,8 @@ class Criterios
         [  :SNGRE_417_08H   ,"19/04/2021", {probables: 4983, total: 17703}],
         [  :SNGRE_418_08H   ,"20/04/2021", {probables: 4997, total: 17744}],
         [  :SNGRE_419_08H   ,"21/04/2021", {probables: 5009, total: 17804}],
-        [  :SNGRE_420_08H   ,"22/04/2021", {probables: 5050, total: 17965}]
+        [  :SNGRE_420_08H   ,"22/04/2021", {probables: 5050, total: 17965}],
+        [  :SNGRE_421_08H   ,"23/04/2021", {probables: 5067, total: 18062}]
       ]
       .reverse
       .seleccionable
@@ -2153,15 +2156,15 @@ class Criterios
     ];
 
     [
-     1244265,
-       12915,
-        5050,
-       17965,
-      365393,
-      821239,
-       39183,
-        1350,
-         636
+     1254985,
+       12995,
+        5067,
+       18062,
+      371306,
+      828497,
+       39287,
+        1380,
+         632
     ]
   ]
 NACIONAL
