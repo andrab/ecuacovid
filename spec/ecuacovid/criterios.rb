@@ -419,7 +419,8 @@ class Criterios
         [  :SNGRE_427_08H   ,"29/04/2021", {casos: 380689, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_428_08H   ,"30/04/2021", {casos: 381862, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_429_08H   ,"01/05/2021", {casos: 384589, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_430_08H   ,"02/05/2021", {casos: 387299, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_430_08H   ,"02/05/2021", {casos: 387299, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_431_08H   ,"03/05/2021", {casos: 388046, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -428,6 +429,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_431_08H   ,"03/05/2021", { muertes: 13599, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_430_08H   ,"02/05/2021", { muertes: 13579, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_429_08H   ,"01/05/2021", { muertes: 13570, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_428_08H   ,"30/04/2021", { muertes: 13480, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2155,7 +2157,8 @@ class Criterios
         [  :SNGRE_427_08H   ,"29/04/2021", {probables: 5144, total: 18552}],
         [  :SNGRE_428_08H   ,"30/04/2021", {probables: 5151, total: 18631}],
         [  :SNGRE_429_08H   ,"01/05/2021", {probables: 5154, total: 18724}],
-        [  :SNGRE_430_08H   ,"02/05/2021", {probables: 5161, total: 18740}]
+        [  :SNGRE_430_08H   ,"02/05/2021", {probables: 5161, total: 18740}],
+        [  :SNGRE_431_08H   ,"03/05/2021", {probables: 5166, total: 18765}]
       ]
       .reverse
       .seleccionable
@@ -2202,13 +2205,13 @@ class Criterios
     ];
 
     [
-     1294163,
-       13579,
-        5161,
-       18740,
-      387299,
-      853109,
-       40858,
+     1296909,
+       13599,
+        5166,
+       18765,
+      388046,
+      854814,
+       40927,
         1404,
          617
     ]
