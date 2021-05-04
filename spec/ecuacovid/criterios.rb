@@ -420,7 +420,8 @@ class Criterios
         [  :SNGRE_428_08H   ,"30/04/2021", {casos: 381862, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_429_08H   ,"01/05/2021", {casos: 384589, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_430_08H   ,"02/05/2021", {casos: 387299, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_431_08H   ,"03/05/2021", {casos: 388046, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_431_08H   ,"03/05/2021", {casos: 388046, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_432_08H   ,"04/05/2021", {casos: 391242, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -429,6 +430,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_432_08H   ,"04/05/2021", { muertes: 13688, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_431_08H   ,"03/05/2021", { muertes: 13599, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_430_08H   ,"02/05/2021", { muertes: 13579, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_429_08H   ,"01/05/2021", { muertes: 13570, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2159,7 +2161,8 @@ class Criterios
         [  :SNGRE_428_08H   ,"30/04/2021", {probables: 5151, total: 18631}],
         [  :SNGRE_429_08H   ,"01/05/2021", {probables: 5154, total: 18724}],
         [  :SNGRE_430_08H   ,"02/05/2021", {probables: 5161, total: 18740}],
-        [  :SNGRE_431_08H   ,"03/05/2021", {probables: 5166, total: 18765}]
+        [  :SNGRE_431_08H   ,"03/05/2021", {probables: 5166, total: 18765}],
+        [  :SNGRE_432_08H   ,"04/05/2021", {probables: 5175, total: 18863}]
       ]
       .reverse
       .seleccionable
@@ -2206,15 +2209,15 @@ class Criterios
     ];
 
     [
-     1296909,
-       13599,
-        5166,
-       18765,
-      388046,
-      854814,
-       40927,
-        1404,
-         617
+     1307198,
+       13688,
+        5175,
+       18863,
+      391242,
+      862399,
+       40991,
+        1436,
+         614
     ]
   ]
 NACIONAL
