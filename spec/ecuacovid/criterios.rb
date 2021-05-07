@@ -423,7 +423,8 @@ class Criterios
         [  :SNGRE_431_08H   ,"03/05/2021", {casos: 388046, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_432_08H   ,"04/05/2021", {casos: 391242, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_433_08H   ,"05/05/2021", {casos: 393048, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_434_08H   ,"06/05/2021", {casos: 395327, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_434_08H   ,"06/05/2021", {casos: 395327, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_435_08H   ,"07/05/2021", {casos: 396888, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -432,6 +433,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_435_08H   ,"07/05/2021", { muertes: 13854, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_434_08H   ,"06/05/2021", { muertes: 13823, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_433_08H   ,"05/05/2021", { muertes: 13726, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_432_08H   ,"04/05/2021", { muertes: 13688, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2176,7 +2178,8 @@ class Criterios
         [  :SNGRE_431_08H   ,"03/05/2021", {probables: 5166, total: 18765}],
         [  :SNGRE_432_08H   ,"04/05/2021", {probables: 5175, total: 18863}],
         [  :SNGRE_433_08H   ,"05/05/2021", {probables: 5181, total: 18907}],
-        [  :SNGRE_434_08H   ,"06/05/2021", {probables: 5195, total: 19018}]
+        [  :SNGRE_434_08H   ,"06/05/2021", {probables: 5195, total: 19018}],
+        [  :SNGRE_435_08H   ,"07/05/2021", {probables: 5207, total: 19061}]
       ]
       .reverse
       .seleccionable
@@ -2223,15 +2226,15 @@ class Criterios
     ];
 
     [
-     1322673,
-       13823,
-        5195,
-       19018,
-      395327,
-      872444,
-       41559,
-        1449,
-         621
+     1327106,
+       13854,
+        5207,
+       19061,
+      396888,
+      875409,
+       41656,
+        1458,
+         620
     ]
   ]
 NACIONAL
