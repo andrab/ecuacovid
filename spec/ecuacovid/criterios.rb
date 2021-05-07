@@ -1763,7 +1763,8 @@ class Criterios
         [  :SNGRE_431_08H   ,"03/05/2021", {muestras: 1317481, rezagadas: 54049}],
         [  :SNGRE_432_08H   ,"04/05/2021", {muestras: 1327770, rezagadas: 53557}],
         [  :SNGRE_433_08H   ,"05/05/2021", {muestras: 1335568, rezagadas: 54812}],
-        [  :SNGRE_434_08H   ,"06/05/2021", {muestras: 1343245, rezagadas: 54902}]
+        [  :SNGRE_434_08H   ,"06/05/2021", {muestras: 1343245, rezagadas: 54902}],
+        [  :SNGRE_435_08H   ,"07/05/2021", {muestras: 1347678, rezagadas: 54809}]
       ]
       .reverse
       .seleccionable
