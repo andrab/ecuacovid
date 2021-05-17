@@ -433,7 +433,8 @@ class Criterios
         [  :SNGRE_441_08H   ,"13/05/2021", {casos: 405783, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_442_08H   ,"14/05/2021", {casos: 407002, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_443_08H   ,"15/05/2021", {casos: 409520, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_444_08H   ,"16/05/2021", {casos: 410129, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_444_08H   ,"16/05/2021", {casos: 410129, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_445_08H   ,"17/05/2021", {casos: 410870, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -442,6 +443,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_445_08H   ,"17/05/2021", { muertes: 14459, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_444_08H   ,"16/05/2021", { muertes: 14415, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_443_08H   ,"15/05/2021", { muertes: 14408, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_442_08H   ,"14/05/2021", { muertes: 14257, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2226,7 +2228,8 @@ class Criterios
         [  :SNGRE_441_08H   ,"13/05/2021", {probables: 5249, total: 19442}],
         [  :SNGRE_442_08H   ,"14/05/2021", {probables: 5257, total: 19514}],
         [  :SNGRE_443_08H   ,"15/05/2021", {probables: 5284, total: 19692}],
-        [  :SNGRE_444_08H   ,"16/05/2021", {probables: 5284, total: 19699}]
+        [  :SNGRE_444_08H   ,"16/05/2021", {probables: 5284, total: 19699}],
+        [  :SNGRE_445_08H   ,"17/05/2021", {probables: 5327, total: 19786}]
       ]
       .reverse
       .seleccionable
@@ -2273,15 +2276,15 @@ class Criterios
     ];
 
     [
-     1368816,
-       14415,
-        5284,
-       19699,
-      410129,
-      904470,
-       43136,
-        1292,
-         587
+     1370618,
+       14459,
+        5327,
+       19786,
+      410870,
+      906180,
+       43224,
+        1224,
+         600
     ]
   ]
 NACIONAL
