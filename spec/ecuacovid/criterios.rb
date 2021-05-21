@@ -437,7 +437,7 @@ class Criterios
         [  :SNGRE_445_08H   ,"17/05/2021", {casos: 410870, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_446_08H   ,"18/05/2021", {casos: 411466, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_447_08H   ,"19/05/2021", {casos: 412907, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_448_08H   ,"20/05/2021", {casos: 415255, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_448_08H   ,"20/05/2021", {casos: 415255, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_449_08H   ,"21/05/2021", {casos: 416621, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
@@ -868,7 +868,7 @@ class Criterios
         [  :SNGRE_031_17H   ,"29/03/2020", { muertes:   58, provincias_ingresadas: 11, sin_ingresar: 13}],
         [  :SNGRE_029_10H   ,"28/03/2020", { muertes:   48, provincias_ingresadas:  9, sin_ingresar: 15}],
         [  :SNGRE_027_17H   ,"27/03/2020", { muertes:   41, provincias_ingresadas:  9, sin_ingresar: 15}],
-        [  :SNGRE_025_17H   ,"26/03/2020", { muertes:   34, provincias_ingresadas:  7, sin_ingresar: 17}],
+        [  :SNGRE_025_17H   ,"26/03/2020", { muertes:   34, provincias_ingresadas:  7, sin_ingresar: 17}]
       ]
       .seleccionable
       .probar(ENV["SOLO"])
@@ -1819,7 +1819,8 @@ class Criterios
         [  :SNGRE_445_08H   ,"17/05/2021", {muestras: 1391190, rezagadas: 53568}],
         [  :SNGRE_446_08H   ,"18/05/2021", {muestras: 1394816, rezagadas: 54487}],
         [  :SNGRE_447_08H   ,"19/05/2021", {muestras: 1401119, rezagadas: 55431}],
-        [  :SNGRE_448_08H   ,"20/05/2021", {muestras: 1405722, rezagadas: 53974}]
+        [  :SNGRE_448_08H   ,"20/05/2021", {muestras: 1405722, rezagadas: 53974}],
+        [  :SNGRE_449_08H   ,"21/05/2021", {muestras: 1410153, rezagadas: 53396}]
       ]
       .reverse
       .seleccionable
