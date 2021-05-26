@@ -441,7 +441,8 @@ class Criterios
         [  :SNGRE_449_08H   ,"21/05/2021", {casos: 416621, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_450_08H   ,"22/05/2021", {casos: 417840, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_451_08H   ,"23/05/2021", {casos: 418851, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_452_08H   ,"24/05/2021", {casos: 419198, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_452_08H   ,"24/05/2021", {casos: 419198, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_453_08H   ,"25/05/2021", {casos: 420167, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -450,6 +451,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_453_08H   ,"25/05/2021", { muertes: 14790, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_452_08H   ,"24/05/2021", { muertes: 14773, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_451_08H   ,"23/05/2021", { muertes: 14764, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_450_08H   ,"22/05/2021", { muertes: 14758, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1829,7 +1831,8 @@ class Criterios
         [  :SNGRE_449_08H   ,"21/05/2021", {muestras: 1410153, rezagadas: 53396}],
         [  :SNGRE_450_08H   ,"22/05/2021", {muestras: 1415363, rezagadas: 54299}],
         [  :SNGRE_451_08H   ,"23/05/2021", {muestras: 1418337, rezagadas: 53312}],
-        [  :SNGRE_452_08H   ,"24/05/2021", {muestras: 1419120, rezagadas: 53049}]
+        [  :SNGRE_452_08H   ,"24/05/2021", {muestras: 1419120, rezagadas: 53049}],
+        [  :SNGRE_453_08H   ,"25/05/2021", {muestras: 1420903, rezagadas: 52422}]
       ]
       .reverse
       .seleccionable
@@ -2262,7 +2265,8 @@ class Criterios
         [  :SNGRE_449_08H   ,"21/05/2021", {probables: 5414, total: 20107}],
         [  :SNGRE_450_08H   ,"22/05/2021", {probables: 5422, total: 20180}],
         [  :SNGRE_451_08H   ,"23/05/2021", {probables: 5429, total: 20193}],
-        [  :SNGRE_452_08H   ,"24/05/2021", {probables: 5437, total: 20210}]
+        [  :SNGRE_452_08H   ,"24/05/2021", {probables: 5437, total: 20210}],
+        [  :SNGRE_453_08H   ,"25/05/2021", {probables: 5437, total: 20227}]
       ]
       .reverse
       .seleccionable
@@ -2309,14 +2313,14 @@ class Criterios
     ];
 
     [
-     1398548,
-       14773,
+     1400331,
+       14790,
         5437,
-       20210,
-      419198,
-      926301,
-       44116,
-        1136,
+       20227,
+      420167,
+      927742,
+       44181,
+        1119,
          579
     ]
   ]
