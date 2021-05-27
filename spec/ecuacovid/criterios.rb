@@ -442,7 +442,8 @@ class Criterios
         [  :SNGRE_450_08H   ,"22/05/2021", {casos: 417840, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_451_08H   ,"23/05/2021", {casos: 418851, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_452_08H   ,"24/05/2021", {casos: 419198, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_453_08H   ,"25/05/2021", {casos: 420167, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_453_08H   ,"25/05/2021", {casos: 420167, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_454_08H   ,"26/05/2021", {casos: 421231, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -451,6 +452,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_454_08H   ,"26/05/2021", { muertes: 14866, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_453_08H   ,"25/05/2021", { muertes: 14790, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_452_08H   ,"24/05/2021", { muertes: 14773, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_451_08H   ,"23/05/2021", { muertes: 14764, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2274,7 +2276,8 @@ class Criterios
         [  :SNGRE_450_08H   ,"22/05/2021", {probables: 5422, total: 20180}],
         [  :SNGRE_451_08H   ,"23/05/2021", {probables: 5429, total: 20193}],
         [  :SNGRE_452_08H   ,"24/05/2021", {probables: 5437, total: 20210}],
-        [  :SNGRE_453_08H   ,"25/05/2021", {probables: 5437, total: 20227}]
+        [  :SNGRE_453_08H   ,"25/05/2021", {probables: 5437, total: 20227}],
+        [  :SNGRE_454_08H   ,"26/05/2021", {probables: 5446, total: 20312}]
       ]
       .reverse
       .seleccionable
@@ -2321,15 +2324,15 @@ class Criterios
     ];
 
     [
-     1400331,
-       14790,
-        5437,
-       20227,
-      420167,
-      927742,
-       44181,
-        1119,
-         579
+     1404741,
+       14866,
+        5446,
+       20312,
+      421231,
+      930935,
+       44370,
+         999,
+         573
     ]
   ]
 NACIONAL
