@@ -1,22 +1,23 @@
-vaccine,total,arrived_at
-Pfizer/BioNTech,8190,20/01/2021
-Pfizer/BioNTech,16380,17/02/2021
-Pfizer/BioNTech,17550,24/02/2021
-Pfizer/BioNTech,31590,03/03/2021
-Sinovac,20000,06/03/2021
-Pfizer/BioNTech,73710,10/03/2021
-Oxford/AstraZeneca,84000,17/03/2021
-Pfizer/BioNTech,62010,17/03/2021
-Pfizer/BioNTech,65520,24/03/2021
-Pfizer/BioNTech,66690,31/03/2021
-Pfizer/BioNTech,53820,05/04/2021
-Sinovac,300000,07/04/2021
-Sinovac,700000,10/04/2021
-Pfizer/BioNTech,53820,14/04/2021
-Pfizer/BioNTech,54990,21/04/2021
-Oxford/AstraZeneca,336000,24/04/2021
-Pfizer/BioNTech,54990,28/04/2021
-Pfizer/BioNTech,100620,04/05/2021
-Sinovac,3520,16/05/2021
-Pfizer/BioNTech,170820,18/05/2021
-Oxford/AstraZeneca,204000,22/05/2021
+vaccine,total,arrived_at,contract
+Pfizer/BioNTech,8190,20/01/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,16380,17/02/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,17550,24/02/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,31590,03/03/2021,Government of Ecuador with Pfizer
+Sinovac,20000,06/03/2021,Donation from the Government of Chile to the Government of Ecuador
+Pfizer/BioNTech,73710,10/03/2021,Government of Ecuador with Pfizer
+Oxford/AstraZeneca,84000,17/03/2021,Government of Ecuador with COVAX
+Pfizer/BioNTech,62010,17/03/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,65520,24/03/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,66690,31/03/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,53820,05/04/2021,Government of Ecuador with Pfizer
+Sinovac,300000,07/04/2021,Government of Ecuador with Sinovac
+Sinovac,700000,10/04/2021,Government of Ecuador with Sinovac
+Pfizer/BioNTech,53820,14/04/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,54990,21/04/2021,Government of Ecuador with Pfizer
+Oxford/AstraZeneca,336000,24/04/2021,Government of Ecuador with COVAX
+Pfizer/BioNTech,54990,28/04/2021,Government of Ecuador with Pfizer
+Pfizer/BioNTech,100620,04/05/2021,Government of Ecuador with Pfizer
+Sinovac,3520,16/05/2021,Managed by Conmebol and donation by Sinovac
+Pfizer/BioNTech,170820,18/05/2021,Government of Ecuador with Pfizer
+Oxford/AstraZeneca,204000,22/05/2021,Government of Ecuador with AstraZeneca
+Pfizer/BioNTech,170820,25/05/2021,Government of Ecuador with Pfizer
