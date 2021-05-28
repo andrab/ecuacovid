@@ -444,7 +444,8 @@ class Criterios
         [  :SNGRE_452_08H   ,"24/05/2021", {casos: 419198, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_453_08H   ,"25/05/2021", {casos: 420167, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_454_08H   ,"26/05/2021", {casos: 421231, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_455_08H   ,"27/05/2021", {casos: 422329, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_455_08H   ,"27/05/2021", {casos: 422329, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_456_08H   ,"28/05/2021", {casos: 423165, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -453,6 +454,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_456_08H   ,"28/05/2021", { muertes: 14953, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_455_08H   ,"27/05/2021", { muertes: 14909, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_454_08H   ,"26/05/2021", { muertes: 14866, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_453_08H   ,"25/05/2021", { muertes: 14790, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2282,7 +2284,8 @@ class Criterios
         [  :SNGRE_452_08H   ,"24/05/2021", {probables: 5437, total: 20210}],
         [  :SNGRE_453_08H   ,"25/05/2021", {probables: 5437, total: 20227}],
         [  :SNGRE_454_08H   ,"26/05/2021", {probables: 5446, total: 20312}],
-        [  :SNGRE_455_08H   ,"27/05/2021", {probables: 5448, total: 20357}]
+        [  :SNGRE_455_08H   ,"27/05/2021", {probables: 5448, total: 20357}],
+        [  :SNGRE_456_08H   ,"28/05/2021", {probables: 5455, total: 20408}]
       ]
       .reverse
       .seleccionable
@@ -2329,15 +2332,15 @@ class Criterios
     ];
 
     [
-     1408901,
-       14909,
-        5448,
-       20357,
-      422329,
-      933408,
-       44599,
-         986,
-         546
+     1412981,
+       14953,
+        5455,
+       20408,
+      423165,
+      935896,
+       44679,
+         998,
+         541
     ]
   ]
 NACIONAL
