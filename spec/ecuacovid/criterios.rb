@@ -453,7 +453,8 @@ class Criterios
         [  :SNGRE_461_08H   ,"02/06/2021", {casos: 428865, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_462_08H   ,"03/06/2021", {casos: 429817, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_463_08H   ,"04/06/2021", {casos: 430739, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_464_08H   ,"05/06/2021", {casos: 431429, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_464_08H   ,"05/06/2021", {casos: 431429, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_465_08H   ,"06/06/2021", {casos: 432353, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -462,6 +463,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_465_08H   ,"06/06/2021", { muertes: 15289, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_464_08H   ,"05/06/2021", { muertes: 15268, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_463_08H   ,"04/06/2021", { muertes: 15254, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_462_08H   ,"03/06/2021", { muertes: 15213, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -1873,7 +1875,8 @@ class Criterios
         [  :SNGRE_461_08H   ,"02/06/2021", {muestras: 1451963, rezagadas: 52818}],
         [  :SNGRE_462_08H   ,"03/06/2021", {muestras: 1456340, rezagadas: 53264}],
         [  :SNGRE_463_08H   ,"04/06/2021", {muestras: 1460104, rezagadas: 53163}],
-        [  :SNGRE_464_08H   ,"05/06/2021", {muestras: 1463150, rezagadas: 53636}]
+        [  :SNGRE_464_08H   ,"05/06/2021", {muestras: 1463150, rezagadas: 53636}],
+        [  :SNGRE_465_08H   ,"06/06/2021", {muestras: 1466349, rezagadas: 53143}]
       ]
       .reverse
       .seleccionable
@@ -2318,7 +2321,8 @@ class Criterios
         [  :SNGRE_461_08H   ,"02/06/2021", {probables: 5488, total: 20681}],
         [  :SNGRE_462_08H   ,"03/06/2021", {probables: 5493, total: 20706}],
         [  :SNGRE_463_08H   ,"04/06/2021", {probables: 5501, total: 20755}],
-        [  :SNGRE_464_08H   ,"05/06/2021", {probables: 5505, total: 20773}]
+        [  :SNGRE_464_08H   ,"05/06/2021", {probables: 5505, total: 20773}],
+        [  :SNGRE_465_08H   ,"06/06/2021", {probables: 5520, total: 20809}]
       ]
       .reverse
       .seleccionable
@@ -2365,15 +2369,15 @@ class Criterios
     ];
 
     [
-     1442578,
-       15268,
-        5505,
-       20773,
-      431429,
-      957513,
-       45657,
-         858,
-         493
+     1445777,
+       15289,
+        5520,
+       20809,
+      432353,
+      960281,
+       45832,
+         833,
+         492
     ]
   ]
 NACIONAL
