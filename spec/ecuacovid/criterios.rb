@@ -472,7 +472,8 @@ class Criterios
         [  :SNGRE_480_08H   ,"21/06/2021", {casos: 446633, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_481_08H   ,"22/06/2021", {casos: 447176, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_482_08H   ,"23/06/2021", {casos: 449107, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_483_08H   ,"24/06/2021", {casos: 449483, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_483_08H   ,"24/06/2021", {casos: 449483, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_484_08H   ,"25/06/2021", {casos: 452234, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -481,6 +482,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_484_08H   ,"25/06/2021", { muertes: 15827, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_483_08H   ,"24/06/2021", { muertes: 15778, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_482_08H   ,"23/06/2021", { muertes: 15769, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_481_08H   ,"22/06/2021", { muertes: 15722, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2418,7 +2420,8 @@ class Criterios
         [  :SNGRE_480_08H   ,"21/06/2021", {probables: 5591, total: 21304}],
         [  :SNGRE_481_08H   ,"22/06/2021", {probables: 5593, total: 21315}],
         [  :SNGRE_482_08H   ,"23/06/2021", {probables: 5598, total: 21367}],
-        [  :SNGRE_483_08H   ,"24/06/2021", {probables: 5599, total: 21377}]
+        [  :SNGRE_483_08H   ,"24/06/2021", {probables: 5599, total: 21377}],
+        [  :SNGRE_484_08H   ,"25/06/2021", {probables: 5606, total: 21433}]
       ]
       .reverse
       .seleccionable
@@ -2465,15 +2468,15 @@ class Criterios
     ];
 
     [
-     1512748,
-       15778,
-        5599,
-       21377,
-      449483,
-     1009719,
-       47794,
-         659,
-         437
+     1521099,
+       15827,
+        5606,
+       21433,
+      452234,
+     1015293,
+       47850,
+         668,
+         424
     ]
   ]
 NACIONAL
