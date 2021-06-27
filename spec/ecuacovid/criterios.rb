@@ -474,7 +474,8 @@ class Criterios
         [  :SNGRE_482_08H   ,"23/06/2021", {casos: 449107, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_483_08H   ,"24/06/2021", {casos: 449483, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_484_08H   ,"25/06/2021", {casos: 452234, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_485_08H   ,"26/06/2021", {casos: 453362, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_485_08H   ,"26/06/2021", {casos: 453362, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_486_08H   ,"27/06/2021", {casos: 454336, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -483,6 +484,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_486_08H   ,"27/06/2021", { muertes: 15874, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_485_08H   ,"26/06/2021", { muertes: 15860, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_484_08H   ,"25/06/2021", { muertes: 15827, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_483_08H   ,"24/06/2021", { muertes: 15778, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2426,7 +2428,8 @@ class Criterios
         [  :SNGRE_482_08H   ,"23/06/2021", {probables: 5598, total: 21367}],
         [  :SNGRE_483_08H   ,"24/06/2021", {probables: 5599, total: 21377}],
         [  :SNGRE_484_08H   ,"25/06/2021", {probables: 5606, total: 21433}],
-        [  :SNGRE_485_08H   ,"26/06/2021", {probables: 5625, total: 21485}]
+        [  :SNGRE_485_08H   ,"26/06/2021", {probables: 5625, total: 21485}],
+        [  :SNGRE_486_08H   ,"27/06/2021", {probables: 5649, total: 21523}]
       ]
       .reverse
       .seleccionable
@@ -2473,13 +2476,13 @@ class Criterios
     ];
 
     [
-     1525681,
-       15860,
-        5625,
-       21485,
-      453362,
-     1018819,
-       48263,
+     1530343,
+       15874,
+        5649,
+       21523,
+      454336,
+     1022351,
+       48341,
          678,
          452
     ]
