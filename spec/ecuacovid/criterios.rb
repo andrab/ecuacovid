@@ -1959,7 +1959,8 @@ class Criterios
         [  :SNGRE_481_08H   ,"22/06/2021", {muestras: 1524133, rezagadas: 53628}],
         [  :SNGRE_482_08H   ,"23/06/2021", {muestras: 1531936, rezagadas: 53334}],
         [  :SNGRE_483_08H   ,"24/06/2021", {muestras: 1533320, rezagadas: 53546}],
-        [  :SNGRE_484_08H   ,"25/06/2021", {muestras: 1541671, rezagadas: 53572}]
+        [  :SNGRE_484_08H   ,"25/06/2021", {muestras: 1541671, rezagadas: 53572}],
+        [  :SNGRE_485_08H   ,"26/06/2021", {muestras: 1546253, rezagadas: 53500}]
       ]
       .reverse
       .seleccionable
