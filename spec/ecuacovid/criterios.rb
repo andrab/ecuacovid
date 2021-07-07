@@ -483,7 +483,8 @@ class Criterios
         [  :SNGRE_491_08H   ,"02/07/2021", {casos: 461157, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_492_08H   ,"03/07/2021", {casos: 462142, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_493_08H   ,"04/07/2021", {casos: 462142, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_494_08H   ,"05/07/2021", {casos: 462649, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_494_08H   ,"05/07/2021", {casos: 462649, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_495_08H   ,"06/07/2021", {casos: 463951, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -492,6 +493,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_495_08H   ,"06/07/2021", { muertes: 16020, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_494_08H   ,"05/07/2021", { muertes: 16009, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_493_08H   ,"04/07/2021", { muertes: 15980, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_492_08H   ,"03/07/2021", { muertes: 15980, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2475,7 +2477,8 @@ class Criterios
         [  :SNGRE_491_08H   ,"02/07/2021", {probables: 5677, total: 21623}],
         [  :SNGRE_492_08H   ,"03/07/2021", {probables: 5680, total: 21660}],
         [  :SNGRE_493_08H   ,"04/07/2021", {probables: 5680, total: 21660}],
-        [  :SNGRE_494_08H   ,"05/07/2021", {probables: 5686, total: 21695}]
+        [  :SNGRE_494_08H   ,"05/07/2021", {probables: 5686, total: 21695}],
+        [  :SNGRE_495_08H   ,"06/07/2021", {probables: 5688, total: 21708}]
       ]
       .reverse
       .seleccionable
@@ -2522,12 +2525,12 @@ class Criterios
     ];
 
     [
-     1560980,
-       16009,
-        5686,
-       21695,
-      462649,
-     1045109,
+     1565159,
+       16020,
+        5688,
+       21708,
+      463951,
+     1048084,
        48969,
          650,
          427
