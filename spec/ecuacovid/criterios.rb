@@ -484,6 +484,7 @@ class Criterios
         [  :SNGRE_492_08H   ,"03/07/2021", {casos: 462142, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_493_08H   ,"04/07/2021", {casos: 462142, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_494_08H   ,"05/07/2021", {casos: 462649, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_495_08H   ,"06/07/2021", {casos: 463951, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_496_08H   ,"07/07/2021", {casos: 465029, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
@@ -2004,7 +2005,8 @@ class Criterios
         [  :SNGRE_492_08H   ,"03/07/2021", {muestras: 1579799, rezagadas: 53413}],
         [  :SNGRE_493_08H   ,"04/07/2021", {muestras: 1579799, rezagadas: 53413}],
         [  :SNGRE_494_08H   ,"05/07/2021", {muestras: 1581552, rezagadas: 53222}],
-        [  :SNGRE_495_08H   ,"06/07/2021", {muestras: 1585731, rezagadas: 53124}]
+        [  :SNGRE_495_08H   ,"06/07/2021", {muestras: 1585731, rezagadas: 53124}],
+        [  :SNGRE_495_08H   ,"07/07/2021", {muestras: 1590675, rezagadas: 53603}]
       ]
       .reverse
       .seleccionable
