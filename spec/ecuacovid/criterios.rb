@@ -488,7 +488,8 @@ class Criterios
         [  :SNGRE_496_08H   ,"07/07/2021", {casos: 465029, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_497_08H   ,"08/07/2021", {casos: 465878, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_498_08H   ,"09/07/2021", {casos: 467073, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_499_08H   ,"10/07/2021", {casos: 467976, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_499_08H   ,"10/07/2021", {casos: 467976, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_500_08H   ,"11/07/2021", {casos: 468346, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -497,6 +498,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_500_08H   ,"11/07/2021", { muertes: 16127, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_499_08H   ,"10/07/2021", { muertes: 16111, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_498_08H   ,"09/07/2021", { muertes: 16103, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_497_08H   ,"08/07/2021", { muertes: 16071, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2495,7 +2497,8 @@ class Criterios
         [  :SNGRE_496_08H   ,"07/07/2021", {probables: 5695, total: 21728}],
         [  :SNGRE_497_08H   ,"08/07/2021", {probables: 5697, total: 21768}],
         [  :SNGRE_498_08H   ,"09/07/2021", {probables: 5700, total: 21803}],
-        [  :SNGRE_499_08H   ,"10/07/2021", {probables: 5703, total: 21814}]
+        [  :SNGRE_499_08H   ,"10/07/2021", {probables: 5703, total: 21814}],
+        [  :SNGRE_500_08H   ,"11/07/2021", {probables: 5703, total: 21830}]
       ]
       .reverse
       .seleccionable
@@ -2542,12 +2545,12 @@ class Criterios
     ];
 
     [
-     1581643,
-       16111,
+     1582819,
+       16127,
         5703,
-       21814,
-      467976,
-     1059628,
+       21830,
+      468346,
+     1060709,
        48969,
          650,
          427
