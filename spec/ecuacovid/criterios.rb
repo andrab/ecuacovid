@@ -2020,7 +2020,8 @@ class Criterios
         [  :SNGRE_497_08H   ,"08/07/2021", {muestras: 1595143, rezagadas: 54211}],
         [  :SNGRE_498_08H   ,"09/07/2021", {muestras: 1600030, rezagadas: 54613}],
         [  :SNGRE_499_08H   ,"10/07/2021", {muestras: 1602215, rezagadas: 54039}],
-        [  :SNGRE_500_08H   ,"11/07/2021", {muestras: 1603391, rezagadas: 53764}]
+        [  :SNGRE_500_08H   ,"11/07/2021", {muestras: 1603391, rezagadas: 53764}],
+        [  :SNGRE_501_08H   ,"12/07/2021", {muestras: 1603736, rezagadas: 53862}]
       ]
       .reverse
       .seleccionable
