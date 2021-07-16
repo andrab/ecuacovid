@@ -492,7 +492,8 @@ class Criterios
         [  :SNGRE_500_08H   ,"11/07/2021", {casos: 468346, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_501_08H   ,"12/07/2021", {casos: 468414, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_502_08H   ,"13/07/2021", {casos: 470882, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_503_08H   ,"14/07/2021", {casos: 471757, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_503_08H   ,"14/07/2021", {casos: 471757, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_504_08H   ,"15/07/2021", {casos: 472722, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -501,6 +502,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_504_08H   ,"15/07/2021", { muertes: 16163, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_503_08H   ,"14/07/2021", { muertes: 16145, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_502_08H   ,"13/07/2021", { muertes: 16129, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_501_08H   ,"12/07/2021", { muertes: 16127, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2511,7 +2513,8 @@ class Criterios
         [  :SNGRE_500_08H   ,"11/07/2021", {probables: 5703, total: 21830}],
         [  :SNGRE_501_08H   ,"12/07/2021", {probables: 5703, total: 21830}],
         [  :SNGRE_502_08H   ,"13/07/2021", {probables: 5703, total: 21832}],
-        [  :SNGRE_503_08H   ,"14/07/2021", {probables: 5705, total: 21850}]
+        [  :SNGRE_503_08H   ,"14/07/2021", {probables: 5705, total: 21850}],
+        [  :SNGRE_504_08H   ,"15/07/2021", {probables: 5709, total: 21872}]
       ]
       .reverse
       .seleccionable
@@ -2558,12 +2561,12 @@ class Criterios
     ];
 
     [
-     1590939,
-       16145,
-        5705,
-       21850,
-      471757,
-     1066344,
+     1595745,
+       16163,
+        5709,
+       21872,
+      472722,
+     1069451,
        48969,
          650,
          427
