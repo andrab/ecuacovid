@@ -496,7 +496,8 @@ class Criterios
         [  :SNGRE_504_08H   ,"15/07/2021", {casos: 472722, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_505_08H   ,"16/07/2021", {casos: 473647, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_506_08H   ,"17/07/2021", {casos: 475215, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_507_08H   ,"18/07/2021", {casos: 476065, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_507_08H   ,"18/07/2021", {casos: 476065, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_508_08H   ,"19/07/2021", {casos: 476312, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -505,6 +506,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_508_08H   ,"19/07/2021", { muertes: 16237, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_507_08H   ,"18/07/2021", { muertes: 16231, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_506_08H   ,"17/07/2021", { muertes: 16219, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_505_08H   ,"16/07/2021", { muertes: 16187, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2527,7 +2529,8 @@ class Criterios
         [  :SNGRE_504_08H   ,"15/07/2021", {probables: 5709, total: 21872}],
         [  :SNGRE_505_08H   ,"16/07/2021", {probables: 5712, total: 21899}],
         [  :SNGRE_506_08H   ,"17/07/2021", {probables: 5714, total: 21933}],
-        [  :SNGRE_507_08H   ,"18/07/2021", {probables: 5722, total: 21953}]
+        [  :SNGRE_507_08H   ,"18/07/2021", {probables: 5722, total: 21953}],
+        [  :SNGRE_508_08H   ,"19/07/2021", {probables: 5721, total: 21958}]
       ]
       .reverse
       .seleccionable
@@ -2574,12 +2577,12 @@ class Criterios
     ];
 
     [
-     1608595,
-       16231,
-        5722,
-       21953,
-      476065,
-     1078911,
+     1609933,
+       16237,
+        5721,
+       21958,
+      476312,
+     1080113,
        48969,
          650,
          427
