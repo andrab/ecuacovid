@@ -497,7 +497,8 @@ class Criterios
         [  :SNGRE_505_08H   ,"16/07/2021", {casos: 473647, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_506_08H   ,"17/07/2021", {casos: 475215, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_507_08H   ,"18/07/2021", {casos: 476065, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_508_08H   ,"19/07/2021", {casos: 476312, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_508_08H   ,"19/07/2021", {casos: 476312, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_509_08H   ,"20/07/2021", {casos: 477946, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -506,6 +507,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_509_08H   ,"20/07/2021", { muertes: 21402, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_508_08H   ,"19/07/2021", { muertes: 16237, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_507_08H   ,"18/07/2021", { muertes: 16231, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_506_08H   ,"17/07/2021", { muertes: 16219, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2531,7 +2533,8 @@ class Criterios
         [  :SNGRE_505_08H   ,"16/07/2021", {probables: 5712, total: 21899}],
         [  :SNGRE_506_08H   ,"17/07/2021", {probables: 5714, total: 21933}],
         [  :SNGRE_507_08H   ,"18/07/2021", {probables: 5722, total: 21953}],
-        [  :SNGRE_508_08H   ,"19/07/2021", {probables: 5721, total: 21958}]
+        [  :SNGRE_508_08H   ,"19/07/2021", {probables: 5721, total: 21958}],
+        [  :SNGRE_509_08H   ,"20/07/2021", {probables: 9342, total: 30744}]
       ]
       .reverse
       .seleccionable
@@ -2578,12 +2581,12 @@ class Criterios
     ];
 
     [
-     1609933,
-       16237,
-        5721,
-       21958,
-      476312,
-     1080113,
+     1615763,
+       21402,
+        9342,
+       30744,
+      477946,
+     1084235,
        48969,
          650,
          427
