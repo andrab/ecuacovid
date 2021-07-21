@@ -2578,7 +2578,13 @@ class Criterios
       negativas_pcr,
       hospitalizadas_altas,
       hospitalizadas_estables,
-      hospitalizadas_pronostico_reservadas
+      hospitalizadas_pronostico_reservadas,
+      asignadas_hospitalizacion,
+      porcentaje_ocupadas_hospitalizacion,
+      asignadas_cuidado_intermedio,
+      porcentaje_ocupadas_cuidado_intermedio,
+      asignadas_uci,
+      porcentaje_ocupadas_uci
     ];
 
     [
@@ -2590,7 +2596,13 @@ class Criterios
      1084235,
        48969,
          650,
-         427
+         427,
+        2625,
+          44,
+         175,
+          65,
+         745,
+          80
     ]
   ]
 NACIONAL
