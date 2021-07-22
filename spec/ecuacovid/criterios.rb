@@ -499,7 +499,8 @@ class Criterios
         [  :SNGRE_507_08H   ,"18/07/2021", {casos: 476065, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_508_08H   ,"19/07/2021", {casos: 476312, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_509_08H   ,"20/07/2021", {casos: 477946, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_510_08H   ,"21/07/2021", {casos: 478615, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_510_08H   ,"21/07/2021", {casos: 478615, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_511_08H   ,"22/07/2021", {casos: 479784, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -508,6 +509,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_511_08H   ,"22/07/2021", { muertes: 21428, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_510_08H   ,"21/07/2021", { muertes: 21407, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_509_08H   ,"20/07/2021", { muertes: 21402, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_508_08H   ,"19/07/2021", { muertes: 16237, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2559,7 +2561,8 @@ class Criterios
         [  :SNGRE_507_08H   ,"18/07/2021", {probables: 5722, total: 21953}],
         [  :SNGRE_508_08H   ,"19/07/2021", {probables: 5721, total: 21958}],
         [  :SNGRE_509_08H   ,"20/07/2021", {probables: 9342, total: 30744}],
-        [  :SNGRE_510_08H   ,"21/07/2021", {probables: 9345, total: 30752}]
+        [  :SNGRE_510_08H   ,"21/07/2021", {probables: 9345, total: 30752}],
+        [  :SNGRE_511_08H   ,"22/07/2021", {probables: 9349, total: 30777}]
       ]
       .reverse
       .seleccionable
@@ -2612,21 +2615,21 @@ class Criterios
     ];
 
     [
-     1618790,
-       21407,
-        9345,
-       30752,
-      478615,
-     1086045,
+     1623084,
+       21428,
+        9349,
+       30777,
+      479784,
+     1089050,
        48969,
          650,
          427,
-        2643,
+        2616,
           46,
-         160,
-          62,
-         766,
-          79
+         161,
+          61,
+         759,
+          80
     ]
   ]
 NACIONAL
