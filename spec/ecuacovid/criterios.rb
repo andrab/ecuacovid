@@ -2070,7 +2070,8 @@ class Criterios
         [  :SNGRE_507_08H   ,"18/07/2021", {muestras: 1629167, rezagadas: 53619}],
         [  :SNGRE_508_08H   ,"19/07/2021", {muestras: 1630505, rezagadas: 53508}],
         [  :SNGRE_509_08H   ,"20/07/2021", {muestras: 1636335, rezagadas: 53582}],
-        [  :SNGRE_510_08H   ,"21/07/2021", {muestras: 1639362, rezagadas: 54130}]
+        [  :SNGRE_510_08H   ,"21/07/2021", {muestras: 1639362, rezagadas: 54130}],
+        [  :SNGRE_511_08H   ,"22/07/2021", {muestras: 1643656, rezagadas: 54250}]
       ]
       .reverse
       .seleccionable
