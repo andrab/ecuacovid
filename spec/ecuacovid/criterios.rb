@@ -500,7 +500,8 @@ class Criterios
         [  :SNGRE_508_08H   ,"19/07/2021", {casos: 476312, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_509_08H   ,"20/07/2021", {casos: 477946, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_510_08H   ,"21/07/2021", {casos: 478615, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_511_08H   ,"22/07/2021", {casos: 479784, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_511_08H   ,"22/07/2021", {casos: 479784, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_512_08H   ,"23/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -509,6 +510,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_512_08H   ,"23/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_511_08H   ,"22/07/2021", { muertes: 21428, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_510_08H   ,"21/07/2021", { muertes: 21407, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_509_08H   ,"20/07/2021", { muertes: 21402, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2563,7 +2565,8 @@ class Criterios
         [  :SNGRE_508_08H   ,"19/07/2021", {probables: 5721, total: 21958}],
         [  :SNGRE_509_08H   ,"20/07/2021", {probables: 9342, total: 30744}],
         [  :SNGRE_510_08H   ,"21/07/2021", {probables: 9345, total: 30752}],
-        [  :SNGRE_511_08H   ,"22/07/2021", {probables: 9349, total: 30777}]
+        [  :SNGRE_511_08H   ,"22/07/2021", {probables: 9349, total: 30777}],
+        [  :SNGRE_512_08H   ,"23/07/2021", {probables: 9351, total: 30797}]
       ]
       .reverse
       .seleccionable
@@ -2616,20 +2619,20 @@ class Criterios
     ];
 
     [
-     1623084,
-       21428,
-        9349,
-       30777,
-      479784,
-     1089050,
+     1627189,
+       21446,
+        9351,
+       30797,
+      480720,
+     1091636,
        48969,
          650,
          427,
-        2616,
+        2635,
           46,
-         161,
-          61,
-         759,
+         159,
+          57,
+         772,
           80
     ]
   ]
