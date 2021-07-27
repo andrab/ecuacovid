@@ -501,7 +501,10 @@ class Criterios
         [  :SNGRE_509_08H   ,"20/07/2021", {casos: 477946, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_510_08H   ,"21/07/2021", {casos: 478615, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_511_08H   ,"22/07/2021", {casos: 479784, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_512_08H   ,"23/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_512_08H   ,"23/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_514_08H   ,"24/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_515_08H   ,"25/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_516_08H   ,"26/07/2021", {casos: 482947, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -510,6 +513,9 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :SNGRE_516_08H   ,"26/07/2021", { muertes: 30321, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :SNGRE_514_08H   ,"25/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :SNGRE_513_08H   ,"24/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_512_08H   ,"23/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_511_08H   ,"22/07/2021", { muertes: 21428, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_510_08H   ,"21/07/2021", { muertes: 21407, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2074,7 +2080,9 @@ class Criterios
         [  :SNGRE_509_08H   ,"20/07/2021", {muestras: 1636335, rezagadas: 53582}],
         [  :SNGRE_510_08H   ,"21/07/2021", {muestras: 1639362, rezagadas: 54130}],
         [  :SNGRE_511_08H   ,"22/07/2021", {muestras: 1643656, rezagadas: 54250}],
-        [  :SNGRE_512_08H   ,"23/07/2021", {muestras: 1647761, rezagadas: 54833}]
+        [  :SNGRE_512_08H   ,"23/07/2021", {muestras: 1647761, rezagadas: 54833}],
+        [  :SNGRE_513_08H   ,"24/07/2021", {muestras: 1647761, rezagadas: 54833}],
+        [  :SNGRE_514_08H   ,"25/07/2021", {muestras: 1647761, rezagadas: 54833}]
       ]
       .reverse
       .seleccionable
@@ -2567,7 +2575,10 @@ class Criterios
         [  :SNGRE_509_08H   ,"20/07/2021", {probables: 9342, total: 30744}],
         [  :SNGRE_510_08H   ,"21/07/2021", {probables: 9345, total: 30752}],
         [  :SNGRE_511_08H   ,"22/07/2021", {probables: 9349, total: 30777}],
-        [  :SNGRE_512_08H   ,"23/07/2021", {probables: 9351, total: 30797}]
+        [  :SNGRE_512_08H   ,"23/07/2021", {probables: 9351, total: 30797}],
+        [  :SNGRE_513_08H   ,"24/07/2021", {probables: 9351, total: 30797}],
+        [  :SNGRE_514_08H   ,"25/07/2021", {probables: 9351, total: 30797}],
+        [  :SNGRE_515_08H   ,"26/07/2021", {probables: 1105, total: 31426}]
       ]
       .reverse
       .seleccionable
@@ -2620,12 +2631,12 @@ class Criterios
     ];
 
     [
-     1627189,
-       21446,
-        9351,
-       30797,
-      480720,
-     1091636,
+     1634245,
+       30321,
+        1105,
+       31426,
+      482947,
+     1097686,
        48969,
          650,
          427,
@@ -2642,4 +2653,13 @@ NACIONAL
   end
 end
 
+# casos_probables | 53612 
+# total_casos | 536559
 
+# El valor 'muestras_pcr' ha sido eliminado de la infografía 515, actualizo ese dato sumando positivas_pcr + negativas_pcr + casos_probables
+
+# Sobre casos_probables si bien entendíamos nosotros que se trataba de pruebas sin resultado o rezagadas, a ese valor el MSP los reconoce como probables y en la infografía los suma y los suma a los diagnosticados
+
+# En infografía no hay muertos por provincia. La suma de muertos total ahora hay que sacarla sumando de los 3 datos publicados. 629 decesos nuevos desde el 23 de julio de 2021.
+
+# No hay datos de altas, hospitalizados, camas asignadas y ocupación. En el balance una regresión grave de información
