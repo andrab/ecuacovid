@@ -513,9 +513,9 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
-        [  :_SIN_INFORME_   ,"26/07/2021", { muertes: 30321, provincias_ingresadas: 24, sin_ingresar:  0}],
-        [  :_SIN_INFORME_   ,"25/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
-        [  :_SIN_INFORME_   ,"24/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}], 
+        [  :SNGRE_515_08H   ,"26/07/2021", { muertes: 30321, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"25/07/2021", { muertes: 30315, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"24/07/2021", { muertes: 30307, provincias_ingresadas: 24, sin_ingresar:  0}], 
         [  :SNGRE_512_08H   ,"23/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_511_08H   ,"22/07/2021", { muertes: 21428, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :SNGRE_510_08H   ,"21/07/2021", { muertes: 21407, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2081,8 +2081,8 @@ class Criterios
         [  :SNGRE_510_08H   ,"21/07/2021", {muestras: 1639362, rezagadas: 54130}],
         [  :SNGRE_511_08H   ,"22/07/2021", {muestras: 1643656, rezagadas: 54250}],
         [  :SNGRE_512_08H   ,"23/07/2021", {muestras: 1647761, rezagadas: 54833}],
-        [  :_SIN_INFORME_   ,"24/07/2021", {muestras: 1647761, rezagadas: 54833}],
-        [  :_SIN_INFORME_   ,"25/07/2021", {muestras: 1647761, rezagadas: 54833}],
+        [  :_SIN_INFORME_   ,"24/07/2021", {muestras: 1651404, rezagadas: 54703}],
+        [  :_SIN_INFORME_   ,"25/07/2021", {muestras: 1652507, rezagadas: 54582}],
         [  :SNGRE_515_08H   ,"26/07/2021", {muestras: 1654817, rezagadas: 53612}]
       ]
       .reverse
@@ -2577,9 +2577,9 @@ class Criterios
         [  :SNGRE_510_08H   ,"21/07/2021", {probables: 9345, total: 30752}],
         [  :SNGRE_511_08H   ,"22/07/2021", {probables: 9349, total: 30777}],
         [  :SNGRE_512_08H   ,"23/07/2021", {probables: 9351, total: 30797}],
-        [  :_SIN_INPORME_   ,"24/07/2021", {probables: 9351, total: 30797}],
-        [  :_SIN_INPORME_   ,"25/07/2021", {probables: 9351, total: 30797}],
-        [  :_SIN_INPORME_   ,"26/07/2021", {probables: 1105, total: 31426}]
+        [  :_SIN_INPORME_   ,"24/07/2021", {probables: 1103, total: 31410}],
+        [  :_SIN_INPORME_   ,"25/07/2021", {probables: 1103, total: 31418}],
+        [  :SNGRE_515_08H   ,"26/07/2021", {probables: 1105, total: 31426}]
       ]
       .reverse
       .seleccionable
@@ -2615,11 +2615,31 @@ class Criterios
   [         
     [
       muestras_pcr,
+      positivas_total,
+      positivas_probables,
       muertes_confirmadas,
       muertes_probables,
       muertes,
       positivas_pcr,
       negativas_pcr,
+      positivas_pcr_hombre,
+      positivas_pcr_mujer,
+      positivas_pcr_hombre_edades_meses,
+      positivas_pcr_hombre_edades_0a4,
+      positivas_pcr_hombre_edades_5a9,
+      positivas_pcr_hombre_edades_10a14,
+      positivas_pcr_hombre_edades_15a19,
+      positivas_pcr_hombre_edades_20a49,
+      positivas_pcr_hombre_edades_50a64,
+      positivas_pcr_hombre_edades_65an,
+      positivas_pcr_mujer_edades_meses,
+      positivas_pcr_mujer_edades_0a4,
+      positivas_pcr_mujer_edades_5a9,
+      positivas_pcr_mujer_edades_10a14,
+      positivas_pcr_mujer_edades_15a19,
+      positivas_pcr_mujer_edades_20a49,
+      positivas_pcr_mujer_edades_50a64,
+      positivas_pcr_mujer_edades_65an,
       hospitalizadas_altas,
       hospitalizadas_estables,
       hospitalizadas_pronostico_reservadas,
@@ -2633,11 +2653,31 @@ class Criterios
 
     [
      1634245,
+      536559,
+       53612,
        30321,
         1105,
        31426,
       482947,
      1097686,
+      235341,
+      247606,
+         375,
+        1745,
+        2371,
+        4587,
+        8549,
+      148676,
+       50146,
+       31532,
+         432,
+        1592,
+        2316,
+        4623,
+        9235,
+      141528,
+       47759,
+       28288,
        48969,
          650,
          427,
@@ -2657,10 +2697,13 @@ end
 # casos_probables | 53612 
 # total_casos | 536559
 
-# El valor 'muestras_pcr' ha sido eliminado de la infografía 515, actualizo ese dato sumando positivas_pcr + negativas_pcr + casos_probables
+# El valor 'muestras_pcr' ha sido eliminado de la infografía 515
+# actualizo ese dato sumando positivas_pcr + negativas_pcr + casos_probables
 
-# Sobre casos_probables si bien entendíamos nosotros que se trataba de pruebas sin resultado o rezagadas, a ese valor el MSP los reconoce como probables y en la infografía los suma y los suma a los diagnosticados
+# Sobre casos_probables si bien entendíamos nosotros que se trataba de pruebas sin resultado o rezagadas
+# a ese valor el MSP los reconoce como probables y en la infografía los suma y los suma a los diagnosticados
 
-# En infografía no hay muertos por provincia. La suma de muertos total ahora hay que sacarla sumando de los 3 datos publicados. 629 decesos nuevos desde el 23 de julio de 2021.
+# En infografía no hay muertos por provincia. La suma de muertos total ahora hay que sacarla
+# sumando de los 3 datos publicados. 629 decesos nuevos desde el 23 de julio de 2021.
 
 # No hay datos de altas, hospitalizados, camas asignadas y ocupación. En el balance una regresión grave de información
