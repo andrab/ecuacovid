@@ -2612,85 +2612,53 @@ class Criterios
 
         ENV["YEAR"] == "ALL" || year == (options[:year] || (ENV["YEAR"] && ENV["YEAR"].to_i) || 2021)
       end
-    end
-
+    end         
+    
     def pendiente
 <<NACIONAL
-  [         
+  [
     [
-      muestras_pcr,
-      positivas_total,
-      positivas_probables,
-      muertes_confirmadas,
-      muertes_probables,
-      muertes,
-      positivas_pcr,
-      negativas_pcr,
-      positivas_pcr_hombre,
-      positivas_pcr_mujer,
-      positivas_pcr_hombre_edades_meses,
-      positivas_pcr_hombre_edades_0a4,
-      positivas_pcr_hombre_edades_5a9,
-      positivas_pcr_hombre_edades_10a14,
-      positivas_pcr_hombre_edades_15a19,
-      positivas_pcr_hombre_edades_20a49,
-      positivas_pcr_hombre_edades_50a64,
-      positivas_pcr_hombre_edades_65an,
-      positivas_pcr_mujer_edades_meses,
-      positivas_pcr_mujer_edades_0a4,
-      positivas_pcr_mujer_edades_5a9,
-      positivas_pcr_mujer_edades_10a14,
-      positivas_pcr_mujer_edades_15a19,
-      positivas_pcr_mujer_edades_20a49,
-      positivas_pcr_mujer_edades_50a64,
-      positivas_pcr_mujer_edades_65an,
-      hospitalizadas_altas,
-      hospitalizadas_estables,
-      hospitalizadas_pronostico_reservadas,
-      asignadas_hospitalizacion,
-      porcentaje_ocupadas_hospitalizacion,
-      asignadas_cuidado_intermedio,
-      porcentaje_ocupadas_cuidado_intermedio,
-      asignadas_uci,
-      porcentaje_ocupadas_uci
-    ];
+      [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
+      [      1672026,     572292,            88559,    483733,     1099734,    235706,              248027]
+    ]
 
     [
-     1672026,
-      572292,
-       88559,
-       22045,
-        9409,
-       31454,
-      483733,
-     1099734,
-      235706,
-      248027,
-         375,
-        1593,
-        2319,
-        4632,
-        9256,
-      141757,
-       47835,
-       28314,
-         432,
-        1747,
-        2377,
-        4593,
-        8574,
-      148954,
-       50219,
-       31563,
-       48969,
-         650,
-         427,
+      [muertes_total, confirmadas,      probables];
+      [        31454,       22045,           9409]
+    ]
+
+    [
+      [    h0meses11,     h0años4,        h5años9,  h10años14,   h15años19, h20años49, h50años64, h65+años];
+      [          375,        1593,           2319,       4632,        9256,    141757,     47835,    28314]
+    ]
+
+    [
+      [    m0meses11,     m0años4,         m5años9,  m10años14,  m15años19, m20años49, m50años64, m65+años];
+      [          432,        1747,            2377,       4593,       8574,    148954,     50219,    31563]
+    ]
+    
+    [
+      [altas, estables, pronostico_reservadas];
+      [48969,      650,                   427]
+    ]
+    
+    [
+      [
+        hosp_asignadas,
+        hosp_%_ocupadas,
+        cuidado_int_asignadas,
+        cuidado_int_%_ocupadas,
+        uci_asignadas,
+        uci_%_ocupadas
+      ];
+      [
         2635,
           46,
          159,
           57,
          772,
           80
+      ]
     ]
   ]
 NACIONAL
