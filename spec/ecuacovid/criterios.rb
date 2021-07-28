@@ -504,7 +504,8 @@ class Criterios
         [  :SNGRE_512_08H   ,"23/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"24/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"25/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_515_08H   ,"26/07/2021", {casos: 482947, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_515_08H   ,"26/07/2021", {casos: 482947, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_516_08H   ,"27/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -513,7 +514,8 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
-        [  :SNGRE_515_08H   ,"26/07/2021", { muertes: 30321, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"27/07/2021", { muertes: 22045, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"26/07/2021", { muertes: 30321, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/07/2021", { muertes: 30315, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"24/07/2021", { muertes: 30307, provincias_ingresadas: 24, sin_ingresar:  0}], 
         [  :SNGRE_512_08H   ,"23/07/2021", { muertes: 21446, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2083,7 +2085,8 @@ class Criterios
         [  :SNGRE_512_08H   ,"23/07/2021", {muestras: 1647761, rezagadas: 54833}],
         [  :_SIN_INFORME_   ,"24/07/2021", {muestras: 1651404, rezagadas: 54703}],
         [  :_SIN_INFORME_   ,"25/07/2021", {muestras: 1652507, rezagadas: 54582}],
-        [  :SNGRE_515_08H   ,"26/07/2021", {muestras: 1654817, rezagadas: 53612}]
+        [  :SNGRE_515_08H   ,"26/07/2021", {muestras: 1654817, rezagadas: 53612}],
+        [  :SNGRE_516_08H   ,"27/07/2021", {muestras: 1692598, rezagadas: 88559}]
       ]
       .reverse
       .seleccionable
@@ -2579,7 +2582,8 @@ class Criterios
         [  :SNGRE_512_08H   ,"23/07/2021", {probables: 9351, total: 30797}],
         [  :_SIN_INPORME_   ,"24/07/2021", {probables: 1103, total: 31410}],
         [  :_SIN_INPORME_   ,"25/07/2021", {probables: 1103, total: 31418}],
-        [  :SNGRE_515_08H   ,"26/07/2021", {probables: 1105, total: 31426}]
+        [  :SNGRE_515_08H   ,"26/07/2021", {probables: 1105, total: 31426}],
+        [  :SNGRE_516_08H   ,"27/07/2021", {probables: 9409, total: 31454}]
       ]
       .reverse
       .seleccionable
@@ -2652,32 +2656,32 @@ class Criterios
     ];
 
     [
-     1634245,
-      536559,
-       53612,
-       30321,
-        1105,
-       31426,
-      482947,
-     1097686,
-      235341,
-      247606,
+     1672026,
+      572292,
+       88559,
+       22045,
+        9409,
+       31454,
+      483733,
+     1099734,
+      235706,
+      248027,
          375,
-        1745,
-        2371,
-        4587,
-        8549,
-      148676,
-       50146,
-       31532,
+        1593,
+        2319,
+        4632,
+        9256,
+      141757,
+       47835,
+       28314,
          432,
-        1592,
-        2316,
-        4623,
-        9235,
-      141528,
-       47759,
-       28288,
+        1747,
+        2377,
+        4593,
+        8574,
+      148954,
+       50219,
+       31563,
        48969,
          650,
          427,
