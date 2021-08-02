@@ -505,7 +505,8 @@ class Criterios
         [  :_SIN_INFORME_   ,"24/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"25/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_515_08H   ,"26/07/2021", {casos: 482947, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_516_08H   ,"27/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_516_08H   ,"27/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"28/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -514,6 +515,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"28/07/2021", { muertes: 22078, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"27/07/2021", { muertes: 22045, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"26/07/2021", { muertes: 30321, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/07/2021", { muertes: 30315, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2086,7 +2088,8 @@ class Criterios
         [  :_SIN_INFORME_   ,"24/07/2021", {muestras: 1651404, rezagadas: 54703}],
         [  :_SIN_INFORME_   ,"25/07/2021", {muestras: 1652507, rezagadas: 54582}],
         [  :SNGRE_515_08H   ,"26/07/2021", {muestras: 1654817, rezagadas: 53612}],
-        [  :SNGRE_516_08H   ,"27/07/2021", {muestras: 1692598, rezagadas: 88559}]
+        [  :SNGRE_516_08H   ,"27/07/2021", {muestras: 1692598, rezagadas: 88559}],
+        [  :SNGRE_517_08H   ,"28/07/2021", {muestras: 1696266, rezagadas: 88736}]
       ]
       .reverse
       .seleccionable
@@ -2583,7 +2586,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"24/07/2021", {probables: 1103, total: 31410}],
         [  :_SIN_INPORME_   ,"25/07/2021", {probables: 1103, total: 31418}],
         [  :SNGRE_515_08H   ,"26/07/2021", {probables: 1105, total: 31426}],
-        [  :SNGRE_516_08H   ,"27/07/2021", {probables: 9409, total: 31454}]
+        [  :SNGRE_516_08H   ,"27/07/2021", {probables: 9409, total: 31454}],
+        [  :_SIN_INPORME_   ,"28/07/2021", {probables: 9409, total: 31487}]
       ]
       .reverse
       .seleccionable
@@ -2619,12 +2623,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1672026,     572292,            88559,    483733,     1099734,    235706,              248027]
+      [      1675694,     573444,            88736,    484708,     1102250,    236185,             248523]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        31454,       22045,           9409]
+      [        31487,       22078,           9409]
     ]
 
     [
