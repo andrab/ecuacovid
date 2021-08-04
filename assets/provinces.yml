@@ -1,0 +1,145 @@
+---
+- province: Pichincha
+  capital: Quito
+  population:
+    16_a_49: 1684526
+    50_a_64: 263273
+    65_a_mayor: 436654
+- province: Guayas
+  capital: Guayaquil
+  population:
+    16_a_49: 2238382
+    50_a_64: 329226
+    65_a_mayor: 592958
+- province: Manabí
+  capital: Portoviejo
+  population:
+    16_a_49: 785301
+    50_a_64: 125403
+    65_a_mayor: 204916
+- province: Azuay
+  capital: Cuenca
+  population:
+    16_a_49: 463823
+    50_a_64: 75484
+    65_a_mayor: 104170
+- province: El Oro
+  capital: Machala
+  population:
+    16_a_49: 366884
+    50_a_64: 55930
+    65_a_mayor: 95183
+- province: Loja
+  capital: Loja
+  population:
+    16_a_49: 251503
+    50_a_64: 52051
+    65_a_mayor: 62690
+- province: Tungurahua
+  capital: Ambato
+  population:
+    16_a_49: 299420
+    50_a_64: 54938
+    65_a_mayor: 77914
+- province: Sto. Domingo Tsáchilas
+  capital: Santo Domingo
+  population:
+    16_a_49: 261012
+    50_a_64: 33808
+    65_a_mayor: 59304
+- province: Imbabura
+  capital: Ibarra
+  population:
+    16_a_49: 242144
+    50_a_64: 41420
+    65_a_mayor: 59496
+- province: Cotopaxi
+  capital: Latacunga
+  population:
+    16_a_49: 236814
+    50_a_64: 39569
+    65_a_mayor: 53260
+- province: Esmeraldas
+  capital: Esmeraldas
+  population:
+    16_a_49: 281788
+    50_a_64: 36508
+    65_a_mayor: 62801
+- province: Los Ríos
+  capital: Babahoyo
+  population:
+    16_a_49: 454847
+    50_a_64: 62649
+    65_a_mayor: 111466
+- province: Morona Santiago
+  capital: Morona
+  population:
+    16_a_49: 95718
+    50_a_64: 9681
+    65_a_mayor: 17288
+- province: Carchi
+  capital: Tulcán
+  population:
+    16_a_49: 91750
+    50_a_64: 17405
+    65_a_mayor: 24854
+- province: Chimborazo
+  capital: Riobamba
+  population:
+    16_a_49: 256430
+    50_a_64: 49899
+    65_a_mayor: 62104
+- province: Sucumbíos
+  capital: Lago Agrio
+  population:
+    16_a_49: 119480
+    50_a_64: 11701
+    65_a_mayor: 24726
+- province: Cañar
+  capital: Azogues
+  population:
+    16_a_49: 141146
+    50_a_64: 24700
+    65_a_mayor: 29869
+- province: Bolívar
+  capital: Guaranda
+  population:
+    16_a_49: 94374
+    50_a_64: 20054
+    65_a_mayor: 24369
+- province: Santa Elena
+  capital: Santa Elena
+  population:
+    16_a_49: 198384
+    50_a_64: 26885
+    65_a_mayor: 46540
+- province: Pastaza
+  capital: Pastaza
+  population:
+    16_a_49: 58990
+    50_a_64: 6071
+    65_a_mayor: 10982
+- province: Orellana
+  capital: Orellana
+  population:
+    16_a_49: 77706
+    50_a_64: 6651
+    65_a_mayor: 14906
+- province: Zamora Chinchipe
+  capital: Zamora
+  population:
+    16_a_49: 58783
+    50_a_64: 6663
+    65_a_mayor: 11588
+- province: Napo
+  capital: Tena
+  population:
+    16_a_49: 65679
+    50_a_64: 6963
+    65_a_mayor: 12953
+- province: Galápagos
+  capital: San Cristóbal
+  population:
+    16_a_49: 17047
+    50_a_64: 1905
+    65_a_mayor: 4506
