@@ -502,16 +502,16 @@ class Criterios
         [  :SNGRE_510_08H   ,"21/07/2021", {casos: 478615, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_511_08H   ,"22/07/2021", {casos: 479784, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_512_08H   ,"23/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"24/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"25/07/2021", {casos: 480720, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"24/07/2021", {casos: 481603, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"25/07/2021", {casos: 481761, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_515_08H   ,"26/07/2021", {casos: 482947, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_516_08H   ,"27/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"28/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"29/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"30/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"31/07/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"01/08/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"02/08/2021", {casos: 483733, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :_SIN_INFORME_   ,"28/07/2021", {casos: 484708, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"29/07/2021", {casos: 485673, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"30/07/2021", {casos: 486544, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"31/07/2021", {casos: 487372, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"01/08/2021", {casos: 487598, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"02/08/2021", {casos: 487702, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
