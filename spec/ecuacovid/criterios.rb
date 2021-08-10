@@ -515,9 +515,10 @@ class Criterios
         [  :_SIN_INFORME_   ,"03/08/2021", {casos: 489089, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"04/08/2021", {casos: 489497, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"05/08/2021", {casos: 490356, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"06/08/2021", {casos: 491831, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"07/08/2021", {casos: 492184, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"08/08/2021", {casos: 492265, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :_PROVINCIAL_    ,"06/08/2021", {casos: 491185, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_PROVINCIAL_    ,"07/08/2021", {casos: 491831, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_PROVINCIAL_    ,"08/08/2021", {casos: 492184, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_PROVINCIAL_    ,"09/08/2021", {casos: 492265, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
