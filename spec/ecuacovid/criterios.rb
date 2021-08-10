@@ -512,7 +512,8 @@ class Criterios
         [  :_SIN_INFORME_   ,"31/07/2021", {casos: 487372, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"01/08/2021", {casos: 487598, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"02/08/2021", {casos: 487702, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"03/08/2021", {casos: 489089, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :_SIN_INFORME_   ,"03/08/2021", {casos: 489089, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_SIN_INFORME_   ,"04/08/2021", {casos: 489497, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -521,6 +522,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"04/08/2021", { muertes: 22297, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"03/08/2021", { muertes: 22272, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/08/2021", { muertes: 22227, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"01/08/2021", { muertes: 22217, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2119,7 +2121,8 @@ class Criterios
         [  :SNGRE_520_08H   ,"31/07/2021", {muestras: 1707597, rezagadas: 89165}],
         [  :SNGRE_521_08H   ,"01/08/2021", {muestras: 1709038, rezagadas: 89320}],
         [  :SNGRE_522_08H   ,"02/08/2021", {muestras: 1709889, rezagadas: 89455}],
-        [  :SNGRE_523_08H   ,"03/08/2021", {muestras: 1714424, rezagadas: 89165}]
+        [  :SNGRE_523_08H   ,"03/08/2021", {muestras: 1714424, rezagadas: 89165}],
+        [  :SNGRE_524_08H   ,"04/08/2021", {muestras: 1716380, rezagadas: 89311}]
       ]
       .reverse
       .seleccionable
@@ -2623,7 +2626,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"31/07/2021", {probables: 9417, total: 31631}],
         [  :_SIN_INPORME_   ,"01/08/2021", {probables: 9417, total: 31634}],
         [  :_SIN_INPORME_   ,"02/08/2021", {probables: 9417, total: 31644}],
-        [  :_SIN_INPORME_   ,"03/08/2021", {probables: 9422, total: 31694}]
+        [  :_SIN_INPORME_   ,"03/08/2021", {probables: 9422, total: 31694}],
+        [  :_SIN_INPORME_   ,"04/08/2021", {probables: 9424, total: 31721}]
       ]
       .reverse
       .seleccionable
@@ -2659,12 +2663,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1693852,     578254,            89165,    489089,     1115598,    238407,             250682]
+      [      1695808,     578808,            89311,    489497,     1117000,    238609,             250888]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        31694,       22272,           9422]
+      [        31721,       22297,           9424]
     ]
 
     [
