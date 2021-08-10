@@ -513,11 +513,11 @@ class Criterios
         [  :_SIN_INFORME_   ,"01/08/2021", {casos: 487598, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"02/08/2021", {casos: 487702, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"03/08/2021", {casos: 489089, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_SIN_INFORME_   ,"03/08/2021", {casos: 489089, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_SIN_INFORME_   ,"04/08/2021", {casos: 489497, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"05/08/2021", {casos: 490356, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"06/08/2021", {casos: 491831, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"07/08/2021", {casos: 492184, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :_PROVINCIAL_    ,"07/08/2021", {casos: 492184, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :_PROVINCIAL_    ,"08/08/2021", {casos: 492265, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -526,6 +526,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"08/08/2021", { muertes: 22385, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"07/08/2021", { muertes: 22365, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"06/08/2021", { muertes: 22362, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"05/08/2021", { muertes: 22327, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2132,7 +2133,8 @@ class Criterios
         [  :SNGRE_524_08H   ,"04/08/2021", {muestras: 1716380, rezagadas: 89311}],
         [  :SNGRE_525_08H   ,"05/08/2021", {muestras: 1720110, rezagadas: 89202}],
         [  :SNGRE_526_08H   ,"06/08/2021", {muestras: 1728305, rezagadas: 89548}],
-        [  :SNGRE_527_08H   ,"07/08/2021", {muestras: 1730358, rezagadas: 89577}]
+        [  :SNGRE_527_08H   ,"07/08/2021", {muestras: 1730358, rezagadas: 89577}],
+        [  :SNGRE_528_08H   ,"08/08/2021", {muestras: 1731212, rezagadas: 89641}]
       ]
       .reverse
       .seleccionable
@@ -2640,7 +2642,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"04/08/2021", {probables: 9424, total: 31721}],
         [  :_SIN_INPORME_   ,"05/08/2021", {probables: 9427, total: 31754}],
         [  :_SIN_INPORME_   ,"06/08/2021", {probables: 9426, total: 31788}],
-        [  :_SIN_INPORME_   ,"07/08/2021", {probables: 9430, total: 31795}]
+        [  :_SIN_INPORME_   ,"07/08/2021", {probables: 9430, total: 31795}],
+        [  :_SIN_INPORME_   ,"08/08/2021", {probables: 9431, total: 31816}]
       ]
       .reverse
       .seleccionable
@@ -2676,7 +2679,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1709786,     581761,            89577,    492184,     1128025,    240024,             252160]
+      [      1710640,     581906,            89641,    492265,     1128734,    240067,             252198]
     ]
 
     [
@@ -2707,17 +2710,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [ 33,  5, 1304, 434 ]
-      [ 33,  1,  121,  40 ]
-      [ 73, 34,  325, 236 ]
+      [ 32,  5, 1317, 417 ]
+      [ 29,  4,  121,  35 ]
+      [ 76, 25,  325, 246 ]
 
-      [ 42,  4,  819, 348 ]
-      [ 69,  9,   29,  20 ]
-      [ 78, 27,  268, 210 ]
+      [ 43, 13,  813, 353 ]
+      [ 68, 13,   28,  19 ]
+      [ 80, 33,  268, 214 ]
         
-      [ 35,  0,  483, 168 ]
-      [ 60,  0,   15,   9 ]
-      [ 47,  3,  179,  85 ]
+      [ 32,  0,  476, 151 ]
+      [ 38,  0,   21,   8 ]
+      [ 45,  3,  165,  75 ]
     ]
   ]
 NACIONAL
