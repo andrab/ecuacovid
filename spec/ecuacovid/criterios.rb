@@ -1616,7 +1616,15 @@ class Criterios
       [  :"RCIV_01_01_2021-31_07_2021" ,"29/07/2021", muertes:  194],
       [  :"RCIV_01_01_2021-31_07_2021" ,"30/07/2021", muertes:  117],
       [  :"RCIV_01_01_2021-31_07_2021" ,"31/07/2021", muertes:   62],
-      [  :"RCIV_01_08_2021"            ,"01/08/2021", muertes:   11]
+      [  :"RCIV_01_08_2021"            ,"01/08/2021", muertes:  262],
+      [  :"RCIV_02_08_2021"            ,"02/08/2021", muertes:  232],
+      [  :"RCIV_03_08_2021"            ,"03/08/2021", muertes:  201],
+      [  :"RCIV_04_08_2021"            ,"04/08/2021", muertes:  210],
+      [  :"RCIV_05_08_2021"            ,"05/08/2021", muertes:  178],
+      [  :"RCIV_06_08_2021"            ,"06/08/2021", muertes:  103],
+      [  :"RCIV_07_08_2021"            ,"07/08/2021", muertes:   75],
+      [  :"RCIV_08_08_2021"            ,"08/08/2021", muertes:   52],
+      [  :"RCIV_09_08_2021"            ,"09/08/2021", muertes:   15]
     ]
       .reverse
       .seleccionable
@@ -2140,7 +2148,7 @@ class Criterios
         [  :SNGRE_527_08H   ,"07/08/2021", {muestras: 1728305, rezagadas: 89548}],
         [  :SNGRE_528_08H   ,"08/08/2021", {muestras: 1730358, rezagadas: 89577}],
         [  :SNGRE_529_08H   ,"09/08/2021", {muestras: 1731212, rezagadas: 89641}],
-        [  :SNGRE_529_08H   ,"09/08/2021", {muestras: 1732022, rezagadas: 89728}]
+        [  :SNGRE_529_08H   ,"10/08/2021", {muestras: 1732022, rezagadas: 89728}]
       ]
       .reverse
       .seleccionable
