@@ -2167,7 +2167,8 @@ class Criterios
         [  :SNGRE_532_08H   ,"12/08/2021", {muestras: 1739636, rezagadas: 90551}],
         [  :SNGRE_533_08H   ,"13/08/2021", {muestras: 1743951, rezagadas: 90998}],
         [  :SNGRE_534_08H   ,"14/08/2021", {muestras: 1746770, rezagadas: 91093}],
-        [  :SNGRE_535_08H   ,"15/08/2021", {muestras: 1748234, rezagadas: 91183}]
+        [  :SNGRE_535_08H   ,"15/08/2021", {muestras: 1748234, rezagadas: 91183}],
+        [  :SNGRE_536_08H   ,"16/08/2021", {muestras: 1749455, rezagadas: 91222}]
       ]
       .reverse
       .seleccionable
@@ -2768,17 +2769,3 @@ NACIONAL
     end
   end
 end
-
-# casos_probables | 53612 
-# total_casos | 536559
-
-# El valor 'muestras_pcr' ha sido eliminado de la infografía 515
-# actualizo ese dato sumando positivas_pcr + negativas_pcr + casos_probables
-
-# Sobre casos_probables si bien entendíamos nosotros que se trataba de pruebas sin resultado o rezagadas
-# a ese valor el MSP los reconoce como probables y en la infografía los suma y los suma a los diagnosticados
-
-# En infografía no hay muertos por provincia. La suma de muertos total ahora hay que sacarla
-# sumando de los 3 datos publicados. 629 decesos nuevos desde el 23 de julio de 2021.
-
-# No hay datos de altas, hospitalizados, camas asignadas y ocupación. En el balance una regresión grave de información
