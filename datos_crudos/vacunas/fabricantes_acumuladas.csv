@@ -1,4 +1,5 @@
 fabricante,arrived_at,total
+CanSino,03/08/2021,200000
 Oxford/AstraZeneca,17/03/2021,84000
 Oxford/AstraZeneca,24/04/2021,420000
 Oxford/AstraZeneca,22/05/2021,624000
@@ -32,6 +33,9 @@ Pfizer/BioNTech,07/07/2021,2704759
 Pfizer/BioNTech,13/07/2021,2780809
 Pfizer/BioNTech,14/07/2021,3159889
 Pfizer/BioNTech,20/07/2021,4337729
+Pfizer/BioNTech,26/07/2021,4592789
+Pfizer/BioNTech,03/08/2021,4864229
+Pfizer/BioNTech,10/08/2021,5068979
 Sinovac,06/03/2021,20000
 Sinovac,07/04/2021,320000
 Sinovac,10/04/2021,1020000
