@@ -532,9 +532,8 @@ class Criterios
         [  :_PROVINCIAL_    ,"20/08/2021", {casos: 497895, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"21/08/2021", {casos: 498536, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"22/08/2021", {casos: 498678, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"23/08/2021", {casos: 498728, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"24/08/2021", {casos: 499196, cantones_ingresados: 221, sin_ingresar:   0}]
-
+        [  :SNGRE_543_08H   ,"23/08/2021", {casos: 498727, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_544_08H   ,"24/08/2021", {casos: 499196, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -2196,7 +2195,8 @@ class Criterios
         [  :SNGRE_539_08H   ,"19/08/2021", {muestras: 1759810, rezagadas: 91546}],
         [  :SNGRE_540_08H   ,"20/08/2021", {muestras: 1764257, rezagadas: 91821}],
         [  :SNGRE_541_08H   ,"21/08/2021", {muestras: 1768388, rezagadas: 92035}],
-        [  :SNGRE_542_08H   ,"22/08/2021", {muestras: 1768930, rezagadas: 92127}]
+        [  :SNGRE_542_08H   ,"22/08/2021", {muestras: 1768930, rezagadas: 92127}],
+        [  :SNGRE_543_08H   ,"23/08/2021", {muestras: 1769752, rezagadas: 92226}]
       ]
       .reverse
       .seleccionable
