@@ -532,7 +532,7 @@ class Criterios
         [  :_PROVINCIAL_    ,"20/08/2021", {casos: 497895, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"21/08/2021", {casos: 498536, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :_PROVINCIAL_    ,"22/08/2021", {casos: 498678, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :_PROVINCIAL_    ,"23/08/2021", {casos: 498728, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_543_08H   ,"23/08/2021", {casos: 498727, cantones_ingresados: 221, sin_ingresar:   0}]
 
       ]
       .reverse
@@ -542,7 +542,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
-        [  :_SIN_INFORME_   ,"22/08/2021", { muertes: 22614, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"23/08/2021", { muertes: 22614, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"22/08/2021", { muertes: 22611, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"21/08/2021", { muertes: 22610, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"20/08/2021", { muertes: 22594, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2194,7 +2194,8 @@ class Criterios
         [  :SNGRE_539_08H   ,"19/08/2021", {muestras: 1759810, rezagadas: 91546}],
         [  :SNGRE_540_08H   ,"20/08/2021", {muestras: 1764257, rezagadas: 91821}],
         [  :SNGRE_541_08H   ,"21/08/2021", {muestras: 1768388, rezagadas: 92035}],
-        [  :SNGRE_542_08H   ,"22/08/2021", {muestras: 1768930, rezagadas: 92127}]
+        [  :SNGRE_542_08H   ,"22/08/2021", {muestras: 1768930, rezagadas: 92127}],
+        [  :SNGRE_543_08H   ,"23/08/2021", {muestras: 1769752, rezagadas: 92226}]
       ]
       .reverse
       .seleccionable
@@ -2754,7 +2755,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1749181,     590954,            92226,    498728,     1158227,    255395,             243333]
+      [      1749180,     590953,            92226,    498727,     1158227,    255395,             243333]
     ]
 
     [
