@@ -537,7 +537,7 @@ class Criterios
         [  :SNGRE_543_08H   ,"23/08/2021", {casos: 498727, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_544_08H   ,"24/08/2021", {casos: 499195, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_545_08H   ,"25/08/2021", {casos: 499630, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_546_08H   ,"26/08/2021", {casos: 500084, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_546_08H   ,"26/08/2021", {casos: 500083, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -2212,7 +2212,8 @@ class Criterios
         [  :SNGRE_542_08H   ,"22/08/2021", {muestras: 1768930, rezagadas: 92127}],
         [  :SNGRE_543_08H   ,"23/08/2021", {muestras: 1769752, rezagadas: 92226}],
         [  :SNGRE_544_08H   ,"24/08/2021", {muestras: 1772583, rezagadas: 92399}],
-        [  :SNGRE_545_08H   ,"25/08/2021", {muestras: 1775739, rezagadas: 92658}]
+        [  :SNGRE_545_08H   ,"25/08/2021", {muestras: 1775739, rezagadas: 92658}],
+        [  :SNGRE_546_08H   ,"26/08/2021", {muestras: 1779575, rezagadas: 92997}]
       ]
       .reverse
       .seleccionable
@@ -2775,7 +2776,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1759004,     593081,            92997,    500084,     1165923,    256029,             244055]
+      [      1759003,     593080,            92997,    500083,     1165923,    256029,             244055]
     ]
 
     [
