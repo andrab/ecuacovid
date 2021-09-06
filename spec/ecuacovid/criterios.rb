@@ -546,7 +546,8 @@ class Criterios
         [  :SNGRE_552_08H   ,"01/09/2021", {casos: 502146, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_553_08H   ,"02/09/2021", {casos: 503101, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_554_08H   ,"03/09/2021", {casos: 503514, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_555_08H   ,"04/09/2021", {casos: 503832, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_555_08H   ,"04/09/2021", {casos: 503767, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_556_08H   ,"05/09/2021", {casos: 503832, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -555,7 +556,8 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
-        [  :_SIN_INFORME_   ,"04/09/2021", { muertes: 22845, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"05/09/2021", { muertes: 22845, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"04/09/2021", { muertes: 22844, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"03/09/2021", { muertes: 22829, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/09/2021", { muertes: 22803, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"01/09/2021", { muertes: 22797, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2246,7 +2248,9 @@ class Criterios
         [  :SNGRE_551_08H   ,"31/08/2021", {muestras: 1789957, rezagadas: 93643}],
         [  :SNGRE_552_08H   ,"01/09/2021", {muestras: 1793271, rezagadas: 93684}],
         [  :SNGRE_553_08H   ,"02/09/2021", {muestras: 1797507, rezagadas: 93355}],
-        [  :SNGRE_554_08H   ,"03/09/2021", {muestras: 1800689, rezagadas: 93420}]
+        [  :SNGRE_554_08H   ,"03/09/2021", {muestras: 1800689, rezagadas: 93420}],
+        [  :SNGRE_555_08H   ,"04/09/2021", {muestras: 1803478, rezagadas: 93727}],
+        [  :SNGRE_556_08H   ,"05/09/2021", {muestras: 1804248, rezagadas: 93779}]
       ]
       .reverse
       .seleccionable
@@ -2782,7 +2786,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"01/09/2021", {probables: 9499, total: 32296}],
         [  :_SIN_INPORME_   ,"02/09/2021", {probables: 9502, total: 32305}],
         [  :_SIN_INPORME_   ,"03/09/2021", {probables: 9505, total: 32334}],
-        [  :_SIN_INPORME_   ,"04/09/2021", {probables: 9507, total: 32352}]
+        [  :_SIN_INPORME_   ,"04/09/2021", {probables: 9507, total: 32351}],
+        [  :_SIN_INPORME_   ,"05/09/2021", {probables: 9507, total: 32352}]
       ]
       .reverse
       .seleccionable
