@@ -552,7 +552,8 @@ class Criterios
         [  :SNGRE_558_08H   ,"07/09/2021", {casos: 504257, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_559_08H   ,"08/09/2021", {casos: 504781, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_560_08H   ,"09/09/2021", {casos: 504927, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_561_08H   ,"10/09/2021", {casos: 505075, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_561_08H   ,"10/09/2021", {casos: 505075, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_562_08H   ,"11/09/2021", {casos: 505262, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -561,6 +562,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"11/09/2021", { muertes: 22932, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"10/09/2021", { muertes: 22915, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"09/09/2021", { muertes: 22896, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"08/09/2021", { muertes: 22881, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2814,7 +2816,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"07/09/2021", {probables: 9508, total: 32365}],
         [  :_SIN_INPORME_   ,"08/09/2021", {probables: 9510, total: 32391}],
         [  :_SIN_INPORME_   ,"09/09/2021", {probables: 9510, total: 32406}],
-        [  :_SIN_INPORME_   ,"10/09/2021", {probables: 9511, total: 32426}]
+        [  :_SIN_INPORME_   ,"10/09/2021", {probables: 9511, total: 32426}],
+        [  :_SIN_INPORME_   ,"11/09/2021", {probables: 9512, total: 32444}]
       ]
       .reverse
       .seleccionable
@@ -2850,12 +2853,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1795320,     599337,            94262,    505075,     1195983,    258464,             246611]
+      [      1795590,     599607,            94345,    505262,     1195983,    258566,             246696]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        32426,       22915,           9511]
+      [        32444,       22932,           9512]
     ]
 
     [
@@ -2881,17 +2884,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [ 14,  0,  875, 126 ]
-      [ 18,  1,  107,  19 ]
-      [ 49,  1,  211, 103 ]
+      [ 14,  0,  869, 121 ]
+      [ 21,  1,  107,  23 ]
+      [ 50,  1,  210, 104 ]
 
-      [ 28,  3,  351,  99 ]
+      [ 29,  3,  351, 102 ]
       [ 36,  0,   14,   5 ]
-      [ 55,  4,  154,  85 ]
+      [ 53,  2,  154,  82 ]
         
-      [ 19,  0,  443,  85 ]
+      [ 20,  0,  442,  87 ]
       [ 13,  0,   15,   2 ]
-      [ 17,  3,  137,  23 ]
+      [ 18,  3,  137,  25 ]
     ]
   ]
 NACIONAL
