@@ -568,7 +568,8 @@ class Criterios
         [  :SNGRE_574_08H   ,"23/09/2021", {casos: 507858, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_575_08H   ,"24/09/2021", {casos: 508072, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_576_08H   ,"25/09/2021", {casos: 508503, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_577_08H   ,"26/09/2021", {casos: 508655, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_577_08H   ,"26/09/2021", {casos: 508655, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_578_08H   ,"27/09/2021", {casos: 508725, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
