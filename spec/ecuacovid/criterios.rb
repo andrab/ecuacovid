@@ -578,6 +578,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"27/09/2021", { muertes: 23184, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"26/09/2021", { muertes: 23184, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/09/2021", { muertes: 23181, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"24/09/2021", { muertes: 23171, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2892,7 +2893,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"23/09/2021", {probables: 9558, total: 32720}],
         [  :_SIN_INPORME_   ,"24/09/2021", {probables: 9561, total: 32732}],
         [  :_SIN_INPORME_   ,"25/09/2021", {probables: 9563, total: 32744}],
-        [  :_SIN_INPORME_   ,"26/09/2021", {probables: 9563, total: 32747}]
+        [  :_SIN_INPORME_   ,"26/09/2021", {probables: 9563, total: 32747}],
+        [  :_SIN_INPORME_   ,"27/09/2021", {probables: 9563, total: 32747}]
       ]
       .reverse
       .seleccionable
@@ -2928,7 +2930,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1830226,     605291,            96636,    508655,     1224935,    260252,             248403]
+      [      1831313,     605505,            96780,    508725,     1225808,    260281,             248444]
     ]
 
     [
