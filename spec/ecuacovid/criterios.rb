@@ -584,7 +584,6 @@ class Criterios
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
         [  :_SIN_INFORME_   ,"01/10/2021", { muertes: 23218, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"30/09/2021", { muertes: 23212, provincias_ingresadas: 24, sin_ingresar:  0}],
-        [  :_SIN_INFORME_   ,"30/09/2021", { muertes: 23212, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"29/09/2021", { muertes: 23198, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"28/09/2021", { muertes: 23193, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"27/09/2021", { muertes: 23184, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2354,7 +2353,8 @@ class Criterios
         [  :SNGRE_578_08H   ,"27/09/2021", {muestras: 1851885, rezagadas: 96780}],
         [  :SNGRE_579_08H   ,"28/09/2021", {muestras: 1856861, rezagadas: 97056}],
         [  :SNGRE_580_08H   ,"29/09/2021", {muestras: 1861755, rezagadas: 97362}],
-        [  :SNGRE_581_08H   ,"30/09/2021", {muestras: 1866451, rezagadas: 97481}]
+        [  :SNGRE_581_08H   ,"30/09/2021", {muestras: 1866451, rezagadas: 97481}],
+        [  :SNGRE_582_08H   ,"01/10/2021", {muestras: 1870789, rezagadas: 97898}]
       ]
       .reverse
       .seleccionable
