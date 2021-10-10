@@ -580,7 +580,8 @@ class Criterios
         [  :SNGRE_586_08H   ,"05/10/2021", {casos: 511317, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_587_08H   ,"06/10/2021", {casos: 511546, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_588_08H   ,"07/10/2021", {casos: 511699, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_589_08H   ,"08/10/2021", {casos: 511898, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_589_08H   ,"08/10/2021", {casos: 511898, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_590_08H   ,"09/10/2021", {casos: 511969, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -589,6 +590,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"09/10/2021", { muertes: 23263, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"08/10/2021", { muertes: 23263, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"07/10/2021", { muertes: 23256, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"06/10/2021", { muertes: 23250, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2945,7 +2947,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"05/10/2021", {probables: 9573, total: 32819}],
         [  :_SIN_INPORME_   ,"06/10/2021", {probables: 9577, total: 32827}],
         [  :_SIN_INPORME_   ,"07/10/2021", {probables: 9580, total: 32836}],
-        [  :_SIN_INPORME_   ,"08/10/2021", {probables: 9584, total: 32847}]
+        [  :_SIN_INPORME_   ,"08/10/2021", {probables: 9584, total: 32847}],
+        [  :_SIN_INPORME_   ,"09/10/2021", {probables: 9584, total: 32847}]
       ]
       .reverse
       .seleccionable
@@ -2981,7 +2984,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      1868956,     611321,            99423,    511898,     1257635,    261800,             250098]
+      [      1870016,     611389,            99420,    511969,     1258627,    261828,             250141]
     ]
 
     [
@@ -3012,17 +3015,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [  8,  0,  569,  48 ]
-      [ 10,  0,   61,   6 ]
-      [ 29,  0,  136,  39 ]
+      [ 11,  0,  559,  59 ]
+      [ 11,  0,   66,   7 ]
+      [ 33, 66,  131,  43 ]
 
-      [ 33,  2,  333, 110 ]
+      [ 33,  1,  333, 109 ]
       [ 40,  1,   10,   4 ]
-      [ 44,  0,   93,  41 ]
+      [ 48,  1,   92,  44 ]
         
-      [ 20,  0,  362,  73 ]
+      [ 19,  0,  345,  66 ]
       [ 21,  0,   14,   3 ]
-      [ 12,  0,  133,  16 ]
+      [ 13,  0,  125,  16 ]
     ]
   ]
 NACIONAL
