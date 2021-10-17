@@ -12,11 +12,15 @@ Un proyecto que proporciona un conjunto de datos sin procesar extraído [de los 
 
 Puedes ver los archivos crudos en distintas presentaciones en la carpeta `datos_crudos` [aquí](datos_crudos/).
 
+# ¿Cómo puedo contribuir?
+
+Hay una pequeña guía incluyendo un ejercicio de cómo hacer contribuciones [aquí](CONTRIBUTING.md).
+
 # ¿Por qué debo confiar en la precisión de estos datos?
 
 Todos los datos están _tested_, [aquí puedes revisar](spec/ecuacovid/criterios.rb) con más detalle los criterios que verifica. Todas las pruebas automáticas verifica que nuestros datos extraídos sumen totales exactamente iguales a los reportados por el Servicio Nacional de Gestión de Riesgos y Emergencias del Ecuador.
 
-Para ejectuar las pruebas en su maquina sigue las instrucciones [aquí](PRUEBAS.md).
+Para ejecutar las pruebas en su maquina sigue las instrucciones [aquí](PRUEBAS.md).
 
 # Licencia
 
