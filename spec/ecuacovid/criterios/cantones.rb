@@ -279,7 +279,7 @@ class Criterios
 
   [
     ["Sto_Domingo_Tsáchilas"];
-    [1352]
+    [1353]
     [11022]
   ]
 
