@@ -612,7 +612,8 @@ class Criterios
         [  :SNGRE_618_08H   ,"06/11/2021", {casos: 519386, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_619_08H   ,"07/11/2021", {casos: 519482, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_620_08H   ,"08/11/2021", {casos: 519560, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_621_08H   ,"09/11/2021", {casos: 519967, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_621_08H   ,"09/11/2021", {casos: 519967, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_622_08H   ,"10/11/2021", {casos: 520296, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -621,6 +622,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"10/11/2021", { muertes: 23381, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"09/11/2021", { muertes: 23374, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"08/11/2021", { muertes: 23368, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"07/11/2021", { muertes: 23368, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3105,7 +3107,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"06/11/2021", {probables: 9621, total: 32989}],
         [  :_SIN_INPORME_   ,"07/11/2021", {probables: 9621, total: 32989}],
         [  :_SIN_INPORME_   ,"08/11/2021", {probables: 9621, total: 32989}],
-        [  :_SIN_INPORME_   ,"09/11/2021", {probables: 9627, total: 33001}]
+        [  :_SIN_INPORME_   ,"09/11/2021", {probables: 9627, total: 33001}],
+        [  :_SIN_INPORME_   ,"10/11/2021", {probables: 9632, total: 33013}]
       ]
       .reverse
       .seleccionable
