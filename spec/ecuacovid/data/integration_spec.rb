@@ -1,6 +1,12 @@
 require 'ecuacovid/data'
 require 'date'
 
+class A
+  def display_report(contents)
+    pp contents
+  end
+end
+
 describe EcuacovidData::Query do
 
   it "query prototype" do
@@ -37,6 +43,16 @@ describe EcuacovidData::Query do
     expect(value.created_at).to eq(DateTime.new(2020, 3, 13))
     expect(value.total).to eq(2)
     expect(value.nuevas).to eq(2)
+  end
+
+  it "query prototype" do
+    connector = EcuacovidData::Handshake.local_fast_storage
+    client = EcuacovidData::Client.new(handshake: connector)
+  
+
+require 'ecuacovid/app'
+    app = Ecuacovid::App.new(client: client, view: A.new)
+    app.load_report(:arrived_vaccines)
   end
   
 end

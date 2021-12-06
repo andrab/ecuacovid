@@ -19,7 +19,7 @@ class NacionalTest
     @command = "open #{@source}                                                             "\
                " | where created_at == #{@fecha}                                            "\
                " | reduce -f 0 {                                                            "\
-               "   $acc + $it.muertes_confirmadas + $it.muertes_probables + $it.muertes   "\
+               "   = $acc + $it.muertes_confirmadas + $it.muertes_probables + $it.muertes   "\
                "   }                                                                        "
     probar!(&block)
   end
@@ -30,16 +30,16 @@ class NacionalTest
     @command = "open #{@source}                                                              "\
                " | where created_at == #{@fecha}                                             "\
                " | insert test_rezagadas {                                                   "\
-               "     $it.muestras_pcr - (#{casos} + $it.negativas_pcr)                     "\
+               "     = $it.muestras_pcr - (#{casos} + $it.negativas_pcr)                     "\
                "   }                                                                         "\
                " | insert test_rezagadas_con_rapidas {                                       "\
-               "     $it.muestras - (#{casos}                                              "\
+               "     = $it.muestras - (#{casos}                                              "\
                "                       + $it.positivas_rapidas                               "\
                "                       + $it.negativas_rapidas                               "\
                "                       + $it.negativas_pcr)                                  "\
                "   }                                                                         "\
                " | insert test_muestras  {                                                   "\
-               "     #{casos} + $it.positivas_rapidas + $it.negativas                      "\
+               "     = #{casos} + $it.positivas_rapidas + $it.negativas                      "\
                "                + ($it.muestras - ($it.positivas + $it.negativas))           "\
                "   }                                                                         "\
                " | select test_rezagadas test_rezagadas_con_rapidas test_muestras            "\

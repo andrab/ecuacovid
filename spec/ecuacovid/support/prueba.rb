@@ -33,17 +33,23 @@ class Prueba
     fallar!
   end
 
-  private
-  def nu!(program = "nu")
-    extensions = ENV['PATHEXT'] ? ENV['PATHEXT'].split(';') : ['']
+  class << self
+    def nu!(program = "nu")
+      extensions = ENV['PATHEXT'] ? ENV['PATHEXT'].split(';') : ['']
   
-    ENV['PATH'].split(File::PATH_SEPARATOR).each do |path|
-      extensions.each do |extension|
-        binary = File.join(path, "#{program}#{extension}")
-        return binary if File.executable?(binary) && !File.directory?(binary)
+      ENV['PATH'].split(File::PATH_SEPARATOR).each do |path|
+        extensions.each do |extension|
+          binary = File.join(path, "#{program}#{extension}")
+          return binary if File.executable?(binary) && !File.directory?(binary)
+        end
       end
+  
+      "#{ENV['NU_PATH']}/#{program}"
     end
-
-    "#{ENV['NU_PATH']}/#{program}"
   end
+
+  def nu!(program = "nu")
+    self.class.nu!(program)
+  end
+  
 end

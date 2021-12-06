@@ -27,25 +27,26 @@ class PositivasTest
                " | reduce -f 0 {                                                           "\
                "    = $acc + $it.total                                                     "\
                " }                                                                         "
+
     probar!(&block)
   end
 
   def cantones(&block)
-    @command = "open #{@source} | where created_at == #{@fecha} | length | echo $it"
+    @command = "open #{@source} | where created_at == #{@fecha} | count | echo $it"
     probar!(&block)
   end
 
   def ingresados(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
-               " | length "
+               " | count "
     probar!(&block)
   end
 
   def sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
-               " | length "
+               " | count "
     probar!(&block)
   end
 
@@ -83,46 +84,51 @@ describe "Casos Positivos" do
 
       context "informe: #{cantonales.formatear(informe)}..." do
 
-        it "Verificando casos.." do
-          cantonales.casos do |total|
-            expect(total).to be(casos_totales)
-          end
-        end
+        lambda do
 
-        it "Verificando provinciales.." do
-          PositivasTest.provinciales(fecha).casos do |total|
-            expect(total).to be(casos_totales)
-          end
-        end
-
-        it "Verificando cantones con información.." do
-          cantonales.ingresados do |total|
-            expect(total).to be(ingresados_totales)
-          end
-        end 
- 
-        it "Verificando cantones sin información.." do
-          cantonales.sin_ingresar do |total|
-            expect(total).to be(sin_ingresar_totales)
-          end
-        end
- 
-        it "Verificando que todos los cantones existen.." do
-          expect(ingresados_totales + sin_ingresar_totales).to be(221)
-        end
- 
-        it "Verificando población por provincia sumando sus cantones respectivos.." do
-          cantonales.poblaciones do |poblaciones|
-            poblaciones = {}.tap do |actuales|
-              JSON.load(poblaciones).each do |d|
-                actuales[d["provincia"]] = d["poblacion"]
-              end
+          it "Verificando casos.." do
+            cantonales.casos do |total|
+              expect(total).to be(casos_totales)
             end
-
-            expect(Cifras.poblaciones).to eq(poblaciones)
           end
-        end
 
+          it "Verificando cantones con información.." do
+            cantonales.ingresados do |total|
+              expect(total).to be(ingresados_totales)
+            end
+          end 
+ 
+          it "Verificando cantones sin información.." do
+            cantonales.sin_ingresar do |total|
+              expect(total).to be(sin_ingresar_totales)
+            end
+          end
+ 
+          it "Verificando que todos los cantones existen.." do
+            expect(ingresados_totales + sin_ingresar_totales).to be(221)
+          end
+ 
+          it "Verificando población por provincia sumando sus cantones respectivos.." do
+            cantonales.poblaciones do |poblaciones|
+              poblaciones = {}.tap do |actuales|
+                JSON.load(poblaciones).each do |d|
+                  actuales[d["provincia"]] = d["poblacion"]
+                end
+              end
+
+              expect(Cifras.poblaciones).to eq(poblaciones)
+            end
+          end
+
+        end.call unless informe == :_SIN_INFORME_ || informe == :_PROVINCIAL_
+
+        lambda do
+          it "Verificando provinciales.." do
+            PositivasTest.provinciales(fecha).casos do |total|
+              expect(total).to be(casos_totales)
+            end
+          end
+        end.call if informe == :_PROVINCIAL_ || (informe != :_SIN_INFORME_ && informe != :_PROVINCIA_)
       end
     end
 

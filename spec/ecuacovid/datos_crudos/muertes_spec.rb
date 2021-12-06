@@ -18,14 +18,14 @@ class MuertesTest
   def provincias_ingresadas(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total > 0 "\
-               " | length "
+               " | count "
     probar!(&block)
   end
   
   def provincias_sin_ingresar(&block)
     @command = "open #{@source} "\
                " | where created_at == #{@fecha} && total == 0 "\
-               " | length "
+               " | count "
     probar!(&block)
   end
 
@@ -49,7 +49,7 @@ describe "Muertes registradas" do
 
   require_relative "../criterios"
   require_relative "../cifras"
-
+  
   Criterios.para(:muertes).each do |(informe, fecha, spec)|
     muertes_totales = spec[:muertes]
     ingresadas_totales =  spec[:provincias_ingresadas]
@@ -92,7 +92,7 @@ describe "Muertes registradas" do
             expect(Cifras.poblaciones).to eq(poblaciones)
           end
         end
-      end.call if ingresadas_totales
+      end.call unless informe == :_SIN_INFORME_
     end
   end
 end
