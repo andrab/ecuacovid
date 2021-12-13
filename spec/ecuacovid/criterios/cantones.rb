@@ -57,7 +57,7 @@ class Criterios
   [
     ["Chimborazo"];
     [670]
-    [160]
+    [161]
     [263]
     [346]
     [380]
