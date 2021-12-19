@@ -649,7 +649,7 @@ class Criterios
         [  :SNGRE_655_08H   ,"13/12/2021", {casos: 533588, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_656_08H   ,"14/12/2021", {casos: 534176, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_657_08H   ,"15/12/2021", {casos: 534757, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_658_08H   ,"16/12/2021", {casos: 535414, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_658_08H   ,"16/12/2021", {casos: 535414, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_659_08H   ,"17/12/2021", {casos: 536129, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
@@ -2636,7 +2636,8 @@ class Criterios
         [  :SNGRE_655_08H   ,"13/12/2021", {muestras: 2097763, rezagadas: 115365}],
         [  :SNGRE_656_08H   ,"14/12/2021", {muestras: 2101391, rezagadas: 115572}],
         [  :SNGRE_657_08H   ,"15/12/2021", {muestras: 2105809, rezagadas: 115934}],
-        [  :SNGRE_658_08H   ,"16/12/2021", {muestras: 2110214, rezagadas: 116143}]
+        [  :SNGRE_658_08H   ,"16/12/2021", {muestras: 2110214, rezagadas: 116143}],
+        [  :SNGRE_659_08H   ,"17/12/2021", {muestras: 2115421, rezagadas: 116475}]
       ]
       .reverse
       .seleccionable
