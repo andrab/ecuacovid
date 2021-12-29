@@ -658,7 +658,8 @@ class Criterios
         [  :SNGRE_664_08H   ,"22/12/2021", {casos: 539037, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_665_08H   ,"23/12/2021", {casos: 540122, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_666_08H   ,"24/12/2021", {casos: 541368, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_667_08H   ,"25/12/2021", {casos: 542082, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_667_08H   ,"25/12/2021", {casos: 542082, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_668_08H   ,"26/12/2021", {casos: 542341, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -667,6 +668,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"26/12/2021", { muertes: 23830, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/12/2021", { muertes: 23829, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"24/12/2021", { muertes: 23828, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"23/12/2021", { muertes: 23822, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2661,7 +2663,8 @@ class Criterios
         [  :SNGRE_664_08H   ,"22/12/2021", {muestras: 2135875, rezagadas: 117587}],
         [  :SNGRE_665_08H   ,"23/12/2021", {muestras: 2141792, rezagadas: 118168}],
         [  :SNGRE_666_08H   ,"24/12/2021", {muestras: 2147227, rezagadas: 118342}],
-        [  :SNGRE_667_08H   ,"25/12/2021", {muestras: 2151542, rezagadas: 118505}]
+        [  :SNGRE_667_08H   ,"25/12/2021", {muestras: 2151542, rezagadas: 118505}],
+        [  :SNGRE_668_08H   ,"26/12/2021", {muestras: 2152680, rezagadas: 118559}]
       ]
       .reverse
       .seleccionable
@@ -3309,7 +3312,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"22/12/2021", {probables: 9819, total: 33634}],
         [  :_SIN_INPORME_   ,"23/12/2021", {probables: 9819, total: 33641}],
         [  :_SIN_INPORME_   ,"24/12/2021", {probables: 9819, total: 33647}],
-        [  :_SIN_INPORME_   ,"25/12/2021", {probables: 9819, total: 33648}]
+        [  :_SIN_INPORME_   ,"25/12/2021", {probables: 9819, total: 33648}],
+        [  :_SIN_INPORME_   ,"26/12/2021", {probables: 9819, total: 33649}]
       ]
       .reverse
       .seleccionable
@@ -3345,12 +3349,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2130970,     660587,           118505,    542082,     1470383,    276204,             265878]
+      [      2132108,     660900,           118559,    542341,     1471208,    276328,             266013]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        33648,       23829,           9819]
+      [        33649,       23830,           9819]
     ]
 
     [
@@ -3376,15 +3380,15 @@ class Criterios
         camas_ocupadas
       ];
       
-      [ 20,  0,  554, 110 ]
-      [ 31,  1,   55,  17 ]
-      [ 50,  1,  157,  79 ]
+      [ 19,  0,  543, 101 ]
+      [ 28,  1,   61,  17 ]
+      [ 50,  1,  157,  78 ]
 
-      [ 33,  3,  374, 122 ]
+      [ 33,  3,  374, 125 ]
       [ 14,  1,    7,   1 ]
-      [ 66, 13,  101,  67 ]
+      [ 66,  9,  101,  67 ]
         
-      [ 21,  0,  349,  74 ]
+      [ 21,  0,  349,  75 ]
       [  5,  0,   19,   1 ]
       [ 24,  0,  144,  34 ]
     ]                        
