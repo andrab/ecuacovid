@@ -2762,7 +2762,8 @@ class Criterios
         [  :SNGRE_684_08H   ,"11/01/2022", {muestras: 2242821, rezagadas: 120761}],
         [  :SNGRE_685_08H   ,"12/01/2022", {muestras: 2260266, rezagadas: 121619}],
         [  :SNGRE_686_08H   ,"13/01/2022", {muestras: 2268648, rezagadas: 122198}],
-        [  :SNGRE_687_08H   ,"14/01/2022", {muestras: 2284089, rezagadas: 122782}]
+        [  :SNGRE_687_08H   ,"14/01/2022", {muestras: 2284089, rezagadas: 122782}],
+        [  :SNGRE_688_08H   ,"15/01/2022", {muestras: 2300971, rezagadas: 123505}]
       ]
       .reverse
       .seleccionable
