@@ -709,7 +709,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
-        [  :_SIN_INFORME_   ,"05/02/2022", { muertes: 24750, provincias_ingresadas: 24, sin_ingresar:  0}]
+        [  :_SIN_INFORME_   ,"05/02/2022", { muertes: 24750, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"04/02/2022", { muertes: 24737, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"03/02/2022", { muertes: 24700, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/02/2022", { muertes: 24671, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2491,7 +2491,8 @@ class Criterios
         [  :SNGRE_705_08H   ,"01/02/2022", {muestras: 2502437, rezagadas: 135380}],
         [  :SNGRE_706_08H   ,"02/02/2022", {muestras: 2512981, rezagadas: 135440}],
         [  :SNGRE_707_08H   ,"03/02/2022", {muestras: 2523225, rezagadas: 135352}],
-        [  :SNGRE_708_08H   ,"04/02/2022", {muestras: 2537777, rezagadas: 135914}]
+        [  :SNGRE_708_08H   ,"04/02/2022", {muestras: 2537777, rezagadas: 135914}],
+        [  :SNGRE_709_08H   ,"05/02/2022", {muestras: 2547057, rezagadas: 136395}]
       ]
       .reverse
       .seleccionable
