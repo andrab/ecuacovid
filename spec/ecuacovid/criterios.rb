@@ -702,7 +702,8 @@ class Criterios
         [  :SNGRE_708_08H   ,"04/02/2022", {casos: 761321, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_709_08H   ,"05/02/2022", {casos: 766398, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_710_08H   ,"06/02/2022", {casos: 769149, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_711_08H   ,"07/02/2022", {casos: 771565, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_711_08H   ,"07/02/2022", {casos: 771565, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_712_08H   ,"08/02/2022", {casos: 777599, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -711,6 +712,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"08/02/2022", { muertes: 24800, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"07/02/2022", { muertes: 24760, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"06/02/2022", { muertes: 24759, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"05/02/2022", { muertes: 24750, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3226,12 +3228,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2534962,     907816,           136251,    771565,     1627146,    382437,             389128]
+      [      2545491,     913930,           136331,    777599,     1631561,    385206,             392393]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        34740,       24760,           9980]
+      [        34804,       24800,          10004]
     ]
 
     [
@@ -3257,17 +3259,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [ 40,  2, 1079, 432 ]
-      [ 26,  0,   76,  20 ]
-      [ 68,  1,  270, 184 ]
+      [ 42,  0, 1076, 456 ]
+      [ 28,  0,   80,  22 ]
+      [ 69,  1,  266, 183 ]
 
-      [ 52,  3,  933, 485 ]
-      [ 69,  0,   29,  20 ]
-      [ 75, 16,  196, 147 ]
+      [ 48, 11,  926, 442 ]
+      [ 72,  4,   29,  21 ]
+      [ 76, 10,  189, 143 ]
         
-      [ 57, 13,  439, 249 ]
-      [ 62,  0,  105,  65 ]
-      [ 61,  5,  203, 124 ]
+      [ 54, 13,  372, 201 ]
+      [ 60,  0,  104,  62 ]
+      [ 54,  5,  164,  89 ]
     ]                        
   ]
 NACIONAL
