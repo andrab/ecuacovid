@@ -2536,7 +2536,8 @@ class Criterios
         [  :SNGRE_720_08H   ,"16/02/2022", {muestras: 2623824, rezagadas: 139130}],
         [  :SNGRE_721_08H   ,"17/02/2022", {muestras: 2631950, rezagadas: 138659}],
         [  :SNGRE_722_08H   ,"18/02/2022", {muestras: 2638999, rezagadas: 139225}],
-        [  :SNGRE_723_08H   ,"19/02/2022", {muestras: 2646649, rezagadas: 139377}]
+        [  :SNGRE_723_08H   ,"19/02/2022", {muestras: 2646649, rezagadas: 139377}],
+        [  :SNGRE_724_08H   ,"20/02/2022", {muestras: 2649950, rezagadas: 139651}]
       ]
       .reverse
       .seleccionable
@@ -3240,7 +3241,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"16/02/2022", {probables: 10130, total: 35105}],
         [  :_SIN_INPORME_   ,"17/02/2022", {probables: 10129, total: 35122}],
         [  :_SIN_INPORME_   ,"18/02/2022", {probables: 10135, total: 35143}],
-        [  :_SIN_INPORME_   ,"19/02/2022", {probables: 10141, total: 35154}]
+        [  :_SIN_INPORME_   ,"19/02/2022", {probables: 10141, total: 35154}],
+        [  :_SIN_INPORME_   ,"20/02/2022", {probables: 10147, total: 35160}]
       ]
       .reverse
       .seleccionable
@@ -3281,7 +3283,7 @@ class Criterios
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35154,       25013,          10147]
+      [        35160,       25013,          10147]
     ]
 
     [
