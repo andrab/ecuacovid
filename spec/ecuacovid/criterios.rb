@@ -2587,7 +2587,8 @@ class Criterios
         [  :SNGRE_737_08H   ,"05/03/2022", {muestras: 2711273, rezagadas: 142576}],
         [  :SNGRE_738_08H   ,"06/03/2022", {muestras: 2713917, rezagadas: 142844}],
         [  :SNGRE_739_08H   ,"07/03/2022", {muestras: 2715326, rezagadas: 143034}],
-        [  :SNGRE_740_08H   ,"08/03/2022", {muestras: 2720920, rezagadas: 143441}]
+        [  :SNGRE_740_08H   ,"08/03/2022", {muestras: 2720920, rezagadas: 143441}],
+        [  :SNGRE_741_08H   ,"09/03/2022", {muestras: 2726738, rezagadas: 143450}]
       ]
       .reverse
       .seleccionable
@@ -3350,7 +3351,7 @@ class Criterios
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35316,       25139,          10187]
+      [        35326,       25139,          10187]
     ]
 
     [
