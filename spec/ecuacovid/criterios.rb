@@ -735,7 +735,7 @@ class Criterios
         [  :SNGRE_741_08H   ,"09/03/2022", {casos: 845597, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_742_08H   ,"10/03/2022", {casos: 847048, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_743_08H   ,"11/03/2022", {casos: 848470, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_744_08H   ,"12/03/2022", {casos: 849183, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_744_08H   ,"12/03/2022", {casos: 849183, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_745_08H   ,"13/03/2022", {casos: 849386, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
