@@ -749,7 +749,8 @@ class Criterios
         [  :SNGRE_755_08H   ,"23/03/2022", {casos: 855314, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_756_08H   ,"24/03/2022", {casos: 856429, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_757_08H   ,"25/03/2022", {casos: 857299, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_757_08H   ,"26/03/2022", {casos: 858675, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_758_08H   ,"26/03/2022", {casos: 858675, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_759_08H   ,"27/03/2022", {casos: 858920, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -758,6 +759,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"27/03/2022", { muertes: 25225, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"26/03/2022", { muertes: 25223, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/03/2022", { muertes: 25223, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"24/03/2022", { muertes: 25221, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3411,12 +3413,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2778929,    1004567,           145892,    858675,     1774362,    423531,             435144]
+      [      2780106,    1005094,           146174,    858920,     1775012,    423646,             435274]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35419,       25223,          10196]
+      [        35421,       25225,          10196]
     ]
 
     [
