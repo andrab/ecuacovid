@@ -748,7 +748,8 @@ class Criterios
         [  :SNGRE_754_08H   ,"22/03/2022", {casos: 854848, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_755_08H   ,"23/03/2022", {casos: 855314, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_756_08H   ,"24/03/2022", {casos: 856429, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_757_08H   ,"25/03/2022", {casos: 857299, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_757_08H   ,"25/03/2022", {casos: 857299, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_757_08H   ,"26/03/2022", {casos: 858675, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -757,6 +758,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"26/03/2022", { muertes: 25223, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/03/2022", { muertes: 25223, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"24/03/2022", { muertes: 25221, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"23/03/2022", { muertes: 25218, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3410,12 +3412,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2772778,    1003288,           145989,    857299,     1769490,    422867,             434432]
+      [      2778929,    1004567,           145892,    858675,     1774362,    423531,             435144]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35418,       25223,          10195]
+      [        35419,       25223,          10196]
     ]
 
     [
@@ -3441,17 +3443,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [  8,  0,  633,  51 ]
-      [ 20,  0,   10,   2 ]
-      [ 13,  0,  115,  15 ]
+      [  5,  0,  634,  30 ]
+      [  0,  0,   10,   0 ]
+      [ 12,  0,  114,  14 ]
 
-      [ 31,  1,  414, 130 ]
-      [ 27,  0,   11,   3 ]
-      [ 51,  1,  110,  56 ]
+      [ 32,  1,  418, 134 ]
+      [ 21,  0,   14,   3 ]
+      [ 49,  1,  113,  55 ]
         
-      [ 19,  0,  198,  37 ]
+      [ 23,  0,  188,  43 ]
       [  0,  0,   17,   0 ]
-      [ 24,  0,  106,  25 ]
+      [ 25,  0,  105,  26 ]
     ]                        
   ]
 NACIONAL
