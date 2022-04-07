@@ -757,7 +757,7 @@ class Criterios
         [  :SNGRE_763_08H   ,"31/03/2022", {casos: 861251, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_764_08H   ,"01/04/2022", {casos: 861753, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_765_08H   ,"02/04/2022", {casos: 862139, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_763_08H   ,"03/04/2022", {casos: 862321, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_766_08H   ,"03/04/2022", {casos: 862321, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -2662,7 +2662,8 @@ class Criterios
         [  :SNGRE_762_08H   ,"30/03/2022", {muestras: 2812131, rezagadas: 146704}],
         [  :SNGRE_763_08H   ,"31/03/2022", {muestras: 2816619, rezagadas: 146780}],
         [  :SNGRE_764_08H   ,"01/04/2022", {muestras: 2820440, rezagadas: 146858}],
-        [  :SNGRE_765_08H   ,"02/04/2022", {muestras: 2823710, rezagadas: 146992}]
+        [  :SNGRE_765_08H   ,"02/04/2022", {muestras: 2823710, rezagadas: 146992}],
+        [  :SNGRE_766_08H   ,"03/04/2022", {muestras: 2824605, rezagadas: 146999}]
       ]
       .reverse
       .seleccionable
@@ -3408,7 +3409,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"30/03/2022", {probables: 10196, total: 35423}],
         [  :_SIN_INPORME_   ,"31/03/2022", {probables: 10198, total: 35434}],
         [  :_SIN_INPORME_   ,"01/04/2022", {probables: 10205, total: 35444}],
-        [  :_SIN_INPORME_   ,"02/04/2022", {probables: 10205, total: 35449}]
+        [  :_SIN_INPORME_   ,"02/04/2022", {probables: 10205, total: 35449}],
+        [  :_SIN_INPORME_   ,"03/04/2022", {probables: 10205, total: 35449}]
       ]
       .reverse
       .seleccionable
