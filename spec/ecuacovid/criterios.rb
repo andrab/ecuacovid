@@ -756,7 +756,10 @@ class Criterios
         [  :SNGRE_762_08H   ,"30/03/2022", {casos: 860553, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_763_08H   ,"31/03/2022", {casos: 861251, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_764_08H   ,"01/04/2022", {casos: 861753, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_765_08H   ,"02/04/2022", {casos: 862139, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_765_08H   ,"02/04/2022", {casos: 862139, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_766_08H   ,"03/04/2022", {casos: 862321, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_767_08H   ,"04/04/2022", {casos: 862351, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_768_08H   ,"05/04/2022", {casos: 862870, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -765,6 +768,9 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"05/04/2022", { muertes: 25244, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"04/04/2022", { muertes: 25244, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"03/04/2022", { muertes: 25244, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/04/2022", { muertes: 25244, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"01/04/2022", { muertes: 25239, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"31/03/2022", { muertes: 25236, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3405,7 +3411,10 @@ class Criterios
         [  :_SIN_INPORME_   ,"30/03/2022", {probables: 10196, total: 35423}],
         [  :_SIN_INPORME_   ,"31/03/2022", {probables: 10198, total: 35434}],
         [  :_SIN_INPORME_   ,"01/04/2022", {probables: 10205, total: 35444}],
-        [  :_SIN_INPORME_   ,"02/04/2022", {probables: 10205, total: 35449}]
+        [  :_SIN_INPORME_   ,"02/04/2022", {probables: 10205, total: 35449}],
+        [  :_SIN_INPORME_   ,"03/04/2022", {probables: 10205, total: 35449}],
+        [  :_SIN_INPORME_   ,"04/04/2022", {probables: 10205, total: 35449}],
+        [  :_SIN_INPORME_   ,"05/04/2022", {probables: 10205, total: 35449}]
       ]
       .reverse
       .seleccionable
@@ -3441,7 +3450,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2803138,    1009131,           146992,    862139,     1794007,    425174,             436965]
+      [      2808609,    1010158,           147288,    862870,     1798451,    425528,             437342]
     ]
 
     [
@@ -3472,17 +3481,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [  6,  0,  620,  37 ]
+      [  5,  0,  615,  29 ]
       [ 10,  0,   10,   1 ]
-      [  8,  0,  109,   9 ]
+      [  8,  0,  107,   9 ]
 
-      [ 15,  0,  280,  43 ]
-      [ 54,  0,   13,   7 ]
-      [ 40,  1,   88,  35 ]
+      [ 23,  0,  304,  70 ]
+      [ 50,  0,   12,   6 ]
+      [ 45,  0,   99,  45 ]
         
-      [ 23,  0,  195,  45 ]
-      [  0,  0,   17,   0 ]
-      [ 25,  0,  109,  26 ]
+      [ 20,  0,  194,  39 ]
+      [  0,  0,   10,   0 ]
+      [ 21,  0,  107,  23 ]
     ]                        
   ]
 NACIONAL
