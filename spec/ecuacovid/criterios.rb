@@ -2665,7 +2665,10 @@ class Criterios
         [  :SNGRE_761_08H   ,"29/03/2022", {muestras: 2807642, rezagadas: 146451}],
         [  :SNGRE_762_08H   ,"30/03/2022", {muestras: 2812131, rezagadas: 146704}],
         [  :SNGRE_763_08H   ,"31/03/2022", {muestras: 2816619, rezagadas: 146780}],
-        [  :SNGRE_764_08H   ,"01/04/2022", {muestras: 2820440, rezagadas: 146858}]
+        [  :SNGRE_764_08H   ,"01/04/2022", {muestras: 2820440, rezagadas: 146858}],
+        [  :SNGRE_765_08H   ,"02/04/2022", {muestras: 2823710, rezagadas: 146992}],
+        [  :SNGRE_766_08H   ,"03/04/2022", {muestras: 2824605, rezagadas: 146999}],
+        [  :SNGRE_767_08H   ,"04/04/2022", {muestras: 2825130, rezagadas: 147003}]
       ]
       .reverse
       .seleccionable
