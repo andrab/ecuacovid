@@ -764,8 +764,7 @@ class Criterios
         [  :SNGRE_770_08H   ,"07/04/2022", {casos: 863684, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_771_08H   ,"08/04/2022", {casos: 864077, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_772_08H   ,"09/04/2022", {casos: 865187, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_773_08H   ,"10/04/2022", {casos: 865263, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_772_08H   ,"09/04/2022", {casos: 865187, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_773_08H   ,"10/04/2022", {casos: 865263, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -2684,7 +2683,8 @@ class Criterios
         [  :SNGRE_769_08H   ,"06/04/2022", {muestras: 2833527, rezagadas: 147644}],
         [  :SNGRE_770_08H   ,"07/04/2022", {muestras: 2836889, rezagadas: 147833}],
         [  :SNGRE_771_08H   ,"08/04/2022", {muestras: 2841022, rezagadas: 148024}],
-        [  :SNGRE_772_08H   ,"09/04/2022", {muestras: 2892016, rezagadas: 192951}]
+        [  :SNGRE_772_08H   ,"09/04/2022", {muestras: 2892016, rezagadas: 192951}],
+        [  :SNGRE_773_08H   ,"10/04/2022", {muestras: 2892755, rezagadas: 192978}]
       ]
       .reverse
       .seleccionable
