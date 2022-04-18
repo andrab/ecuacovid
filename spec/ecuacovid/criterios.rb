@@ -2695,7 +2695,10 @@ class Criterios
         [  :SNGRE_771_08H   ,"08/04/2022", {muestras: 2841022, rezagadas: 148024}],
         [  :SNGRE_772_08H   ,"09/04/2022", {muestras: 2892016, rezagadas: 192951}],
         [  :SNGRE_773_08H   ,"10/04/2022", {muestras: 2892755, rezagadas: 192978}],
-        [  :SNGRE_774_08H   ,"11/04/2022", {muestras: 2893646, rezagadas: 192985}]
+        [  :SNGRE_774_08H   ,"11/04/2022", {muestras: 2893646, rezagadas: 192985}],
+        [  :SNGRE_775_08H   ,"12/04/2022", {muestras: 2896095, rezagadas: 193007}],
+        [  :SNGRE_776_08H   ,"13/04/2022", {muestras: 2899309, rezagadas: 193210}],
+        [  :SNGRE_777_08H   ,"14/04/2022", {muestras: 2902200, rezagadas: 193506}]
       ]
       .reverse
       .seleccionable
@@ -3531,7 +3534,7 @@ class Criterios
         
       [ 16,  0,  172,  27 ]
       [  0,  0,    8,   0 ]
-      [  9,  0,   74,   7 ]
+      [ 10,  0,   73,   7 ]
     ]                        
   ]
 NACIONAL
