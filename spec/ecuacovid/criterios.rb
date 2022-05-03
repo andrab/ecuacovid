@@ -2746,7 +2746,8 @@ class Criterios
         [  :SNGRE_790_08H   ,"27/04/2022", {muestras: 2933635, rezagadas: 194968}],
         [  :SNGRE_791_08H   ,"28/04/2022", {muestras: 2936432, rezagadas: 195034}],
         [  :SNGRE_792_08H   ,"29/04/2022", {muestras: 2939527, rezagadas: 195070}],
-        [  :SNGRE_793_08H   ,"30/04/2022", {muestras: 2942757, rezagadas: 195290}]
+        [  :SNGRE_793_08H   ,"30/04/2022", {muestras: 2942757, rezagadas: 195290}],
+        [  :SNGRE_794_08H   ,"01/05/2022", {muestras: 2943284, rezagadas: 195350}]
       ]
       .reverse
       .seleccionable
