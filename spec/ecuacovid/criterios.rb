@@ -799,7 +799,6 @@ class Criterios
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
         [  :_SIN_INFORME_   ,"04/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"03/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
-        [  :_SIN_INFORME_   ,"03/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"01/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"30/04/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2756,7 +2755,8 @@ class Criterios
         [  :SNGRE_793_08H   ,"30/04/2022", {muestras: 2942757, rezagadas: 195290}],
         [  :SNGRE_794_08H   ,"01/05/2022", {muestras: 2943284, rezagadas: 195350}],
         [  :SNGRE_795_08H   ,"02/05/2022", {muestras: 2943779, rezagadas: 195390}],
-        [  :SNGRE_796_08H   ,"03/05/2022", {muestras: 2944426, rezagadas: 195488}]
+        [  :SNGRE_796_08H   ,"03/05/2022", {muestras: 2944426, rezagadas: 195488}],
+        [  :SNGRE_797_08H   ,"04/05/2022", {muestras: 2947527, rezagadas: 195649}]
       ]
       .reverse
       .seleccionable
