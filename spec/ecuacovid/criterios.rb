@@ -787,7 +787,8 @@ class Criterios
         [  :SNGRE_793_08H   ,"30/04/2022", {casos: 869696, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_794_08H   ,"01/05/2022", {casos: 869772, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_795_08H   ,"02/05/2022", {casos: 869903, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_796_08H   ,"03/05/2022", {casos: 869956, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_796_08H   ,"03/05/2022", {casos: 869956, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_797_08H   ,"04/05/2022", {casos: 870238, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -796,6 +797,8 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"04/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
+        [  :_SIN_INFORME_   ,"03/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"03/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"01/05/2022", { muertes: 25358, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3530,7 +3533,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"30/04/2022", {probables: 10240, total: 35598}],
         [  :_SIN_INPORME_   ,"01/05/2022", {probables: 10240, total: 35598}],
         [  :_SIN_INPORME_   ,"02/05/2022", {probables: 10240, total: 35598}],
-        [  :_SIN_INPORME_   ,"03/05/2022", {probables: 10240, total: 35598}]
+        [  :_SIN_INPORME_   ,"03/05/2022", {probables: 10240, total: 35598}],
+        [  :_SIN_INPORME_   ,"04/05/2022", {probables: 10240, total: 35598}]
       ]
       .reverse
       .seleccionable
@@ -3566,7 +3570,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2923854,    1065444,           195488,    869956,     1858410,    428775,             441181]
+      [      2926955,    1065887,           195649,    870238,     1861068,    428913,             441325]
     ]
 
     [
