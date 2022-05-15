@@ -795,8 +795,8 @@ class Criterios
         [  :SNGRE_801_08H   ,"08/05/2022", {casos: 871029, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_802_08H   ,"09/05/2022", {casos: 871046, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_803_08H   ,"10/05/2022", {casos: 871292, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_804_08H   ,"11/05/2022", {casos: 871619, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_805_08H   ,"12/05/2022", {casos: 871999, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_804_08H   ,"11/05/2022", {casos: 871619, cantones_ingresados: 221, sin_ingresar:   0}]
+       # [  :SNGRE_805_08H   ,"12/05/2022", {casos: 871999, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -805,7 +805,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
-        [  :_SIN_INFORME_   ,"12/05/2022", { muertes: 25362, provincias_ingresadas: 24, sin_ingresar:  0}],
+       # [  :_SIN_INFORME_   ,"12/05/2022", { muertes: 25362, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"11/05/2022", { muertes: 25361, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"10/05/2022", { muertes: 25360, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"09/05/2022", { muertes: 25359, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -2778,7 +2778,8 @@ class Criterios
         [  :SNGRE_800_08H   ,"07/05/2022", {muestras: 2955723, rezagadas: 196448}],
         [  :SNGRE_801_08H   ,"08/05/2022", {muestras: 2956360, rezagadas: 196441}],
         [  :SNGRE_802_08H   ,"09/05/2022", {muestras: 2956661, rezagadas: 196441}],
-        [  :SNGRE_803_08H   ,"10/05/2022", {muestras: 2959599, rezagadas: 196755}]
+        [  :SNGRE_803_08H   ,"10/05/2022", {muestras: 2959599, rezagadas: 196755}],
+        [  :SNGRE_804_08H   ,"11/05/2022", {muestras: 2962647, rezagadas: 197106}]
       ]
       .reverse
       .seleccionable
@@ -3563,8 +3564,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"08/05/2022", {probables: 10243, total: 35602}],
         [  :_SIN_INPORME_   ,"09/05/2022", {probables: 10243, total: 35602}],
         [  :_SIN_INPORME_   ,"10/05/2022", {probables: 10244, total: 35604}],
-        [  :_SIN_INPORME_   ,"11/05/2022", {probables: 10244, total: 35605}],
-        [  :_SIN_INPORME_   ,"12/05/2022", {probables: 10244, total: 35606}]
+        [  :_SIN_INPORME_   ,"11/05/2022", {probables: 10244, total: 35605}]
+        #[  :_SIN_INPORME_   ,"12/05/2022", {probables: 10244, total: 35606}]
       ]
       .reverse
       .seleccionable
@@ -3600,12 +3601,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2945107,    1069356,           197357,    871999,     1875751,    429739,             442260]
+      [      2942075,    1068725,           197106,    871619,     1873350,    429558,             442061]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35606,       25362,          10244]
+      [        35605,       25361,          10244]
     ]
 
     [
