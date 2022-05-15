@@ -3595,7 +3595,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2939027,    1068047,           197106,    871619,     1873350,    429558,             442061]
+      [      2942075,    1068725,           197106,    871619,     1873350,    429558,             442061]
     ]
 
     [
