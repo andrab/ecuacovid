@@ -805,7 +805,8 @@ class Criterios
         [  :SNGRE_811_08H   ,"18/05/2022", {casos: 873076, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_812_08H   ,"19/05/2022", {casos: 873609, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_813_08H   ,"20/05/2022", {casos: 874087, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_814_08H   ,"21/05/2022", {casos: 874599, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_814_08H   ,"21/05/2022", {casos: 874599, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_815_08H   ,"22/05/2022", {casos: 874719, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -814,6 +815,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"22/05/2022", { muertes: 25369, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"21/05/2022", { muertes: 25369, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"20/05/2022", { muertes: 25368, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"19/05/2022", { muertes: 25366, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3602,7 +3604,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"18/05/2022", {probables: 10246, total: 35611}],
         [  :_SIN_INPORME_   ,"19/05/2022", {probables: 10247, total: 35613}],
         [  :_SIN_INPORME_   ,"20/05/2022", {probables: 10248, total: 35616}],
-        [  :_SIN_INPORME_   ,"21/05/2022", {probables: 10248, total: 35617}]
+        [  :_SIN_INPORME_   ,"21/05/2022", {probables: 10248, total: 35617}],
+        [  :_SIN_INPORME_   ,"22/05/2022", {probables: 10248, total: 35617}]
       ]
       .reverse
       .seleccionable
@@ -3638,7 +3641,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      2966375,    1073535,           198936,    874599,     1892840,    430960,             443639]
+      [      2967187,    1073677,           198958,    874719,     1893510,    431025,             443694]
     ]
 
     [
