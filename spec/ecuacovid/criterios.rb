@@ -816,7 +816,8 @@ class Criterios
         [  :SNGRE_822_08H   ,"29/05/2022", {casos: 877282, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_823_08H   ,"30/05/2022", {casos: 877381, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_824_08H   ,"31/05/2022", {casos: 878196, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_825_08H   ,"01/06/2022", {casos: 882567, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_825_08H   ,"01/06/2022", {casos: 882567, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_826_08H   ,"02/06/2022", {casos: 883224, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -825,6 +826,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"02/06/2022", { muertes: 25377, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"01/06/2022", { muertes: 25377, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"31/05/2022", { muertes: 25376, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"30/05/2022", { muertes: 25376, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3646,7 +3648,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"29/05/2022", {probables: 10261, total: 35637}],
         [  :_SIN_INPORME_   ,"30/05/2022", {probables: 10262, total: 35638}],
         [  :_SIN_INPORME_   ,"31/05/2022", {probables: 10269, total: 35645}],
-        [  :_SIN_INPORME_   ,"01/06/2022", {probables: 10272, total: 35649}]
+        [  :_SIN_INPORME_   ,"01/06/2022", {probables: 10272, total: 35649}],
+        [  :_SIN_INPORME_   ,"02/06/2022", {probables: 10272, total: 35649}]
       ]
       .reverse
       .seleccionable
