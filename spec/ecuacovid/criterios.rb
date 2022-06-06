@@ -2842,7 +2842,8 @@ class Criterios
         [  :SNGRE_822_08H   ,"29/05/2022", {muestras: 3004409, rezagadas: 201052}],
         [  :SNGRE_823_08H   ,"30/05/2022", {muestras: 3004991, rezagadas: 201215}],
         [  :SNGRE_824_08H   ,"31/05/2022", {muestras: 3009024, rezagadas: 201465}],
-        [  :SNGRE_825_08H   ,"01/06/2022", {muestras: 3061070, rezagadas: 232547}]
+        [  :SNGRE_825_08H   ,"01/06/2022", {muestras: 3061070, rezagadas: 232547}],
+        [  :SNGRE_826_08H   ,"02/06/2022", {muestras: 3064245, rezagadas: 232988}]
       ]
       .reverse
       .seleccionable
@@ -3685,7 +3686,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3040498,    1115114,           232547,    882567,     1925384,    434663,             447904]
+      [      3043673,    1116212,           232988,    883224,     1927461,    434932,             448292]
     ]
 
     [
