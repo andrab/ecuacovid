@@ -819,7 +819,8 @@ class Criterios
         [  :SNGRE_825_08H   ,"01/06/2022", {casos: 882567, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_826_08H   ,"02/06/2022", {casos: 883224, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_827_08H   ,"03/06/2022", {casos: 884279, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_828_08H   ,"04/06/2022", {casos: 885112, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_828_08H   ,"04/06/2022", {casos: 885112, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_829_08H   ,"05/06/2022", {casos: 885318, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -828,6 +829,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"05/06/2022", { muertes: 25377, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"04/06/2022", { muertes: 25377, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"03/06/2022", { muertes: 25377, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"02/06/2022", { muertes: 25377, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3658,7 +3660,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"01/06/2022", {probables: 10272, total: 35649}],
         [  :_SIN_INPORME_   ,"02/06/2022", {probables: 10272, total: 35649}],
         [  :_SIN_INPORME_   ,"03/06/2022", {probables: 10272, total: 35649}],
-        [  :_SIN_INPORME_   ,"04/06/2022", {probables: 10272, total: 35649}]
+        [  :_SIN_INPORME_   ,"04/06/2022", {probables: 10272, total: 35649}],
+        [  :_SIN_INPORME_   ,"05/06/2022", {probables: 10272, total: 35649}]
       ]
       .reverse
       .seleccionable
@@ -3694,7 +3697,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3052636,    1118232,           233120,    885112,     1934404,    435766,             449346]
+      [      3053932,    1118640,           233322,    885318,     1935292,    435842,             449476]
     ]
 
     [
