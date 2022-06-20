@@ -832,7 +832,8 @@ class Criterios
         [  :SNGRE_838_08H   ,"14/06/2022", {casos: 892176, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_839_08H   ,"15/06/2022", {casos: 893696, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_840_08H   ,"16/06/2022", {casos: 895058, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_841_08H   ,"17/06/2022", {casos: 896483, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_841_08H   ,"17/06/2022", {casos: 896483, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_842_08H   ,"18/06/2022", {casos: 897893, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -841,6 +842,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"18/06/2022", { muertes: 25419, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"17/06/2022", { muertes: 25418, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"16/06/2022", { muertes: 25409, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"15/06/2022", { muertes: 25408, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3710,7 +3712,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"14/06/2022", {probables: 10272, total: 35662}],
         [  :_SIN_INPORME_   ,"15/06/2022", {probables: 10275, total: 35683}],
         [  :_SIN_INPORME_   ,"16/06/2022", {probables: 10275, total: 35684}],
-        [  :_SIN_INPORME_   ,"17/06/2022", {probables: 10275, total: 35693}]
+        [  :_SIN_INPORME_   ,"17/06/2022", {probables: 10275, total: 35693}],
+        [  :_SIN_INPORME_   ,"18/06/2022", {probables: 10276, total: 35695}]
       ]
       .reverse
       .seleccionable
@@ -3746,12 +3749,12 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3099717,    1133292,           236809,    896483,     1966425,    440590,             455893]
+      [      3104741,    1134766,           236873,    897893,     1969975,    441194,             456699]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35693,       25418,          10275]
+      [        35695,       25419,          10276]
     ]
 
     [
