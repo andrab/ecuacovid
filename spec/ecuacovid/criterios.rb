@@ -2944,7 +2944,8 @@ class Criterios
         [  :SNGRE_856_08H   ,"02/07/2022", {muestras: 3179149, rezagadas: 240900}],
         [  :SNGRE_857_08H   ,"03/07/2022", {muestras: 3180235, rezagadas: 240918}],
         [  :SNGRE_858_08H   ,"04/07/2022", {muestras: 3180851, rezagadas: 240992}],
-        [  :SNGRE_859_08H   ,"05/07/2022", {muestras: 3186135, rezagadas: 241125}]
+        [  :SNGRE_859_08H   ,"05/07/2022", {muestras: 3186135, rezagadas: 241125}],
+        [  :SNGRE_860_08H   ,"06/07/2022", {muestras: 3189808, rezagadas: 241393}]
       ]
       .reverse
       .seleccionable
@@ -3785,7 +3786,7 @@ class Criterios
         [  :_SIN_INPORME_   ,"03/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"04/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"05/07/2022", {probables: 10312, total: 35747}],
-        [  :_SIN_INPORME_   ,"05/07/2022", {probables: 10312, total: 35748}]
+        [  :_SIN_INPORME_   ,"06/07/2022", {probables: 10312, total: 35748}]
       ]
       .reverse
       .seleccionable
