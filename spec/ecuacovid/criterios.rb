@@ -851,6 +851,7 @@ class Criterios
         [  :SNGRE_857_08H   ,"03/07/2022", {casos: 913798, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_858_08H   ,"04/07/2022", {casos: 913939, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_859_08H   ,"05/07/2022", {casos: 915679, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_861_08H   ,"07/07/2022", {casos: 918479, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_860_08H   ,"06/07/2022", {casos: 916893, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
@@ -860,6 +861,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"07/07/2022", { muertes: 25436, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"06/07/2022", { muertes: 25436, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"05/07/2022", { muertes: 25435, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"04/07/2022", { muertes: 25435, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3782,11 +3784,12 @@ class Criterios
         [  :_SIN_INPORME_   ,"29/06/2022", {probables: 10292, total: 35725}],
         [  :_SIN_INPORME_   ,"30/06/2022", {probables: 10306, total: 35741}],
         [  :_SIN_INPORME_   ,"01/07/2022", {probables: 10310, total: 35745}],
-        [  :_SIN_INPORME_   ,"02/07/2022", {probables: 10310, total: 35745}],
+        [  :_SIN_INPORME_   ,"02/07/2022", {probables: 10310, total: 35745}].
         [  :_SIN_INPORME_   ,"03/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"04/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"05/07/2022", {probables: 10312, total: 35747}],
-        [  :_SIN_INPORME_   ,"06/07/2022", {probables: 10312, total: 35748}]
+        [  :_SIN_INPORME_   ,"06/07/2022", {probables: 10312, total: 35748}],
+        [  :_SIN_INPORME_   ,"07/07/2022", {probables: 10313, total: 35749}]
       ]
       .reverse
       .seleccionable
@@ -3822,12 +3825,13 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3169236,    1158286,           241393,    916893,     2010950,    449540,             467353]
+      [      3173993,    1160194,           241715,    918479,     2013799,    450203,             468276]
     ]
 
     [
       [muertes_total, confirmadas,      probables];
-      [        35748,       25436,          10312]
+      [        35749,       25436,          10313]
+
     ]
 
     [
@@ -3857,13 +3861,13 @@ class Criterios
       [ 17,  0,   12,   2 ]
       [  5,  0,   55,   3 ]
 
-      [ 24,  0,  177,  43 ]
-      [  0,  0,    4,   0 ]
-      [ 33,  0,   36,  12 ]
+      [ 23,  0,  204,  47 ]
+      [ 25,  0,    4,   1 ]
+      [ 38,  1,   42,  16 ]
         
-      [  8,  0,  115,   9 ]
+      [ 12,  0,  117,  14 ]
       [ 20,  0,   10,   2 ]
-      [ 14,  0,   70,  10 ]
+      [ 14,  0,   72,  10 ]
     ]                        
   ]
 NACIONAL
