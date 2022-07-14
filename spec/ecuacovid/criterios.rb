@@ -851,8 +851,8 @@ class Criterios
         [  :SNGRE_857_08H   ,"03/07/2022", {casos: 913798, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_858_08H   ,"04/07/2022", {casos: 913939, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_859_08H   ,"05/07/2022", {casos: 915679, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_861_08H   ,"07/07/2022", {casos: 918479, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_860_08H   ,"06/07/2022", {casos: 916893, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_860_08H   ,"06/07/2022", {casos: 916893, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_861_08H   ,"07/07/2022", {casos: 918479, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -2947,7 +2947,8 @@ class Criterios
         [  :SNGRE_857_08H   ,"03/07/2022", {muestras: 3180235, rezagadas: 240918}],
         [  :SNGRE_858_08H   ,"04/07/2022", {muestras: 3180851, rezagadas: 240992}],
         [  :SNGRE_859_08H   ,"05/07/2022", {muestras: 3186135, rezagadas: 241125}],
-        [  :SNGRE_860_08H   ,"06/07/2022", {muestras: 3189808, rezagadas: 241393}]
+        [  :SNGRE_860_08H   ,"06/07/2022", {muestras: 3189808, rezagadas: 241393}],
+        [  :SNGRE_861_08H   ,"07/07/2022", {muestras: 3194565, rezagadas: 241715}]
       ]
       .reverse
       .seleccionable
@@ -3784,7 +3785,7 @@ class Criterios
         [  :_SIN_INPORME_   ,"29/06/2022", {probables: 10292, total: 35725}],
         [  :_SIN_INPORME_   ,"30/06/2022", {probables: 10306, total: 35741}],
         [  :_SIN_INPORME_   ,"01/07/2022", {probables: 10310, total: 35745}],
-        [  :_SIN_INPORME_   ,"02/07/2022", {probables: 10310, total: 35745}].
+        [  :_SIN_INPORME_   ,"02/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"03/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"04/07/2022", {probables: 10310, total: 35745}],
         [  :_SIN_INPORME_   ,"05/07/2022", {probables: 10312, total: 35747}],
@@ -3831,7 +3832,6 @@ class Criterios
     [
       [muertes_total, confirmadas,      probables];
       [        35749,       25436,          10313]
-
     ]
 
     [
