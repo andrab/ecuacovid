@@ -858,7 +858,8 @@ class Criterios
         [  :SNGRE_864_08H   ,"10/07/2022", {casos: 922166, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_865_08H   ,"11/07/2022", {casos: 922398, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_866_08H   ,"12/07/2022", {casos: 924884, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_867_08H   ,"13/07/2022", {casos: 927700, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_867_08H   ,"13/07/2022", {casos: 927700, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_868_08H   ,"14/07/2022", {casos: 930115, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -867,6 +868,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"14/07/2022", { muertes: 25441, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"13/07/2022", { muertes: 25441, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"12/07/2022", { muertes: 25439, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"11/07/2022", { muertes: 25438, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3814,7 +3816,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"10/07/2022", {probables: 10317, total: 35755}],
         [  :_SIN_INPORME_   ,"11/07/2022", {probables: 10317, total: 35755}],
         [  :_SIN_INPORME_   ,"12/07/2022", {probables: 10324, total: 35763}],
-        [  :_SIN_INPORME_   ,"13/07/2022", {probables: 10328, total: 35769}]
+        [  :_SIN_INPORME_   ,"13/07/2022", {probables: 10328, total: 35769}],
+        [  :_SIN_INPORME_   ,"14/07/2022", {probables: 10328, total: 35769}]
       ]
       .reverse
       .seleccionable
@@ -3850,7 +3853,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3199580,    1170527,           242827,    927700,     2029053,    454125,             473575]
+      [      3206689,    1173216,           243101,    930115,     2033473,    455186,             474929]
     ]
 
     [
@@ -3881,16 +3884,16 @@ class Criterios
         camas_ocupadas
       ];
       
-      [ 10,  2,  495,  50 ]
-      [ 17,  0,   12,   2 ]
-      [ 12,  0,   51,   6 ]
+      [ 10,  2,  496,  48 ]
+      [  8,  0,   12,   1 ]
+      [ 10,  0,   50,   5 ]
 
-      [ 41,  1,  182,  75 ]
+      [ 36,  1,  200,  71 ]
       [ 25,  0,    4,   1 ]
-      [ 56,  2,   39,  22 ]
+      [ 59,  2,   41,  24 ]
         
-      [ 12,  0,  141,  17 ]
-      [  0,  0,    8,   0 ]
+      [ 11,  0,  141,  16 ]
+      [ 20,  0,   10,   2 ]
       [ 10,  0,   73,   7 ]
     ]                        
   ]
