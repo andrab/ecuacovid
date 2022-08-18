@@ -892,6 +892,7 @@ class Criterios
         [  :SNGRE_898_08H   ,"13/08/2022", {casos: 983480, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_899_08H   ,"14/08/2022", {casos: 983541, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_890_08H   ,"15/08/2022", {casos: 983615, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_891_08H   ,"16/08/2022", {casos: 986169, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -900,6 +901,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"16/08/2022", { muertes: 25478, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"15/08/2022", { muertes: 25478, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"14/08/2022", { muertes: 25478, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"13/08/2022", { muertes: 25478, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3933,7 +3935,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"12/08/2022", {probables: 10333, total: 35811}],
         [  :_SIN_INPORME_   ,"13/08/2022", {probables: 10333, total: 35811}],
         [  :_SIN_INPORME_   ,"14/08/2022", {probables: 10333, total: 35811}],
-        [  :_SIN_INPORME_   ,"15/08/2022", {probables: 10333, total: 35811}]
+        [  :_SIN_INPORME_   ,"15/08/2022", {probables: 10333, total: 35811}],
+        [  :_SIN_INPORME_   ,"16/08/2022", {probables: 10333, total: 35811}]
       ]
       .reverse
       .seleccionable
@@ -3969,7 +3972,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3319404,    1230889,           247274,    983615,     2088515,    477635,             505980]
+      [      3325922,    1233444,           247275,    986169,     2092478,    478612,             507557]
     ]
 
     [
@@ -4000,17 +4003,17 @@ class Criterios
         camas_ocupadas
       ];
       
-      [ 18,  4,  526,  94 ]
+      [ 18,  7,  560, 101 ]
       [ 42,  0,   12,   5 ]
-      [ 40,  0,   57,  23 ]
+      [ 26,  0,   54,  14 ]
 
-      [ 40,  0,  248, 100 ]
+      [ 50,  1,  240, 121 ]
       [ 20,  0,    5,   1 ]
-      [ 61,  3,   57,  35 ]
+      [ 55,  1,   56,  31 ]
         
-      [ 21,  0,  127,  27 ]
+      [ 19,  0,  136,  26 ]
       [  0,  0,    8,   0 ]
-      [ 10,  0,   69,   7 ]
+      [ 12,  0,   69,   8 ]
     ]                        
   ]
 NACIONAL
