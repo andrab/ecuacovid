@@ -890,7 +890,7 @@ class Criterios
         [  :SNGRE_896_08H   ,"11/08/2022", {casos: 982926, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_897_08H   ,"12/08/2022", {casos: 983380, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_898_08H   ,"13/08/2022", {casos: 983480, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_899_08H   ,"14/08/2022", {casos: 983541, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_899_08H   ,"14/08/2022", {casos: 983541, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -3050,7 +3050,18 @@ class Criterios
         [  :SNGRE_884_08H   ,"30/07/2022", {muestras: 3312226, rezagadas: 246589}],
         [  :SNGRE_885_08H   ,"31/07/2022", {muestras: 3315283, rezagadas: 246687}],
         [  :SNGRE_886_08H   ,"01/08/2022", {muestras: 3317510, rezagadas: 246982}],
-        [  :SNGRE_887_08H   ,"02/08/2022", {muestras: 3320453, rezagadas: 247274}]
+        [  :SNGRE_887_08H   ,"02/08/2022", {muestras: 3320453, rezagadas: 247274}],
+        [  :SNGRE_888_08H   ,"03/08/2022", {muestras: 3327590, rezagadas: 247274}],
+        [  :SNGRE_889_08H   ,"04/08/2022", {muestras: 3329487, rezagadas: 247274}],
+        [  :SNGRE_890_08H   ,"05/08/2022", {muestras: 3331273, rezagadas: 247274}],
+        [  :SNGRE_891_08H   ,"06/08/2022", {muestras: 3332727, rezagadas: 247274}],
+        [  :SNGRE_892_08H   ,"07/08/2022", {muestras: 3333103, rezagadas: 247274}],
+        [  :SNGRE_893_08H   ,"08/08/2022", {muestras: 3333514, rezagadas: 247274}],
+        [  :SNGRE_894_08H   ,"09/08/2022", {muestras: 3335487, rezagadas: 247274}],
+        [  :SNGRE_895_08H   ,"10/08/2022", {muestras: 3336998, rezagadas: 247274}],
+        [  :SNGRE_896_08H   ,"11/08/2022", {muestras: 3338236, rezagadas: 247274}],
+        [  :SNGRE_897_08H   ,"12/08/2022", {muestras: 3339316, rezagadas: 247274}],
+        [  :SNGRE_898_08H   ,"13/08/2022", {muestras: 3339580, rezagadas: 247274}]
       ]
       .reverse
       .seleccionable
