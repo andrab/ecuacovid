@@ -888,7 +888,7 @@ class Criterios
         [  :SNGRE_894_08H   ,"09/08/2022", {casos: 981863, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_895_08H   ,"10/08/2022", {casos: 982446, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_896_08H   ,"11/08/2022", {casos: 982926, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_896_08H   ,"12/08/2022", {casos: 983380, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_897_08H   ,"12/08/2022", {casos: 983380, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -3055,7 +3055,8 @@ class Criterios
         [  :SNGRE_893_08H   ,"08/08/2022", {muestras: 3333514, rezagadas: 247274}],
         [  :SNGRE_894_08H   ,"09/08/2022", {muestras: 3335487, rezagadas: 247274}],
         [  :SNGRE_895_08H   ,"10/08/2022", {muestras: 3336998, rezagadas: 247274}],
-        [  :SNGRE_896_08H   ,"11/08/2022", {muestras: 3338236, rezagadas: 247274}]
+        [  :SNGRE_896_08H   ,"11/08/2022", {muestras: 3338236, rezagadas: 247274}],
+        [  :SNGRE_897_08H   ,"12/08/2022", {muestras: 3339316, rezagadas: 247274}]
       ]
       .reverse
       .seleccionable
