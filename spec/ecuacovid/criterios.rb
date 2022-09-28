@@ -903,7 +903,8 @@ class Criterios
         [  :SNGRE_909_08H   ,"24/08/2022", {casos: 992838, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_910_08H   ,"25/08/2022", {casos: 993858, cantones_ingresados: 221, sin_ingresar:   0}],
         [  :SNGRE_911_08H   ,"26/08/2022", {casos: 994732, cantones_ingresados: 221, sin_ingresar:   0}],
-        [  :SNGRE_912_08H   ,"27/08/2022", {casos: 995111, cantones_ingresados: 221, sin_ingresar:   0}]
+        [  :SNGRE_912_08H   ,"27/08/2022", {casos: 995111, cantones_ingresados: 221, sin_ingresar:   0}],
+        [  :SNGRE_913_08H   ,"28/08/2022", {casos: 995147, cantones_ingresados: 221, sin_ingresar:   0}]
       ]
       .reverse
       .seleccionable
@@ -912,6 +913,7 @@ class Criterios
 
     def muertes
       [#"──INFORME  SNGRE───┬───FECHA────┬────────────────────────────ACEPTACION──────────────────────────"
+        [  :_SIN_INFORME_   ,"28/08/2022", { muertes: 25499, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"27/08/2022", { muertes: 25499, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"26/08/2022", { muertes: 25498, provincias_ingresadas: 24, sin_ingresar:  0}],
         [  :_SIN_INFORME_   ,"25/08/2022", { muertes: 25497, provincias_ingresadas: 24, sin_ingresar:  0}],
@@ -3994,7 +3996,8 @@ class Criterios
         [  :_SIN_INPORME_   ,"24/08/2022", {probables: 10333, total: 35824}],
         [  :_SIN_INPORME_   ,"25/08/2022", {probables: 10333, total: 35830}],
         [  :_SIN_INPORME_   ,"26/08/2022", {probables: 10333, total: 35831}],
-        [  :_SIN_INPORME_   ,"27/08/2022", {probables: 10333, total: 35832}]
+        [  :_SIN_INPORME_   ,"27/08/2022", {probables: 10333, total: 35832}],
+        [  :_SIN_INPORME_   ,"28/08/2022", {probables: 10333, total: 35832}]
       ]
       .reverse
       .seleccionable
@@ -4030,7 +4033,7 @@ class Criterios
   [
     [
       [     muestras,      total,  casos_probables, positivas, descartados,    hombre,              mujer];
-      [      3350344,    1242390,           247279,    995111,     2107954,    482226,             512885]
+      [      3350525,    1242426,           247279,    995147,     2108099,    482238,             512909]
     ]
 
     [
