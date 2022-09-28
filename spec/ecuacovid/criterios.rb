@@ -3119,7 +3119,21 @@ class Criterios
         [  :SNGRE_905_08H   ,"20/08/2022", {muestras: 3356231, rezagadas: 247274}],
         [  :SNGRE_906_08H   ,"21/08/2022", {muestras: 3357426, rezagadas: 247274}],
         [  :SNGRE_907_08H   ,"22/08/2022", {muestras: 3358138, rezagadas: 247274}],
-        [  :SNGRE_908_08H   ,"23/08/2022", {muestras: 3361364, rezagadas: 247274}]
+        [  :SNGRE_908_08H   ,"23/08/2022", {muestras: 3361364, rezagadas: 247274}],
+        [  :SNGRE_909_08H   ,"24/08/2022", {muestras: 3364102, rezagadas: 247274}],
+        [  :SNGRE_910_08H   ,"25/08/2022", {muestras: 3366953, rezagadas: 247277}],
+        [  :SNGRE_911_08H   ,"26/08/2022", {muestras: 3369647, rezagadas: 247279}],
+        [  :SNGRE_912_08H   ,"27/08/2022", {muestras: 3370916, rezagadas: 247279}],
+        [  :SNGRE_913_08H   ,"28/08/2022", {muestras: 3371097, rezagadas: 247279}],
+        [  :SNGRE_914_08H   ,"29/08/2022", {muestras: 3372640, rezagadas: 247279}],
+        [  :SNGRE_915_08H   ,"30/08/2022", {muestras: 3374377, rezagadas: 247279}],
+        [  :SNGRE_916_08H   ,"31/08/2022", {muestras: 3376273, rezagadas: 247279}],
+        [  :SNGRE_917_08H   ,"01/09/2022", {muestras: 3377826, rezagadas: 247280}],
+        [  :SNGRE_918_08H   ,"02/09/2022", {muestras: 3379465, rezagadas: 247280}],
+        [  :SNGRE_919_08H   ,"03/09/2022", {muestras: 3380844, rezagadas: 247280}],
+        [  :SNGRE_920_08H   ,"04/09/2022", {muestras: 3381180, rezagadas: 247280}],
+        [  :SNGRE_921_08H   ,"05/09/2022", {muestras: 3381510, rezagadas: 247280}],
+        [  :SNGRE_922_08H   ,"06/09/2022", {muestras: 3382809, rezagadas: 247280}]
       ]
       .reverse
       .seleccionable
